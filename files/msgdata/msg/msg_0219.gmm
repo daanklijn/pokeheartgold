@@ -27,7 +27,7 @@
 	</row>
 	<row id="msg_0219_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry to keep you waiting!\rWelcome to the world of Pokémon!\rMy name is Professor Oak.\rBut everyone calls me the\nPokémon Professor.\rBefore we go any further, I’d like to\ntell you a few things you should\fknow about this world!\r</language>
+		<language name="English">Sorry for at du måtte vente!\rVelkommen til Pokémon-verdenen!\rMitt navn er Professor Oak.\rMen alle kaller meg\nPokémon-professoren.\rFør vi går videre, vil jeg gjerne\ngi deg noen viktige\fopplysninger om denne verdenen!\r</language>
 	</row>
 	<row id="msg_0219_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
