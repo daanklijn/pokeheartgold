@@ -3,21 +3,26 @@
 	<row id="msg_0054_D15R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Only those who reach the top will\nreceive a wonderful move.</language>
+		<language name="Norwegian">Bare de som når toppen vil\nmotta en fantastisk bevegelse.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sprout Tower was built long ago\nas a place for Pokémon training.</language>
+		<language name="Norwegian">Sprout Tower ble bygd for lenge\nsiden som et sted for Pokémon-trening.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A BELLSPROUT over 100 feet tall...\rPeople say that it became the middle\npillar here.</language>
+		<language name="Norwegian">En BELLSPROUT over 30 meter høy...\rFolk sier at den ble midtsøylen\nher.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">See the pillar shaking?\rPeople are training upstairs.</language>
+		<language name="Norwegian">Ser du søylen som rister?\rFolk trener oppe på loftet.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Pokémon statue...\rIt looks very distinguished.</language>
+		<language name="Norwegian">En Pokémon-statue...\rDen ser veldig distingvert ut.</language>
 	</row>
 </body>

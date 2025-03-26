@@ -3,42 +3,52 @@
 	<row id="msg_0006_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose a Pokémon.</language>
+		<language name="Norwegian">Velg en Pokémon.</language>
 	</row>
 	<row id="msg_0006_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Use on which Pokémon?</language>
+		<language name="Norwegian">Bruk på hvilken Pokémon?</language>
 	</row>
 	<row id="msg_0006_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 5, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 5, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 8, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 8, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
@@ -63,134 +73,167 @@
 	<row id="msg_0006_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PP</language>
+		<language name="Norwegian">PP</language>
 	</row>
 	<row id="msg_0006_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SHIFT</language>
+		<language name="Norwegian">BYTT</language>
 	</row>
 	<row id="msg_0006_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">♂</language>
+		<language name="Norwegian">♂</language>
 	</row>
 	<row id="msg_0006_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">♀</language>
+		<language name="Norwegian">♀</language>
 	</row>
 	<row id="msg_0006_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SUMMARY</language>
+		<language name="Norwegian">SAMMENDRAG</language>
 	</row>
 	<row id="msg_0006_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CHECK MOVES</language>
+		<language name="Norwegian">SJEKK ANGREP</language>
 	</row>
 	<row id="msg_0006_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No item held</language>
+		<language name="Norwegian">Ingen gjenstand holdt</language>
 	</row>
 	<row id="msg_0006_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lv.</language>
+		<language name="Norwegian">Nv.</language>
 	</row>
 	<row id="msg_0006_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NEXT LV</language>
+		<language name="Norwegian">NESTE NV</language>
 	</row>
 	<row id="msg_0006_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 55, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 55, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 5, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 5, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">HP</language>
+		<language name="Norwegian">HP</language>
 	</row>
 	<row id="msg_0006_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">/</language>
+		<language name="Norwegian">/</language>
 	</row>
 	<row id="msg_0006_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ATTACK</language>
+		<language name="Norwegian">ANGREP</language>
 	</row>
 	<row id="msg_0006_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DEFENSE</language>
+		<language name="Norwegian">FORSVAR</language>
 	</row>
 	<row id="msg_0006_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SP. ATK</language>
+		<language name="Norwegian">SP. ANG</language>
 	</row>
 	<row id="msg_0006_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SP. DEF</language>
+		<language name="Norwegian">SP. FOR</language>
 	</row>
 	<row id="msg_0006_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SPEED</language>
+		<language name="Norwegian">FART</language>
 	</row>
 	<row id="msg_0006_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 6, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 6, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PP</language>
+		<language name="Norwegian">PP</language>
 	</row>
 	<row id="msg_0006_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">/</language>
+		<language name="Norwegian">/</language>
 	</row>
 	<row id="msg_0006_00047" index="47">
 		<attribute name="window_context_name">garbage</attribute>
@@ -200,38 +243,47 @@
 	<row id="msg_0006_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">POWER</language>
+		<language name="Norwegian">STYRKE</language>
 	</row>
 	<row id="msg_0006_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">---</language>
+		<language name="Norwegian">---</language>
 	</row>
 	<row id="msg_0006_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ACCURACY</language>
+		<language name="Norwegian">PRESISJON</language>
 	</row>
 	<row id="msg_0006_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CATEGORY</language>
+		<language name="Norwegian">KATEGORI</language>
 	</row>
 	<row id="msg_0006_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PHYSICAL</language>
+		<language name="Norwegian">FYSISK</language>
 	</row>
 	<row id="msg_0006_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">STATUS</language>
+		<language name="Norwegian">STATUS</language>
 	</row>
 	<row id="msg_0006_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SPECIAL</language>
+		<language name="Norwegian">SPESIAL</language>
 	</row>
 	<row id="msg_0006_00057" index="57">
 		<attribute name="window_context_name">garbage</attribute>
@@ -241,153 +293,191 @@
 	<row id="msg_0006_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FORGET</language>
+		<language name="Norwegian">GLEM</language>
 	</row>
 	<row id="msg_0006_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
+		<language name="Norwegian">AVBRYT</language>
 	</row>
 	<row id="msg_0006_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HM moves can’t be\nforgotten now.</language>
+		<language name="English">HM moves can't be\nforgotten now.</language>
+		<language name="Norwegian">HM-moves kan ikke\nforvises nå!</language>
 	</row>
 	<row id="msg_0006_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 6, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 6, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 6, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 6, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 6, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 6, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 6, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 6, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 6, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 6, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0006_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} is already\nin battle!</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} er allerede\ni kamp!</language>
 	</row>
 	<row id="msg_0006_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} has no energy\nleft to battle!</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} har ingen energi\ngjenst til kamp!</language>
 	</row>
 	<row id="msg_0006_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} can’t be switched\nout!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} can't be switched\nout!</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} kan ikke byttes\nut!</language>
 	</row>
 	<row id="msg_0006_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An Egg can’t battle!</language>
+		<language name="English">An Egg can't battle!</language>
+		<language name="Norwegian">En egg kan ikke kjempe!</language>
 	</row>
 	<row id="msg_0006_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t switch {STRVAR_1 3, 0, 0}’s\nPokémon with one of yours!</language>
+		<language name="English">You can't switch {STRVAR_1 3, 0, 0}'s\nPokémon with one of yours!</language>
+		<language name="Norwegian">Du kan ikke bytte {STRVAR_1 3, 0, 0}'s\nPokémon med en av dine!</language>
 	</row>
 	<row id="msg_0006_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It won’t have any effect.</language>
+		<language name="English">It won't have any effect.</language>
+		<language name="Norwegian">Det vil ikke ha noen effekt.</language>
 	</row>
 	<row id="msg_0006_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s HP was restored\nby {STRVAR_1 52, 1, 0} point(s).</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was cured of its\npoisoning.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} ble helbredt for\nsyking!</language>
 	</row>
 	<row id="msg_0006_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was cured of its\npoisoning.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was cured of\nparalysis.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} ble helbredt for\nparalisering!</language>
 	</row>
 	<row id="msg_0006_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} was cured of\nparalysis.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} ble helbredt for\nparalisering!</language>
 	</row>
 	<row id="msg_0006_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s burn was healed.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was cured of\nparalysis.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} ble helbredt for\nparalisering!</language>
 	</row>
 	<row id="msg_0006_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was thawed out.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} was cured of\nparalysis.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} ble helbredt for\nparalisering!</language>
 	</row>
 	<row id="msg_0006_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PP was restored.</language>
+		<language name="Norwegian">PP ble gjenopprettet.</language>
 	</row>
 	<row id="msg_0006_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} recovered from\nfainting!</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} ble helbredt fra\nforstyrrelse!</language>
 	</row>
 	<row id="msg_0006_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} became healthy.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} ble helbredt!</language>
 	</row>
 	<row id="msg_0006_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} snapped out of its\nconfusion.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} tok seg ut av\nforvirring!</language>
 	</row>
 	<row id="msg_0006_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} got over its\ninfatuation.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} tok seg ut av\ninfasjon!</language>
 	</row>
 	<row id="msg_0006_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} woke up.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} våknet!</language>
 	</row>
 	<row id="msg_0006_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} has already been\nselected.</language>
+		<language name="Norwegian">{STRVAR_1 1, 0, 0} er allerede\nvalgt!</language>
 	</row>
 	<row id="msg_0006_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Restore which move?</language>
+		<language name="Norwegian">Hvilken move skal gjenopprettes?</language>
 	</row>
 	<row id="msg_0006_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0}’s effect prevents\nthe item’s use on {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} effect prevents\nthe item's use on {STRVAR_1 1, 0, 0}!</language>
+		<language name="Norwegian">{STRVAR_1 6, 1, 0} effekt hindrer\nbruk av gjenstanden på {STRVAR_1 1, 0, 0}!</language>
 	</row>
 </body>

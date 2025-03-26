@@ -3,9 +3,11 @@
 	<row id="msg_0048_D02FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When the sun goes down, CLEFAIRY come\nout to play.</language>
+		<language name="Norwegian">Når solen går ned, kommer CLEFAIRY\nut for å leke.</language>
 	</row>
 	<row id="msg_0048_D02FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You must be tired from climbing.\nHow about stocking up on supplies? {YESNO 0}</language>
+		<language name="Norwegian">Du må være sliten etter klatringen.\nHva med å fylle opp med forsyninger? {YESNO 0}</language>
 	</row>
 </body>

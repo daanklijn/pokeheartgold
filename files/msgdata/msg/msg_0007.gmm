@@ -3,13 +3,16 @@
 	<row id="msg_0007_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Delete all saved data?</language>
+		<language name="Norwegian">Slett alle lagrede data?</language>
 	</row>
 	<row id="msg_0007_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Once data has been deleted,\nthere is no way to recover it.\rFurthermore, Pokéwalker registered\ndata will also be erased.\rDelete the saved data anyway?</language>
+		<language name="Norwegian">Når data er slettet,\nfinnes det ingen måte å gjenopprette det.\rI tillegg vil registrerte Pokéwalker-\ndata også bli slettet.\rSlett de lagrede dataene likevel?</language>
 	</row>
 	<row id="msg_0007_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deleting all data.\nDon’t turn off the power.</language>
+		<language name="English">Deleting all data.\nDon't turn off the power.</language>
+		<language name="Norwegian">Sletter alle data.\nIkke slå av strømmen.</language>
 	</row>
 </body>

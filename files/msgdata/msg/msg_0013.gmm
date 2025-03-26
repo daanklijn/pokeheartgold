@@ -3,58 +3,72 @@
 	<row id="msg_0013_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BATTLE VIDEOS</language>
+		<language name="Norwegian">KAMPVIDEOER</language>
 	</row>
 	<row id="msg_0013_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FRONTIER RECORD</language>
+		<language name="Norwegian">FRONTIER-REKORD</language>
 	</row>
 	<row id="msg_0013_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
+		<language name="Norwegian">AVBRYT</language>
 	</row>
 	<row id="msg_0013_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EXIT</language>
+		<language name="Norwegian">AVSLUTT</language>
 	</row>
 	<row id="msg_0013_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MY VIDEO</language>
+		<language name="Norwegian">MIN VIDEO</language>
 	</row>
 	<row id="msg_0013_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OTHER VIDEOS</language>
+		<language name="Norwegian">ANDRE VIDEOER</language>
 	</row>
 	<row id="msg_0013_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DELETE VIDEOS</language>
+		<language name="Norwegian">SLETT VIDEOER</language>
 	</row>
 	<row id="msg_0013_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S VIDEO</language>
+		<language name="English">{STRVAR_1 3, 0, 0}'S VIDEO</language>
+		<language name="Norwegian">{STRVAR_1 3, 0, 0}S VIDEO</language>
 	</row>
 	<row id="msg_0013_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EMPTY</language>
+		<language name="Norwegian">TOM</language>
 	</row>
 	<row id="msg_0013_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 53, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 53, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle</language>
+		<language name="Norwegian">Kamp</language>
 	</row>
 	<row id="msg_0013_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}</language>
+		<language name="Norwegian">Video nr.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}</language>
 	</row>
 	<row id="msg_0013_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆</language>
+		<language name="Norwegian">Video nr.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆</language>
 	</row>
 	<row id="msg_0013_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S PROFILE</language>
+		<language name="English">{STRVAR_1 3, 0, 0}'S PROFILE</language>
+		<language name="Norwegian">{STRVAR_1 3, 0, 0}S PROFIL</language>
 	</row>
 	<row id="msg_0013_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
@@ -64,14 +78,17 @@
 	<row id="msg_0013_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Birth month: {STRVAR_34 16, 0, 0}</language>
+		<language name="Norwegian">Fødselsmåned: {STRVAR_34 16, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Location</language>
+		<language name="Norwegian">Sted</language>
 	</row>
 	<row id="msg_0013_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer’s quote</language>
+		<language name="English">Trainer's quote</language>
+		<language name="Norwegian">Trenerens sitat</language>
 	</row>
 	<row id="msg_0013_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
@@ -91,18 +108,22 @@
 	<row id="msg_0013_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Unregistered</language>
+		<language name="Norwegian">Uregistrert</language>
 	</row>
 	<row id="msg_0013_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 36, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 36, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 37, 0, 0}</language>
+		<language name="Norwegian">{STRVAR_1 37, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 28, 0, 0} {STRVAR_1 28, 1, 0}</language>
+		<language name="Norwegian">{STRVAR_1 28, 0, 0} {STRVAR_1 28, 1, 0}</language>
 	</row>
 	<row id="msg_0013_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
@@ -121,31 +142,38 @@
 	</row>
 	<row id="msg_0013_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S FAVORITE PC BOX</language>
+		<language name="English">{STRVAR_1 3, 0, 0}'S FAVORITE PC BOX</language>
+		<language name="Norwegian">{STRVAR_1 3, 0, 0}S FAVORITT PC-BOKS</language>
 	</row>
 	<row id="msg_0013_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S COOL PC BOX</language>
+		<language name="English">{STRVAR_1 3, 0, 0}'S COOL PC BOX</language>
+		<language name="Norwegian">{STRVAR_1 3, 0, 0}S KULE PC-BOKS</language>
 	</row>
 	<row id="msg_0013_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S CUTE PC BOX</language>
+		<language name="English">{STRVAR_1 3, 0, 0}'S CUTE PC BOX</language>
+		<language name="Norwegian">{STRVAR_1 3, 0, 0}S SØTE PC-BOKS</language>
 	</row>
 	<row id="msg_0013_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S SUGGESTED PC BOX</language>
+		<language name="English">{STRVAR_1 3, 0, 0}'S SUGGESTED PC BOX</language>
+		<language name="Norwegian">{STRVAR_1 3, 0, 0}S FORESLÅTTE PC-BOKS</language>
 	</row>
 	<row id="msg_0013_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S FUN PC BOX</language>
+		<language name="English">{STRVAR_1 3, 0, 0}'S FUN PC BOX</language>
+		<language name="Norwegian">{STRVAR_1 3, 0, 0}S MORSOMME PC-BOKS</language>
 	</row>
 	<row id="msg_0013_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S SELECT PC BOX</language>
+		<language name="English">{STRVAR_1 3, 0, 0}'S SELECT PC BOX</language>
+		<language name="Norwegian">{STRVAR_1 3, 0, 0}S VALGTE PC-BOKS</language>
 	</row>
 	<row id="msg_0013_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Next\nPokémon</language>
+		<language name="Norwegian">Neste\nPokémon</language>
 	</row>
 	<row id="msg_0013_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
@@ -170,14 +198,17 @@
 	<row id="msg_0013_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DELETE MY VIDEO</language>
+		<language name="Norwegian">SLETT MIN VIDEO</language>
 	</row>
 	<row id="msg_0013_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DELETE OTHER VIDEOS</language>
+		<language name="Norwegian">SLETT ANDRE VIDEOER</language>
 	</row>
 	<row id="msg_0013_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EMPTY</language>
+		<language name="Norwegian">TOM</language>
 	</row>
 	<row id="msg_0013_00042" index="42">
 		<attribute name="window_context_name">garbage</attribute>
@@ -212,26 +243,32 @@
 	<row id="msg_0013_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH BY FACILITY</language>
+		<language name="Norwegian">SØK ETTER ANLEGG</language>
 	</row>
 	<row id="msg_0013_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH BY POKéMON</language>
+		<language name="Norwegian">SØK ETTER POKéMON</language>
 	</row>
 	<row id="msg_0013_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH YOUR LOCATION</language>
+		<language name="Norwegian">SØK ETTER DITT STED</language>
 	</row>
 	<row id="msg_0013_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEND PHOTO</language>
+		<language name="Norwegian">SEND BILDE</language>
 	</row>
 	<row id="msg_0013_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VIEW PHOTOS</language>
+		<language name="Norwegian">SE BILDER</language>
 	</row>
 	<row id="msg_0013_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEND</language>
+		<language name="Norwegian">SEND</language>
 	</row>
 	<row id="msg_0013_00054" index="54">
 		<attribute name="window_context_name">garbage</attribute>
@@ -337,11 +374,11 @@
 	</row>
 	<row id="msg_0013_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">THIS WEEK’S RANKINGS</language>
+		<language name="English">THIS WEEK'S RANKINGS</language>
 	</row>
 	<row id="msg_0013_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LAST WEEK’S RANKINGS</language>
+		<language name="English">LAST WEEK'S RANKINGS</language>
 	</row>
 	<row id="msg_0013_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
@@ -389,7 +426,7 @@
 	</row>
 	<row id="msg_0013_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LAST WEEK’S RESULTS!</language>
+		<language name="English">LAST WEEK'S RESULTS!</language>
 	</row>
 	<row id="msg_0013_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
@@ -426,7 +463,7 @@
 	</row>
 	<row id="msg_0013_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where would you like to save\n{STRVAR_1 3, 0, 0}’s Battle Video?</language>
+		<language name="English">Where would you like to save\n{STRVAR_1 3, 0, 0}'s Battle Video?</language>
 	</row>
 	<row id="msg_0013_00101" index="101">
 		<attribute name="window_context_name">garbage</attribute>
@@ -435,7 +472,7 @@
 	</row>
 	<row id="msg_0013_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it OK to delete {STRVAR_1 3, 0, 0}’s Battle\nVideo?</language>
+		<language name="English">Is it OK to delete {STRVAR_1 3, 0, 0}'s Battle\nVideo?</language>
 	</row>
 	<row id="msg_0013_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
@@ -491,7 +528,7 @@
 	</row>
 	<row id="msg_0013_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You haven’t set any search criteria.</language>
+		<language name="English">You haven't set any search criteria.</language>
 	</row>
 	<row id="msg_0013_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
@@ -536,7 +573,7 @@
 	</row>
 	<row id="msg_0013_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same Battle Video can’t be sent again.\nTouch the Touch Screen to continue.</language>
+		<language name="English">The same Battle Video can't be sent again.\nTouch the Touch Screen to continue.</language>
 	</row>
 	<row id="msg_0013_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
@@ -959,7 +996,7 @@
 	</row>
 	<row id="msg_0013_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with a\nplayer’s Pokémon. Data was not sent.</language>
+		<language name="English">There appears to be a problem with a\nplayer's Pokémon. Data was not sent.</language>
 	</row>
 	<row id="msg_0013_00232" index="232">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1135,7 +1172,7 @@
 	</row>
 	<row id="msg_0013_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An empty Box’s Data can’t be sent.</language>
+		<language name="English">An empty Box's Data can't be sent.</language>
 	</row>
 	<row id="msg_0013_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
@@ -1147,7 +1184,7 @@
 	</row>
 	<row id="msg_0013_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same Box Data can’t be sent.</language>
+		<language name="English">The same Box Data can't be sent.</language>
 	</row>
 	<row id="msg_0013_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
@@ -1159,11 +1196,11 @@
 	</row>
 	<row id="msg_0013_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same Battle Video can’t be saved again.\nTouch the Touch Screen to continue.</language>
+		<language name="English">The same Battle Video can't be saved again.\nTouch the Touch Screen to continue.</language>
 	</row>
 	<row id="msg_0013_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Saving...\nDon't turn off the power.</language>
 	</row>
 	<row id="msg_0013_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
@@ -1179,7 +1216,7 @@
 	</row>
 	<row id="msg_0013_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to delete {STRVAR_1 3, 0, 0}’s\nBattle Video?</language>
+		<language name="English">Do you want to delete {STRVAR_1 3, 0, 0}'s\nBattle Video?</language>
 	</row>
 	<row id="msg_0013_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
@@ -1187,7 +1224,7 @@
 	</row>
 	<row id="msg_0013_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deleting data...\nSaving... Don’t turn off the power.</language>
+		<language name="English">Deleting data...\nSaving... Don't turn off the power.</language>
 	</row>
 	<row id="msg_0013_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
@@ -1215,7 +1252,7 @@
 	</row>
 	<row id="msg_0013_00291" index="291">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same data can’t be sent again.\nTouch the Touch Screen to continue.</language>
+		<language name="English">The same data can't be sent again.\nTouch the Touch Screen to continue.</language>
 	</row>
 	<row id="msg_0013_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
@@ -1239,15 +1276,15 @@
 	</row>
 	<row id="msg_0013_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deleting data... Saving a lot of\ndata... Don’t turn off the power.</language>
+		<language name="English">Deleting data... Saving a lot of\ndata... Don't turn off the power.</language>
 	</row>
 	<row id="msg_0013_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving a lot of data...\nDon’t turn off the power.</language>
+		<language name="English">Saving a lot of data...\nDon't turn off the power.</language>
 	</row>
 	<row id="msg_0013_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Saving...\nDon't turn off the power.</language>
 	</row>
 	<row id="msg_0013_00300" index="300">
 		<attribute name="window_context_name">used</attribute>
