@@ -3,36 +3,29 @@
 	<row id="msg_0044_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">sleep</language>
-		<language name="Norwegian">søvn</language>
 	</row>
 	<row id="msg_0044_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">poison</language>
-		<language name="Norwegian">gift</language>
 	</row>
 	<row id="msg_0044_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">burn</language>
-		<language name="Norwegian">brann</language>
 	</row>
 	<row id="msg_0044_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">paralysis</language>
-		<language name="Norwegian">lammelse</language>
 	</row>
 	<row id="msg_0044_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">frozen</language>
-		<language name="Norwegian">frossen</language>
 	</row>
 	<row id="msg_0044_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">confusion</language>
-		<language name="Norwegian">forvirring</language>
 	</row>
 	<row id="msg_0044_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">infatuation</language>
-		<language name="Norwegian">forelsket</language>
 	</row>
 </body>

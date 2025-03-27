@@ -3,11 +3,9 @@
 	<row id="msg_0008_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The save data could not be\naccessed.\n\nPlease turn the power off and\nreinsert the DS Game Card.</language>
-		<language name="Norwegian">Lagrede data kunne ikke\nåpnes.\n\nVennligst slå av strømmen og\nsett inn DS-spillkortet på nytt.</language>
 	</row>
 	<row id="msg_0008_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The data could not be read.\n\nPlease turn off the power, then\nremove and reinsert the Game Boy\nAdvance Game Pak.</language>
-		<language name="Norwegian">Dataene kunne ikke leses.\n\nVennligst slå av strømmen,\nta ut og sett inn Game Boy\nAdvance-spillpakken på nytt.</language>
 	</row>
 </body>

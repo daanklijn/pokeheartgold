@@ -3,31 +3,25 @@
 	<row id="msg_0004_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PLAYER: {STRVAR_1 3, 0, 0}</language>
-		<language name="Norwegian">SPILLER: {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0004_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This document certifies that\nyou have made the great\nachievement of catching all\nthe Pokémon in Johto.</language>
-		<language name="Norwegian">Dette dokumentet bekrefter at\ndu har oppnådd den store\nbragden å fange alle\nPokémon i Johto.</language>
 	</row>
 	<row id="msg_0004_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This document certifies\nthat you have successfully\ncompleted your\nNational Pokédex.</language>
-		<language name="Norwegian">Dette dokumentet bekrefter\nat du har fullført\ndin nasjonale\nPokédex.</language>
 	</row>
 	<row id="msg_0004_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GAME FREAK</language>
-		<language name="Norwegian">GAME FREAK</language>
 	</row>
 	<row id="msg_0004_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{STRVAR_1 3, 0, 0} and {STRVAR_1 1, 1, 0}</language>
-		<language name="Norwegian">{ALN_CENTER}{STRVAR_1 3, 0, 0} og {STRVAR_1 1, 1, 0}</language>
 	</row>
 	<row id="msg_0004_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Fighting together, walking\n{ALN_CENTER}together. Forging a bond that\n{ALN_CENTER}cannot be broken and will go\n{ALN_CENTER}on continually into eternity.\n{ALN_CENTER}This bond is illuminated here.</language>
-		<language name="Norwegian">{ALN_CENTER}Kjemper sammen, går\n{ALN_CENTER}sammen. Smir et bånd som\n{ALN_CENTER}ikke kan brytes og vil vare\n{ALN_CENTER}evig inn i evigheten.\n{ALN_CENTER}Dette båndet lyser opp her.</language>
 	</row>
 </body>

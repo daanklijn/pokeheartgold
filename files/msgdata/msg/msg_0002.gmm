@@ -3,31 +3,25 @@
 	<row id="msg_0002_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Quit</language>
-		<language name="Norwegian">Avslutt</language>
 	</row>
 	<row id="msg_0002_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This Pokémon hides on the\nseafloor and watches the\nshore with eyes on its back.</language>
-		<language name="Norwegian">Denne Pokémon gjemmer seg på\nhavbunnen og overvåker\nstranden med øyne på ryggen.</language>
 	</row>
 	<row id="msg_0002_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This Pokémon knew no fear\nand flew as it pleased\nthrough the skies long ago.</language>
-		<language name="Norwegian">Denne Pokémon kjente ingen frykt\nog fløy som den ville\ngjennom himlene for lenge siden.</language>
 	</row>
 	<row id="msg_0002_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A ten-legged Pokémon that\nswims on the bottom of the\nsea and eats plankton.</language>
-		<language name="Norwegian">En ti-beint Pokémon som\nsvømmer på havbunnen og\neter plankton.</language>
 	</row>
 	<row id="msg_0002_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This Pokémon, with feathers\nof seven colors, flies through\nthe sky, according to legend.</language>
-		<language name="Norwegian">Denne Pokémon, med fjær\nav sju farger, flyr gjennom\nhimmelen, ifølge legenden.</language>
 	</row>
 	<row id="msg_0002_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are you sure you would like to quit?</language>
-		<language name="Norwegian">Er du sikker på at du vil avslutte?</language>
 	</row>
 </body>

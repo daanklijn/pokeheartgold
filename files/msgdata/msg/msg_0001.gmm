@@ -3,241 +3,193 @@
 	<row id="msg_0001_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
-		<language name="Norwegian">AVBRYT</language>
 	</row>
 	<row id="msg_0001_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}UNOWN Report</language>
-		<language name="Norwegian">{ALN_CENTER}UNOWN Rapport</language>
 	</row>
 	<row id="msg_0001_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}</language>
-		<language name="Norwegian">{STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0001_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER} Number of UNOWN</language>
-		<language name="Norwegian">{ALN_CENTER} Antall UNOWN</language>
 	</row>
 	<row id="msg_0001_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Current Kinds: {STRVAR_1 51, 0, 0}</language>
-		<language name="Norwegian">{ALN_CENTER}Nåværende Typer: {STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0001_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}</language>
-		<language name="Norwegian">{ALN_CENTER}{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}</language>
 	</row>
 	<row id="msg_0001_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Found a strange puzzle in the\nruins. Solved it, and suddenly a\nhole opened up in the ground\nand I dropped into the room\nbelow! Should have known that\nancient ruins would have\nsurprising tricks like that.</language>
-		<language name="Norwegian">Fant et merkelig puslespill i\nruinene. Løste det, og plutselig\nåpnet det seg et hull i bakken\nog jeg falt ned i rommet\nunder! Burde visst at\neldgamle ruiner ville ha\noverraskende triks som det.</language>
 	</row>
 	<row id="msg_0001_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There was a stone statue where I\nfell. The place might have been a\nreception hall. Then, suddenly,\nthe UNOWN appeared. That puzzle\nwas like a key somehow. It woke\nthe UNOWN up from their sleep.\nThese ruins have become difficult.</language>
-		<language name="Norwegian">Det var en steinstatue der jeg\nfalt. Stedet kan ha vært en\nmottakelseshall. Så, plutselig,\ndukket UNOWN opp. Det puslespillet\nvar som en nøkkel på en måte. Det\nvekket UNOWN fra søvnen.\nDisse ruinene har blitt vanskelige.</language>
 	</row>
 	<row id="msg_0001_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you turn on the radio in the\nruins, you can receive mysterious\nradio waves! It's proof that the\nUNOWN communicate with each\nother using radio waves!</language>
-		<language name="Norwegian">Hvis du slår på radioen i\nruinene, kan du motta mystiske\nradiobølger! Det er bevis på at\nUNOWN kommuniserer med hverandre\nved hjelp av radiobølger!</language>
+		<language name="English">If you turn on the radio in the\nruins, you can receive mysterious\nradio waves! It’s proof that the\nUNOWN communicate with each\nother using radio waves!</language>
 	</row>
 	<row id="msg_0001_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are as many UNOWN as there\nare letters in the alphabet.\nRight now, we're confirming the\nexistence of 26 kinds of UNOWN.\nDo you think you can find\nall 26 of them?</language>
-		<language name="Norwegian">Det er like mange UNOWN som det\ner bokstaver i alfabetet.\nAkkurat nå bekrefter vi\neksistensen av 26 typer UNOWN.\nTror du du kan finne\nalle 26 av dem?</language>
+		<language name="English">There are as many UNOWN as there\nare letters in the alphabet.\nRight now, we’re confirming the\nexistence of 26 kinds of UNOWN.\nDo you think you can find\nall 26 of them?</language>
 	</row>
 	<row id="msg_0001_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems that individually they\ndon't make much sense, but when\nthe various UNOWN are arranged\nin order, they begin to make\nsense. In nature, they seem to be\nscattered around randomly, but\nthe truth is they're arranged in\na very specific order.</language>
-		<language name="Norwegian">Det ser ut til at individuelt\ngir de ikke mye mening, men når\nde ulike UNOWN er arrangert\ni rekkefølge, begynner de å gi\nmening. I naturen ser de ut til å\nvære spredt tilfeldig, men\nsannheten er at de er arrangert i\nen veldig spesifikk rekkefølge.</language>
+		<language name="English">It seems that individually they\ndon’t make much sense, but when\nthe various UNOWN are arranged\nin order, they begin to make\nsense. In nature, they seem to be\nscattered around randomly, but\nthe truth is they’re arranged in\na very specific order.</language>
 	</row>
 	<row id="msg_0001_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In this report, the scattered\nUNOWN were sorted and put into\norder by the research-center\nstaff. That makes the UNOWN much\neasier to understand.</language>
-		<language name="Norwegian">I denne rapporten ble de\nspredte UNOWN sortert og satt i\nrekkefølge av forskningssenterets\npersonale. Det gjør UNOWN mye\nlettere å forstå.</language>
 	</row>
 	<row id="msg_0001_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Scratched on the floor of the\nruins are UNOWN letters. Finding\nthe room feels like a huge\ndiscovery! The Researchers were\nvery excited and said they were\ngoing to go check it out.</language>
-		<language name="Norwegian">Risset i gulvet i ruinene er\nUNOWN-bokstaver. Å finne\nrommet føles som en enorm\noppdagelse! Forskerne var\nveldig begeistret og sa at de\nskulle gå og sjekke det ut.</language>
 	</row>
 	<row id="msg_0001_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There aren't just 26 different\nkinds of UNOWN. Two more have\nbeen discovered! But that begs\nthe question of where those\nother two kinds are hiding...</language>
-		<language name="Norwegian">Det er ikke bare 26 forskjellige\ntyper UNOWN. To flere har\nblitt oppdaget! Men det reiser\nspørsmålet om hvor de\nandre to typene gjemmer seg...</language>
+		<language name="English">There aren’t just 26 different\nkinds of UNOWN. Two more have\nbeen discovered! But that begs\nthe question of where those\nother two kinds are hiding...</language>
 	</row>
 	<row id="msg_0001_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{CURSOR_Y 24}The characters found scratched\non the floor in the small room are\ntranscribed here in this report.</language>
-		<language name="Norwegian">{CURSOR_Y 24}Tegnene funnet risset\ni gulvet i det lille rommet er\ntranskribert her i denne rapporten.</language>
 	</row>
 	<row id="msg_0001_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{CURSOR_Y 72}OUR FRIENDS LOOK\nUP AND HEARTILY\nCONGRATULATE US</language>
-		<language name="Norwegian">{CURSOR_Y 72}VÅRE VENNER SER\nOPP OG ØNSKER\nOSS HJERTELIG GRATULASJON</language>
 	</row>
 	<row id="msg_0001_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{CURSOR_Y 120}We don't know what this could\npossibly mean yet.</language>
-		<language name="Norwegian">{CURSOR_Y 120}Vi vet ikke hva dette kan\nbety ennå.</language>
+		<language name="English">{CURSOR_Y 120}We don’t know what this could\npossibly mean yet.</language>
 	</row>
 	<row id="msg_0001_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Researchers were saying\nthat they'll need to examine the\nruins again, but...?</language>
-		<language name="Norwegian">Forskerne sa at\nde må undersøke ruinene\nigjen, men...?</language>
+		<language name="English">The Researchers were saying\nthat they’ll need to examine the\nruins again, but...?</language>
 	</row>
 	<row id="msg_0001_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the past, it seems that UNOWN\nlived with relatives of humans in\nthese ruins. In the lower levels\nof these ruins is a Pokémon\nstatue. We've come to understand\nthat it was those relatives who\nmade that statue.</language>
-		<language name="Norwegian">I fortiden ser det ut til at UNOWN\nlevde med menneskenes slektninger i\ndisse ruinene. I de nedre nivåene\nav disse ruinene er det en Pokémon-\nstatue. Vi har kommet til å forstå\nat det var disse slektningene som\nlaget den statuen.</language>
+		<language name="English">In the past, it seems that UNOWN\nlived with relatives of humans in\nthese ruins. In the lower levels\nof these ruins is a Pokémon\nstatue. We’ve come to understand\nthat it was those relatives who\nmade that statue.</language>
 	</row>
 	<row id="msg_0001_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The UNOWN are very timid\ncreatures, so they don't go\noutside the ruins. Even if a bunch\nof people gathered near the\nruins, it is said that the ones who\nwished for UNOWN and humans to\nagain coexist have all left.</language>
-		<language name="Norwegian">UNOWN er veldig sky\nvesener, så de går ikke\nutenfor ruinene. Selv om en\nflokk mennesker samlet seg nær\nruinene, sies det at de som\nønsket at UNOWN og mennesker\nskulle sameksistere igjen har\nalle dratt.</language>
+		<language name="English">The UNOWN are very timid\ncreatures, so they don’t go\noutside the ruins. Even if a bunch\nof people gathered near the\nruins, it is said that the ones who\nwished for UNOWN and humans to\nagain coexist have all left.</language>
 	</row>
 	<row id="msg_0001_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ANGER</language>
-		<language name="Norwegian">SINNE</language>
 	</row>
 	<row id="msg_0001_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BEAR</language>
-		<language name="Norwegian">BÆRE</language>
 	</row>
 	<row id="msg_0001_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CHASE</language>
-		<language name="Norwegian">JAGE</language>
 	</row>
 	<row id="msg_0001_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DIRECT</language>
-		<language name="Norwegian">DIRIGERE</language>
 	</row>
 	<row id="msg_0001_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ENGAGE</language>
-		<language name="Norwegian">ENGASJERE</language>
 	</row>
 	<row id="msg_0001_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FIND</language>
-		<language name="Norwegian">FINNE</language>
 	</row>
 	<row id="msg_0001_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GIVE</language>
-		<language name="Norwegian">GI</language>
 	</row>
 	<row id="msg_0001_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">HELP</language>
-		<language name="Norwegian">HJELPE</language>
 	</row>
 	<row id="msg_0001_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">INCREASE</language>
-		<language name="Norwegian">ØKE</language>
 	</row>
 	<row id="msg_0001_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">JOIN</language>
-		<language name="Norwegian">BLLI MED</language>
 	</row>
 	<row id="msg_0001_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">KEEP</language>
-		<language name="Norwegian">BEHOLDE</language>
 	</row>
 	<row id="msg_0001_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LAUGH</language>
-		<language name="Norwegian">LE</language>
 	</row>
 	<row id="msg_0001_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MAKE</language>
-		<language name="Norwegian">LAGE</language>
 	</row>
 	<row id="msg_0001_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NUZZLE</language>
-		<language name="Norwegian">KOSE</language>
 	</row>
 	<row id="msg_0001_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OBSERVE</language>
-		<language name="Norwegian">OBSERVERE</language>
 	</row>
 	<row id="msg_0001_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PERFORM</language>
-		<language name="Norwegian">OPPTRÆ</language>
 	</row>
 	<row id="msg_0001_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">QUICKEN</language>
-		<language name="Norwegian">HURTIGGJØRE</language>
 	</row>
 	<row id="msg_0001_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">REASSURE</language>
-		<language name="Norwegian">BEROLIGE</language>
 	</row>
 	<row id="msg_0001_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH</language>
-		<language name="Norwegian">SØKE</language>
 	</row>
 	<row id="msg_0001_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">TELL</language>
-		<language name="Norwegian">FORTELLE</language>
 	</row>
 	<row id="msg_0001_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">UNDO</language>
-		<language name="Norwegian">ANGRE</language>
 	</row>
 	<row id="msg_0001_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VANISH</language>
-		<language name="Norwegian">FORSVINNE</language>
 	</row>
 	<row id="msg_0001_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">WANT</language>
-		<language name="Norwegian">ØNSKE</language>
 	</row>
 	<row id="msg_0001_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">XXXXX</language>
-		<language name="Norwegian">XXXXX</language>
 	</row>
 	<row id="msg_0001_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">YIELD</language>
-		<language name="Norwegian">GIVE TAP</language>
 	</row>
 	<row id="msg_0001_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ZOOM</language>
-		<language name="Norwegian">ZOOM</language>
 	</row>
 	<row id="msg_0001_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">!!!!!</language>
-		<language name="Norwegian">!!!!!</language>
 	</row>
 	<row id="msg_0001_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">?????</language>
-		<language name="Norwegian">?????</language>
 	</row>
 </body>

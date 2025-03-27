@@ -3,92 +3,74 @@
 	<row id="msg_0011_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EDIT</language>
-		<language name="Norwegian">REDIGER</language>
 	</row>
 	<row id="msg_0011_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">QUIT</language>
-		<language name="Norwegian">AVSLUTT</language>
 	</row>
 	<row id="msg_0011_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SET</language>
-		<language name="Norwegian">SETT</language>
 	</row>
 	<row id="msg_0011_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">REMOVE</language>
-		<language name="Norwegian">FJERN</language>
 	</row>
 	<row id="msg_0011_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SHIFT</language>
-		<language name="Norwegian">SKIFT</language>
 	</row>
 	<row id="msg_0011_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK</language>
-		<language name="Norwegian">OK</language>
 	</row>
 	<row id="msg_0011_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
-		<language name="Norwegian">AVBRYT</language>
 	</row>
 	<row id="msg_0011_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose a Capsule.</language>
-		<language name="Norwegian">Velg en kapsel.</language>
 	</row>
 	<row id="msg_0011_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What would you like to do?</language>
-		<language name="Norwegian">Hva vil du gjøre?</language>
 	</row>
 	<row id="msg_0011_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Capsule was removed.</language>
-		<language name="Norwegian">Kapselen ble fjernet.</language>
 	</row>
 	<row id="msg_0011_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Switch with which Capsule?</language>
-		<language name="Norwegian">Bytt med hvilken kapsel?</language>
 	</row>
 	<row id="msg_0011_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Capsules were switched.</language>
-		<language name="Norwegian">Kapslene ble byttet.</language>
 	</row>
 	<row id="msg_0011_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Finished editing the Capsule.</language>
-		<language name="Norwegian">Ferdig med å redigere kapselen.</language>
 	</row>
 	<row id="msg_0011_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Confirming...</language>
-		<language name="Norwegian">Bekrefter...</language>
 	</row>
 	<row id="msg_0011_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Quit without changing the\nCapsule design?</language>
-		<language name="Norwegian">Avslutt uten å endre\nkapseldesignet?</language>
 	</row>
 	<row id="msg_0011_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s no more room!</language>
-		<language name="Norwegian">Det er ikke mer plass!</language>
 	</row>
 	<row id="msg_0011_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There are no Seals left.</language>
-		<language name="Norwegian">Det er ingen segl igjen.</language>
 	</row>
 	<row id="msg_0011_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Exit</language>
-		<language name="Norwegian">UTGANG</language>
 	</row>
 	<row id="msg_0011_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
