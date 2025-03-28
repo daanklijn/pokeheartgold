@@ -27,7 +27,7 @@
 	<row id="msg_0331_R05R0202_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}Ka-Boom!!</language>
-	<language name="Norwegian">{Ka-Boom!</language></row>
+	<language name="Norwegian">{SIZE 200}Ka-Boom!</language></row>
 	<row id="msg_0331_R05R0202_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A place like this...\nattracts mean people.\rThey would eventually cause trouble...\rThat’s why Uncle Rage is watching for\nsuch things...\rThe echo at the Underground Path is...\namazing...</language>
