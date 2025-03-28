@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0569_T23R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ilex Forest is big. Be careful!\nDon’t get lost.</language>
-	</row>
+	<language name="Norwegian">Ilex-skogen er stor. Vær forsiktig!\nIkke’gå deg vill.</language></row>
 	<row id="msg_0569_T23R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The forest is watched over by\nits protector.\rStay out of mischief!</language>
-	</row>
+	<language name="Norwegian">Skogen voktes av\n dens beskytter.\rHold deg unna ugagn!</language></row>
 </body>

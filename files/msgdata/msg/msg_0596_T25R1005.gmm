@@ -1,85 +1,85 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0596_T25R1005_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello. Oh, your Pokémon...\r</language>
-	</row>
+	<language name="Norwegian">Hallo? Å, din Pokémon...</language></row>
 	<row id="msg_0596_T25R1005_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s very attached to you.\rThis move should be perfect for a\npair like you.\r</language>
-	</row>
+	<language name="Norwegian">Den’er veldig knyttet til deg.\rDette trekket burde være perfekt for et\npar som dere.\r</language></row>
 	<row id="msg_0596_T25R1005_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0596_T25R1005_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s adorable!\rYou should teach it good TM moves.</language>
-	</row>
+	<language name="Norwegian">Den er bedårende! Du bør lære den gode TM-bevegelser.</language></row>
 	<row id="msg_0596_T25R1005_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It looks a little bit evil.\nHow about this TM for it?\r</language>
-	</row>
+	<language name="Norwegian">Den ser litt ond ut. \nHva med denne TM-en for den? \r</language></row>
 	<row id="msg_0596_T25R1005_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0596_T25R1005_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There are sure to be TMs that are\njust perfect for your Pokémon.</language>
-	</row>
+	<language name="Norwegian">Det finnes helt sikkert TM-er som passer\n perfekt til din Pokémon.</language></row>
 	<row id="msg_0596_T25R1005_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mystery Gift.\rWith just a little beep, you get a gift.</language>
-	</row>
+	<language name="Norwegian">Mystery Gift.\rMed bare et lite pip får du en gave.</language></row>
 	<row id="msg_0596_T25R1005_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Mystery Gift option is not\ncompatible with Game Boy Color.</language>
-	</row>
+	<language name="Norwegian">Mystery Gift-alternativet er ikke\nkompatibelt med Game Boy Color.</language></row>
 	<row id="msg_0596_T25R1005_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I collect Pokémon.\nDo you have a DROWZEE?\rWant to trade it for my MACHOP? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg samler på Pokémon.\nHar du en DROWZEE?\rVil du bytte den mot min MACHOP? {YESNO 0}</language></row>
 	<row id="msg_0596_T25R1005_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yay! I got myself a DROWZEE!\fThanks!</language>
-	</row>
+	<language name="Norwegian">Jippi! Jeg har fått meg en DROWZEE! Takk!</language></row>
 	<row id="msg_0596_T25R1005_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh? That’s not DROWZEE.\nWhat a letdown...</language>
-	</row>
+	<language name="Norwegian">Hva? Det’er ikke DROWZEE.\nFor en skuffelse...</language></row>
 	<row id="msg_0596_T25R1005_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You don’t want to trade? Aww...</language>
-	</row>
+	<language name="Norwegian">Vil du ikke bytte? Aww...</language></row>
 	<row id="msg_0596_T25R1005_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hi, how’s my old MACHOP doing?</language>
-	</row>
+	<language name="Norwegian">Hei, hvordan går det med min gamle MACHOP?</language></row>
 	<row id="msg_0596_T25R1005_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh? You...are part of Team Rocket?\nSince when?</language>
-	</row>
+	<language name="Norwegian">Hva? Du...er en del av Team Rocket? Siden når?</language></row>
 	<row id="msg_0596_T25R1005_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">On Sundays, a lady comes to check\nout Pokémon.\rShe even gives away TMs!</language>
-	</row>
+	<language name="Norwegian">På søndager kommer det en dame for å sjekke\nut Pokémon, og hun gir til og med bort TM-er!</language></row>
 	<row id="msg_0596_T25R1005_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team Rocket...\nWhy are they here?</language>
-	</row>
+	<language name="Norwegian">Team Rocket... Hvorfor er de her?</language></row>
 	<row id="msg_0596_T25R1005_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can’t rename a Pokémon you get in\na trade.\rThe name is a reflection of the original\nTrainer’s feelings for it.</language>
-	</row>
+	<language name="Norwegian">Du kan’ikke gi nytt navn til en Pokémon du får i\net bytte.\rNavnet gjenspeiler den opprinnelige\nTrenerens’følelser for den.</language></row>
 	<row id="msg_0596_T25R1005_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You shouldn’t wear a black suit like\nthat. People will think you are a part\fof Team Rocket.\rWhat? You are one of them?</language>
-	</row>
+	<language name="Norwegian">Du burde ikke ha på deg en svart drakt som den der. Folk vil tro at du er en del av Team Rocket.</language></row>
 	<row id="msg_0596_T25R1005_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Modify Your Pokémon\n5F TM Corner</language>
-	</row>
+	<language name="Norwegian">Modifiser din Pokémon\n5F TM Corner</language></row>
 </body>

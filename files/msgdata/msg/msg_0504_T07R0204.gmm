@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0504_T07R0204_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">High places--I do love them so!\rI’d say the only thing that loves\nheights as much as me is smoke!</language>
-	</row>
+	<language name="Norwegian">Høye steder - jeg elsker dem så høyt! \rJeg’vil si at det eneste som elsker\nhøyder like mye som meg, er røyk!</language></row>
 </body>

@@ -1,96 +1,96 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0572_T24_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You crossed the sea to get here?\rThat must have been hard.\rIt would be much easier if your\nPokémon knew how to Fly...\r</language>
-	</row>
+	<language name="Norwegian">Du krysset havet for å komme hit? \rDet må ha vært vanskelig. \rDet ville vært mye enklere hvis pokémonene dine kunne fly...\r</language></row>
 	<row id="msg_0572_T24_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">But you can’t use Fly without this\ncity’s Gym Badge.\rIf you beat the Gym Leader here,\ncome see me.\fI’ll have a nice gift for you.</language>
-	</row>
+	<language name="Norwegian">Men du kan ikke bruke Fly uten dette\nbyens’gymmerket.\rHvis du slår gymlederen her, \nkom og besøk meg.\fJeg’har en fin gave til deg.</language></row>
 	<row id="msg_0572_T24_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s Cianwood’s Gym Badge!\rThen you should take this HM.\r</language>
-	</row>
+	<language name="Norwegian">Det’er Cianwood’s Gym Badge!\rSå bør du ta dette HM.\r</language></row>
 	<row id="msg_0572_T24_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0572_T24_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Teach Fly to your Pokémon.\rYou will be able to Fly instantly\nto anywhere you have visited.</language>
-	</row>
+	<language name="Norwegian">Lær dine Pokémon å fly.\rDu vil kunne fly øyeblikkelig\ntil hvor som helst du har besøkt.</language></row>
 	<row id="msg_0572_T24_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My husband lost to you, so he needs\nto train harder.\rThat’s good, since he was getting a\nlittle chubby.</language>
-	</row>
+	<language name="Norwegian">Mannen min tapte for deg, så han må\ntrene hardere.\rDet’er bra, siden han var i ferd med å bli\nlitt lubben.</language></row>
 	<row id="msg_0572_T24_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your Bag is full.</language>
-	</row>
+	<language name="Norwegian">Vesken din er full.</language></row>
 	<row id="msg_0572_T24_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">His only hobby is to battle\ntough Trainers.\rDo you want to have my\nhusband’s phone number? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hans eneste hobby er å kjempe mot\ntøffe trenere.\rVil du ha telefonnummeret til min\nmann’? {YESNO 0}</language></row>
 	<row id="msg_0572_T24_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} registered Chuck\nin the Pokégear!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} registrerte Chuck\ni Pokégear!</language></row>
 	<row id="msg_0572_T24_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">He takes a break from the pounding\nwaterfall on Wednesday nights.\rHe should be able to chat with\nyou then.</language>
-	</row>
+	<language name="Norwegian">Han tar en pause fra den dundrende\nfossen på onsdagskveldene, og da burde han ha tid til å prate med\ndere.</language></row>
 	<row id="msg_0572_T24_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, I see.\nMy husband won’t be a good match?</language>
-	</row>
+	<language name="Norwegian">Å, jeg skjønner... Min mann vil ikke være en god match?</language></row>
 	<row id="msg_0572_T24_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you want to exchange your\nnumber for my husband’s? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Vil du bytte ditt\nnummer mot min manns’nummer? {YESNO 0}</language></row>
 	<row id="msg_0572_T24_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you use Fly, you can get back\nto Olivine instantly.</language>
-	</row>
+	<language name="Norwegian">Hvis du bruker Fly, kan du komme tilbake\ntil Olivine umiddelbart.</language></row>
 	<row id="msg_0572_T24_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Boulders to the north of town can\nbe crushed.\rThey may be hiding something.\nYour Pokémon could use Rock Smash to\fbreak them.</language>
-	</row>
+	<language name="Norwegian">Steinblokker nord for byen kan\nknuses.\rDe skjuler kanskje noe.\nDin Pokémon kan bruke Rock Smash til å\fknuse dem.</language></row>
 	<row id="msg_0572_T24_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Chuck, the Gym Leader, spars with\nhis Fighting-type Pokémon.</language>
-	</row>
+	<language name="Norwegian">Chuck, Gymlederen, krangler med\n sin Pokémon av typen Fighting.</language></row>
 	<row id="msg_0572_T24_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eusine: Yo, {STRVAR_1 3, 0, 0}.\rWasn’t that SUICUNE just now?\rI only caught a quick glimpse, but I\nthought I saw SUICUNE running on\fthe waves.\rSUICUNE is beautiful and grand.\nAnd it races through towns and\froads at simply awesome speeds.\rIt’s wonderful...\rI want to see SUICUNE up close...\rI’ve decided.\nI’ll battle you as a Trainer to earn\fSUICUNE’s respect!\rCome on, {STRVAR_1 3, 0, 0}.\nLet’s battle now!</language>
-	</row>
+	<language name="Norwegian">Eusine: Yo, {STRVAR_1 3, 0, 0}.\rVar det ikke’der SUICUNE nå nettopp?\rJeg fikk bare et raskt glimt, men jeg\nsyntes jeg så SUICUNE løpe på\fbølgene.\rSUICUNE er vakker og storslått.\nOg den raser gjennom byer og\fveier i en helt utrolig fart.\rDet’er fantastisk...\rJeg vil se SUICUNE på nært hold...\rJeg’har bestemt meg.\nJeg’vil kjempe mot deg som trener for å gjøre meg fortjent til\fSUICUNE’s respekt!\rKom igjen, {STRVAR_1 3, 0, 0}.\nLa’kjempe nå!</language></row>
 	<row id="msg_0572_T24_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re amazing, {STRVAR_1 3, 0, 0}!\rI’m starting to understand why SUICUNE\nwas keeping an eye on you.\rI’m going to keep searching\nfor SUICUNE.\rI have a feeling we’ll see each other\nagain. See you around!\r</language>
-	</row>
+	<language name="Norwegian">Du’er fantastisk, {STRVAR_1 3, 0, 0}!\rJeg’begynner å forstå hvorfor SUICUNE\nholdt øye med deg.\rJeg’kommer til å fortsette å lete\netter SUICUNE.\rJeg har en følelse av at vi’kommer til å se hverandre\nigjen\n. Vi ses!</language></row>
 	<row id="msg_0572_T24_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There are several islands between\nhere and Olivine.\rA mythical sea creature supposedly\nlives there.</language>
-	</row>
+	<language name="Norwegian">Det ligger flere øyer mellom\nher og Olivine, og det skal visstnok\rleve et mytisk sjødyr der.</language></row>
 	<row id="msg_0572_T24_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cianwood City\nA Port of Crashing Waves</language>
-	</row>
+	<language name="Norwegian">Cianwood City\nEn havn av brusende bølger</language></row>
 	<row id="msg_0572_T24_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cianwood City Pokémon Gym\nLeader: Chuck\fHis Roaring Fists Do the Talking</language>
-	</row>
+	<language name="Norwegian">Cianwood City Pokémon Gym\nLeder: Chuck\fHans brølende knyttnever taler for seg selv</language></row>
 	<row id="msg_0572_T24_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cianwood City Pharmacy\r500 Years of Tradition\nWe Await Your Medicinal Queries</language>
-	</row>
+	<language name="Norwegian">Cianwood City Pharmacy\r500 års tradisjon\nVi venter på dine medisinske spørsmål</language></row>
 	<row id="msg_0572_T24_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the house of Cameron,\nthe Photographer.\fTake a Snapshot as a Keepsake!</language>
-	</row>
+	<language name="Norwegian">Dette er huset til Cameron,\nfotografen.\fTa et øyeblikksbilde som et minne!</language></row>
 	<row id="msg_0572_T24_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Entrance to the road for the\nSafari Zone.\rExperience thrilling encounters\nwith wild Pokémon for heart-to-heart\fcontact!\rThe Safari Zone is just around the\ncorner from this entrance!</language>
-	</row>
+	<language name="Norwegian">Inngang til veien til\nSafarisonen.\rOpplev spennende møter\nmed ville Pokémon for hjerte-til-hjerte\fkontakt!\rSafarisonen ligger rett rundt\nhjørnet fra denne inngangen!</language></row>
 </body>

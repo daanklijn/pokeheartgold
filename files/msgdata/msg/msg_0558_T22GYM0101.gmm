@@ -1,47 +1,47 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0558_T22GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Falkner: I’m Falkner, the Violet City\nPokémon Gym Leader!\rPeople say you can clip Flying-type\nPokémon’s wings with a jolt\fof electricity...\rI won’t allow such insults to bird\nPokémon!\rI’ll show you the real power of the\nmagnificent bird Pokémon!\r</language>
-	</row>
+	<language name="Norwegian">Falkner: Jeg’er Falkner, Violet City\nPokémon Gym Leader!\rFolk sier at du kan klippe vingene til flygende typer\nPokémon’med et støt\fav elektrisitet...\rJeg vil’ikke tillate slike fornærmelser mot fugl\nPokémon!\rJeg’vil vise deg den virkelige kraften til den\nfantastiske fugl-Pokémon!\r</language></row>
 	<row id="msg_0558_T22GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Falkner: ...For pity’s sake!\nMy dad’s cherished bird Pokémon...\rBut a defeat is a defeat.\nAll right.\rTake this official Pokémon\nLeague Badge.\fThis one is the Zephyr Badge.\r</language>
-	</row>
+	<language name="Norwegian">Falkner: ...For pity’s skyld!\nMin fars’kjære fugle-Pokémon...\rMen et nederlag er et nederlag.\nAll right.\rTa dette offisielle Pokémon\nLiga-merket.\fDette er Zephyr-merket.\r...</language></row>
 	<row id="msg_0558_T22GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Zephyr Badge from Falkner!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} mottatt\nZephyr-merket fra Falkner!</language></row>
 	<row id="msg_0558_T22GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Falkner: With that Badge, Pokémon,\nincluding traded Pokémon up to Lv. 20,\fwill obey you without question.\rIt also enables you to use the hidden\nmove Rock Smash anytime outside\fof battle.\r</language>
-	</row>
+	<language name="Norwegian">Falkner: Med dette merket vil Pokémon,\ninkludert Pokémon opp til Lv. 20,\flyde deg uten å stille spørsmål.\rDet gjør deg også i stand til å bruke det skjulte\nbevegelsen Rock Smash når som helst utenfor\fkamp.\r.</language></row>
 	<row id="msg_0558_T22GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Falkner: By using a TM, a Pokémon will\ninstantly learn a new move.\rThink before you act--a TM can be\nused only once.\rTM51 contains Roost.\nIt restores half the max HP.\rThere are Pokémon Gyms in cities and\ntowns ahead. Make good use of them!\rAs for your next move...\fI would suggest Azalea Town.</language>
-	</row>
+	<language name="Norwegian">Falkner: Ved å bruke en TM vil en Pokémon\numiddelbart lære seg et nytt trekk.\rTenk før du handler - en TM kan bare\nbrukes én gang.\rTM51 inneholder Roost.\nDen gjenoppretter halvparten av maks HP.\rDet finnes Pokémon Gyms i byer og\nbyer i fremtiden. Gjør god bruk av dem!\rNår det gjelder ditt neste trekk...\fvil jeg foreslå Azalea Town.</language></row>
 	<row id="msg_0558_T22GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Falkner: There are Pokémon Gyms in\ncities and towns ahead.\rYou should test your skills at\nthese Gyms.\rAs for your next move...\fI would suggest Azalea Town.\rI’m going to train harder to become\nthe greatest Bird Keeper of all!</language>
-	</row>
+	<language name="Norwegian">Falkner: Det finnes Pokémon-treningsstudioer i\nbyer og tettsteder fremover.\rDu bør teste ferdighetene dine på\ndisse treningsstudioene.\rNår det gjelder ditt neste trekk...\fvil jeg foreslå Azalea Town.\rJeg’kommer til å trene hardere for å bli\nden beste fuglevokteren av dem alle!</language></row>
 	<row id="msg_0558_T22GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo! Champ in the making!\nYou must be here to challenge\fFalkner, the Gym Leader, right?\rYou are quite welcome.\n...Almost!\rThis city has a tower called the\nSprout Tower where Trainers\fcome to train themselves.\rChallenging Falkner may be too\ndifficult if you haven’t gone through\ftheir training.\fHa ha ha!</language>
-	</row>
+	<language name="Norwegian">Hei! En mester i emning!\nDu må være her for å utfordre\fFalkner, Gymlederen, ikke sant? \rDu er hjertelig velkommen.\n...Nesten!\rDenne byen har et tårn som kalles\nSpire-tårnet, hvor trenere\fkommer for å trene seg.\rDet kan bli for\nvanskelig å utfordre Falkner hvis du ikke har’gjennomgått\ftreningen deres.\fHa ha ha ha!</language></row>
 	<row id="msg_0558_T22GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo, Champ in the making!\nI’m no Trainer, but I can give\fsome advice!\fBelieve me!\fIf you believe, then a Championship\fdream can come true.\rYou believe?\nThen listen.\rThe Grass type is weak against the\nFlying type. Keep this in mind.</language>
-	</row>
+	<language name="Norwegian">Hei, mester i emning!\nJeg’er ingen trener, men jeg kan gi\fnoen råd!\fTro meg!\fHvis du tror, kan en mesterskapsdrøm gå i oppfyllelse.\rTror du? \nSå hør her.\rGress-typen er svak mot\nflytypen. Husk dette.</language></row>
 	<row id="msg_0558_T22GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nice battle! Keep it up, and you’ll\nbe the Champ in no time at all!</language>
-	</row>
+	<language name="Norwegian">Fin kamp! Fortsett slik, og du’vil\nbli Champ i løpet av kort tid!</language></row>
 	<row id="msg_0558_T22GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Violet City Pokémon Gym</language>
-	</row>
+	<language name="Norwegian">Violet City Pokémon Gym</language></row>
 	<row id="msg_0558_T22GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Violet City Pokémon Gym\rGym Leader: Falkner\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
-	</row>
+	<language name="Norwegian">Violet City Pokémon Gym\rGymleder: Falkner\nCertifisert trener!\f{STRVAR_1 3, 0, 0}</language></row>
 </body>

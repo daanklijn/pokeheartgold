@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0513_T08FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I was hoping to buy some Safari Zone\nsouvenirs, but it’s not open!\rI thought it was closed today,\nbut actually it’s gone!\rI never saw it coming.</language>
-	</row>
+	<language name="Norwegian">Jeg håpet å kjøpe noen Safari Zonem id = 0 /souvenirer, men denm id = 8 /er ikke åpen!m id = 1 /Jeg trodde den var stengt i dag,m id = 0 /men faktisk er denm id = 8 /borte!m id = 1 /Jeg så det aldri komme.</language></row>
 	<row id="msg_0513_T08FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Safari Zone has been moved\nto Johto...\rI hear that now the son of the Warden\nis going to run Pal Park!</language>
-	</row>
+	<language name="Norwegian">Safarisonen har blitt flyttet\ntil Johto ...\rJeg hører at sønnen til direktøren\nskal drive Pal Park!</language></row>
 	<row id="msg_0513_T08FS0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Have you been to the Pal Park?\rThe Safari Zone Warden’s son is\nrunning it with his wife.\rIt must run in their family to\nmanage parks.</language>
-	</row>
+	<language name="Norwegian">Har du vært i Pal Park? \rSafari Zone Warden’s sønn driver den sammen med kona.\rDet må ligge i familien deres å\nadministrere parker.</language></row>
 </body>

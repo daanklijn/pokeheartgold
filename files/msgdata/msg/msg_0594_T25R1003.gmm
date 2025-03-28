@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0594_T25R1003_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I-I-I’m really impatient!\rI use X Speed in battle to speed up\nmy Pokémon.</language>
-	</row>
+	<language name="Norwegian">Jeg er veldig utålmodig! \rJeg bruker X Speed i kamp for å få fart på\n Pokémonene mine.</language></row>
 	<row id="msg_0594_T25R1003_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh my...\nTeam Rocket has reached here already!</language>
-	</row>
+	<language name="Norwegian">Jøss...\nTeam Rocket har allerede kommet hit!</language></row>
 	<row id="msg_0594_T25R1003_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey! When you battle, do you use\nX Special?\rIt’s awesome. It really jacks up\nSpecial Attack!</language>
-	</row>
+	<language name="Norwegian">Hei! Når du kjemper, bruker du\nX Special? \rDen’er fantastisk. Den øker virkelig\nspesialangrepet!</language></row>
 	<row id="msg_0594_T25R1003_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I never thought about it, but\nTeam Rocket does go shopping...</language>
-	</row>
+	<language name="Norwegian">Jeg har aldri tenkt på det, men Team Rocket går på shopping...</language></row>
 	<row id="msg_0594_T25R1003_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">For Victory Seekers\n3F Battle Collection</language>
-	</row>
+	<language name="Norwegian">For seierssøkere\n3F Battle Collection</language></row>
 </body>

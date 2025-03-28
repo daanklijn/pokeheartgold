@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0579_T24R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You came from Olivine?\rDo you remember the four islands\nalong the way?\rI heard that a mythical sea creature is\nhiding in them.</language>
-	</row>
+	<language name="Norwegian">Du kom fra Olivine? \rHusker du de fire øyene\nlangs veien? \rJeg har hørt at et mytisk sjødyr\nskjuler seg på dem.</language></row>
 	<row id="msg_0579_T24R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I heard that you can only see it if\nyou have a Silver Wing.\rIt must have the same scent as\nthe creature.</language>
-	</row>
+	<language name="Norwegian">Jeg har hørt at du bare kan se den hvis\ndu har en sølvvinge.\rDen må ha samme duft som\nvesenet.</language></row>
 	<row id="msg_0579_T24R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve heard that the whirlpools around\nthe islands are caused by the\fsea creature.\rYou might need a special move to\nget past them.</language>
-	</row>
+	<language name="Norwegian">Jeg’har hørt at virvelstrømmene rundt\nøyene er forårsaket av\fhavdyret\rDu trenger kanskje et spesielt trekk for å\nkomme forbi dem.</language></row>
 </body>

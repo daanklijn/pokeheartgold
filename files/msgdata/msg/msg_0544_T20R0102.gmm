@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0544_T20R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\rMy husband’s always\nso busy--I hope he’s OK.\rWhen he’s caught up in his Pokémon\nresearch, he even forgets to eat.</language>
-	</row>
+	<language name="Norwegian">Hei, {STRVAR_1 3, 0, 0}!\rMin mann’er alltid\nså opptatt - jeg håper han’har det bra.\rNår han’er opptatt med Pokémon\nforskningen sin, glemmer han til og med å spise.</language></row>
 	<row id="msg_0544_T20R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\rMy husband’s always\nso busy--I hope he’s OK.\rWhen he’s caught up in his Pokémon\nresearch, he even forgets to eat.</language>
-	</row>
+	<language name="Norwegian">Hei, {STRVAR_1 3, 0, 0}!\rMin mann’er alltid\nså opptatt - jeg håper han’har det bra.\rNår han’er opptatt med Pokémon\nforskningen sin, glemmer han til og med å spise.</language></row>
 	<row id="msg_0544_T20R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When I grow up, I’m going to help\nmy dad!\rI’m going to be a great\nPokémon Professor!</language>
-	</row>
+	<language name="Norwegian">Når jeg blir stor, skal jeg’hjelpe\npappaen min!\rJeg’skal bli en stor\nPokémon-professor!</language></row>
 	<row id="msg_0544_T20R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">“Pokémon. Where do they come from?\nWhere are they going?\rWhy has no one ever witnessed a\nPokémon’s birth?\rI want to know! I will dedicate my\rlife to the study of Pokémon!”\r...\rIt’s a part of Professor Elm’s\nresearch papers.</language>
-	</row>
+	<language name="Norwegian">“Pokémon. Hvor kommer de fra?\nHvor skal de hen?\rHvorfor har ingen noen gang vært vitne til en\nPokémon’s fødsel?\rJeg vil vite det! Jeg vil vie mitt\rliv til studiet av Pokémon!”\r...\rDet’er en del av professor Elm’s\nforskningsartikler.</language></row>
 </body>

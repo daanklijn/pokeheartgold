@@ -1,191 +1,191 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0581_T25_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">They built the new Radio Tower to\nreplace the old, creaky one.</language>
-	</row>
+	<language name="Norwegian">Det nye radiotårnet ble bygget for å erstatte det gamle, knirkende tårnet.</language></row>
 	<row id="msg_0581_T25_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Have you visited the Pokéathlon Dome?\nIt is a huge sports facility where\fPokémon compete with each other.\rIt was quite a sight!</language>
-	</row>
+	<language name="Norwegian">Har du besøkt Pokéathlon Dome?\nDet er et enormt idrettsanlegg der\fPokémon konkurrerer mot hverandre.\rDet var litt av et syn!</language></row>
 	<row id="msg_0581_T25_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I know there’s a new Bike Shop,\nbut I can’t find it anywhere.</language>
-	</row>
+	<language name="Norwegian">Jeg vet at det’er en ny Bike Shop,\nmen jeg kan’ikke finne den noe sted.</language></row>
 	<row id="msg_0581_T25_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The fact that you have a Bike...\nmeans you got it from a Bike Shop,\fright?\rAll right!\nI can say that there is a Bike Shop\fsomewhere in this city!</language>
-	</row>
+	<language name="Norwegian">Det faktum at du har en sykkel...\nbetyr at du har kjøpt den i en sykkelbutikk,\fikke sant?\rOgså sant!\nJeg kan si at det finnes en sykkelbutikk\fet eller annet sted i denne byen!</language></row>
 	<row id="msg_0581_T25_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is that man in black dressed up\nlike a Team Rocket member?\fHow silly!</language>
-	</row>
+	<language name="Norwegian">Er mannen i svart kledd ut\nsom et Team Rocket-medlem?\fHvor dumt!</language></row>
 	<row id="msg_0581_T25_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Was that man in black really part\nof Team Rocket?\fI can’t believe it!</language>
-	</row>
+	<language name="Norwegian">Var den mannen i svart virkelig en del av Team Rocket? Jeg kan ikke tro det!</language></row>
 	<row id="msg_0581_T25_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Radio Tower in Goldenrod City is\na landmark.\rThey’re running a promotional campaign\nright now.\rThey’ll modify your Pokégear so it can\nalso serve as a radio.</language>
-	</row>
+	<language name="Norwegian">Radiotårnet i Goldenrod City er\net landemerke.\rDe’kjører en kampanje\n akkurat nå.\rDe’vil modifisere Pokégearene dine slik at de kan\nogså fungere som en radio.</language></row>
 	<row id="msg_0581_T25_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Radio Tower in Goldenrod City is\na landmark.\rThey’re running a promotional campaign\nright now.\rThey’ll modify your Pokégear so it can\nalso serve as a radio.\rOh, your Pokégear works as a radio!</language>
-	</row>
+	<language name="Norwegian">Radiotårnet i Goldenrod City er\net landemerke.\rDe’kjører en reklamekampanje\n akkurat nå.\rDe’vil modifisere Pokégearene dine slik at de kan\nogså fungere som en radio.\rÅh, Pokégearene dine fungerer som en radio!</language></row>
 	<row id="msg_0581_T25_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">E-he-he-he...\nI got in trouble for playing in the\fbasement of the department store.</language>
-	</row>
+	<language name="Norwegian">E-he-he-he...\nJeg fikk problemer fordi jeg lekte i\fkjelleren på varehuset.</language></row>
 	<row id="msg_0581_T25_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The man at that tent rates your\nPokémon names.\rHe can even rename your Pokémon.</language>
-	</row>
+	<language name="Norwegian">Mannen i teltet vurderer navnene på dine\nPokémon.\rHan kan til og med gi Pokémon nye navn.</language></row>
 	<row id="msg_0581_T25_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I think I’ll give my Pokémon cool\nnicknames as a reward if they do\fwell in the Pokéathlon.</language>
-	</row>
+	<language name="Norwegian">Jeg tror jeg’vil gi Pokémonene mine kule\nnicknavn som belønning hvis de gjør det\fbra i Pokéathlon.</language></row>
 	<row id="msg_0581_T25_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whew! This is one big town.\nI don’t know where anything is.</language>
-	</row>
+	<language name="Norwegian">Jøss! Dette er en stor by. Jeg vet ikke hvor noe er.</language></row>
 	<row id="msg_0581_T25_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I know that you can find the\nPokéathlon Dome when you take\fRoute 35 north and go past the\fleft gate...\rBut I seem to get lost every time\nI come to this town...</language>
-	</row>
+	<language name="Norwegian">Jeg vet at du kan finne\nPokéathlon Dome når du tar\fRute 35 nordover og går forbi\fvenstre port ...\rMen jeg ser ut til å gå meg vill hver gang\njeg kommer til denne byen ...</language></row>
 	<row id="msg_0581_T25_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So this is the Radio Tower...\r</language>
-	</row>
+	<language name="Norwegian">Så dette er radiotårnet ...</language></row>
 	<row id="msg_0581_T25_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What do you want, you pest?\nScram!\r</language>
-	</row>
+	<language name="Norwegian">Hva vil du, din pest? \nScram!\r</language></row>
 	<row id="msg_0581_T25_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What are you doing?\nGet to your position right away!\r</language>
-	</row>
+	<language name="Norwegian">Hva er det du gjør? \nKom til posisjonen din med en gang!\r</language></row>
 	<row id="msg_0581_T25_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokémon? They’re nothing more than\ntools for making money!</language>
-	</row>
+	<language name="Norwegian">Pokémon? De’er ikke noe mer enn\nverktøy for å tjene penger!</language></row>
 	<row id="msg_0581_T25_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We are on guard here.\nDon’t you worry!</language>
-	</row>
+	<language name="Norwegian">Vi er på vakt her. \nIkke bekymre deg!</language></row>
 	<row id="msg_0581_T25_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Take over the Radio Tower...\rWhat? It’s none of your business!</language>
-	</row>
+	<language name="Norwegian">Ta over radiotårnet...\rHva? Det’har ikke du noe med!</language></row>
 	<row id="msg_0581_T25_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You look awfully young...\nAre you new?</language>
-	</row>
+	<language name="Norwegian">Du ser veldig ung ut... Er du ny?</language></row>
 	<row id="msg_0581_T25_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, brat! You don’t belong here!\fGet lost!</language>
-	</row>
+	<language name="Norwegian">Hei, drittunge! Du hører ikke hjemme her! Forsvinn!</language></row>
 	<row id="msg_0581_T25_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, hey!\nI’ve got this covered!\rWhy don’t you go to the Radio Tower?</language>
-	</row>
+	<language name="Norwegian">Hei, hei! Jeg har dette under kontroll! Hvorfor går du ikke til radiotårnet?</language></row>
 	<row id="msg_0581_T25_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Friendship with Pokémon?\rThat makes me laugh!</language>
-	</row>
+	<language name="Norwegian">Vennskap med Pokémon? \rDet får meg til å le!</language></row>
 	<row id="msg_0581_T25_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Our dream will soon come true...\nIt was such a long struggle...</language>
-	</row>
+	<language name="Norwegian">Drømmen vår vil snart gå i oppfyllelse ...\nDet var en så lang kamp ...</language></row>
 	<row id="msg_0581_T25_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Who are you? A newcomer?\rWe’ve run out of Team Rocket\nuniforms.\rOne of my guys is going to get more...\rWhat’s taking him so long?\rThe studio in the tunnel is just around\nthe corner.</language>
-	</row>
+	<language name="Norwegian">Hvem er du? En nykommer? Vi har gått tom for Team Rocket-uniformer. En av gutta mine skal skaffe flere... Hva er det som tar så lang tid? Studioet i tunnelen er rett rundt hjørnet.</language></row>
 	<row id="msg_0581_T25_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">For a young one like you to decide\nto become a member of Team Rocket...\fThat’s great, kiddo!</language>
-	</row>
+	<language name="Norwegian">At en ung mann som deg bestemmer seg\nfor å bli medlem av Team Rocket...\fDet’er flott, gutt!</language></row>
 	<row id="msg_0581_T25_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Get out of my way!\rWe, as Gym Trainers, will never allow\nTeam Rocket to do nasty things here\fin our city!</language>
-	</row>
+	<language name="Norwegian">Unna vei! \rVi, som Gymtrenere, vil aldri tillate\nTeam Rocket å gjøre fæle ting her\fi byen vår!</language></row>
 	<row id="msg_0581_T25_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tee hee!\rYou Gym Trainers can be a problem.\nStay in the Gym and stay out of\fthe way!</language>
-	</row>
+	<language name="Norwegian">\rDere Gym-trenere kan være et problem.\nBli i Gymmet og hold deg unna\fveien!</language></row>
 	<row id="msg_0581_T25_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Gym Leader, Whitney, went flying by\nsaying, “I have got to\fget a Radio Card!”</language>
-	</row>
+	<language name="Norwegian">Gymlederen, Whitney, fløy forbi og sa: “Jeg må skaffe meg et radiokort! ”</language></row>
 	<row id="msg_0581_T25_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wh-what are you trying to do?\nCan’t you see this cool, pitch-black\funiform I’m wearing?\rYou’re not afraid of Team Rocket? Huh?</language>
-	</row>
+	<language name="Norwegian">Hva er det du prøver på? Ser du ikke den kule, beksvarte uniformen jeg har på meg? Er du ikke redd for Team Rocket? Hva?</language></row>
 	<row id="msg_0581_T25_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You don’t appear scary enough to be a\nTeam Rocket member in that uniform...\fMake a scarier face and say, “Yeee!”\rAll the while, clenching your teeth!</language>
-	</row>
+	<language name="Norwegian">Du ser ikke’skremmende nok ut til å være medlem av\nTeam Rocket i den uniformen...\fSett opp et enda skumlere ansikt og si: “Yeee! ”\rAltid mens du biter tennene sammen!</language></row>
 	<row id="msg_0581_T25_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Where do you think you’re going?\nWe are right in the middle of\fthe mission!</language>
-	</row>
+	<language name="Norwegian">Hvor tror du at du skal? ’Vi er midt i oppdraget!</language></row>
 	<row id="msg_0581_T25_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Where do you think you are going?\nThe Radio Tower is not here!</language>
-	</row>
+	<language name="Norwegian">Hvor tror du at du skal? Radiotårnet er ikke her!</language></row>
 	<row id="msg_0581_T25_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The GTS lets you trade Pokémon\nall over the world!\r...Except that we have something\nmore important to do right now!</language>
-	</row>
+	<language name="Norwegian">GTS lar deg handle Pokémon\nover hele verden!\r...Bortsett fra at vi har noe\nviktigere å gjøre akkurat nå!</language></row>
 	<row id="msg_0581_T25_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you love to trade so much, wait until\nthe Radio Tower mission is over.\rThen you’ll have plenty of time!</language>
-	</row>
+	<language name="Norwegian">Hvis du er så glad i å handle, kan du vente til oppdraget i radiotårnet er over, så har du’god tid!</language></row>
 	<row id="msg_0581_T25_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Slow down!\rI’m the only one who was sent here.\fDon’t give me any more trouble, OK?\r</language>
-	</row>
+	<language name="Norwegian">Ro deg ned! \rJeg’er den eneste som ble sendt hit.\fIkke gi meg mer trøbbel, OK?\r</language></row>
 	<row id="msg_0581_T25_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Johto-Kanto Magnet Train Line\nGoldenrod City Station</language>
-	</row>
+	<language name="Norwegian">Johto-Kanto Magnettoglinje\nGoldenrod City stasjon</language></row>
 	<row id="msg_0581_T25_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Goldenrod City Radio Tower\rA Network Providing Johto\nwith Interesting Information</language>
-	</row>
+	<language name="Norwegian">Goldenrod City Radio Tower\rEt nettverk som forsyner Johto\nmed interessant informasjon</language></row>
 	<row id="msg_0581_T25_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Goldenrod City Pokémon Gym\nLeader: Whitney\fThe Incredibly Pretty Girl!</language>
-	</row>
+	<language name="Norwegian">Goldenrod City Pokémon Gym\nLeder: Whitney\fDen utrolig pene jenta!</language></row>
 	<row id="msg_0581_T25_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Goldenrod City\nA Happening Big City</language>
-	</row>
+	<language name="Norwegian">Goldenrod City\nEn storby med liv og røre</language></row>
 	<row id="msg_0581_T25_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bike Shop Goldenrod Branch\nThe World is a Cycling Path!</language>
-	</row>
+	<language name="Norwegian">Bike Shop Goldenrod Branch\nVerden er en sykkelsti!</language></row>
 	<row id="msg_0581_T25_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Goldenrod City Game Corner\nA Safe and Sound Playground!</language>
-	</row>
+	<language name="Norwegian">Goldenrod City Game Corner\nEn trygg og sunn lekeplass!</language></row>
 	<row id="msg_0581_T25_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Name Rater\nGet Your Pokémon Nicknames Rated</language>
-	</row>
+	<language name="Norwegian">Name Rater\nFå dine Pokémon-kallenavn vurdert</language></row>
 	<row id="msg_0581_T25_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Watch Out!\nGet Off Your Bike in the Tunnel</language>
-	</row>
+	<language name="Norwegian">Se opp! \nStev av sykkelen i tunnelen</language></row>
 	<row id="msg_0581_T25_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Be Careful!\nGet Off Your Bike in the Tunnel</language>
-	</row>
+	<language name="Norwegian">Vær forsiktig! \nStev av sykkelen i tunnelen</language></row>
 	<row id="msg_0581_T25_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Global Terminal\rAn Amazing and Completely\nGlobal Terminal!\n</language>
-	</row>
+	<language name="Norwegian">Den globale terminalen\rEn fantastisk og helt\nglobal terminal!\n</language></row>
 	<row id="msg_0581_T25_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Goldenrod Flower Shop\rA Small Shop Providing\nLots of Beauty</language>
-	</row>
+	<language name="Norwegian">Goldenrod Flower Shop\rEn liten butikk som tilbyr\nMasser av skjønnhet</language></row>
 </body>

@@ -1,68 +1,68 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0586_T25R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bill: Hi, {STRVAR_1 3, 0, 0}! Would you do\nsomething for me and take this EEVEE?\rIt came over when I was adjusting\nNintendo Wi-Fi Connection.\rSomeone has to take care of it,\nbut I don’t like being outside.\rCan I count on you to play with it,\n{STRVAR_1 3, 0, 0}? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Bill: Hei, {STRVAR_1 3, 0, 0}! Kan du gjøre\nnoe for meg og ta denne EEVEE-en?\rDen kom over da jeg justerte\nNintendo Wi-Fi-tilkoblingen.\rNoen må ta seg av den,\nmen jeg liker’ikke å være ute.\rKan jeg regne med at du vil leke med den,\n{STRVAR_1 3, 0, 0}? {YESNO 0}</language></row>
 	<row id="msg_0586_T25R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bill: I knew you’d come through!\nYou’re the real deal! Way to go!\fOK, I’m counting on you.\fTake good care of it!\r</language>
-	</row>
+	<language name="Norwegian">Bill: Jeg visste at du ville klare det! Bra jobbet! \fOK, jeg’regner med deg.\fPass godt på den! \r</language></row>
 	<row id="msg_0586_T25R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe EEVEE!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottatt\nthe EEVEE!</language></row>
 	<row id="msg_0586_T25R0401_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bill: Professor Elm said EEVEE can\nevolve into seven different kinds\fof Pokémon!</language>
-	</row>
+	<language name="Norwegian">Bill: Professor Elm sa at EEVEE kan\nutvikle seg til syv forskjellige typer\f Pokémon!</language></row>
 	<row id="msg_0586_T25R0401_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whoa, wait. You can’t carry any\nmore Pokémon.</language>
-	</row>
+	<language name="Norwegian">Vent litt. Du kan ikke’bære flere\n Pokémon.</language></row>
 	<row id="msg_0586_T25R0401_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh... Now what to do?</language>
-	</row>
+	<language name="Norwegian">Hva skal jeg gjøre nå?</language></row>
 	<row id="msg_0586_T25R0401_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bill: I used to do experiments on\ntransferring things.\rBoth the GTS and Nintendo Wi-Fi\nConnection were inspired by\fmy machine that transfers things!</language>
-	</row>
+	<language name="Norwegian">Bill: Jeg pleide å eksperimentere med\noverføring av ting.\rBåde GTS og Nintendo Wi-Fi\nConnection ble inspirert av\fmin maskin som overfører ting!</language></row>
 	<row id="msg_0586_T25R0401_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Give a nickname to\nthe EEVEE you received? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Gi et kallenavn til\nden EEVEE du har mottatt? {YESNO 0}</language></row>
 	<row id="msg_0586_T25R0401_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0586_T25R0401_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, you collect Pokémon?\nMy son Bill is an expert.\rHe just got called to the Pokémon\nCenter in Ecruteak City.</language>
-	</row>
+	<language name="Norwegian">Å, du samler på Pokémon? \nMin sønn Bill er ekspert. \rHan ble nettopp kalt til Pokémon\nSenteret i Ecruteak City.</language></row>
 	<row id="msg_0586_T25R0401_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whatever happens, it makes me happy\nto see my own son.</language>
-	</row>
+	<language name="Norwegian">Uansett hva som skjer, blir jeg glad\nfor å se min egen sønn.</language></row>
 	<row id="msg_0586_T25R0401_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My big brother Bill made the\nPokémon Storage System.</language>
-	</row>
+	<language name="Norwegian">Storebroren min Bill har laget\nPokémon Storage System.</language></row>
 	<row id="msg_0586_T25R0401_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are you a Trainer?\rI’ve got a useful phone number\nfor you. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Er du en trener? \rJeg’har et nyttig telefonnummer\nfor deg. {YESNO 0}</language></row>
 	<row id="msg_0586_T25R0401_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} registered Bill\nin the Pokégear!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} registrerte Bill\ni Pokégear!</language></row>
 	<row id="msg_0586_T25R0401_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My brother made the\nPokémon Storage System.\rI was going to give you Bill’s number...</language>
-	</row>
+	<language name="Norwegian">Broren min lagde Pokémon-lagringssystemet. Jeg hadde tenkt å gi deg Bills nummer...</language></row>
 	<row id="msg_0586_T25R0401_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When you call my brother, he can tell\nyou about the PC Boxes where you\fstore your Pokémon!</language>
-	</row>
+	<language name="Norwegian">Når du ringer broren min, kan han fortelle\n deg om PC-boksene der du\flagrer dine Pokémon!</language></row>
 </body>

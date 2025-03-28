@@ -1,76 +1,76 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0541_T11R0802_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: Hi! Do you like Pokémon?\r{STRVAR_1 3, 0, 0}: Uh, no, I just asked you.\r{STRVAR_1 3, 0, 0}: Huh? You’re strange!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Hei! Liker du Pokémon?\r{STRVAR_1 3, 0, 0}: Øh, nei, jeg spurte deg nettopp.\r{STRVAR_1 3, 0, 0}: Hva? Du’er merkelig!\r{STRVAR_1 3.0.0}: Hæ?</language></row>
 	<row id="msg_0541_T11R0802_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: Hi. You must like\nPokémon.\r{STRVAR_1 3, 0, 0}: No, not me. I asked you.\r{STRVAR_1 3, 0, 0}: Pardon? You’re weird!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Hei. Du må like\nPokémon.\r{STRVAR_1 3, 0, 0}: Nei, ikke meg. Jeg spurte deg.\r{STRVAR_1 3, 0, 0}: Unnskyld? Du’er rar!\r{STRVAR_1 3.0.0}: Unnskyld?</language></row>
 	<row id="msg_0541_T11R0802_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Copycat: Hmm? Quit mimicking?\nBut that’s my main hobby!\r</language>
-	</row>
+	<language name="Norwegian">Copycat: Slutt å herme? Slutt å herme? \nMen det’er min viktigste hobby!\r</language></row>
 	<row id="msg_0541_T11R0802_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: Hi! I heard that you\nlost your cherished Poké Doll.\r{STRVAR_1 3, 0, 0}: If I find it, you’ll give\nme a Magnet Train Pass?\r{STRVAR_1 3, 0, 0}: I’ll go find it for you.\r{STRVAR_1 3, 0, 0}: You think you lost it\nwhen you went to Vermilion City?\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Hei! Jeg hørte at du\ntapte din kjære Poké Doll.\r{STRVAR_1 3, 0, 0}: Hvis jeg finner den, vil du’gi\nmeg et magnettogpass?\r{STRVAR_1 3, 0, 0}: Jeg’går og finner det for deg.\r{STRVAR_1 3, 0, 0}: Tror du at du mistet det da du dro til Vermilion City?</language></row>
 	<row id="msg_0541_T11R0802_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: Hi! I heard that you\nlost your cherished Poké Doll.\r{STRVAR_1 3, 0, 0}: If I find it, you’ll give\nme a Magnet Train Pass?\r{STRVAR_1 3, 0, 0}: I’ll go find it for you.\r{STRVAR_1 3, 0, 0}: You think you lost it\nwhen you went to Vermilion City?\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Hei! Jeg hørte at du\ntapte din kjære Poké Doll.\r{STRVAR_1 3, 0, 0}: Hvis jeg finner den, vil du’gi\nmeg et magnettogpass?\r{STRVAR_1 3, 0, 0}: Jeg’går og finner det for deg.\r{STRVAR_1 3, 0, 0}: Tror du at du mistet det da du dro til Vermilion City?</language></row>
 	<row id="msg_0541_T11R0802_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Copycat: Pardon?\rI shouldn’t decide what you should do?\rBut I’m really worried...\nWhat if someone finds it?\r</language>
-	</row>
+	<language name="Norwegian">Copycat: Unnskyld? \rJeg skal ikke bestemme hva du skal gjøre? \rMen jeg er veldig bekymret...\nHva om noen finner den? \r</language></row>
 	<row id="msg_0541_T11R0802_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Copycat: Yay! That’s my CLEFAIRY\nPoké Doll!\rSee the tear where the right arm is\nsewn on? That’s proof!\rOK. I’ll give you this Magnet Train Pass\nas I promised!\r</language>
-	</row>
+	<language name="Norwegian">Copycat: Yay! Det’er min CLEFAIRY\nPoké Doll!\rSe riften der den høyre armen er\nsydd på? Det er beviset! Jeg’gir deg dette magnettogkortet\nsom jeg lovte!\r</language></row>
 	<row id="msg_0541_T11R0802_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0541_T11R0802_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Copycat: You show it at the ticket\ngate to get on the Magnet Train.\rThe rail-company man gave me that\nwhen they tore down our old house\ffor the station.</language>
-	</row>
+	<language name="Norwegian">Copycat: Du viser den ved billettluken for å komme inn på magnettoget. jeg fikk den av mannen fra jernbaneselskapet da de rev det gamle huset vårt\ffor å bygge stasjonen.</language></row>
 	<row id="msg_0541_T11R0802_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: Hi!\nThanks a lot for the Magnet Train Pass!\r{STRVAR_1 3, 0, 0}: Pardon?\r{STRVAR_1 3, 0, 0}: Is it that fun to mimic\nmy every move?\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Hei!\nTusen takk for magnettogkortet!\r{STRVAR_1 3, 0, 0}: Unnskyld? \r{STRVAR_1 3, 0, 0}: Er det så morsomt å etterligne\nalle mine bevegelser?\r{STRVAR_1 3, 0, 0}: Unnskyld?</language></row>
 	<row id="msg_0541_T11R0802_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: Hi!\nThanks a lot for the Magnet Train Pass!\r{STRVAR_1 3, 0, 0}: Pardon?\r{STRVAR_1 3, 0, 0}: Is it that fun to mimic\nmy every move?\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Hei!\nTusen takk for magnettogkortet!\r{STRVAR_1 3, 0, 0}: Unnskyld? \r{STRVAR_1 3, 0, 0}: Er det så morsomt å etterligne\nalle mine bevegelser?\r{STRVAR_1 3, 0, 0}: Unnskyld?</language></row>
 	<row id="msg_0541_T11R0802_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Copycat: You bet! It’s a scream!\r</language>
-	</row>
+	<language name="Norwegian">Copycat: Det kan du banne på! Det er et skrik!</language></row>
 	<row id="msg_0541_T11R0802_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This Poké Doll looks just like the\nreal thing...\rAw! It moved!\nIt’s a real BANETTE!</language>
-	</row>
+	<language name="Norwegian">Denne Poké Doll ser akkurat ut som den\nvirkelige tingen ...\rAw! Den beveget seg! \nDet’er en ekte BANETTE!</language></row>
 	<row id="msg_0541_T11R0802_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BANETTE: Giggle!</language>
-	</row>
+	<language name="Norwegian">BANETTE: Fnis!</language></row>
 	<row id="msg_0541_T11R0802_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is a flowerlike Poké Doll...\nIt is a CHERRIM Poké Doll!</language>
-	</row>
+	<language name="Norwegian">Dette er en blomsterlignende Poké Doll ...\nDet er en CHERRIM Poké Doll!</language></row>
 	<row id="msg_0541_T11R0802_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is a nose-like Poké Doll...\nIt is a NOSEPASS Poké Doll!</language>
-	</row>
+	<language name="Norwegian">Dette er en nese-lignende Poké Doll ...\nDet er en NOSEPASS Poké Doll!</language></row>
 	<row id="msg_0541_T11R0802_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s a CLEFAIRY!\nHuh?\rOh, right. It’s a CLEFAIRY Poké Doll.</language>
-	</row>
+	<language name="Norwegian">Det er en CLEFAIRY! Det er en CLEFAIRY Poké Doll.</language></row>
 	<row id="msg_0541_T11R0802_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s a CLEFAIRY Poké Doll.\rIt has a tear where the right arm\nwas sewn on.</language>
-	</row>
+	<language name="Norwegian">Det’er en CLEFAIRY Poké Doll.\rDen har en rift der den høyre armen\nble sydd på.</language></row>
 </body>

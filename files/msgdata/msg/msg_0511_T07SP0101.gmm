@@ -1,65 +1,65 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0511_T07SP0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My name is Mr. Game!\rMy heart pounds with excitement when\npeople enjoy my Coin game!\rIn fact, that’s what I live for!\nYou look like quite a challenger!\rWhy don’t you play my Coin game?\fYou can get fabulous prizes if you\nmanage to collect a lot of Coins. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Mitt navn er Mr. Game!\rMitt hjerte banker av begeistring når\nfolk liker myntspillet mitt!\rDet er faktisk det’jeg lever for!\nDu ser ut som litt av en utfordrer!\rHvorfor ikke’spiller du ikke myntspillet mitt?\fDu kan få fantastiske premier hvis du\nklarer å samle mange mynter. {YESNO 0}</language></row>
 	<row id="msg_0511_T07SP0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0511_T07SP0101_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0511_T07SP0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right!\nHere is your Coin Case!\r</language>
-	</row>
+	<language name="Norwegian">Greit!\nHer er myntkofferten din!\r</language></row>
 	<row id="msg_0511_T07SP0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Show me how you play and make\nmy heart pound with excitement!\r</language>
-	</row>
+	<language name="Norwegian">Vis meg hvordan du spiller og få\nhjertet mitt til å banke av begeistring!\r</language></row>
 	<row id="msg_0511_T07SP0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Playing my Coin game will make your\nheart and my heart both pound with\fexcitement, you know?</language>
-	</row>
+	<language name="Norwegian">Å spille Coin-spillet mitt vil få både ditt\nhjerte og mitt hjerte til å banke av\fspenning, vet du?</language></row>
 	<row id="msg_0511_T07SP0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My name is Mr. Game!\rMy heart pounds with excitement when\npeople enjoy my Coin game!\rIn fact, that’s what I live for!\nGo ahead and play it!\fMake my heart pound with excitement!</language>
-	</row>
+	<language name="Norwegian">Mitt navn er Mr. Game!\rMitt hjerte banker av begeistring når\nfolk liker Coin-spillet mitt!\rFaktisk er det’det jeg lever for!\nSpill det bare!\fFå hjertet mitt til å banke av begeistring!</language></row>
 	<row id="msg_0511_T07SP0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Go ahead and play my Coin game!\nMake my heart pound with excitement!</language>
-	</row>
+	<language name="Norwegian">Sett i gang og spill Coin-spillet mitt!\nFå hjertet mitt til å banke av begeistring!</language></row>
 	<row id="msg_0511_T07SP0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What a feeling!\nNothing beats Coin-game spectatorship!\rOh! I almost forgot!\rYou can go to the building next door\nand exchange your Coins for prizes.</language>
-	</row>
+	<language name="Norwegian">For en følelse!\nIngenting slår å være tilskuer i et myntspill!\rÅh, det glemte jeg nesten!\rDu kan gå til bygningen ved siden av\nog veksle inn myntene dine i premier.</language></row>
 	<row id="msg_0511_T07SP0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you come back to play\nmy Coin game?</language>
-	</row>
+	<language name="Norwegian">Kom du tilbake for å spille myntspillet mitt?</language></row>
 	<row id="msg_0511_T07SP0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It seems you need a Coin Case\nto play...\r</language>
-	</row>
+	<language name="Norwegian">Det ser ut til at du trenger en Coin Case\nfor å spille...\r</language></row>
 	<row id="msg_0511_T07SP0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mr. Game: Aha!\nYou must be here to play my Coin game!\rCome here and I’ll give you a Coin Case!</language>
-	</row>
+	<language name="Norwegian">Mr. Game: Aha!\nDu må være her for å spille myntspillet mitt!\rKom hit, så skal jeg’gi deg en myntkoffert!</language></row>
 	<row id="msg_0511_T07SP0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mr. Game: Show me how you play and\nmake my heart pound with excitement!\r</language>
-	</row>
+	<language name="Norwegian">Mr. Game: Vis meg hvordan du spiller, og få hjertet mitt til å banke av begeistring!</language></row>
 	<row id="msg_0511_T07SP0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mr. Game: Huh?\rWhy don’t you sit across from me\nand show me how you play?</language>
-	</row>
+	<language name="Norwegian">Mr. Game: Hva? Hvorfor setter du deg ikke overfor meg og viser meg hvordan du spiller?</language></row>
 	<row id="msg_0511_T07SP0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo, legend in the making!\nDo you play this Coin game, too?\rI’ve been trying for the prize Pokémon,\nbut that’s a tough game to beat!</language>
-	</row>
+	<language name="Norwegian">Hei, en legende i emning!\nSpiller du også dette Coin-spillet?\rJeg’har prøvd å få tak i premie-Pokémon,\nmen det’er et vanskelig spill å slå!</language></row>
 </body>

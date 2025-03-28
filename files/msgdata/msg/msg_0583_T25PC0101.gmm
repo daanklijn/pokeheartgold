@@ -1,31 +1,31 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0583_T25PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Colosseum upstairs is for\nlink battles.\rBattle records, such as how many times\nyou had link battles and the results,\fare recorded on the back of your\fTrainer Card.</language>
-	</row>
+	<language name="Norwegian">Colosseum ovenpå er for\nlink-kamper.\rKampoppføringer, for eksempel hvor mange ganger\ndu har hatt link-kamper og resultatene,\fer registrert på baksiden av ditt\fTrenerkort.</language></row>
 	<row id="msg_0583_T25PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, you are a Team Rocket member...</language>
-	</row>
+	<language name="Norwegian">Å, du er medlem av Team Rocket...</language></row>
 	<row id="msg_0583_T25PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I wonder how many kinds of Pokémon\nthere are in the world.\rA long time ago, Professor Oak said\nthere were 150 different kinds...\rSince then, many new Pokémon have\nbeen discovered in different regions.\rThere are almost 500 different kinds\nknown now...</language>
-	</row>
+	<language name="Norwegian">Jeg lurer på hvor mange typer Pokémon\ndet finnes i verden.\rFor lenge siden sa professor Oak\nat det fantes 150 forskjellige typer...\rSiden da har mange nye Pokémon\nblitt oppdaget i forskjellige regioner.\rDet er nesten 500 forskjellige typer\nkjent nå...</language></row>
 	<row id="msg_0583_T25PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team Rocket...!</language>
-	</row>
+	<language name="Norwegian">Team Rocket...!</language></row>
 	<row id="msg_0583_T25PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A higher level Pokémon doesn’t\nalways win.\rAfter all, it may have a type\ndisadvantage.\rI don’t think there is a single\nPokémon that is the toughest.</language>
-	</row>
+	<language name="Norwegian">En Pokémon på et høyere nivå vinner ikke’alltid.\rDen kan tross alt ha en type\nulempe.\rJeg tror’ikke at det finnes en eneste\nPokémon som er den tøffeste.</language></row>
 	<row id="msg_0583_T25PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I think I’ve met you before...\rYou must have a reason for\nlooking like that...?</language>
-	</row>
+	<language name="Norwegian">Jeg tror jeg har møtt deg før...’Du må ha en grunn til at du ser sånn ut...?</language></row>
 	<row id="msg_0583_T25PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, I don’t mind restoring a Pokémon’s\nhealth, even when they belong to\fTeam Rocket...\rBut stay away from other places, OK?</language>
-	</row>
+	<language name="Norwegian">Hei, jeg har ikke noe imot å gjenopprette en Pokémon’s’helse, selv når de tilhører\fTeam Rocket...\rMen hold deg unna andre steder, OK?</language></row>
 </body>

@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0505_T07R0205_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Let me recount a terrifying tale...\r</language>
-	</row>
+	<language name="Norwegian">La meg fortelle en skremmende historie ... \r</language></row>
 	<row id="msg_0505_T07R0205_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Then again, it’s not as scary while\nit’s still light outside.\rCome back after sunset, OK?</language>
-	</row>
+	<language name="Norwegian">Men det er ikke like skummelt så lenge det fortsatt er lyst ute.</language></row>
 	<row id="msg_0505_T07R0205_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Once upon a time, there was a little\nboy who was given a new Bicycle...\fHe wanted to try it right away...\rHe was having so much fun that he\ndidn’t notice that it was\falready dark...\rWhile riding home in the pitch-black\nnight, the Bike suddenly slowed!\rThe pedals became heavy!\rThe Bike began slipping\nbackward as if it was dragged\fby someone!\rIt was as if the Bike were cursed and\ntrying to drag him into oblivion!\r...\r...\rShrieeeek!\rThe boy had been riding uphill on\nCycling Road!\r...\nBa-dum, ba-dum!\rFor listening so patiently, you may\ntake this item--Spell Tag!\r</language>
-	</row>
+	<language name="Norwegian">Det var en gang en liten\ngutt som fikk en ny sykkel...\fHan ville prøve den med en gang...\rHan hadde det så gøy at han\nikke la merke til at det allerede var’mørkt...\rHan hadde det så gøy at han\nikke la merke til at det allerede var\fmørkt...\rMens han syklet hjem i den bekmørke\nnatten, ble sykkelen plutselig tregere!\rPedalene ble tunge!\rSykkelen begynte å gli\nbakover som om den ble dratt\fav noen!\rDet var som om sykkelen var forbannet og\nforsøkte å dra ham inn i glemselen!\r...\r...\r...\r...\rShrieeeek!\rGutten hadde syklet oppover på\nsykkelveien!\r...\nBa-dum, ba-dum!\rFor at du har lyttet så tålmodig, kan du\nta denne gjenstanden - spell tag!\r...\r...\r...\r...\r...</language></row>
 	<row id="msg_0505_T07R0205_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Spell Tag boosts the power of\nGhost-type moves.\rIt won’t slow your Bicycle, so\ndon’t worry!</language>
-	</row>
+	<language name="Norwegian">Spell Tag øker kraften til\nbevegelser av spøkelsestypen.\rDen vil’ikke sinke sykkelen din, så\nikke’bekymre deg!</language></row>
 </body>

@@ -1,104 +1,104 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0571_T23R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hm? Who are you?\r{STRVAR_1 3, 0, 0}, eh? You want me to make\nsome Balls?\rSorry, but that’ll have to wait.\rDo you know Team Rocket?\nAh, don’t worry. I’ll tell you anyhow.\rTeam Rocket’s an evil gang that\nuses Pokémon for their dirty work.\rThey’re supposed to have disbanded\nthree years ago.\rAnyway, they’re at the well, cutting\noff SlowpokeTails for sale!\rSo I’m going to go give them a\nlesson in pain!\rHang on, SLOWPOKE!\nOld Kurt is on his way!</language>
-	</row>
+	<language name="Norwegian">Hm? Hvem er du? Vil du at jeg skal lage noen baller? \rUnskyld, men det’må vente.\rKjenner du Team Rocket? \nÅh, ikke vær redd. Jeg’skal fortelle deg det likevel.\rTeam Rocket’er en ond gjeng som\nbruker Pokémon til det skitne arbeidet sitt.\rDe’skulle egentlig ha blitt oppløst\nfor tre år siden.\rMen de’er ved brønnen og skjærer\nav Slowpoke-haler for salg!\rSå jeg’skal gå og gi dem en\nleksjon i smerte!\rHold ut, SLOWPOKE!\nGamle Kurt er på vei!</language></row>
 	<row id="msg_0571_T23R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt: Hi, {STRVAR_1 3, 0, 0}!\nYou handled yourself like a real hero.\rAs I mentioned before, Team Rocket was\ndisbanded by a boy called Red three\fyears ago.\rNow that they have come back...\nI have a bad feeling about it...\rIn any case, it would please me greatly\nto make Poké Balls for a Trainer\flike you, {STRVAR_1 3, 0, 0}.\fThis is all I have now, but take it.\r</language>
-	</row>
+	<language name="Norwegian">Kurt: Hei, {STRVAR_1 3, 0, 0}!\nDu håndterte deg selv som en ekte helt.\rSom jeg nevnte før, Team Rocket ble\noppløst av en gutt som heter Red for tre\får siden.\rNå som de har kommet tilbake...\nJeg har en dårlig følelse..\nJeg har en dårlig følelse om det...\rDet ville uansett glede meg veldig\nå lage Pokéballer til en trener\fsom deg, {STRVAR_1 3, 0, 0}.\fDette er alt jeg har nå, men ta det.\rDet er alt jeg har.</language></row>
 	<row id="msg_0571_T23R0501_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0571_T23R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt: I make Poké Balls from Apricorns.\rCollect them from trees and bring\n’em to me.\rI’ll make Poké Balls out of them.</language>
-	</row>
+	<language name="Norwegian">Kurt: Jeg lager Poké Balls av Apricorns.\rSamle dem fra trærne og ta\n’dem med til meg.\rJeg’skal lage Poké Balls av dem.</language></row>
 	<row id="msg_0571_T23R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt: You have Apricorns for me?\fFine! I’ll turn them into Poké Balls.\r</language>
-	</row>
+	<language name="Norwegian">Kurt: Har du aprikorn til meg? \fFint! Jeg’ skal gjøre dem om til Pokéballer.\r</language></row>
 	<row id="msg_0571_T23R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt: It’ll take a day to make you a\nPoké Ball. Come back for it later.</language>
-	</row>
+	<language name="Norwegian">Kurt: Det’tar en dag å lage en\nPokéball til deg. Kom tilbake etter den senere.</language></row>
 	<row id="msg_0571_T23R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt: Oh...\nThat’s a letdown.</language>
-	</row>
+	<language name="Norwegian">Kurt: Åh ... \nDet’er en skuffelse.</language></row>
 	<row id="msg_0571_T23R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt: I’m working!\nDon’t bother me!</language>
-	</row>
+	<language name="Norwegian">Kurt: Jeg’jobber! \nIkke’forstyrr meg!</language></row>
 	<row id="msg_0571_T23R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt: Ah, {STRVAR_1 3, 0, 0}!\fI just finished your Poké Ball. Here!\r</language>
-	</row>
+	<language name="Norwegian">Kurt: Ah, {STRVAR_1 3, 0, 0}!\fJeg ble nettopp ferdig med Pokéballen din. Her!\r</language></row>
 	<row id="msg_0571_T23R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt: Your Bag is full!\nCome back when it’s lighter.</language>
-	</row>
+	<language name="Norwegian">Kurt: Vesken din er full! \nKom tilbake når den’er lettere.</language></row>
 	<row id="msg_0571_T23R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt: That turned out great.\rTry catching Pokémon with it.</language>
-	</row>
+	<language name="Norwegian">Kurt: Det gikk jo kjempebra. \rPrøv å fange Pokémon med den.</language></row>
 	<row id="msg_0571_T23R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The SLOWPOKE are gone...\nWere they taken away by bad people?</language>
-	</row>
+	<language name="Norwegian">SLOWPOKE er borte ... \nBle de tatt bort av onde mennesker?</language></row>
 	<row id="msg_0571_T23R0501_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Grandpa’s gone...\nI’m so lonely...</language>
-	</row>
+	<language name="Norwegian">Bestefar’er borte...\nJeg’er så ensom...</language></row>
 	<row id="msg_0571_T23R0501_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The SLOWPOKE my dad gave me came\nback! Its tail has grown back, too!</language>
-	</row>
+	<language name="Norwegian">SLOWPOKEn jeg fikk av pappa kom\ntilbake! Halen har også vokst ut igjen!</language></row>
 	<row id="msg_0571_T23R0501_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dad works at Silph where he studies\nPoké Balls.\rI have to stay home with Grandpa\nand SLOWPOKE.</language>
-	</row>
+	<language name="Norwegian">Pappa jobber på Silph hvor han studerer\nPoké Balls.\rJeg må være hjemme med bestefar\nog SLOWPOKE.</language></row>
 	<row id="msg_0571_T23R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s right!\nI’ll give you my grandpa’s number. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Det stemmer! Jeg skal gi deg nummeret til bestefaren min. {YESNO 0}</language></row>
 	<row id="msg_0571_T23R0501_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} registered Kurt\nin the Pokégear!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} registrerte Kurt\ni Pokégear!</language></row>
 	<row id="msg_0571_T23R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My grandpa can tell you more\nabout Apricorns.</language>
-	</row>
+	<language name="Norwegian">Bestefaren min kan fortelle deg mer om aprikorn.</language></row>
 	<row id="msg_0571_T23R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No? Why?\nYou don’t want to talk to my grandpa?</language>
-	</row>
+	<language name="Norwegian">Nei? Hvorfor? Hvorfor? Vil du ikke snakke med bestefaren min?</language></row>
 	<row id="msg_0571_T23R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You want to talk to my grandpa,\ndon’t you? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du vil snakke med bestefaren min, ikke sant? {YESNO 0}</language></row>
 	<row id="msg_0571_T23R0501_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SLOWPOKE: ...\nYawn?</language>
-	</row>
+	<language name="Norwegian">...\nJawn?</language></row>
 	<row id="msg_0571_T23R0501_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You see three people, with landscape\nin the background.\rIt’s Kurt, Professor Oak, and...\nin the middle,\fa lady with determined eyes.</language>
-	</row>
+	<language name="Norwegian">Du ser tre personer, med landskapet\ni bakgrunnen.\rDet’er Kurt, professor Oak, og...\ni midten,\fen dame med bestemte øyne.</language></row>
 	<row id="msg_0571_T23R0501_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s a statue of the forest’s\nprotector.</language>
-	</row>
+	<language name="Norwegian">Det’er en statue av skogens’beskytter.</language></row>
 	<row id="msg_0571_T23R0501_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The radio is on.\rIt’s Professor Oak’s Pokémon Talk!</language>
-	</row>
+	<language name="Norwegian">Radioen er på.\rDet’er Professor Oak’s Pokémon Talk!</language></row>
 	<row id="msg_0571_T23R0501_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The radio is declaring the revival\nof Team Rocket!</language>
-	</row>
+	<language name="Norwegian">Radioen erklærer at Team Rocket har gjenoppstått!</language></row>
 </body>

@@ -1,151 +1,151 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0600_T25R1201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome! This is the Global Trade\nStation, or GTS for short.\rWe enable the trading of Pokémon with\npeople worldwide over Nintendo WFC.\rWould you like to do a global\nPokémon trade? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Velkommen til oss! Dette er Global Trade\nStation, eller GTS forkortet.\rVi gjør det mulig å handle Pokémon med\nfolk over hele verden via Nintendo WFC.\rVil du gjøre en global\nPokémon-handel? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello!\nWelcome to the GTS!\rWould you like to do a global Pokémon\ntrade over Nintendo Wi-Fi\fConnection? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hallo!\nVelkommen til GTS!\rVil du gjøre en global Pokémon\nhandel over Nintendo Wi-Fi\ftilkobling? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You may trade Pokémon one of two\nways at the GTS.\rYou may offer a Pokémon for trade,\nor search among offered Pokémon.\rShould I describe things in greater\ndetail? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du kan bytte Pokémon på to måter på GTS.\nDu kan tilby en Pokémon for bytte,\neller søke blant tilbudte Pokémon.\rBør jeg beskrive ting mer\ndetaljert? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You will be asked to put up the\nPokémon you are offering to trade.\rAt that time, you will be asked what\nPokémon you would like in return.\rIf another player offers your desired\nPokémon in return for your offered\fPokémon, the trade will go through.\rShould I explain anything else? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du vil bli bedt om å legge opp den\nPokémonen du tilbyr å bytte.\rDa vil du bli spurt om hvilken\nPokémon du ønsker i retur.\rHvis en annen spiller tilbyr din ønskede\nPokémon i retur for din tilbudte\fPokémon, vil byttet gå gjennom.\rBør jeg forklare noe mer? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You may search among the Pokémon\nthat are offered by other Trainers.\rThey will all identify what Pokémon\ntheir Trainers want back in return.\rIf you find one that you want, you\nmust provide us with the kind of\fPokémon wanted in return.\rShould I explain anything else? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du kan søke blant Pokémon\nsom tilbys av andre trenere.\rDe vil alle identifisere hvilke Pokémon\nderes trenere vil ha tilbake.\rHvis du finner en du vil ha, må du\ngi oss den typen\fPokémon du vil ha i retur.\rBør jeg forklare noe mer? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to make a global\nPokémon trade? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Ønsker du å gjøre en global\nPokémon-handel? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please do visit again.</language>
-	</row>
+	<language name="Norwegian">Besøk oss gjerne igjen.</language></row>
 	<row id="msg_0600_T25R1201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I hope you enjoy your visit\nto the GTS!\r</language>
-	</row>
+	<language name="Norwegian">Jeg håper du liker besøket ditt på GTS!</language></row>
 	<row id="msg_0600_T25R1201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Uh-oh!\rI’m sorry, but your team and all\nyour PC Boxes are full.\rIf you wish to use the GTS, you must\nhave room on your team or in a PC Box.</language>
-	</row>
+	<language name="Norwegian">...Uh-oh!\rJeg’beklager, men laget ditt og alle\ndine PC-bokser er fulle.\rHvis du ønsker å bruke GTS, må du\nha plass på laget ditt eller i en PC-boks.</language></row>
 	<row id="msg_0600_T25R1201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Uh-oh!\nYou only have one Pokémon with you.\rIf you wish to use the GTS, you must\nhave at least two Pokémon with you.\rPlease come back with more Pokémon\non your team.</language>
-	</row>
+	<language name="Norwegian">...Uh-oh! \nDu har bare én Pokémon med deg.\rHvis du ønsker å bruke GTS, må du\nha minst to Pokémon med deg.\rVennligst kom tilbake med flere Pokémon\npå laget ditt.</language></row>
 	<row id="msg_0600_T25R1201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Such a small world it is, eh?\rEh? Wait, this is a miniature?\nThe real Earth is millions of times bigger\fthan this?\rWhoaaaaaaa!</language>
-	</row>
+	<language name="Norwegian">Verden er så liten, hva? Vent, er dette en miniatyr? Den virkelige jorden er millioner av ganger større enn denne?</language></row>
 	<row id="msg_0600_T25R1201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">They say if you communicate with\nsomeone, their location is\frecorded on this giant globe.</language>
-	</row>
+	<language name="Norwegian">De sier at hvis du kommuniserer med\nnoen, blir deres posisjon\fregistrert på denne gigantiske jordkloden.</language></row>
 	<row id="msg_0600_T25R1201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All I need to do is leave a Pokémon\nhere to trade.\rWho knows, it might be traded while\nI’m asleep tonight.</language>
-	</row>
+	<language name="Norwegian">Alt jeg trenger å gjøre er å legge igjen en Pokémon\nher for å bytte.\rVem vet, kanskje den blir byttet mens\njeg’sover i natt.</language></row>
 	<row id="msg_0600_T25R1201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Using the equipment here, you can easily\ntrade Pokémon with other Pokémon fans\fon the other side of the world!\rThat’s incredible!</language>
-	</row>
+	<language name="Norwegian">Ved hjelp av utstyret her kan du enkelt\nhandle Pokémon med andre Pokémon-fans\fpå den andre siden av verden!\rDet’er utrolig!</language></row>
 	<row id="msg_0600_T25R1201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can register where you live on\nthis giant globe.\rOnce you do, you can show your location\nto anyone you communicate with.</language>
-	</row>
+	<language name="Norwegian">Du kan registrere hvor du bor på\ndenne gigantiske jordkloden. \rNår du har gjort det, kan du vise posisjonen din\ntil alle du kommuniserer med.</language></row>
 	<row id="msg_0600_T25R1201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nintendo WFC is so easy to use,\neven I can trade Pokémon now!</language>
-	</row>
+	<language name="Norwegian">Nintendo WFC er så enkelt å bruke, \ntil og med jeg kan bytte Pokémon nå!</language></row>
 	<row id="msg_0600_T25R1201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This week, I’ll do it!\rI really want to make the Top 4 of the\nrankings.</language>
-	</row>
+	<language name="Norwegian">Denne uken skal jeg’gjøre det!\rJeg har virkelig lyst til å komme blant topp 4 på\nrangeringen.</language></row>
 	<row id="msg_0600_T25R1201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Global Terminal has three floors.\rYou use warp panels for getting from\none floor to another.\rA blue panel takes you to the GTS on\nthe ground floor.\rTake a green panel to the studios for\nBox Data and Dress-Up Data on 2F.\rTake a pink warp panel to the third\nfloor for the Battle Video Gallery.</language>
-	</row>
+	<language name="Norwegian">Den globale terminalen har tre etasjer.\rDu bruker warppaneler for å komme deg fra\nen etasje til en annen.\rEt blått panel tar deg til GTS i\nførste etasje.\rTa et grønt panel til studioene for\nBox Data og Dress-Up Data i 2F.\rTa et rosa warppanel til tredje\netasje for Battle Video Gallery.</language></row>
 	<row id="msg_0600_T25R1201_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your favorite is {STRVAR_1 0, 0, 0},\nisn’t it? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Favoritten din er {STRVAR_1 0, 0, 0},\nikke sant? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your favorite is that Egg,\nisn’t it? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Favoritten din er det egget,\nikke sant? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yes, I was right!\nI thought so!</language>
-	</row>
+	<language name="Norwegian">Ja, jeg hadde rett!</language></row>
 	<row id="msg_0600_T25R1201_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Oh? Your favorite really is\n{STRVAR_1 0, 0, 0}, isn’t it?</language>
-	</row>
+	<language name="Norwegian">...Åh? Favoritten din er vel egentlig\n{STRVAR_1 0, 0, 0, 0}, er den ikke’?</language></row>
 	<row id="msg_0600_T25R1201_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Oh? Your favorite really is that Egg,\nisn’t it?</language>
-	</row>
+	<language name="Norwegian">...Å? Er det virkelig det Egget som er favoritten din?</language></row>
 	<row id="msg_0600_T25R1201_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I want to know everyone’s favorite\nkinds of Pokémon.</language>
-	</row>
+	<language name="Norwegian">Jeg ønsker å vite alle’s favoritt\nkinds av Pokémon.</language></row>
 	<row id="msg_0600_T25R1201_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo, yo, yo!\rWanna let the world know about you?\nThen you gotta tell me, yo! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Yo, yo, yo!\rVil du fortelle verden om deg? \nDa må du fortelle meg det, yo! {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo, I know all I need to know about\nyou now.\rIf you want to change your message,\nI’m the guy to see, yo!</language>
-	</row>
+	<language name="Norwegian">Yo, jeg vet alt jeg trenger å vite om deg nå.\nHvis du vil endre budskapet ditt, \ner det meg’du skal snakke med, yo!</language></row>
 	<row id="msg_0600_T25R1201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo! You don’t have anything you want\nto say?\rIf you want to change your message,\nI’m the guy to see, yo!</language>
-	</row>
+	<language name="Norwegian">Yo! Har du ikke noe du vil si? Hvis du vil endre meldingen din, er det meg du skal snakke med!</language></row>
 	<row id="msg_0600_T25R1201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There are several portal machines here\nat the Global Terminal.\rYou must set your Vs. Recorder in\nthe machines for communication.\rPlease do give the machines a try, as\nthey guide you through the operation.</language>
-	</row>
+	<language name="Norwegian">Det finnes flere portalmaskiner her\npå den globale terminalen.\rDu må stille inn din Vs. Recorder i\nmaskinene for kommunikasjon.\rPrøv gjerne maskinene, da\nde veileder deg gjennom operasjonen.</language></row>
 	<row id="msg_0600_T25R1201_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to the Global Terminal!\rHere, you may join the huge community\nof Trainers worldwide.\rYou may view the records of Trainers\nlike yourself from around the world.\rYou may also trade Pokémon with the\nworld’s Trainers.</language>
-	</row>
+	<language name="Norwegian">Velkommen til den globale terminalen!\rHer kan du bli med i det enorme fellesskapet\nav trenere over hele verden.\rDu kan se oversiktene til trenere\nsom deg selv fra hele verden.\rDu kan også bytte Pokémon med\nverdens’trenere.</language></row>
 	<row id="msg_0600_T25R1201_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Connect to Nintendo Wi-Fi\nConnection for Trainer Rankings? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Koble til Nintendo Wi-Fi\nKobling for Trainer Rankings? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Trainer Rankings is a team-based\nranking system for Trainers around\fthe world.\rThe Trainers will be divided into several\ngroups and ranked in many categories.\rIf you join, your Trainer achievements\nare automatically sent to your team.\rIn other words, what you do as a\nTrainer can help your team’s standings.\rBeware!\rIf you enter a ranking category more\nthan once, only the points earned from\fyour previous report will be tallied.\r</language>
-	</row>
+	<language name="Norwegian">Trainer Rankings er et lagbasert\nrangeringssystem for trenere rundt om i verden.\rTrenerne vil bli delt inn i flere\ngrupper og rangert i mange kategorier.\rHvis du blir med, vil dine trenerprestasjoner\nautomatisk bli sendt til laget ditt.\rDet du gjør som\ntrener kan med andre ord hjelpe laget ditt’s rangering.\rVær oppmerksom! \rHvis du går inn i en rangeringskategori mer\nenn én gang, vil bare poengene du tjente fra\fdin forrige rapport bli regnet med.\r</language></row>
 	<row id="msg_0600_T25R1201_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Connect to Nintendo Wi-Fi Connection\nand examine the Battle Video\fRankings? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Koble til Nintendo Wi-Fi-tilkobling\nog se på kampvideoen\fRangeringer? {YESNO 0}</language></row>
 	<row id="msg_0600_T25R1201_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Video Rankings is a gallery of\npopular Battle Videos.\rStudy many classic battles and sharpen\nyour own Trainer skills.\r</language>
-	</row>
+	<language name="Norwegian">Battle Video Rankings er et galleri medm id = 0 /populære kampvideoer.m id = 1 /Studer mange klassiske kamper og skjerpm id = 0 /dine egne trenerferdigheter.m id = 1 /</language></row>
 	<row id="msg_0600_T25R1201_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">USE</language>
-	</row>
+	<language name="Norwegian">BRUK</language></row>
 	<row id="msg_0600_T25R1201_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">INFO</language>
-	</row>
+	<language name="Norwegian">INFO</language></row>
 	<row id="msg_0600_T25R1201_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
-	</row>
+	<language name="Norwegian">AVBRYT</language></row>
 	<row id="msg_0600_T25R1201_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The green panel leads to the studios\nfor Box Data and Dress-Up Data on 2F.\rThe pink panel leads to the Battle\nVideo Gallery on 3F.</language>
-	</row>
+	<language name="Norwegian">Det grønne panelet fører til studioene\nfor Box Data og Dress-Up Data på 2F.\rDet rosa panelet fører til Battle\nVideogalleriet på 3F.</language></row>
 </body>

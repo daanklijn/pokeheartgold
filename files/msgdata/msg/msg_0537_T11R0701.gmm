@@ -1,132 +1,132 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0537_T11R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome. This is Silph Co.’s\nhead office building.</language>
-	</row>
+	<language name="Norwegian">Velkommen til oss. Dette er Silph Co.s’s\nhovedkontorbygning.</language></row>
 	<row id="msg_0537_T11R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, you! The elevator there is out of\norder now.\rSomething is wrong with the electricity,\nand it won’t work right.\rI feel sorry that you wasted a trip,\nso here is a gift for you!\r</language>
-	</row>
+	<language name="Norwegian">Hei, du der! Heisen der er ute av\nbestilling nå.\rNoe er galt med strømmen,\nog den vil’ikke fungere som den skal.\rJeg synes det er leit at du har kastet bort en tur,\nså her er en gave til deg!\r</language></row>
 	<row id="msg_0537_T11R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s Silph Co.’s latest product.\nIt’s not for sale anywhere yet.</language>
-	</row>
+	<language name="Norwegian">Det’er Silph Co.’s nyeste produkt.\nDet’er ikke til salgs noe sted ennå.</language></row>
 	<row id="msg_0537_T11R0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This elevator is out of order.\rIt may electrocute you. Stay away.</language>
-	</row>
+	<language name="Norwegian">Heisen er i ustand. Den kan gi deg støt. Hold deg unna.</language></row>
 	<row id="msg_0537_T11R0701_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0537_T11R0701_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0537_T11R0701_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0537_T11R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: We meet again!\nHave you been to Hoenn before?\rIt’s such a beautiful place, with the\nclearest ocean you can imagine.\rYou should visit sometime.\fHey!\rWhy don’t we trade Pokémon?\rI’ve been looking for FORRETRESS.\nI can trade my BELDUM for it. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Steven: Vi møtes igjen!\nHar du vært i Hoenn før?\rDet’er et så vakkert sted, med det\nklareste havet du kan forestille deg.\rDu burde besøke det en gang.\fHei! \rHvorfor ikke’bytte Pokémon? \rJeg’har vært på utkikk etter FORRETRESS.\nJeg kan bytte min BELDUM mot den. {YESNO 0}</language></row>
 	<row id="msg_0537_T11R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: Will you trade FORRETRESS\nfor my BELDUM? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Steven: Vil du bytte FORRETRESS\nmot mitt BELDUM? {YESNO 0}</language></row>
 	<row id="msg_0537_T11R0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: OK, let’s trade!\r</language>
-	</row>
+	<language name="Norwegian">Steven: OK, la oss handle!</language></row>
 	<row id="msg_0537_T11R0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: That’s too bad.</language>
-	</row>
+	<language name="Norwegian">Steven: Det var synd.</language></row>
 	<row id="msg_0537_T11R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: Are you telling me that\nyou think that’s a FORRETRESS?</language>
-	</row>
+	<language name="Norwegian">Steven: Sier du at du tror det er en FORRETRESS?</language></row>
 	<row id="msg_0537_T11R0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: You don’t see FORRETRESS in\nthe Hoenn region.\rIt’s my first time to actually see one.\nThank you so much!\rOh, look at the time. I really must go.\r</language>
-	</row>
+	<language name="Norwegian">Steven: Du ser ikke’forRETRESS i\nHoenn-regionen.\rDet’er første gang jeg faktisk ser en.\nTusen takk!\rÅh, se på tiden. Jeg må virkelig gå.\r</language></row>
 	<row id="msg_0537_T11R0701_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: This Pokémon seems to like\nyou a lot. Do you happen to like\fSteel-type Pokémon?\rI had a feeling.\nThat particular texture!\rThe cool and glowing bodies!\nSuch uniquenesses are only for\fSteel-type Pokémon!\rWhen it comes to the solitariness and\nnobleness you sense through the \frugged body, which is almost rebuffing\fwhen you hug, nothing comes close to\fBELDUM, I must say...\rIn short, my METAGROSS is\ntruly strong and cool!\r...\nOh, it seems that I got carried away.\rIt was a pleasure talking to you.\nBye!\r</language>
-	</row>
+	<language name="Norwegian">Steven: Denne Pokémon ser ut til å like\ndeg veldig godt. Liker du tilfeldigvis\fPokémon av ståltype?\rJeg hadde en følelse.\nDen spesielle teksturen!\rDe kjølige og glødende kroppene!\nSlike unikheter er bare for\fPokémon av ståltype!\rNår det gjelder ensomheten og\n edelheten du fornemmer gjennom den \fruggete kroppen, som nesten er avvisende\fnår du klemmer, er det ingenting som kommer i nærheten av\fBELDUM, må jeg si...\rKort sagt, min METAGROSS er\nvirkelig sterk og kul!\r...\n...\nÅh, det ser ut til at jeg lot meg rive med.\rDet var en fornøyelse å snakke med deg.\nHa det bra!\r...\r...\r...</language></row>
 	<row id="msg_0537_T11R0701_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello...\nYou’re breaking up...\fI think it depends on how my dad feels.\rI see...\nI’ll be on my way. See you soon.\r</language>
-	</row>
+	<language name="Norwegian">Hallo...\nDu’bryter opp...\fJeg tror det kommer an på hvordan pappa har det.\rJeg skjønner...\nJeg’er på vei. Vi ses snart.</language></row>
 	<row id="msg_0537_T11R0701_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: You are...\nI remember your eyes.\rWhen I see a Trainer whose eyes\ntwinkle, I always remember.\r</language>
-	</row>
+	<language name="Norwegian">Steven: Du er ...\nJeg husker øynene dine.\rNår jeg ser en trener som har\nblinkende øyne, husker jeg det alltid.\r</language></row>
 	<row id="msg_0537_T11R0701_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: You have a Pokédex!\nSo you are also in search of Pokémon.\fLet me see...\rI think I can help you with that.\rLet’s say that you have stones in\nfront of you.\fWhich color would you pick? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Steven: Du har en Pokédex!\nSå du er også på jakt etter Pokémon.\fLa meg se...\rJeg tror jeg kan hjelpe deg med det.\rLa oss si at du har steiner i\nforan deg.\fHvilken farge ville du valgt? {YESNO 0}</language></row>
 	<row id="msg_0537_T11R0701_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GREEN STONE</language>
-	</row>
+	<language name="Norwegian">GRØNN STEIN</language></row>
 	<row id="msg_0537_T11R0701_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">RED STONE</language>
-	</row>
+	<language name="Norwegian">RED STONE</language></row>
 	<row id="msg_0537_T11R0701_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BLUE STONE</language>
-	</row>
+	<language name="Norwegian">BLUE STONE</language></row>
 	<row id="msg_0537_T11R0701_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: You chose correctly!\nI will give you {STRVAR_1 0, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Steven: Du valgte riktig!\nJeg vil gi deg {STRVAR_1 0, 1, 0}!\r</language></row>
 	<row id="msg_0537_T11R0701_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe {STRVAR_1 0, 1, 0} from Steven!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottatt\nthe {STRVAR_1 0, 1, 0} fra Steven!</language></row>
 	<row id="msg_0537_T11R0701_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: Take good care of it.\nYour caring for it will make me\fvery happy.\r</language>
-	</row>
+	<language name="Norwegian">Steven: Ta godt vare på den.\nDin omsorg for den vil gjøre meg\fsvært glad.\r</language></row>
 	<row id="msg_0537_T11R0701_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: I see...\nFor the choice you’ve made,\fI’d like to give you this Pokémon.\rExcept your party is full.\rWhy don’t you go to the PC to make\nsome room? I’ll be waiting here.</language>
-	</row>
+	<language name="Norwegian">Steven: Jeg skjønner...\nFor det valget du’har tatt,\fvil jeg’gi deg denne Pokémon.\rMen gruppen din er full.\rHvorfor går du ikke’til PC-en for å lage\net rom? Jeg venter her.</language></row>
 	<row id="msg_0537_T11R0701_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: I will ask again.\nWhich color do you choose? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Steven: Jeg spør igjen. \nHvilken farge velger du? {YESNO 0}</language></row>
 	<row id="msg_0537_T11R0701_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to give a nickname\nto {STRVAR_1 0, 1, 0}? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Vil du gi et kallenavn\ntil {STRVAR_1 0, 1, 0}? {YESNO 0}</language></row>
 	<row id="msg_0537_T11R0701_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: You did a great job naming it!\r</language>
-	</row>
+	<language name="Norwegian">Steven: Du gjorde en god jobb med å navngi den!</language></row>
 	<row id="msg_0537_T11R0701_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">QUIT</language>
-	</row>
+	<language name="Norwegian">SLUTT</language></row>
 	<row id="msg_0537_T11R0701_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven: You seem to be quite cautious.\rAre you avoiding any chance when a\nperson might trick you?\fYou really are better than I thought.</language>
-	</row>
+	<language name="Norwegian">Steven: Du ser ut til å være ganske forsiktig.\rEviterer du enhver sjanse for at en\nperson kan lure deg?\fDu er virkelig bedre enn jeg trodde.</language></row>
 	<row id="msg_0537_T11R0701_00029" index="29">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0537_T11R0701_00030" index="30">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 </body>

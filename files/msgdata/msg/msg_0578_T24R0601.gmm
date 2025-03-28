@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0578_T24R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hi. You must be a sightseer!\nWhy not take a picture here?\rYou saw the camera outside?\nI put it there!\rYou may come across my relatives\nhere and there.\rAnyway, go ahead and take a picture!\nCheck the camera, and it’ll take\fa picture for you.\rIt’ll be a good memory of your\njourney with your Pokémon!</language>
-	</row>
+	<language name="Norwegian">Hei, du må være en sightseer!\nHvorfor ikke ta et bilde her?\rDu så kameraet utenfor?\nJeg satte det der!\rDu kan støte på slektningene mine\nher og der.\rMen uansett, ta et bilde! \nSjekk kameraet, så tar det’et bilde til deg.\rDet’blir et godt minne fra din\nreise med Pokémon!</language></row>
 </body>

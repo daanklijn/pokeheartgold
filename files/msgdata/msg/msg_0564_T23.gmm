@@ -1,83 +1,83 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0564_T23_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ilex Forest Ahead\nEnter through the gate.</language>
-	</row>
+	<language name="Norwegian">Ilex Forest Ahead\nGå inn gjennom porten.</language></row>
 	<row id="msg_0564_T23_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: ...Tell me something.\rIs it true that Team Rocket has\nreturned?\rWhat? You beat them? Hah!\nQuit lying.\rAre you serious?\nThen let’s see how good you are.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: ...Si meg en ting.\rEr det sant at Team Rocket har\nkommet tilbake?\rHva? Slo du dem? Hah!\nSlutt å lyve.\rEr du seriøs?\nSå la oss’se hvor god du er.\r</language></row>
 	<row id="msg_0564_T23_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: I hate the weak.\rPokémon, Trainers.\nIt doesn’t matter who or what.\rI hate to see them hanging around.\nThat goes for Team Rocket, too.\rThey think they are big and tough\nas long as they are in a group.\rBut get them alone, and they’re weak.\nI hate them all.\rYou stay out of my way.\nYou won’t be an exception\fif you get in my way.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Jeg hater de svake.\rPokémon, trenere.\nDet spiller’ingen rolle hvem eller hva.\rJeg hater å se dem henge rundt.\nDet gjelder Team Rocket også.\rDe tror de er store og tøffe\nså lenge de er i en gruppe.\rMen når de er alene, er de’svake.\nJeg hater dem alle.\rHold deg unna meg.\nDu blir’ikke noe unntak\fhvis du kommer i veien for meg.\rJeg hater dem alle.\r</language></row>
 	<row id="msg_0564_T23_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nothing is going on.\nIt’s unsafe to go in there, so I’m\fstanding guard to make sure\fpeople don’t wander in.\rAm I not a good Samaritan?</language>
-	</row>
+	<language name="Norwegian">Ingenting skjer.\nDet’er utrygt å gå inn der, så jeg’står vakt for å passe på at\ffolk ikke’vandrer inn.\rEr jeg ikke en barmhjertig samaritan?</language></row>
 	<row id="msg_0564_T23_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know about SlowpokeTail?\nI heard it’s tasty!\rAren’t you glad I told you that?</language>
-	</row>
+	<language name="Norwegian">Kjenner du til SlowpokeTail? \nJeg har hørt at den’er velsmakende!\rEr du ikke glad for at jeg fortalte deg det?</language></row>
 	<row id="msg_0564_T23_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The SLOWPOKE have disappeared\nfrom town...\rI heard their tails are being sold\nsomewhere.</language>
-	</row>
+	<language name="Norwegian">SLOWPOKE har forsvunnet\nfra byen...\rJeg har hørt at halene deres blir solgt\net eller annet sted.</language></row>
 	<row id="msg_0564_T23_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The SLOWPOKE have returned.\rKnowing them, they could’ve just been\ntaking it easy somewhere.</language>
-	</row>
+	<language name="Norwegian">SLOWPOKE er tilbake. \rKjenner jeg dem rett, kan de’bare ha\ntatt det rolig et sted.</language></row>
 	<row id="msg_0564_T23_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you come to get Kurt to make\nsome Poké Balls?\fA lot of people do just that.</language>
-	</row>
+	<language name="Norwegian">Kom du for å få Kurt til å lage\nnoen Pokéballer?\fDet er det mange som gjør.</language></row>
 	<row id="msg_0564_T23_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cut through Azalea and you’ll be in\nIlex Forest.\rBut these skinny trees make it\nimpossible to get through.\rThe Charcoal Man’s Pokémon can cut\ndown trees.</language>
-	</row>
+	<language name="Norwegian">Skjær gjennom Azalea og du’vil være i\nIlex Forest.\rMen disse tynne trærne gjør det\numulig å komme seg gjennom.\rKullmannens’Pokémon kan felle\ntrær.</language></row>
 	<row id="msg_0564_T23_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SLOWPOKE: ...\r...\r</language>
-	</row>
+	<language name="Norwegian">SLOWPOKE: ...\r ...\r ...\r</language></row>
 	<row id="msg_0564_T23_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Yawn?</language>
-	</row>
+	<language name="Norwegian">...gjesp?</language></row>
 	<row id="msg_0564_T23_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Azalea Town\nLiving Happily with Pokémon</language>
-	</row>
+	<language name="Norwegian">Azalea Town\nLive lykkelig med Pokémon</language></row>
 	<row id="msg_0564_T23_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kurt’s House\rApricorn and Nothing Else\nThe Stubborn Poké Ball Creator</language>
-	</row>
+	<language name="Norwegian">Kurt’s hus\rAprikorn og ingenting annet\nDen sta Pokéball-skaperen</language></row>
 	<row id="msg_0564_T23_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Azalea Town Pokémon Gym\nLeader: Bugsy\fThe Walking Bug Pokémon Encyclopedia</language>
-	</row>
+	<language name="Norwegian">Azalea Town Pokémon Gym\nLeder: Bugsy\fThe Walking Bug Pokémon Encyclopedia</language></row>
 	<row id="msg_0564_T23_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SLOWPOKE Well\nAlso known as the Rainmaker Well.\rLocals believe that a SLOWPOKE’s\nyawn summons the rain.\rRecords show that a SLOWPOKE’s yawn\nended a drought 400 years ago.</language>
-	</row>
+	<language name="Norwegian">SLOWPOKE-brønnen\nOgså kjent som Regnmakerbrønnen.\rLokalbefolkningen tror at et SLOWPOKE’gjesp\ngjesp\ntilkaller regnet.\rDet er dokumentert at et SLOWPOKE’gjesp\navverget en tørke for 400 år siden.</language></row>
 	<row id="msg_0564_T23_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Charcoal Kiln\rWe let our FARFETCH’D fetch branches\nfor charcoal!</language>
-	</row>
+	<language name="Norwegian">Trekullovn\rVi lar vår FARFETCH’D hente grener\ntil trekull!</language></row>
 	<row id="msg_0564_T23_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Who are you?\nYou don’t know us?\rWe are...\nTeam Rocket!\r...What?\nWe broke up a while ago?\rGive me a break!\nWe have not broken up!\rActually we did once.\nBut we have come back to\fpursue Giovanni’s ambition.\rEnough talking.\nShut up and just beat it!\r</language>
-	</row>
+	<language name="Norwegian">Hvem er dere? Dere kjenner oss ikke? Vi er...Team Rocket! Hva? Vi slo opp for en stund siden? Gi deg! Vi har ikke slått opp!\rFaktisk gjorde vi det en gang.\nMen vi har kommet tilbake for å\fforfølge Giovannis’ambisjoner.\rSlutt å snakke.\nHold kjeft og bare stikk av!\r</language></row>
 	<row id="msg_0564_T23_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}Thud!{SIZE 100}\r</language>
-	</row>
+	<language name="Norwegian">{SIZE 200}Thud!{SIZE 100}\r.</language></row>
 	<row id="msg_0564_T23_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We have this tough guy called Kurt\nin this town.\fHe should be able to take care of it...</language>
-	</row>
+	<language name="Norwegian">Vi har en tøffing her i byen som heter Kurt\nHan burde kunne ta seg av det...</language></row>
 	<row id="msg_0564_T23_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I knew we could count on Kurt!</language>
-	</row>
+	<language name="Norwegian">Jeg visste at vi kunne stole på Kurt!</language></row>
 </body>
