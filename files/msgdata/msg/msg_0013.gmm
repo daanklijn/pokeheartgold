@@ -1,1396 +1,1396 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0013_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BATTLE VIDEOS</language>
-	</row>
+	<language name="Norwegian">KAMPVIDEOER</language></row>
 	<row id="msg_0013_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FRONTIER RECORD</language>
-	</row>
+	<language name="Norwegian">FRONTIER RECORD</language></row>
 	<row id="msg_0013_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
-	</row>
+	<language name="Norwegian">AVBRYT</language></row>
 	<row id="msg_0013_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EXIT</language>
-	</row>
+	<language name="Norwegian">EXIT</language></row>
 	<row id="msg_0013_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MY VIDEO</language>
-	</row>
+	<language name="Norwegian">MIN VIDEO</language></row>
 	<row id="msg_0013_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OTHER VIDEOS</language>
-	</row>
+	<language name="Norwegian">ANDRE VIDEOER</language></row>
 	<row id="msg_0013_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DELETE VIDEOS</language>
-	</row>
+	<language name="Norwegian">SLETT VIDEOER</language></row>
 	<row id="msg_0013_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’S VIDEO</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’S VIDEO</language></row>
 	<row id="msg_0013_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EMPTY</language>
-	</row>
+	<language name="Norwegian">TOMT</language></row>
 	<row id="msg_0013_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 53, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 53, 0, 0}</language></row>
 	<row id="msg_0013_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle</language>
-	</row>
+	<language name="Norwegian">Kamp</language></row>
 	<row id="msg_0013_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}</language>
-	</row>
+	<language name="Norwegian">Videonr: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}</language></row>
 	<row id="msg_0013_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆</language>
-	</row>
+	<language name="Norwegian">Videonr: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆</language></row>
 	<row id="msg_0013_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’S PROFILE</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’S PROFILE</language></row>
 	<row id="msg_0013_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Birth month: {STRVAR_34 16, 0, 0}</language>
-	</row>
+	<language name="Norwegian">Fødselsmåned: {STRVAR_34 16, 0, 0}</language></row>
 	<row id="msg_0013_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Location</language>
-	</row>
+	<language name="Norwegian">Beliggenhet</language></row>
 	<row id="msg_0013_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Trainer’s quote</language>
-	</row>
+	<language name="Norwegian">Trener’s sitat</language></row>
 	<row id="msg_0013_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00019" index="19">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00020" index="20">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Unregistered</language>
-	</row>
+	<language name="Norwegian">Uregistrert</language></row>
 	<row id="msg_0013_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 36, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 36, 0, 0}</language></row>
 	<row id="msg_0013_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 37, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 37, 0, 0}</language></row>
 	<row id="msg_0013_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 28, 0, 0} {STRVAR_1 28, 1, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 28, 0, 0} {STRVAR_1 28, 1, 0}</language></row>
 	<row id="msg_0013_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00026" index="26">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’S FAVORITE PC BOX</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’S FAVORITT-PC-BOKS</language></row>
 	<row id="msg_0013_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’S COOL PC BOX</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’S COOL PC BOX</language></row>
 	<row id="msg_0013_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’S CUTE PC BOX</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’S CUTE PC BOX</language></row>
 	<row id="msg_0013_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’S SUGGESTED PC BOX</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’S SUGGESTED PC BOX</language></row>
 	<row id="msg_0013_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’S FUN PC BOX</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’S FUN PC BOX</language></row>
 	<row id="msg_0013_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’S SELECT PC BOX</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’S SELECT PC BOX</language></row>
 	<row id="msg_0013_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Next\nPokémon</language>
-	</row>
+	<language name="Norwegian">Neste\nPokémon</language></row>
 	<row id="msg_0013_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00036" index="36">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00037" index="37">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00038" index="38">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DELETE MY VIDEO</language>
-	</row>
+	<language name="Norwegian">SLETTE VIDEOEN MIN</language></row>
 	<row id="msg_0013_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DELETE OTHER VIDEOS</language>
-	</row>
+	<language name="Norwegian">SLETTE ANDRE VIDEOER</language></row>
 	<row id="msg_0013_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EMPTY</language>
-	</row>
+	<language name="Norwegian">TOMT</language></row>
 	<row id="msg_0013_00042" index="42">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00043" index="43">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00044" index="44">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00045" index="45">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00046" index="46">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00047" index="47">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH BY FACILITY</language>
-	</row>
+	<language name="Norwegian">SØK ETTER ANLEGG</language></row>
 	<row id="msg_0013_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH BY POKéMON</language>
-	</row>
+	<language name="Norwegian">SØK ETTER POKéMON</language></row>
 	<row id="msg_0013_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH YOUR LOCATION</language>
-	</row>
+	<language name="Norwegian">SØK ETTER DIN POSISJON</language></row>
 	<row id="msg_0013_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEND PHOTO</language>
-	</row>
+	<language name="Norwegian">SEND FOTO</language></row>
 	<row id="msg_0013_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VIEW PHOTOS</language>
-	</row>
+	<language name="Norwegian">VIS BILDER</language></row>
 	<row id="msg_0013_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEND</language>
-	</row>
+	<language name="Norwegian">SEND</language></row>
 	<row id="msg_0013_00054" index="54">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00055" index="55">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}\n{STRVAR_1 28, 1, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}\n{STRVAR_1 28, 1, 0}</language></row>
 	<row id="msg_0013_00057" index="57">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEND BOX DATA</language>
-	</row>
+	<language name="Norwegian">SEND BOX DATA</language></row>
 	<row id="msg_0013_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VIEW BOX DATA</language>
-	</row>
+	<language name="Norwegian">VIS BOKSDATA</language></row>
 	<row id="msg_0013_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FAVORITE</language>
-	</row>
+	<language name="Norwegian">FAVORITT</language></row>
 	<row id="msg_0013_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">COOL</language>
-	</row>
+	<language name="Norwegian">COOL</language></row>
 	<row id="msg_0013_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CUTE</language>
-	</row>
+	<language name="Norwegian">SØT</language></row>
 	<row id="msg_0013_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SUGGESTED</language>
-	</row>
+	<language name="Norwegian">ANBEFALT</language></row>
 	<row id="msg_0013_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FUN</language>
-	</row>
+	<language name="Norwegian">FUN</language></row>
 	<row id="msg_0013_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SELECT</language>
-	</row>
+	<language name="Norwegian">VELG</language></row>
 	<row id="msg_0013_00066" index="66">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00067" index="67">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ABC</language>
-	</row>
+	<language name="Norwegian">ABC</language></row>
 	<row id="msg_0013_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DEF</language>
-	</row>
+	<language name="Norwegian">DEF</language></row>
 	<row id="msg_0013_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GHI</language>
-	</row>
+	<language name="Norwegian">GHI</language></row>
 	<row id="msg_0013_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">JKL</language>
-	</row>
+	<language name="Norwegian">JKL</language></row>
 	<row id="msg_0013_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MNO</language>
-	</row>
+	<language name="Norwegian">MNO</language></row>
 	<row id="msg_0013_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PQR</language>
-	</row>
+	<language name="Norwegian">PQR</language></row>
 	<row id="msg_0013_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">STU</language>
-	</row>
+	<language name="Norwegian">STU</language></row>
 	<row id="msg_0013_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VWX</language>
-	</row>
+	<language name="Norwegian">VWX</language></row>
 	<row id="msg_0013_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">YZ</language>
-	</row>
+	<language name="Norwegian">YZ</language></row>
 	<row id="msg_0013_00077" index="77">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">THIS WEEK’S RANKINGS</language>
-	</row>
+	<language name="Norwegian">DENNE UKEN’S RANKINGER</language></row>
 	<row id="msg_0013_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LAST WEEK’S RANKINGS</language>
-	</row>
+	<language name="Norwegian">SISTE UKE’S RANGERING</language></row>
 	<row id="msg_0013_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SWITCH RANKINGS</language>
-	</row>
+	<language name="Norwegian">BYTTE RANGERING</language></row>
 	<row id="msg_0013_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SWITCH TEAMS</language>
-	</row>
+	<language name="Norwegian">BYTT LAG</language></row>
 	<row id="msg_0013_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team: Trainer type</language>
-	</row>
+	<language name="Norwegian">Team Type trener</language></row>
 	<row id="msg_0013_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team: Birth month</language>
-	</row>
+	<language name="Norwegian">Team: Fødselsmåned</language></row>
 	<row id="msg_0013_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team: Favorite Pokémon</language>
-	</row>
+	<language name="Norwegian">Team: Favoritt Pokémon</language></row>
 	<row id="msg_0013_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: {STRVAR_1 14, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 1, 0}: {STRVAR_1 14, 0, 0}</language></row>
 	<row id="msg_0013_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: {STRVAR_34 16, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 1, 0}: {STRVAR_34 16, 0, 0}</language></row>
 	<row id="msg_0013_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: {STRVAR_1 0, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 1, 0}: {STRVAR_1 0, 0, 0}</language></row>
 	<row id="msg_0013_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}: {STRVAR_1 14, 1, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 51, 0, 0}: {STRVAR_1 14, 1, 0}</language></row>
 	<row id="msg_0013_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}: {STRVAR_1 51, 1, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 51, 0, 0}: {STRVAR_1 51, 1, 0}</language></row>
 	<row id="msg_0013_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0}: {STRVAR_1 0, 1, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 51, 0, 0}: {STRVAR_1 0, 1, 0}</language></row>
 	<row id="msg_0013_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LAST WEEK’S RESULTS!</language>
-	</row>
+	<language name="Norwegian">SISTE UKES’RESULTATER!</language></row>
 	<row id="msg_0013_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">COLOSSEUM</language>
-	</row>
+	<language name="Norwegian">COLOSSEUM</language></row>
 	<row id="msg_0013_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BATTLE FRONTIER</language>
-	</row>
+	<language name="Norwegian">STRIDSGRENSE</language></row>
 	<row id="msg_0013_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SAVE</language>
-	</row>
+	<language name="Norwegian">SPAR</language></row>
 	<row id="msg_0013_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VIEW BATTLE\nVIDEO</language>
-	</row>
+	<language name="Norwegian">VIS KAMP\nVIDEO</language></row>
 	<row id="msg_0013_00096" index="96">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">TOP-RANKED BATTLE VIDEOS\nCOLOSSEUM</language>
-	</row>
+	<language name="Norwegian">TOPPRANGERTE KAMPVIDEOER\nCOLOSSEUM</language></row>
 	<row id="msg_0013_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">TOP-RANKED BATTLE VIDEOS\nBATTLE FRONTIER</language>
-	</row>
+	<language name="Norwegian">TOPPRANGERTE KAMPVIDEOER\nBATTLE FRONTIER</language></row>
 	<row id="msg_0013_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">:</language>
-	</row>
+	<language name="Norwegian">:</language></row>
 	<row id="msg_0013_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Where would you like to save\n{STRVAR_1 3, 0, 0}’s Battle Video?</language>
-	</row>
+	<language name="Norwegian">Hvor vil du lagre\n{STRVAR_1 3, 0, 0}’s Battle Video?</language></row>
 	<row id="msg_0013_00101" index="101">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is it OK to delete {STRVAR_1 3, 0, 0}’s Battle\nVideo?</language>
-	</row>
+	<language name="Norwegian">Er det OK å slette {STRVAR_1 3, 0, 0}’s Battle\nVideo?</language></row>
 	<row id="msg_0013_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VIEW BATTLE VIDEOS</language>
-	</row>
+	<language name="Norwegian">SE KAMPVIDEOER</language></row>
 	<row id="msg_0013_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEND BATTLE VIDEO</language>
-	</row>
+	<language name="Norwegian">SEND KAMPVIDEO</language></row>
 	<row id="msg_0013_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NEWEST 30</language>
-	</row>
+	<language name="Norwegian">NYESTE 30</language></row>
 	<row id="msg_0013_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH</language>
-	</row>
+	<language name="Norwegian">SØK</language></row>
 	<row id="msg_0013_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH BY VIDEO NO.</language>
-	</row>
+	<language name="Norwegian">SØK ETTER VIDEONR.</language></row>
 	<row id="msg_0013_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH BY FACILITY</language>
-	</row>
+	<language name="Norwegian">SØK ETTER ANLEGG</language></row>
 	<row id="msg_0013_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH BY POKéMON</language>
-	</row>
+	<language name="Norwegian">SØK ETTER POKéMON</language></row>
 	<row id="msg_0013_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEARCH YOUR LOCATION</language>
-	</row>
+	<language name="Norwegian">SØK ETTER DIN POSISJON</language></row>
 	<row id="msg_0013_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK!</language>
-	</row>
+	<language name="Norwegian">OK!</language></row>
 	<row id="msg_0013_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please enter the Video Number.</language>
-	</row>
+	<language name="Norwegian">Vennligst skriv inn videonummeret.</language></row>
 	<row id="msg_0013_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please choose the facility.</language>
-	</row>
+	<language name="Norwegian">Vennligst velg anlegget.</language></row>
 	<row id="msg_0013_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please choose the Pokémon.</language>
-	</row>
+	<language name="Norwegian">Vennligst velg Pokémon.</language></row>
 	<row id="msg_0013_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please enter the search criteria.</language>
-	</row>
+	<language name="Norwegian">Vennligst skriv inn søkekriteriene.</language></row>
 	<row id="msg_0013_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You haven’t set any search criteria.</language>
-	</row>
+	<language name="Norwegian">Du har ikke angitt noen søkekriterier.</language></row>
 	<row id="msg_0013_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Loading Battle Video...</language>
-	</row>
+	<language name="Norwegian">Laster inn kampvideo...</language></row>
 	<row id="msg_0013_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is no matching Battle Video...</language>
-	</row>
+	<language name="Norwegian">Det finnes ingen matchende Battle Video...</language></row>
 	<row id="msg_0013_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sending the Battle Video...</language>
-	</row>
+	<language name="Norwegian">Sender kampvideoen...</language></row>
 	<row id="msg_0013_00120" index="120">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VIEW PROFILE</language>
-	</row>
+	<language name="Norwegian">VIS PROFIL</language></row>
 	<row id="msg_0013_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CLOSE PROFILE</language>
-	</row>
+	<language name="Norwegian">TETT PROFIL</language></row>
 	<row id="msg_0013_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NEWEST 30 BATTLE VIDEOS</language>
-	</row>
+	<language name="Norwegian">DE 30 NYESTE KAMPVIDEOENE</language></row>
 	<row id="msg_0013_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please set the search criteria.</language>
-	</row>
+	<language name="Norwegian">Vennligst angi søkekriteriene.</language></row>
 	<row id="msg_0013_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Undefined</language>
-	</row>
+	<language name="Norwegian">Ubestemt</language></row>
 	<row id="msg_0013_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LIST OF BATTLE VIDEOS FROM\nSEARCH RESULTS</language>
-	</row>
+	<language name="Norwegian">LISTE OVER KAMPVIDEOER FRA\nSØKERESULTATER</language></row>
 	<row id="msg_0013_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The same Battle Video can’t be sent again.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Den samme kampvideoen kan ikke’sendes igjen.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have not registered your location.</language>
-	</row>
+	<language name="Norwegian">Du har ikke registrert posisjonen din.</language></row>
 	<row id="msg_0013_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is no Battle Video to send.</language>
-	</row>
+	<language name="Norwegian">Det er ingen Battle Video å sende.</language></row>
 	<row id="msg_0013_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">YES</language>
-	</row>
+	<language name="Norwegian">JA</language></row>
 	<row id="msg_0013_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO</language>
-	</row>
+	<language name="Norwegian">NEI</language></row>
 	<row id="msg_0013_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nSingle, No Restrictions</language>
-	</row>
+	<language name="Norwegian">Colosseum\nEnkeltstående, ingen restriksjoner</language></row>
 	<row id="msg_0013_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nSingle, Standard Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nSingle, standardbeger</language></row>
 	<row id="msg_0013_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nSingle, Fancy Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nSingle, Fancy Cup</language></row>
 	<row id="msg_0013_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nSingle, Little Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nSingle, liten kopp</language></row>
 	<row id="msg_0013_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nSingle, Light Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nEnkelt, lys kopp</language></row>
 	<row id="msg_0013_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nSingle, Double Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nEnkelt, dobbel kopp</language></row>
 	<row id="msg_0013_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nSingle, Other Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nSingle, Annen kopp</language></row>
 	<row id="msg_0013_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nDouble, No Restrictions</language>
-	</row>
+	<language name="Norwegian">Colosseum\nDobbeltrom, Ingen restriksjoner</language></row>
 	<row id="msg_0013_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nDouble, Standard Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nDobbelt, standardbeger</language></row>
 	<row id="msg_0013_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nDouble, Fancy Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nDobbelt, Fancy Cup</language></row>
 	<row id="msg_0013_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nDouble, Little Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nDobbelt, liten kopp</language></row>
 	<row id="msg_0013_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nDouble, Light Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nDobbelt, lys kopp</language></row>
 	<row id="msg_0013_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nDouble, Double Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nDobbel, dobbel kopp</language></row>
 	<row id="msg_0013_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nDouble, Other Cup</language>
-	</row>
+	<language name="Norwegian">Colosseum\nDobbelt, Annet beger</language></row>
 	<row id="msg_0013_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nMulti</language>
-	</row>
+	<language name="Norwegian">Colosseum\nMulti</language></row>
 	<row id="msg_0013_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Tower\nSingle</language>
-	</row>
+	<language name="Norwegian">Battle Tower\nSingle</language></row>
 	<row id="msg_0013_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Tower\nDouble</language>
-	</row>
+	<language name="Norwegian">Kamptårn\nDobbelt</language></row>
 	<row id="msg_0013_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Tower\nMulti</language>
-	</row>
+	<language name="Norwegian">Kamptårn\nMulti</language></row>
 	<row id="msg_0013_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Factory\nLevel 50 Single</language>
-	</row>
+	<language name="Norwegian">Battle Factory\nNivå 50 Single</language></row>
 	<row id="msg_0013_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Factory\nLevel 50 Double</language>
-	</row>
+	<language name="Norwegian">Battle Factory\nNivå 50 Dobbelt</language></row>
 	<row id="msg_0013_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Factory\nLevel 50 Multi</language>
-	</row>
+	<language name="Norwegian">Battle Factory\nNivå 50 Multi</language></row>
 	<row id="msg_0013_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Factory\nOpen Level Single</language>
-	</row>
+	<language name="Norwegian">Battle Factory\nÅpent nivå enkelt</language></row>
 	<row id="msg_0013_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Factory\nOpen Level Double</language>
-	</row>
+	<language name="Norwegian">Battle Factory\nÅpne nivå Double</language></row>
 	<row id="msg_0013_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Factory\nOpen Level Multi</language>
-	</row>
+	<language name="Norwegian">Battle Factory\nÅpent nivå Multi</language></row>
 	<row id="msg_0013_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Hall\nSingle</language>
-	</row>
+	<language name="Norwegian">Battle Hall\nSingle</language></row>
 	<row id="msg_0013_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Hall\nDouble</language>
-	</row>
+	<language name="Norwegian">Battle Hall\nDouble</language></row>
 	<row id="msg_0013_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Hall\nMulti</language>
-	</row>
+	<language name="Norwegian">Battle Hall\nMulti</language></row>
 	<row id="msg_0013_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Castle\nSingle</language>
-	</row>
+	<language name="Norwegian">Battle Castle\nSingle</language></row>
 	<row id="msg_0013_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Castle\nDouble</language>
-	</row>
+	<language name="Norwegian">Battle Castle\nDouble</language></row>
 	<row id="msg_0013_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Castle\nMulti</language>
-	</row>
+	<language name="Norwegian">Battle Castle\nMulti</language></row>
 	<row id="msg_0013_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Arcade\nSingle</language>
-	</row>
+	<language name="Norwegian">Battle Arcade\nSingle</language></row>
 	<row id="msg_0013_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Arcade\nDouble</language>
-	</row>
+	<language name="Norwegian">Battle Arcade\nDouble</language></row>
 	<row id="msg_0013_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Arcade\nMulti</language>
-	</row>
+	<language name="Norwegian">Battle Arcade\nMulti</language></row>
 	<row id="msg_0013_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nSingle, No Restrictions</language>
-	</row>
+	<language name="Norwegian">Colosseum\nEnkeltstående, ingen restriksjoner</language></row>
 	<row id="msg_0013_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nSingle, Cup Match</language>
-	</row>
+	<language name="Norwegian">Colosseum\nSingle, cupkamp</language></row>
 	<row id="msg_0013_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nDouble, No Restrictions</language>
-	</row>
+	<language name="Norwegian">Colosseum\nDobbeltrom, Ingen restriksjoner</language></row>
 	<row id="msg_0013_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Colosseum\nDouble, Cup Match</language>
-	</row>
+	<language name="Norwegian">Colosseum\nDobbelt, cupkamp</language></row>
 	<row id="msg_0013_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1: Colosseum\n    Single, No Restrictions</language>
-	</row>
+	<language name="Norwegian">1: Colosseum\n Singel, ingen begrensninger</language></row>
 	<row id="msg_0013_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">2: Colosseum\n    Single, Cup Match</language>
-	</row>
+	<language name="Norwegian">2: Colosseum\n Enkelt, cupkamp</language></row>
 	<row id="msg_0013_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">3: Colosseum\n    Double, No Restrictions</language>
-	</row>
+	<language name="Norwegian">3: Colosseum\n Dobbel, ingen begrensninger</language></row>
 	<row id="msg_0013_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">4: Colosseum\n    Double, Cup Match</language>
-	</row>
+	<language name="Norwegian">4: Colosseum\n Dobbel, cupkamp</language></row>
 	<row id="msg_0013_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">5: Colosseum\n    Multi</language>
-	</row>
+	<language name="Norwegian">5: Colosseum\n Multi</language></row>
 	<row id="msg_0013_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">6: Battle Tower\n    Single</language>
-	</row>
+	<language name="Norwegian">6: Kamptårn\n Enkelt</language></row>
 	<row id="msg_0013_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">7: Battle Tower\n    Double</language>
-	</row>
+	<language name="Norwegian">7: Battle Tower\n Double</language></row>
 	<row id="msg_0013_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">8: Battle Tower\n    Multi</language>
-	</row>
+	<language name="Norwegian">8: Battle Tower\n Multi</language></row>
 	<row id="msg_0013_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">9: Battle Factory\n    Level 50, Single</language>
-	</row>
+	<language name="Norwegian">9: Battle Factory\n Nivå 50, singel</language></row>
 	<row id="msg_0013_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">10: Battle Factory\n      Level 50, Double</language>
-	</row>
+	<language name="Norwegian">10: Battle Factory\n Nivå 50, Dobbel</language></row>
 	<row id="msg_0013_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">11: Battle Factory\n      Level 50, Multi</language>
-	</row>
+	<language name="Norwegian">11: Battle Factory\n Nivå 50, Multi</language></row>
 	<row id="msg_0013_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">12: Battle Factory\n      Open Level, Single</language>
-	</row>
+	<language name="Norwegian">12: Battle Factory\n Åpent nivå, enkelt</language></row>
 	<row id="msg_0013_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">13: Battle Factory\n      Open Level, Double</language>
-	</row>
+	<language name="Norwegian">13: Battle Factory\n Åpent nivå, dobbelt</language></row>
 	<row id="msg_0013_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">14: Battle Factory\n      Open Level, Multi</language>
-	</row>
+	<language name="Norwegian">14: Battle Factory\n Åpent nivå, Multi</language></row>
 	<row id="msg_0013_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">15: Battle Hall\n      Single</language>
-	</row>
+	<language name="Norwegian">15: Battle Hall\n Singel</language></row>
 	<row id="msg_0013_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">16: Battle Hall\n      Double</language>
-	</row>
+	<language name="Norwegian">16: Battle Hall\n Double</language></row>
 	<row id="msg_0013_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">17: Battle Hall\n      Multi</language>
-	</row>
+	<language name="Norwegian">17: Battle Hall\n Multi</language></row>
 	<row id="msg_0013_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">18: Battle Castle\n      Single</language>
-	</row>
+	<language name="Norwegian">18: Battle Castle\n Singel</language></row>
 	<row id="msg_0013_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">19: Battle Castle\n      Double</language>
-	</row>
+	<language name="Norwegian">19: Battle Castle\n Double</language></row>
 	<row id="msg_0013_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">20: Battle Castle\n      Multi</language>
-	</row>
+	<language name="Norwegian">20: Battle Castle\n Multi</language></row>
 	<row id="msg_0013_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">21: Battle Arcade\n      Single</language>
-	</row>
+	<language name="Norwegian">21: Battle Arcade\n Singel</language></row>
 	<row id="msg_0013_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">22: Battle Arcade\n      Double</language>
-	</row>
+	<language name="Norwegian">22: Battle Arcade\n Double</language></row>
 	<row id="msg_0013_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">23: Battle Arcade\n      Multi</language>
-	</row>
+	<language name="Norwegian">23: Battle Arcade\n Multi</language></row>
 	<row id="msg_0013_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">TOUCH HERE!</language>
-	</row>
+	<language name="Norwegian">TRYKK HER!</language></row>
 	<row id="msg_0013_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is it OK to disconnect from\nNintendo Wi-Fi Connection?</language>
-	</row>
+	<language name="Norwegian">Er det OK å koble fra\nNintendo Wi-Fi-tilkobling?</language></row>
 	<row id="msg_0013_00194" index="194">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
-	</row>
+	<language name="Norwegian">Brukerautentiseringsfeil \nVent litt før du kobler til på nytt.</language></row>
 	<row id="msg_0013_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This data is already registered.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Disse dataene er allerede registrert.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with the\nDress-Up Data.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med\nDress-Up Data.</language></row>
 	<row id="msg_0013_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with the\nProfile data.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med\nProfildataene.</language></row>
 	<row id="msg_0013_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00200" index="200">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
-	</row>
+	<language name="Norwegian">Brukerautentiseringsfeil \nVent litt før du kobler til på nytt.</language></row>
 	<row id="msg_0013_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with the\nchosen Pokémon.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med den\nvalgte Pokémon.</language></row>
 	<row id="msg_0013_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00204" index="204">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
-	</row>
+	<language name="Norwegian">Brukerautentiseringsfeil \nVent litt før du kobler til på nytt.</language></row>
 	<row id="msg_0013_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This data is already registered.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Disse dataene er allerede registrert.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with the\nBox Data.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med\nBox Data.</language></row>
 	<row id="msg_0013_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with the\nProfile data.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med\nProfildataene.</language></row>
 	<row id="msg_0013_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with your\nparty.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med din\npart.</language></row>
 	<row id="msg_0013_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00211" index="211">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
-	</row>
+	<language name="Norwegian">Brukerautentiseringsfeil \nVent litt før du kobler til på nytt.</language></row>
 	<row id="msg_0013_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with your\nparty.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med din\npart.</language></row>
 	<row id="msg_0013_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00215" index="215">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
-	</row>
+	<language name="Norwegian">Brukerautentiseringsfeil \nVent litt før du kobler til på nytt.</language></row>
 	<row id="msg_0013_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00218" index="218">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
-	</row>
+	<language name="Norwegian">Brukerautentiseringsfeil \nVent litt før du kobler til på nytt.</language></row>
 	<row id="msg_0013_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Failed to receive ranking data.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Kunne ikke motta rangeringsdata.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with your\nranking record.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med rangeringsposten din.</language></row>
 	<row id="msg_0013_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with the\nProfile data.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med\nProfildataene.</language></row>
 	<row id="msg_0013_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00224" index="224">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
-	</row>
+	<language name="Norwegian">Brukerautentiseringsfeil \nVent litt før du kobler til på nytt.</language></row>
 	<row id="msg_0013_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This data is already registered.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Disse dataene er allerede registrert.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with the\nBattle Video.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med\nBattle Video.</language></row>
 	<row id="msg_0013_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with the\nProfile data.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med\nProfildataene.</language></row>
 	<row id="msg_0013_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with your\nPokémon. Data was not sent.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med din\nPokémon. Data ble ikke sendt.</language></row>
 	<row id="msg_0013_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with a\nplayer’s Pokémon. Data was not sent.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med en\nspillers’ Pokémon. Data ble ikke sendt.</language></row>
 	<row id="msg_0013_00232" index="232">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
-	</row>
+	<language name="Norwegian">Brukerautentiseringsfeil \nVent litt før du kobler til på nytt.</language></row>
 	<row id="msg_0013_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There appears to be a problem with the\nsearch criteria.</language>
-	</row>
+	<language name="Norwegian">Det ser ut til å være et problem med\nsøkekriteriene.</language></row>
 	<row id="msg_0013_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00236" index="236">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
-	</row>
+	<language name="Norwegian">Brukerautentiseringsfeil \nVent litt før du kobler til på nytt.</language></row>
 	<row id="msg_0013_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No matching Battle Videos found...\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Ingen matchende kampvideoer funnet...\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00240" index="240">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00241" index="241">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00242" index="242">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00243" index="243">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00244" index="244">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nError Code 10601</language>
-	</row>
+	<language name="Norwegian">Det oppsto en feil \nFeilkode 10601</language></row>
 	<row id="msg_0013_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nError Code 10602</language>
-	</row>
+	<language name="Norwegian">Det oppsto en feil \nFeilkode 10602</language></row>
 	<row id="msg_0013_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nError Code 10603</language>
-	</row>
+	<language name="Norwegian">Det oppsto en feil \nFeilkode 10603</language></row>
 	<row id="msg_0013_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nError Code 10604</language>
-	</row>
+	<language name="Norwegian">Det oppsto en feil \nFeilkode 10604</language></row>
 	<row id="msg_0013_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Unable to connect.\nError Code 10605</language>
-	</row>
+	<language name="Norwegian">Kunne ikke koble til.\nFeilkode 10605</language></row>
 	<row id="msg_0013_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nError Code 10606</language>
-	</row>
+	<language name="Norwegian">Det oppsto en feil \nFeilkode 10606</language></row>
 	<row id="msg_0013_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Unable to connect.\nError Code 10607</language>
-	</row>
+	<language name="Norwegian">Kunne ikke koble til.\nFeilkode 10607</language></row>
 	<row id="msg_0013_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nError Code 10608</language>
-	</row>
+	<language name="Norwegian">Det oppsto en feil \nFeilkode 10608</language></row>
 	<row id="msg_0013_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An error occurred.\nError Code 10609</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil \nFeilkode 10609</language></row>
 	<row id="msg_0013_00254" index="254">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is no response.\nError Code 10610</language>
-	</row>
+	<language name="Norwegian">Det er ikke noe svar.\nFeilkode 10610</language></row>
 	<row id="msg_0013_00255" index="255">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is no response.\nError Code 10611</language>
-	</row>
+	<language name="Norwegian">Det er ikke noe svar.\nFeilkode 10611</language></row>
 	<row id="msg_0013_00256" index="256">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is no response.\nError Code 10612</language>
-	</row>
+	<language name="Norwegian">Det er ikke noe svar.\nFeilkode 10612</language></row>
 	<row id="msg_0013_00257" index="257">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Communication was interrupted.\nError Code 10613</language>
-	</row>
+	<language name="Norwegian">Kommunikasjonen ble avbrutt.\nFeilkode 10613</language></row>
 	<row id="msg_0013_00258" index="258">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Unable to connect.\nError Code 10614</language>
-	</row>
+	<language name="Norwegian">Kunne ikke koble til.\nFeilkode 10614</language></row>
 	<row id="msg_0013_00259" index="259">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00260" index="260">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00261" index="261">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00262" index="262">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00263" index="263">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00264" index="264">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00265" index="265">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The connection to the server was lost.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Forbindelsen til serveren ble brutt.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00267" index="267">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00268" index="268">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00269" index="269">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is nothing saved.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det er ikke lagret noe.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please choose a Box.</language>
-	</row>
+	<language name="Norwegian">Vennligst velg en boks.</language></row>
 	<row id="msg_0013_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An empty Box’s Data can’t be sent.</language>
-	</row>
+	<language name="Norwegian">En tom Box’s Data kan’ikke’sendes.</language></row>
 	<row id="msg_0013_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Where would you like to send this?</language>
-	</row>
+	<language name="Norwegian">Hvor ønsker du å sende denne?</language></row>
 	<row id="msg_0013_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Only one Box Data may be sent at a time.</language>
-	</row>
+	<language name="Norwegian">Det kan bare sendes én boksdata om gangen.</language></row>
 	<row id="msg_0013_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The same Box Data can’t be sent.</language>
-	</row>
+	<language name="Norwegian">De samme boksdataene kan ikke sendes.</language></row>
 	<row id="msg_0013_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which category would you like to see?</language>
-	</row>
+	<language name="Norwegian">Hvilken kategori ønsker du å se?</language></row>
 	<row id="msg_0013_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The saved data could not be deleted...</language>
-	</row>
+	<language name="Norwegian">De lagrede dataene kunne ikke slettes...</language></row>
 	<row id="msg_0013_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The same Battle Video can’t be saved again.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Den samme kampvideoen kan ikke lagres på nytt.’Trykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saving...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Sparer...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0013_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Receiving ranking data...</language>
-	</row>
+	<language name="Norwegian">Mottar rangeringsdata...</language></row>
 	<row id="msg_0013_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sending save data...</language>
-	</row>
+	<language name="Norwegian">Sende lagringsdata...</language></row>
 	<row id="msg_0013_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Save completed.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Lagre fullført.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you want to delete {STRVAR_1 3, 0, 0}’s\nBattle Video?</language>
-	</row>
+	<language name="Norwegian">Vil du slette {STRVAR_1 3, 0, 0}’s\nBattle Video?</language></row>
 	<row id="msg_0013_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is it really OK to delete this data?</language>
-	</row>
+	<language name="Norwegian">Er det virkelig OK å slette disse dataene?</language></row>
 	<row id="msg_0013_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Deleting data...\nSaving... Don’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Slette data...\nLagre... Ikke’slå av strømmen.</language></row>
 	<row id="msg_0013_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The data was deleted.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Dataene ble slettet.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00286" index="286">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sending your Dress-Up Data...</language>
-	</row>
+	<language name="Norwegian">Sende utkledningsdataene dine...</language></row>
 	<row id="msg_0013_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Receiving Dress-Up Data...</language>
-	</row>
+	<language name="Norwegian">Mottar utkledningsdata...</language></row>
 	<row id="msg_0013_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sending your Box Data...</language>
-	</row>
+	<language name="Norwegian">Sende boksdataene dine...</language></row>
 	<row id="msg_0013_00289" index="289">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Receiving Box Data...</language>
-	</row>
+	<language name="Norwegian">Mottak av boksdata...</language></row>
 	<row id="msg_0013_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have no saved data to send.\nTake a photo in the Goldenrod Tunnel.</language>
-	</row>
+	<language name="Norwegian">Du har ingen lagrede data å sende.\nTa et bilde i Goldenrod Tunnel.</language></row>
 	<row id="msg_0013_00291" index="291">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The same data can’t be sent again.\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">De samme dataene kan ikke’sendes på nytt.\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Receiving Battle Videos...</language>
-	</row>
+	<language name="Norwegian">Videoer av mottakskampen...</language></row>
 	<row id="msg_0013_00293" index="293">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No matching data was found...\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Ingen matchende data ble funnet...\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00294" index="294">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No matching Box Data was found...\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Ingen matchende boksdata ble funnet...\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00295" index="295">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your Battle Video was sent.\nVideo no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}\n</language>
-	</row>
+	<language name="Norwegian">Kampvideoen din ble sendt.\nVideo nr: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}\n.</language></row>
 	<row id="msg_0013_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The game will be saved before you can view\nBattle Videos.</language>
-	</row>
+	<language name="Norwegian">Spillet må lagres før du kan se\nKampvideoer.</language></row>
 	<row id="msg_0013_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Deleting data... Saving a lot of\ndata... Don’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Slette data ... Lagring av mye\ndata... Ikke slå av strømmen.</language></row>
 	<row id="msg_0013_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saving a lot of data...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Lagrer mye data...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0013_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saving...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Sparer...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0013_00300" index="300">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is no ranking data...\nTouch the Touch Screen to continue.</language>
-	</row>
+	<language name="Norwegian">Det finnes ingen rangeringsdata...\nTrykk på berøringsskjermen for å fortsette.</language></row>
 	<row id="msg_0013_00301" index="301">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to send your Battle Video?</language>
-	</row>
+	<language name="Norwegian">Vil du sende din Battle Video?</language></row>
 	<row id="msg_0013_00302" index="302">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00303" index="303">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00304" index="304">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00305" index="305">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00306" index="306">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00307" index="307">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00308" index="308">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00309" index="309">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">X</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0013_00310" index="310">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LATEST 20 IN THE FAVORITE PC BOX</language>
-	</row>
+	<language name="Norwegian">SISTE 20 I FAVORITT PC-BOKSEN</language></row>
 	<row id="msg_0013_00311" index="311">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LATEST 20 IN THE COOL PC BOX</language>
-	</row>
+	<language name="Norwegian">SISTE 20 I DEN KULE PC-BOKSEN</language></row>
 	<row id="msg_0013_00312" index="312">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LATEST 20 IN THE CUTE PC BOX</language>
-	</row>
+	<language name="Norwegian">SISTE 20 I DEN SØTE PC-ESKEN</language></row>
 	<row id="msg_0013_00313" index="313">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LATEST 20 IN THE SUGGESTED PC BOX</language>
-	</row>
+	<language name="Norwegian">SISTE 20 I DEN FORESLÅTTE PC-BOKSEN</language></row>
 	<row id="msg_0013_00314" index="314">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LATEST 20 IN THE FUN PC BOX</language>
-	</row>
+	<language name="Norwegian">SISTE 20 I DEN MORSOMME PC-BOKSEN</language></row>
 	<row id="msg_0013_00315" index="315">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LATEST 20 IN THE SELECT PC BOX</language>
-	</row>
+	<language name="Norwegian">SISTE 20 I BOKSEN FOR VALG AV PC</language></row>
 	<row id="msg_0013_00316" index="316">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">School Kid♂</language>
-	</row>
+	<language name="Norwegian">Skolebarn♂</language></row>
 	<row id="msg_0013_00317" index="317">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bug Catcher</language>
-	</row>
+	<language name="Norwegian">Insektfanger</language></row>
 	<row id="msg_0013_00318" index="318">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ace Trainer♂</language>
-	</row>
+	<language name="Norwegian">Ace Trainer♂</language></row>
 	<row id="msg_0013_00319" index="319">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Roughneck</language>
-	</row>
+	<language name="Norwegian">Roughneck</language></row>
 	<row id="msg_0013_00320" index="320">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ruin Maniac</language>
-	</row>
+	<language name="Norwegian">Ruin Maniac</language></row>
 	<row id="msg_0013_00321" index="321">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Black Belt</language>
-	</row>
+	<language name="Norwegian">Svart belte</language></row>
 	<row id="msg_0013_00322" index="322">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rich Boy</language>
-	</row>
+	<language name="Norwegian">Rik gutt</language></row>
 	<row id="msg_0013_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Psychic♂</language>
-	</row>
+	<language name="Norwegian">Synsk♂</language></row>
 	<row id="msg_0013_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lass</language>
-	</row>
+	<language name="Norwegian">Lass</language></row>
 	<row id="msg_0013_00325" index="325">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle Girl</language>
-	</row>
+	<language name="Norwegian">Battle Girl</language></row>
 	<row id="msg_0013_00326" index="326">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Beauty</language>
-	</row>
+	<language name="Norwegian">Skjønnhet</language></row>
 	<row id="msg_0013_00327" index="327">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ace Trainer♀</language>
-	</row>
+	<language name="Norwegian">Ace Trainer♀</language></row>
 	<row id="msg_0013_00328" index="328">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Idol</language>
-	</row>
+	<language name="Norwegian">Idol</language></row>
 	<row id="msg_0013_00329" index="329">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Socialite</language>
-	</row>
+	<language name="Norwegian">Sosialist</language></row>
 	<row id="msg_0013_00330" index="330">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cowgirl</language>
-	</row>
+	<language name="Norwegian">Cowgirl</language></row>
 	<row id="msg_0013_00331" index="331">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lady</language>
-	</row>
+	<language name="Norwegian">Dame</language></row>
 	<row id="msg_0013_00332" index="332">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Goldver</language>
-	</row>
+	<language name="Norwegian">Goldver</language></row>
 	<row id="msg_0013_00333" index="333">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ignore Location</language>
-	</row>
+	<language name="Norwegian">Ignorer plassering</language></row>
 </body>

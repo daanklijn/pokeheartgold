@@ -1,328 +1,328 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0015_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0015_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Heart Seal A</language>
-	</row>
+	<language name="Norwegian">Hjertesegl A</language></row>
 	<row id="msg_0015_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Heart Seal B</language>
-	</row>
+	<language name="Norwegian">Hjertesegl B</language></row>
 	<row id="msg_0015_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Heart Seal C</language>
-	</row>
+	<language name="Norwegian">Hjertesegl C</language></row>
 	<row id="msg_0015_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Heart Seal D</language>
-	</row>
+	<language name="Norwegian">Hjertesegl D</language></row>
 	<row id="msg_0015_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Heart Seal E</language>
-	</row>
+	<language name="Norwegian">Hjertesegl E</language></row>
 	<row id="msg_0015_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Heart Seal F</language>
-	</row>
+	<language name="Norwegian">Hjertesegl F</language></row>
 	<row id="msg_0015_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Star Seal A</language>
-	</row>
+	<language name="Norwegian">Stjernesegl A</language></row>
 	<row id="msg_0015_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Star Seal B</language>
-	</row>
+	<language name="Norwegian">Stjernesegl B</language></row>
 	<row id="msg_0015_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Star Seal C</language>
-	</row>
+	<language name="Norwegian">Stjerneforsegling C</language></row>
 	<row id="msg_0015_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Star Seal D</language>
-	</row>
+	<language name="Norwegian">Stjernesegl D</language></row>
 	<row id="msg_0015_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Star Seal E</language>
-	</row>
+	<language name="Norwegian">Stjerneforsegling E</language></row>
 	<row id="msg_0015_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Star Seal F</language>
-	</row>
+	<language name="Norwegian">Stjernesegl F</language></row>
 	<row id="msg_0015_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Line Seal A</language>
-	</row>
+	<language name="Norwegian">Linjetetning A</language></row>
 	<row id="msg_0015_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Line Seal B</language>
-	</row>
+	<language name="Norwegian">Linjetetning B</language></row>
 	<row id="msg_0015_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Line Seal C</language>
-	</row>
+	<language name="Norwegian">Linjetetning C</language></row>
 	<row id="msg_0015_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Line Seal D</language>
-	</row>
+	<language name="Norwegian">Linjetetning D</language></row>
 	<row id="msg_0015_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Smoke Seal A</language>
-	</row>
+	<language name="Norwegian">Røykforsegling A</language></row>
 	<row id="msg_0015_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Smoke Seal B</language>
-	</row>
+	<language name="Norwegian">Røyktetning B</language></row>
 	<row id="msg_0015_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Smoke Seal C</language>
-	</row>
+	<language name="Norwegian">Røyktetning C</language></row>
 	<row id="msg_0015_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Smoke Seal D</language>
-	</row>
+	<language name="Norwegian">Røykforsegling D</language></row>
 	<row id="msg_0015_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ele-Seal A</language>
-	</row>
+	<language name="Norwegian">Ele-Seal A</language></row>
 	<row id="msg_0015_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ele-Seal B</language>
-	</row>
+	<language name="Norwegian">Ele-Seal B</language></row>
 	<row id="msg_0015_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ele-Seal C</language>
-	</row>
+	<language name="Norwegian">Ele-Seal C</language></row>
 	<row id="msg_0015_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ele-Seal D</language>
-	</row>
+	<language name="Norwegian">Ele-Seal D</language></row>
 	<row id="msg_0015_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Foamy Seal A</language>
-	</row>
+	<language name="Norwegian">Skumforsegling A</language></row>
 	<row id="msg_0015_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Foamy Seal B</language>
-	</row>
+	<language name="Norwegian">Foamy Seal B</language></row>
 	<row id="msg_0015_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Foamy Seal C</language>
-	</row>
+	<language name="Norwegian">Foamy Seal C</language></row>
 	<row id="msg_0015_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Foamy Seal D</language>
-	</row>
+	<language name="Norwegian">Skummende segl D</language></row>
 	<row id="msg_0015_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fire Seal A</language>
-	</row>
+	<language name="Norwegian">Brannforsegling A</language></row>
 	<row id="msg_0015_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fire Seal B</language>
-	</row>
+	<language name="Norwegian">Brannforsegling B</language></row>
 	<row id="msg_0015_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fire Seal C</language>
-	</row>
+	<language name="Norwegian">Fire Seal C</language></row>
 	<row id="msg_0015_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fire Seal D</language>
-	</row>
+	<language name="Norwegian">Fire Seal D</language></row>
 	<row id="msg_0015_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Party Seal A</language>
-	</row>
+	<language name="Norwegian">Party Seal A</language></row>
 	<row id="msg_0015_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Party Seal B</language>
-	</row>
+	<language name="Norwegian">Party Seal B</language></row>
 	<row id="msg_0015_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Party Seal C</language>
-	</row>
+	<language name="Norwegian">Party Seal C</language></row>
 	<row id="msg_0015_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Party Seal D</language>
-	</row>
+	<language name="Norwegian">Party Seal D</language></row>
 	<row id="msg_0015_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Flora Seal A</language>
-	</row>
+	<language name="Norwegian">Flora Seal A</language></row>
 	<row id="msg_0015_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Flora Seal B</language>
-	</row>
+	<language name="Norwegian">Flora Seal B</language></row>
 	<row id="msg_0015_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Flora Seal C</language>
-	</row>
+	<language name="Norwegian">Flora Seal C</language></row>
 	<row id="msg_0015_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Flora Seal D</language>
-	</row>
+	<language name="Norwegian">Flora Seal D</language></row>
 	<row id="msg_0015_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Flora Seal E</language>
-	</row>
+	<language name="Norwegian">Flora Seal E</language></row>
 	<row id="msg_0015_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Flora Seal F</language>
-	</row>
+	<language name="Norwegian">Flora Seal F</language></row>
 	<row id="msg_0015_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Song Seal A</language>
-	</row>
+	<language name="Norwegian">Song Seal A</language></row>
 	<row id="msg_0015_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Song Seal B</language>
-	</row>
+	<language name="Norwegian">Song Seal B</language></row>
 	<row id="msg_0015_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Song Seal C</language>
-	</row>
+	<language name="Norwegian">Song Seal C</language></row>
 	<row id="msg_0015_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Song Seal D</language>
-	</row>
+	<language name="Norwegian">Song Seal D</language></row>
 	<row id="msg_0015_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Song Seal E</language>
-	</row>
+	<language name="Norwegian">Song Seal E</language></row>
 	<row id="msg_0015_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Song Seal F</language>
-	</row>
+	<language name="Norwegian">Song Seal F</language></row>
 	<row id="msg_0015_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Song Seal G</language>
-	</row>
+	<language name="Norwegian">Song Seal G</language></row>
 	<row id="msg_0015_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Seal</language>
-	</row>
+	<language name="Norwegian">Et segl</language></row>
 	<row id="msg_0015_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">B Seal</language>
-	</row>
+	<language name="Norwegian">B Seal</language></row>
 	<row id="msg_0015_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">C Seal</language>
-	</row>
+	<language name="Norwegian">C Seal</language></row>
 	<row id="msg_0015_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">D Seal</language>
-	</row>
+	<language name="Norwegian">D Seal</language></row>
 	<row id="msg_0015_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">E Seal</language>
-	</row>
+	<language name="Norwegian">E Seal</language></row>
 	<row id="msg_0015_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">F Seal</language>
-	</row>
+	<language name="Norwegian">F Seal</language></row>
 	<row id="msg_0015_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">G Seal</language>
-	</row>
+	<language name="Norwegian">G Seal</language></row>
 	<row id="msg_0015_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">H Seal</language>
-	</row>
+	<language name="Norwegian">H Seal</language></row>
 	<row id="msg_0015_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I Seal</language>
-	</row>
+	<language name="Norwegian">I Seal</language></row>
 	<row id="msg_0015_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">J Seal</language>
-	</row>
+	<language name="Norwegian">J Seal</language></row>
 	<row id="msg_0015_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">K Seal</language>
-	</row>
+	<language name="Norwegian">K Seal</language></row>
 	<row id="msg_0015_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">L Seal</language>
-	</row>
+	<language name="Norwegian">L Seal</language></row>
 	<row id="msg_0015_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">M Seal</language>
-	</row>
+	<language name="Norwegian">M Seal</language></row>
 	<row id="msg_0015_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">N Seal</language>
-	</row>
+	<language name="Norwegian">N Seal</language></row>
 	<row id="msg_0015_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">O Seal</language>
-	</row>
+	<language name="Norwegian">O Seal</language></row>
 	<row id="msg_0015_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">P Seal</language>
-	</row>
+	<language name="Norwegian">P Seal</language></row>
 	<row id="msg_0015_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Q Seal</language>
-	</row>
+	<language name="Norwegian">Q Seal</language></row>
 	<row id="msg_0015_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">R Seal</language>
-	</row>
+	<language name="Norwegian">R Seal</language></row>
 	<row id="msg_0015_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">S Seal</language>
-	</row>
+	<language name="Norwegian">S Seal</language></row>
 	<row id="msg_0015_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">T Seal</language>
-	</row>
+	<language name="Norwegian">T Seal</language></row>
 	<row id="msg_0015_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">U Seal</language>
-	</row>
+	<language name="Norwegian">U Seal</language></row>
 	<row id="msg_0015_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">V Seal</language>
-	</row>
+	<language name="Norwegian">V Seal</language></row>
 	<row id="msg_0015_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">W Seal</language>
-	</row>
+	<language name="Norwegian">W Seal</language></row>
 	<row id="msg_0015_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">X Seal</language>
-	</row>
+	<language name="Norwegian">X Seal</language></row>
 	<row id="msg_0015_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Y Seal</language>
-	</row>
+	<language name="Norwegian">Y Seal</language></row>
 	<row id="msg_0015_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Z Seal</language>
-	</row>
+	<language name="Norwegian">Z Seal</language></row>
 	<row id="msg_0015_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Shock Seal</language>
-	</row>
+	<language name="Norwegian">Sjokktetning</language></row>
 	<row id="msg_0015_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mystery Seal</language>
-	</row>
+	<language name="Norwegian">Mystery Seal</language></row>
 	<row id="msg_0015_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Liquid Seal</language>
-	</row>
+	<language name="Norwegian">Flytende tetning</language></row>
 	<row id="msg_0015_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Burst Seal</language>
-	</row>
+	<language name="Norwegian">Sprekkforsegling</language></row>
 	<row id="msg_0015_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Twinkle Seal</language>
-	</row>
+	<language name="Norwegian">Twinkle Seal</language></row>
 </body>
