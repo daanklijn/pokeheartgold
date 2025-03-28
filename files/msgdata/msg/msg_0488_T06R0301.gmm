@@ -1,80 +1,80 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0488_T06R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m the Chairman of the\nPokémon Fan Club.\rI’ve raised over 150 Pokémon.\rI’m very fussy when it comes\nto Pokémon.\rDid you visit just to hear about\nmy Pokémon? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg’er formann i\nPokémon Fan Club.\rJeg’har oppdratt over 150 Pokémon.\rJeg’er veldig kresen når det gjelder\nPokémon.\rBesøkte du oss bare for å høre om\npokémonene\nmine? {YESNO 0}</language></row>
 	<row id="msg_0488_T06R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Good! Then listen up!\rSo...my precious RAPIDASH...\rIt’s...cute...lovely...smart...\nadorable...irresistible...plus...\famazing... Don’t you think so?\fOh, so...wild...beautiful...\fkind... I love it!\rHug it... It’s warm and cuddly...\nOh, it’s...spectacular...captivating...\fsimply divine... I treasure it...\fOops! Look at the time! I’ve kept\fyou too long!\rThanks for hearing me out. I want to\ngive you this present!\r</language>
-	</row>
+	<language name="Norwegian">Bra! Så hør etter!\rSå...min dyrebare RAPIDASH...\rDen’er...søt...herlig...smart...\ndårlig...uimotståelig...og...\ffantastisk... Synes du ikke det? Så...vill...vakker...snill... Jeg elsker den! Den’er varm og kosete...\nÅh, den’er...spektakulær...fengslende...\fhelt guddommelig...\f...\nJeg setter pris på den...\f... Jeg verdsetter den...\fOops! Se på klokka! Jeg har holdt deg hen for lenge! Takk for at du hørte på meg. Jeg vil gi deg denne gaven!</language></row>
 	<row id="msg_0488_T06R0301_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0488_T06R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s a Rare Candy that makes\nPokémon stronger.\rI prefer making my Pokémon stronger\nby battling, so you can have it.</language>
-	</row>
+	<language name="Norwegian">Det’er et sjeldent godteri som gjør\nPokémon sterkere.\rJeg foretrekker å gjøre mine Pokémon sterkere\nved å kjempe, så du kan få det.</language></row>
 	<row id="msg_0488_T06R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
-	</row>
+	<language name="Norwegian">Hallo, {STRVAR_1 3, 0, 0}!\rHar du kommet for å snakke med meg om min\nPokémon igjen?\rNei? Å... Jeg hadde flere historier å fortelle...</language></row>
 	<row id="msg_0488_T06R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
-	</row>
+	<language name="Norwegian">Hallo, {STRVAR_1 3, 0, 0}!\rHar du kommet for å snakke med meg om min\nPokémon igjen?\rNei? Å... Jeg hadde flere historier å fortelle...</language></row>
 	<row id="msg_0488_T06R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">How disappointing...\rCome back if you want to listen\nto me again!</language>
-	</row>
+	<language name="Norwegian">Så skuffende...\rKom tilbake hvis du vil høre\npå meg igjen!</language></row>
 	<row id="msg_0488_T06R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your Bag is jammed full.</language>
-	</row>
+	<language name="Norwegian">Vesken din er full.</language></row>
 	<row id="msg_0488_T06R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Our Chairman is very vocal when it\ncomes to Pokémon...</language>
-	</row>
+	<language name="Norwegian">Styrelederen vår er svært høyrøstet når det gjelder Pokémon...</language></row>
 	<row id="msg_0488_T06R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I love the way CLEFAIRY opens up\nits arms!\rIt’s so adorable!</language>
-	</row>
+	<language name="Norwegian">Jeg elsker måten CLEFAIRY åpner\narmene sine på!</language></row>
 	<row id="msg_0488_T06R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I love CLEFAIRY, but I could never\ncatch one.\rSo I’m making do with a Poké Doll\nthat I found.</language>
-	</row>
+	<language name="Norwegian">Jeg elsker CLEFAIRY, men jeg kunne aldri\nfange en.\rSå jeg’nøyer meg med en Poké Doll\nsom jeg fant.</language></row>
 	<row id="msg_0488_T06R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I love CLEFAIRY, but I could never\ncatch one. So I’m making do with a\fPoké Doll that I found.\rWhat?\nThe girl who lost this Poké Doll\fis sad...!\rOK. Could you take this Poké Doll\nback to that poor little girl?\rI’ll befriend a real CLEFAIRY on\nmy own one day!\r</language>
-	</row>
+	<language name="Norwegian">Jeg elsker CLEFAIRY, men jeg kunne aldri\nfange en. Så jeg’nøyer meg med en\fPoké Doll som jeg fant.\rHva? \nJenta som mistet denne Poké Doll\fer lei seg...!\rOK. Kan du ta denne Poké Doll\ntilbake til den stakkars lille jenta?\rJeg’vil bli venn med en ekte CLEFAIRY på\nmin egen hånd en dag!\r</language></row>
 	<row id="msg_0488_T06R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe lost Poké Doll!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottatt\nden tapte Poké Doll!</language></row>
 	<row id="msg_0488_T06R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You watch. I’m going to get a\nreal CLEFAIRY as my friend.</language>
-	</row>
+	<language name="Norwegian">Du skal se. Jeg’kommer til å få en\nvirkelig CLEFAIRY som min venn.</language></row>
 	<row id="msg_0488_T06R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Look at my darling BAYLEEF!\rThe leaf on its head is so cute\nand fashionable!</language>
-	</row>
+	<language name="Norwegian">Se på min kjære BAYLEEF!\rBladet på hodet er så søtt\nog moteriktig!</language></row>
 	<row id="msg_0488_T06R0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s a CLEFAIRY!\nHuh?\rOh, right. It’s a CLEFAIRY Poké Doll.</language>
-	</row>
+	<language name="Norwegian">Det er en CLEFAIRY! Det er en CLEFAIRY Poké Doll.</language></row>
 	<row id="msg_0488_T06R0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BAYLEEF: Li liif!</language>
-	</row>
+	<language name="Norwegian">BAYLEEF: Li liif!</language></row>
 	<row id="msg_0488_T06R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Let’s all listen politely to\nother Trainers.</language>
-	</row>
+	<language name="Norwegian">La oss alle lytte høflig til’andre trenere.</language></row>
 	<row id="msg_0488_T06R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If someone brags, brag right back!</language>
-	</row>
+	<language name="Norwegian">Hvis noen skryter, skryt tilbake!</language></row>
 </body>

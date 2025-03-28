@@ -1,335 +1,335 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0426_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">First, I’ll need to hold on to any\nitems held by your Pokémon.\r</language>
-	</row>
+	<language name="Norwegian">Først må jeg’holde på alle\ngjenstander som Pokémon har i sin besittelse.</language></row>
 	<row id="msg_0426_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please wait a moment.</language>
-	</row>
+	<language name="Norwegian">Vennligst vent et øyeblikk.</language></row>
 	<row id="msg_0426_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0426_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Good going!\nWe’ll heal your Pokémon now.</language>
-	</row>
+	<language name="Norwegian">Bra jobba!\nVi’vil helbrede Pokémonene dine nå.</language></row>
 	<row id="msg_0426_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Next up, game no. {STRVAR_1 53, 0, 0}!\nAre you ready?</language>
-	</row>
+	<language name="Norwegian">Neste, spill nr. {STRVAR_1 53, 0, 0}!\nEr du klar?</language></row>
 	<row id="msg_0426_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to save the last battle\nas your Battle Video?</language>
-	</row>
+	<language name="Norwegian">Vil du lagre den siste kampen\n som din kampvideo?</language></row>
 	<row id="msg_0426_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s battle has been saved\nas a Battle Video.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s kamp har blitt lagret\nsom en kampvideo.\r</language></row>
 	<row id="msg_0426_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There was an error.\nThe Battle Video couldn’t be saved.\r</language>
-	</row>
+	<language name="Norwegian">Det oppsto en feil: \nKampvideoen kunne’ikke lagres.\r</language></row>
 	<row id="msg_0426_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Delete your existing Battle Video and\nsave the last battle?</language>
-	</row>
+	<language name="Norwegian">Slett den eksisterende kampvideoen og\nlagre den siste kampen?</language></row>
 	<row id="msg_0426_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saving...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Sparer...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0426_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to save and take a break\nfrom playing?</language>
-	</row>
+	<language name="Norwegian">Vil du spare og ta en pause\nfra spillet?</language></row>
 	<row id="msg_0426_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0426_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0426_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to retire from this\nchallenge?</language>
-	</row>
+	<language name="Norwegian">Vil du trekke deg fra denne\nutfordringen?</language></row>
 	<row id="msg_0426_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0426_00015" index="15">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0426_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} is choosing.\nPlease wait.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} er å velge \nVent litt.</language></row>
 	<row id="msg_0426_00017" index="17">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0426_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} chose to retire.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} valgte å trekke seg.</language></row>
 	<row id="msg_0426_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to the Battle Arcade!\r</language>
-	</row>
+	<language name="Norwegian">Velkommen til Battle Arcade!\r</language></row>
 	<row id="msg_0426_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Game no. {STRVAR_1 53, 0, 0}!\nCome on!</language>
-	</row>
+	<language name="Norwegian">Spill nr. {STRVAR_1 53, 0, 0}!\nKom igjen!</language></row>
 	<row id="msg_0426_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Without further ado...\nLet’s activate the game board!</language>
-	</row>
+	<language name="Norwegian">Uten videre ... \nLa oss aktivere spillebrettet!</language></row>
 	<row id="msg_0426_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is our current event!</language>
-	</row>
+	<language name="Norwegian">Dette er vårt nåværende arrangement!</language></row>
 	<row id="msg_0426_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon without full HP!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0}’s Pokémon uten full HP!</language></row>
 	<row id="msg_0426_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\fPokémon without full HP!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0}’s og {STRVAR_1 3, 1, 0}’s\fPokémon uten full HP!</language></row>
 	<row id="msg_0426_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon leveled up!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0}’s Pokémon på nivå!</language></row>
 	<row id="msg_0426_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\fPokémon leveled up!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0}’s og {STRVAR_1 3, 1, 0}’s\fPokémon som har gått opp i nivå!</language></row>
 	<row id="msg_0426_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon poisoned!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0}’s Pokémon forgiftet!</language></row>
 	<row id="msg_0426_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon poisoned!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0} og {STRVAR_1 3, 1, 0}’s\fPokémon forgiftet!</language></row>
 	<row id="msg_0426_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon paralyzed!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0}’s Pokémon paralysert!</language></row>
 	<row id="msg_0426_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon paralyzed!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0} og {STRVAR_1 3, 1, 0}’s\fPokémon paralysert!</language></row>
 	<row id="msg_0426_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon burned!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0}’s Pokémon brent!</language></row>
 	<row id="msg_0426_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon burned!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0} og {STRVAR_1 3, 1, 0}’s\fPokémon brent!</language></row>
 	<row id="msg_0426_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon asleep!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0}’s Pokémon som sover!</language></row>
 	<row id="msg_0426_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon asleep!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0} og {STRVAR_1 3, 1, 0}’s\fPokémon som sover!</language></row>
 	<row id="msg_0426_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon frozen!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0}’s Pokémon frosset!</language></row>
 	<row id="msg_0426_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon frozen!</language>
-	</row>
+	<language name="Norwegian">Kampen begynner med\n{STRVAR_1 3, 0, 0} og {STRVAR_1 3, 1, 0}’s\fPokémon frosset!</language></row>
 	<row id="msg_0426_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will be loaned\nthe {STRVAR_1 8, 2, 0}.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s Pokémon vil bli lånt ut\nden {STRVAR_1 8, 2, 0}.</language></row>
 	<row id="msg_0426_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\nPokémon will be loaned the\f{STRVAR_1 8, 2, 0}.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} og {STRVAR_1 3, 1, 0}’s\nPokémon vil bli lånt ut til\f{STRVAR_1 8, 2, 0}.</language></row>
 	<row id="msg_0426_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Here you go!\r</language>
-	</row>
+	<language name="Norwegian">Vær så god!</language></row>
 	<row id="msg_0426_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This match will be conducted under\nharsh sunlight.</language>
-	</row>
+	<language name="Norwegian">Denne kampen vil bli gjennomført under\nskarpt sollys.</language></row>
 	<row id="msg_0426_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This match will be conducted under a\nsteady rainfall.</language>
-	</row>
+	<language name="Norwegian">Denne kampen vil bli gjennomført under et\nstabilt regnvær.</language></row>
 	<row id="msg_0426_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This match will be conducted under\na raging sandstorm.</language>
-	</row>
+	<language name="Norwegian">Denne kampen vil bli gjennomført under\nen rasende sandstorm.</language></row>
 	<row id="msg_0426_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This match will be conducted under\npelting hail.</language>
-	</row>
+	<language name="Norwegian">Denne kampen vil bli gjennomført under\nsmeltende hagl.</language></row>
 	<row id="msg_0426_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This match will be conducted in a\ndense fog.</language>
-	</row>
+	<language name="Norwegian">Denne kampen vil bli gjennomført i en\ntett tåke.</language></row>
 	<row id="msg_0426_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This match will be conducted on a floor\nwhere time and space are distorted.</language>
-	</row>
+	<language name="Norwegian">Denne kampen vil bli gjennomført på et gulv\nhvor tid og rom er forvrengt.</language></row>
 	<row id="msg_0426_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your Pokémon will be switched with the\nother Trainer’s for this match.</language>
-	</row>
+	<language name="Norwegian">Din Pokémon vil bli byttet med den\nandre treneren’s for denne kampen.</language></row>
 	<row id="msg_0426_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">From the next game on, the\ngame board’s speed will be increased.</language>
-	</row>
+	<language name="Norwegian">Fra og med neste spill vil hastigheten på\nspillbrettet’økes.</language></row>
 	<row id="msg_0426_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">From the next game on, the\ngame board’s speed will be decreased.</language>
-	</row>
+	<language name="Norwegian">Fra og med neste spill vil hastigheten på\nspillbrettet’s reduseres.</language></row>
 	<row id="msg_0426_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">For the next game, the game board’s\nmotion will become random.</language>
-	</row>
+	<language name="Norwegian">I neste spill vil spillebrettet’s\nbevegelse bli tilfeldig.</language></row>
 	<row id="msg_0426_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 2, 0} BP!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottatt {STRVAR_1 51, 2, 0} BP!</language></row>
 	<row id="msg_0426_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0} received\n{STRVAR_1 51, 2, 0} BP!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} og {STRVAR_1 3, 1, 0} mottatt\n{STRVAR_1 51, 2, 0} BP!</language></row>
 	<row id="msg_0426_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are you ready?</language>
-	</row>
+	<language name="Norwegian">Er du klar?</language></row>
 	<row id="msg_0426_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh! Lucky!\nYou can skip the battle!</language>
-	</row>
+	<language name="Norwegian">Heldig! Du kan hoppe over kampen!</language></row>
 	<row id="msg_0426_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Too bad!\nThere is no event this time!</language>
-	</row>
+	<language name="Norwegian">Synd! \nDet er ikke noe arrangement denne gangen!</language></row>
 	<row id="msg_0426_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK! Let the battle commence!</language>
-	</row>
+	<language name="Norwegian">OK! La kampen begynne!</language></row>
 	<row id="msg_0426_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch poisoned...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe poisoned!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s Pokémon vil gå inn i\nkampen forgiftet...\rÅh! Et lykketreff! \r{STRVAR_1 3, 0, 0} har ingen Pokémon som kan\nbli forgiftet!</language></row>
 	<row id="msg_0426_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin poisoned...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be poisoned!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s og {STRVAR_1 3, 1, 0}’s\nPokémon vil begynne å bli forgiftet...\rOh! Et lykketreff! \rIngen av dem har en Pokémon som\nkan forgiftes!</language></row>
 	<row id="msg_0426_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch paralyzed...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe paralyzed!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s Pokémon vil gå inn i\nkampen paralysert...\rÅh! Et lykketreff! \r{STRVAR_1 3, 0, 0} har ingen Pokémon som kan\nbli paralysert!</language></row>
 	<row id="msg_0426_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin paralyzed...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be paralyzed!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s og {STRVAR_1 3, 1, 0}’s\nPokémon vil begynne å bli paralysert...\rOh! Et lykketreff! \rIngen av dem har en Pokémon som\nkan bli paralysert!</language></row>
 	<row id="msg_0426_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch burned...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe burned!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s Pokémon vil gå inn i\nmatchen brent...\rÅh! Et lykketreff! \r{STRVAR_1 3, 0, 0} har ingen Pokémon som kan\nbli brent!</language></row>
 	<row id="msg_0426_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin burned...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be burned!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s og {STRVAR_1 3, 1, 0}’s\nPokémon vil begynne å bli brent...\rOh! Et lykketreff! \rIngen av dem har en Pokémon som\nkan brennes!</language></row>
 	<row id="msg_0426_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch asleep...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe made to sleep!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s Pokémon vil gå sovende inn i\nmatchen...\rÅh! Et lykketreff! \r{STRVAR_1 3, 0, 0} har ingen Pokémon som kan\nfåes til å sove!</language></row>
 	<row id="msg_0426_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin asleep...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be made to sleep!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s og {STRVAR_1 3, 1, 0}’s\nPokémon vil begynne å sove...\rOh! Et lykketreff! \rIngen av dem har en Pokémon som\nkan bringes til å sove!</language></row>
 	<row id="msg_0426_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch frozen...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe frozen!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s Pokémon vil gå inn i\nkampen frosset...\rÅh! Et lykketreff! \r{STRVAR_1 3, 0, 0} har ingen Pokémon som kan\nfryses!</language></row>
 	<row id="msg_0426_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin frozen...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be frozen!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s og {STRVAR_1 3, 1, 0}’s\nPokémon vil begynne å fryses...\rOh! Et lykketreff! \rIngen av dem har en Pokémon som\nkan fryses!</language></row>
 	<row id="msg_0426_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have cleared your seventh battle!\nCongratulations!\rYou have earned BP as your prize!\r</language>
-	</row>
+	<language name="Norwegian">Du har klart din syvende kamp!\nGratulerer!\rDu har vunnet BP som premie!\r</language></row>
 	<row id="msg_0426_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 1, 0} BP!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottatt {STRVAR_1 51, 1, 0} BP!\r</language></row>
 	<row id="msg_0426_00068" index="68">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0426_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We will return any items we were holding\nfor you.\r</language>
-	</row>
+	<language name="Norwegian">Vi returnerer alle varer vi oppbevarte\nfor deg.\r</language></row>
 	<row id="msg_0426_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saving...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Lagring...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0426_00071" index="71">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0426_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CONTINUE</language>
-	</row>
+	<language name="Norwegian">FORTSETT</language></row>
 	<row id="msg_0426_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">RECORD</language>
-	</row>
+	<language name="Norwegian">REKORD</language></row>
 	<row id="msg_0426_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">REST</language>
-	</row>
+	<language name="Norwegian">REST</language></row>
 	<row id="msg_0426_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">RETIRE</language>
-	</row>
+	<language name="Norwegian">PENSJONERER</language></row>
 	<row id="msg_0426_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Congratulations, Trainer!\rIn recognition of your outstanding\nskill, our Frontier Brain is demanding\fa match with you.\rSo, your next match is against the\nArcade Star; no ifs or buts!\rAre you ready?\r</language>
-	</row>
+	<language name="Norwegian">Gratulerer, trener!\rI anerkjennelse av dine enestående\nferdigheter krever vår Frontier Brain\fen kamp med deg.\rDin neste kamp er mot\nArcade Star; uten om og men!\rEr du klar?\r</language></row>
 	<row id="msg_0426_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dahlia: No need to worry. ♫\nLet chance do what it does.\rLike surprises from the game board,\nlife goes through twists and turns.\rNo need to worry. ♫\nThings will go as they will.\rBut, enough of that.\nI know one thing for certain.\rYou have arrived here not merely\nbecause you were lucky.\rLet us not waste any time.\nI wish to test your skills myself!\r</language>
-	</row>
+	<language name="Norwegian">Dahlia: Ingen grunn til bekymring. ♫\nLa tilfeldighetene gjøre det de gjør.\rLike overraskelser fra spillebrettet,\ngår livet sin gang.\rIngen grunn til å bekymre seg. \nTingene vil gå som de vil.\rMen nok om det.\nEn ting er sikkert.\rDu har ikke kommet hit bare\nfordi du hadde flaks.\rLa oss ikke kaste bort tiden.\nJeg vil gjerne teste dine ferdigheter selv!\r</language></row>
 	<row id="msg_0426_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dahlia: No need to worry. ♫\nLet chance do what it does.\rLike surprises from the game board,\nlife goes through twists and turns.\rNo need to worry. ♫\nThings will go as they will.\rBut, enough of that.\nYou are proving yourself incredible.\rAre you incredible because you are so\nlucky you shrug off bad luck entirely?\rOr, are you so incredibly talented to\nnot be swayed by luck, good or bad?\rI wish to see for myself what brought\nyou to me today!\r</language>
-	</row>
+	<language name="Norwegian">Dahlia: Ingen grunn til bekymring. ♫\nLa tilfeldighetene gjøre det de gjør.\rLike overraskelser fra spillebrettet,\ngår livet sin gang.\rIngen grunn til å bekymre seg. \nTingene vil gå som de vil.\rMen, nok om det.\nDu viser at du er utrolig.\rEr du utrolig fordi du er så\nheldig at du trekker på skuldrene av uflaks helt og holdent?\rEller er du så utrolig talentfull at du ikke lar deg påvirke av flaks, verken på godt eller vondt?\rJeg ønsker å se med egne øyne hva som har ført\n deg til meg i dag!\r</language></row>
 	<row id="msg_0426_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dahlia: How fabulous of you!\rYour love of Pokémon shone through,\nand, in turn, your Pokémon believed\fin you.\rThat is why you handled everything\nthrown your way splendidly.\rA most wonderful victory it was!\r</language>
-	</row>
+	<language name="Norwegian">Dahlia: Så fantastisk av deg!\rDin kjærlighet til Pokémon skinte igjennom,\nog, i sin tur, trodde dine Pokémon\fpå deg.\rDerfor taklet du alt\nsom ble kastet mot deg med glans.\rDet var en vidunderlig seier!\rDet var en vidunderlig seier!\r</language></row>
 	<row id="msg_0426_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dahlia: Truly, it was so very fabulous\nof all of you!\rBad luck, you cast aside, and good\nluck, you netted.\rThat you did so is evidence of your\nabilities.\rBy defeating me, Dahlia, you have\nproven your mastery brilliantly!\rI am sincerely happy for having this\nbattle against you!\r</language>
-	</row>
+	<language name="Norwegian">Dahlia: Det var virkelig fabelaktig av dere alle! \rDårlig flaks har dere kastet til side, og god\nflaks har dere fanget. \rAt dere gjorde det er et bevis på deres\nevner.\rVed å beseire meg, Dahlia, har du\nbevist ditt mesterskap på en glimrende måte!\rJeg er oppriktig glad for å ha hatt denne\nkampen mot deg!\r</language></row>
 </body>

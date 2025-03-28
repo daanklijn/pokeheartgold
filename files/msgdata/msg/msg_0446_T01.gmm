@@ -1,27 +1,27 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0446_T01_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m raising Pokémon, too.\nThey serve as my private guards.</language>
-	</row>
+	<language name="Norwegian">Jeg’oppdrar også Pokémon. \nDe fungerer som mine private vakter.</language></row>
 	<row id="msg_0446_T01_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Technology is incredible!\rYou can now trade Pokémon\noverseas like email.</language>
-	</row>
+	<language name="Norwegian">Teknologien er utrolig! \rDu kan nå handle Pokémon\nover hele verden som e-post.</language></row>
 	<row id="msg_0446_T01_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pallet Town\nA Pure White Beginning</language>
-	</row>
+	<language name="Norwegian">Pallet Town\nEn ren, hvit begynnelse</language></row>
 	<row id="msg_0446_T01_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Red’s House</language>
-	</row>
+	<language name="Norwegian">Red’s hus</language></row>
 	<row id="msg_0446_T01_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oak Pokémon\nResearch Lab</language>
-	</row>
+	<language name="Norwegian">Oak Pokémon\nForskningslaboratorium</language></row>
 	<row id="msg_0446_T01_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blue’s House</language>
-	</row>
+	<language name="Norwegian">Blue’s hus</language></row>
 </body>

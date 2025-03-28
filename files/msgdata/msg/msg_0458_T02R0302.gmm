@@ -1,64 +1,64 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0458_T02R0302_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello, welcome to our Training Hall.\rYou may battle our best Trainers and\ntheir favorite Pokémon once\fper day.\rWould you like to participate? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei, velkommen til Treningshallen vår.\rDu kan kjempe mot våre beste Trenere og\nderes favoritt-Pokémon én gang\fper dag.\rVil du delta? {YESNO 0}</language></row>
 	<row id="msg_0458_T02R0302_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0458_T02R0302_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are ready!\nPlease go right through.\r</language>
-	</row>
+	<language name="Norwegian">Du er klar!\nVær så snill å gå rett gjennom.\r</language></row>
 	<row id="msg_0458_T02R0302_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see...\nPlease come back again.\r</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner...\nKom gjerne tilbake igjen.\r</language></row>
 	<row id="msg_0458_T02R0302_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you want to exit? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Ønsker du å avslutte? {YESNO 0}</language></row>
 	<row id="msg_0458_T02R0302_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thank you for playing!\r</language>
-	</row>
+	<language name="Norwegian">Takk for at du spilte!\r</language></row>
 	<row id="msg_0458_T02R0302_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see.\nGood luck!\r</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner.\n Lykke til!\r</language></row>
 	<row id="msg_0458_T02R0302_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, hello!\nRight this way, please!\r</language>
-	</row>
+	<language name="Norwegian">Å, hallo!\nDenne veien, takk!\r</language></row>
 	<row id="msg_0458_T02R0302_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the Trainer House--\nthe place for Trainers.\rThe Pokéwalker will bring your\nfriends here!\rYou can challenge various Trainers\nonce a day.\rYou’ll earn Battle Points when you win.\fBring out your best!\r</language>
-	</row>
+	<language name="Norwegian">Dette er Trenerhuset -\nstedet for trenere.\rPokéwalkeren tar med seg dine\nvenner hit!\rDu kan utfordre forskjellige trenere\nen gang om dagen.\rDu’får kamppoeng når du vinner.\fTa ut ditt beste!\rDu\r</language></row>
 	<row id="msg_0458_T02R0302_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh! I’ll borrow your Vs. Recorder\nfor a moment.\rLet’s see... Slide open this part here,\nand ticka-tacka-kachunk there!\rAll done!\rNow you can check your Battle Points\nusing your Vs. Recorder!\r</language>
-	</row>
+	<language name="Norwegian">Jeg’låner deg Vs-opptakeren\net øyeblikk.\rLa oss se’... Skyv opp denne delen her,\nog ticka-tacka-kachunk der!\rAlt gjort!\rNå kan du sjekke kamppoengene dine\nved hjelp av Vs. opptakeren din!\r</language></row>
 	<row id="msg_0458_T02R0302_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s Vs. Recorder was\nupgraded.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s Vs. opptakeren ble\noppgradert.</language></row>
 	<row id="msg_0458_T02R0302_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You may exchange your Battle Points\nfor fabulous prizes at Johto\fBattle Frontier!\r</language>
-	</row>
+	<language name="Norwegian">Du kan bytte inn dine Battle Points\nmot fantastiske premier på Johto\fBattle Frontier!\r</language></row>
 	<row id="msg_0458_T02R0302_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Now that you are ready,\nwould you like to train yourself? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Nå som du er klar, \nvil du trene deg selv? {YESNO 0}</language></row>
 	<row id="msg_0458_T02R0302_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to battle? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Har du lyst til å kjempe? {YESNO 0}</language></row>
 	<row id="msg_0458_T02R0302_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">See you tomorrow!</language>
-	</row>
+	<language name="Norwegian">Vi ses i morgen!</language></row>
 </body>

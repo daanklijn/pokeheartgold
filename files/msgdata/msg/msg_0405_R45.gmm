@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0405_R45_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Have you heard of a place called\nthe Battle Frontier?\rIt’s a huge place with many battle\nfacilities, and it’s located west of\fOlivine City!\rLet’s see...\rIf you manage to win all the way up\nthrough the Pokémon League,\fyou might want to try it.</language>
-	</row>
+	<language name="Norwegian">Har du hørt om et sted som heter\nKampgrensen?\rDet’er et enormt sted med mange kamp\nfasiliteter, og det’ligger vest for\fOlivine City!\rLa oss se...\rHvis du klarer å vinne hele veien opp\ni Pokémon-ligaen,\fvil du kanskje prøve det.</language></row>
 	<row id="msg_0405_R45_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rt. 45\nMountain Road ahead</language>
-	</row>
+	<language name="Norwegian">Rt. 45\nMountain Road fremover</language></row>
 	<row id="msg_0405_R45_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dark Cave</language>
-	</row>
+	<language name="Norwegian">Mørk hule</language></row>
 </body>

@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0494_T07R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello! Welcome to the Celadon\nDepartment Store!\rThe directory is on the wall next to\nthe elevator.</language>
-	</row>
+	<language name="Norwegian">Hallo! Velkommen til Celadon\nDepartment Store!\rKatalogen henger på veggen ved siden av\nheisen.</language></row>
 	<row id="msg_0494_T07R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This department store is part of the\nsame chain as the one in Goldenrod City.\rThey were both renovated at the\nsame time.</language>
-	</row>
+	<language name="Norwegian">Dette varehuset er en del av\nsamme kjede som det i Goldenrod City, og begge ble renovert på samme tid.</language></row>
 	<row id="msg_0494_T07R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is my first time here.\nIt’s so big...\fI’m afraid I’ll get lost.</language>
-	</row>
+	<language name="Norwegian">Dette er første gang jeg er her. Det er så stort... Jeg er redd jeg skal gå meg vill.</language></row>
 	<row id="msg_0494_T07R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1F: Service Counter\n2F: Trainer’s Market\f3F: TM Shop\f4F: Wiseman Gifts\f5F: Battle Collection\f6F: Rooftop Atrium</language>
-	</row>
+	<language name="Norwegian">1F: Servicedisk\n2F: Trener’s marked\f3F: TM-butikk\f4F: Wiseman-gaver\f5F: Kampsamling\f6F: Atrium på taket</language></row>
 </body>

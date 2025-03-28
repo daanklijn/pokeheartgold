@@ -1,35 +1,35 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0463_T03PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Yeah, and the Gym in Cinnabar’s\ngone. I was really amazed.\r...Yes? I’m on the phone.\nGo away!</language>
-	</row>
+	<language name="Norwegian">...Ja, og gymmet i Cinnabar’er\nbort. Jeg ble virkelig overrasket... Ja? Jeg er på telefonen. Gå vekk!</language></row>
 	<row id="msg_0463_T03PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">JIGGLYPUFF: Puu pupuu.</language>
-	</row>
+	<language name="Norwegian">Puu pupuu.</language></row>
 	<row id="msg_0463_T03PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Most Pokémon get drowsy if they\nhear a JIGGLYPUFF singing.\rThere are several moves that can be\nused only while a Pokémon is asleep.</language>
-	</row>
+	<language name="Norwegian">De fleste Pokémon blir døsige hvis de\nhører en JIGGLYPUFF synge.\rDet finnes flere trekk som bare kan\nbrukes mens en Pokémon sover.</language></row>
 	<row id="msg_0463_T03PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aw...\nIf only I had a HAUNTER...\rIf you have a HAUNTER,\nyou will trade it for my XATU,\fwon’t you? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Åh...\nHvis jeg bare hadde en HAUNTER...\rHvis du har en HAUNTER,\nvil du bytte den mot min XATU,\fvil du ikke’ikke sant? {YESNO 0}</language></row>
 	<row id="msg_0463_T03PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">How wonderful! You made my day!\rThanks to you, I have finally got the\nPokémon I’ve been looking for...\fsince forever!</language>
-	</row>
+	<language name="Norwegian">Så fantastisk! Du gjorde dagen min! \rTakket være deg har jeg endelig fått den\nPokémonen jeg’har lett etter...\fi en evighet!</language></row>
 	<row id="msg_0463_T03PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It has to be a HAUNTER!\rHAUNTER!!</language>
-	</row>
+	<language name="Norwegian">Det må være en HAUNTER!</language></row>
 	<row id="msg_0463_T03PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’d never turn down a trade\nif you had a HAUNTER.\rThat means you just don’t have one.\nThat must be it...</language>
-	</row>
+	<language name="Norwegian">Du ville aldri sagt nei til en handel hvis du hadde en HAUNTER.’Det betyr at du bare ikke har en.’Det må være det...</language></row>
 	<row id="msg_0463_T03PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">How do you like the cool XATU\nI traded you?\rIt’s so cool, because it used to be\nwith cool me!</language>
-	</row>
+	<language name="Norwegian">Hva synes du om den kule XATU\njeg har byttet til deg?\rDen’er så kul, fordi den pleide å være\nmed kule meg!</language></row>
 </body>

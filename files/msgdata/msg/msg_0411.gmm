@@ -1,27 +1,27 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0411_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Buena’s Password</language>
-	</row>
+	<language name="Norwegian">Buena’s Passord</language></row>
 	<row id="msg_0411_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Buena</language>
-	</row>
+	<language name="Norwegian">Buena</language></row>
 	<row id="msg_0411_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Drama and documentary!\nThis is the Variety Hour Guy!</language>
-	</row>
+	<language name="Norwegian">Drama og dokumentarfilm!\nDette er Variety Hour Guy!</language></row>
 	<row id="msg_0411_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Variety Channel that’s a treasure\nchest filled with laughter and tears!</language>
-	</row>
+	<language name="Norwegian">Variety Channel som’er en skattkiste\nfylt med latter og tårer!</language></row>
 	<row id="msg_0411_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Buena: Hello, everyone! It’s Buena!\nTime for today’s password!\nToday’s password is...\n{STRVAR_34 18, 0, 0}!\nDon’t forget it!\nI’m looking forward to your visiting\nme at the Goldenrod City Radio Tower!</language>
-	</row>
+	<language name="Norwegian">Buena: Hei, alle sammen! Det’er Buena!\nTid for dagens’passord!\nDagens’passord er...\n{STRVAR_34 18, 0, 0}!\nIkke’glem det!\nJeg’ser frem til at dere besøker\nmeg i radiotårnet i Goldenrod City!</language></row>
 	<row id="msg_0411_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Buena: Hello, everyone! It’s Buena!\nAll my listeners out there, have you gone\nto the Goldenrod City Radio Tower to get\nyour Blue Card yet? Remember the\npassword we announce on the show, and\ngo to the Goldenrod City Radio Tower.\nIf you come visit me on the second floor\nand tell me the password, you’ll get\npoints on your card! Collect enough\npoints, and you can turn them in for\nsome great prizes! Try your best to\ngather points, everyone!</language>
-	</row>
+	<language name="Norwegian">Buena: Hallo, alle sammen! Det’er Buena!\nAlle mine lyttere der ute, har dere gått\ntil Goldenrod City Radio Tower for å få\nditt blå kort ennå? Husk\npassordet vi kunngjør i programmet, og\ngå til Goldenrod City Radio Tower.\nHvis du kommer til meg i andre etasje\nog forteller meg passordet, får du\npoeng på kortet ditt! Samler du nok\npoeng, kan du levere dem inn for\nflotte premier! Gjør ditt beste for å\nsamle poeng, alle sammen!</language></row>
 </body>

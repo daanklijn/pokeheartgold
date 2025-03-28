@@ -1,43 +1,43 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0495_T07R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I just recently became a Trainer.\fMy son encouraged me to do it.\rI’m impressed by the selection of\nconvenient items.</language>
-	</row>
+	<language name="Norwegian">Jeg ble nylig Trainer.\fMin sønn oppmuntret meg til å gjøre det.\rJeg’er imponert over utvalget av\npraktiske artikler.</language></row>
 	<row id="msg_0495_T07R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My dad’s having a hard time learning\nthe names of items and how they are\fsupposed to be used...</language>
-	</row>
+	<language name="Norwegian">Faren min’har vanskelig for å lære seg\nnavnene på gjenstandene og hvordan de skal\fbrukes...</language></row>
 	<row id="msg_0495_T07R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Top Grade Items for Trainers!\n2F: Trainer’s Market</language>
-	</row>
+	<language name="Norwegian">Toppkvalitetsartikler for trenere!\n2F: Trener’s Market</language></row>
 	<row id="msg_0495_T07R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wake: Hmm... Hmm... Humm...\r</language>
-	</row>
+	<language name="Norwegian">Wake: Hmm... Hmm... Humm...\r</language></row>
 	<row id="msg_0495_T07R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wake: Ha! This is quite a mask...\r</language>
-	</row>
+	<language name="Norwegian">Wake: Ha! Dette er litt av en maske ... \r</language></row>
 	<row id="msg_0495_T07R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wake: Huh? You talking to me?\rYour eyes...are on my\nCrasher Wake mask?\rNo, no, no!\nI can never let it go!\r...\nHuh? That’s not it?\fYou want the other mask?\rHmm.\nOK.\r</language>
-	</row>
+	<language name="Norwegian">Hva? Snakker du til meg?\rDu ser...på min\nCrasher Wake-maske?\rNei, nei, nei!\nJeg kan aldri gi slipp på den!\r...\nHva? Det’er ikke det? \fDu vil ha den andre masken? \rHmm.\nOK.\r</language></row>
 	<row id="msg_0495_T07R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wake: What?\nThat’s not enough?\rYou’re quite a negotiator for your\nage... All right, I’ll give you this, too!\r</language>
-	</row>
+	<language name="Norwegian">Wake: Hva? Det er ikke nok? Du er litt av en forhandler til å være i din alder... Greit, jeg skal gi deg denne også!</language></row>
 	<row id="msg_0495_T07R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wake: ...\rArrr, all right, all right! I will give you\nthis much-valued one as well!\r</language>
-	</row>
+	<language name="Norwegian">Wake: ...\rArrr, ok, ok, ok! Jeg skal gi deg\nden mye verdsatte også!\r</language></row>
 	<row id="msg_0495_T07R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wake: It’s OK.\nI’ve already paid for you.\rPresents for you from the one\nwho wears masks the best.\fDon’t be shy.\fHa ha ha!\r</language>
-	</row>
+	<language name="Norwegian">Wake: Det’er OK.\nJeg’har allerede betalt for deg.\rPresenter til deg fra den\nsom bærer masker best.\fIkke vær sjenert.\fHa ha ha!\rVær ikke sjenert</language></row>
 	<row id="msg_0495_T07R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wake: Hmm... Hmm... Humm...\rHa! This is quite a mask...</language>
-	</row>
+	<language name="Norwegian">Wake: Hmm... Hmm... Humm...\rHa! Dette er litt av en maske...</language></row>
 </body>

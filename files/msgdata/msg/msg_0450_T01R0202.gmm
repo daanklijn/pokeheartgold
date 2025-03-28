@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0450_T01R0202_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s a Wii!\nWii is huge in Kanto, too!</language>
-	</row>
+	<language name="Norwegian">Det’er en Wii!\nWii er stort i Kanto også!</language></row>
 	<row id="msg_0450_T01R0202_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...The power is turned off.</language>
-	</row>
+	<language name="Norwegian">...strømmen er slått av.</language></row>
 </body>

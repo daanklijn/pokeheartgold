@@ -1,254 +1,254 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0430_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Place the {STRVAR_1 8, 0, 0}?</language>
-	</row>
+	<language name="Norwegian">Plasser {STRVAR_1 8, 0, 0}?</language></row>
 	<row id="msg_0430_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Placed the {STRVAR_1 8, 0, 0}.</language>
-	</row>
+	<language name="Norwegian">Plassert {STRVAR_1 8, 0, 0}.</language></row>
 	<row id="msg_0430_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There are {STRVAR_1 51, 0, 0} left to place.</language>
-	</row>
+	<language name="Norwegian">Det er {STRVAR_1 51, 0, 0} igjen å plassere.</language></row>
 	<row id="msg_0430_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cannot place any more.</language>
-	</row>
+	<language name="Norwegian">Kan ikke plassere flere.</language></row>
 	<row id="msg_0430_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No open spaces left.</language>
-	</row>
+	<language name="Norwegian">Ingen ledige plasser igjen.</language></row>
 	<row id="msg_0430_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cannot place on land.</language>
-	</row>
+	<language name="Norwegian">Kan ikke plasseres på land.</language></row>
 	<row id="msg_0430_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cannot place on the waterside.</language>
-	</row>
+	<language name="Norwegian">Kan ikke plasseres på vannkanten.</language></row>
 	<row id="msg_0430_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cannot place any more.</language>
-	</row>
+	<language name="Norwegian">Kan ikke plassere flere.</language></row>
 	<row id="msg_0430_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Return</language>
-	</row>
+	<language name="Norwegian">Retur</language></row>
 	<row id="msg_0430_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0430_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0430_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0430_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 50, 0, 0}/{STRVAR_1 50, 1, 0}</language></row>
 	<row id="msg_0430_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 8, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 8, 0, 0}</language></row>
 	<row id="msg_0430_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Shrubbery</language>
-	</row>
+	<language name="Norwegian">Buskas</language></row>
 	<row id="msg_0430_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Red Flower</language>
-	</row>
+	<language name="Norwegian">Rød blomst</language></row>
 	<row id="msg_0430_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">White Flower</language>
-	</row>
+	<language name="Norwegian">Hvit blomst</language></row>
 	<row id="msg_0430_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tree</language>
-	</row>
+	<language name="Norwegian">Tre</language></row>
 	<row id="msg_0430_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Stump</language>
-	</row>
+	<language name="Norwegian">Stubbe</language></row>
 	<row id="msg_0430_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Branches</language>
-	</row>
+	<language name="Norwegian">Grener</language></row>
 	<row id="msg_0430_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Small Rock</language>
-	</row>
+	<language name="Norwegian">Liten stein</language></row>
 	<row id="msg_0430_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Big Rock</language>
-	</row>
+	<language name="Norwegian">Big Rock</language></row>
 	<row id="msg_0430_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mossy Rock</language>
-	</row>
+	<language name="Norwegian">Mossy Rock</language></row>
 	<row id="msg_0430_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Puddle</language>
-	</row>
+	<language name="Norwegian">Pytt</language></row>
 	<row id="msg_0430_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fountain</language>
-	</row>
+	<language name="Norwegian">Fontene</language></row>
 	<row id="msg_0430_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Water Hole</language>
-	</row>
+	<language name="Norwegian">Vannhull</language></row>
 	<row id="msg_0430_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bench</language>
-	</row>
+	<language name="Norwegian">Benk</language></row>
 	<row id="msg_0430_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Short Fence1</language>
-	</row>
+	<language name="Norwegian">Kort gjerde1</language></row>
 	<row id="msg_0430_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Short Fence2</language>
-	</row>
+	<language name="Norwegian">Kort gjerde2</language></row>
 	<row id="msg_0430_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Long Fence1</language>
-	</row>
+	<language name="Norwegian">Langt gjerde1</language></row>
 	<row id="msg_0430_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Long Fence2</language>
-	</row>
+	<language name="Norwegian">Langt gjerde2</language></row>
 	<row id="msg_0430_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Signboard</language>
-	</row>
+	<language name="Norwegian">Skilt</language></row>
 	<row id="msg_0430_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your Statue</language>
-	</row>
+	<language name="Norwegian">Din statue</language></row>
 	<row id="msg_0430_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your Flag</language>
-	</row>
+	<language name="Norwegian">Flagget ditt</language></row>
 	<row id="msg_0430_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Outside Lamp</language>
-	</row>
+	<language name="Norwegian">Utvendig lampe</language></row>
 	<row id="msg_0430_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Guidepost(R)</language>
-	</row>
+	<language name="Norwegian">Guidepost(R)</language></row>
 	<row id="msg_0430_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Guidepost(L)</language>
-	</row>
+	<language name="Norwegian">Guidepost(L)</language></row>
 	<row id="msg_0430_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Trash Can</language>
-	</row>
+	<language name="Norwegian">Søppelbøtte</language></row>
 	<row id="msg_0430_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A thick tuft of grass.\nThe Pokémon on the\nPlains seem to like it.</language>
-	</row>
+	<language name="Norwegian">En tykk gresstust, som Pokémon på slettene ser ut til å like.</language></row>
 	<row id="msg_0430_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A very intensely colored flower.\nThe Pokémon on the\nPlains seem to like it.</language>
-	</row>
+	<language name="Norwegian">En blomst med en veldig intens farge, som Pokémon på slettene ser ut til å like.</language></row>
 	<row id="msg_0430_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A very tenderly colored flower.\nThe Pokémon on the\nPlains seem to like it.</language>
-	</row>
+	<language name="Norwegian">En blomst med en veldig fin farge, som Pokémon på slettene ser ut til å like.</language></row>
 	<row id="msg_0430_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A somewhat short tree.\nThe Pokémon in the\nForest seem to like it.</language>
-	</row>
+	<language name="Norwegian">Et litt kort tre, som Pokémon i\nSkogen ser ut til å like.</language></row>
 	<row id="msg_0430_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A remainder from a tree that was\ncut down. The Pokémon in the\nForest seem to like it.</language>
-	</row>
+	<language name="Norwegian">En rest fra et tre som ble\nhogd ned. Pokémon i\nSkogen ser ut til å like det.</language></row>
 	<row id="msg_0430_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A pile of broken branches.\nThe Pokémon in the\nForest seem to like it.</language>
-	</row>
+	<language name="Norwegian">En haug med avbrutte greiner\nPokémonene i\nSkogen ser ut til å like den.</language></row>
 	<row id="msg_0430_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A smallish round rock.\nThe Pokémon in the\nrocky Areas seem to like it.</language>
-	</row>
+	<language name="Norwegian">En liten rund stein, som Pokémon i de steinete områdene ser ut til å like.</language></row>
 	<row id="msg_0430_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A big, scraggy rock.\nThe Pokémon in the\nrocky Areas seem to like it.</language>
-	</row>
+	<language name="Norwegian">En stor, skranglete stein, som Pokémon i de steinete områdene ser ut til å like.</language></row>
 	<row id="msg_0430_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A mossy rock.\nThe Pokémon in the\nrocky Areas seem to like it.</language>
-	</row>
+	<language name="Norwegian">En mosegrodd stein, som Pokémon i de mosegrodde områdene ser ut til å like.</language></row>
 	<row id="msg_0430_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Water collected on the ground.\nThe Pokémon by the\nwater seem to like it.</language>
-	</row>
+	<language name="Norwegian">Vannet samler seg på bakken, og Pokémon ved vannet ser ut til å like det.</language></row>
 	<row id="msg_0430_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can place it using Surf.\nThe Pokémon by the\nwater seem to like it.</language>
-	</row>
+	<language name="Norwegian">Du kan plassere den ved hjelp av Surf.\nPokémonene ved\nvannet ser ut til å like den.</language></row>
 	<row id="msg_0430_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cool, delicious drinking\nwater. The Pokémon by the\nwater seem to like it.</language>
-	</row>
+	<language name="Norwegian">Kjølig, deilig drikkevann. Pokémon ved\nvannet ser ut til å like det.</language></row>
 	<row id="msg_0430_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A long and thin bench.\nThe kind you would find in\nany park or rest area.</language>
-	</row>
+	<language name="Norwegian">En lang og tynn benk av den typen du finner i en park eller på en rasteplass.</language></row>
 	<row id="msg_0430_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A short, horizontal fence.\nIf you used a few of these, you could\nprobably enclose a lake or flower patch.</language>
-	</row>
+	<language name="Norwegian">Et kort, horisontalt gjerde. \nHvis du bruker noen få av disse, kan du\nsannsynligvis omslutte en innsjø eller en blomsterflekk.</language></row>
 	<row id="msg_0430_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A short, vertical fence.\nIf you used a few of these, you could\nprobably enclose a lake or flower patch.</language>
-	</row>
+	<language name="Norwegian">Et kort, vertikalt gjerde. \nHvis du bruker noen få av disse, kan du\nsannsynligvis omslutte en innsjø eller en blomsterflekk.</language></row>
 	<row id="msg_0430_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A long, horizontal fence.\nIf you used a few of these, you could\nprobably enclose a lake or flower patch.</language>
-	</row>
+	<language name="Norwegian">Et langt, horisontalt gjerde. \nHvis du bruker noen få av disse, kan du\nsannsynligvis omslutte en innsjø eller en blomsterflekk.</language></row>
 	<row id="msg_0430_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A long, vertical fence.\nIf you used a few of these, you could\nprobably enclose a lake or flower patch.</language>
-	</row>
+	<language name="Norwegian">Et langt, vertikalt gjerde. \nHvis du bruker noen få av disse, kan du\nsannsynligvis omslutte en innsjø eller en blomsterflekk.</language></row>
 	<row id="msg_0430_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A signboard made of wood. If you\nplanted a stake in the ground, you\ncould post this sign on it.</language>
-	</row>
+	<language name="Norwegian">Et skilt laget av tre. Hvis du\nplanter en pæl i bakken, kan du\nsette dette skiltet på den.</language></row>
 	<row id="msg_0430_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A stone statue made in your image.\nIf you placed this, you could really\nget the sense of being a great hero.</language>
-	</row>
+	<language name="Norwegian">En steinstatue laget i ditt bilde. \nHvis du plasserer denne, kan du virkelig\nfå følelsen av å være en stor helt.</language></row>
 	<row id="msg_0430_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your own flag that you drew. If you\nplaced this, you could really get the\nsense of being the ruler of the land.</language>
-	</row>
+	<language name="Norwegian">Ditt eget flagg som du har tegnet. Hvis du\nplasserte dette, kunne du virkelig få\nfølelsen av å være landets hersker.</language></row>
 	<row id="msg_0430_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An electric light that illuminates the\nArea. If placed in the darkness, it could\ncreate a beautiful path of light.</language>
-	</row>
+	<language name="Norwegian">Et elektrisk lys som lyser opp\nområdet. Hvis den plasseres i mørket, kan den skape en vakker lysvei.</language></row>
 	<row id="msg_0430_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A sign pointing right. Any person who\nsees this would naturally want to go find\nout what it could be pointing to.</language>
-	</row>
+	<language name="Norwegian">Et skilt som peker mot høyre. Enhver person som\nser dette, vil naturlig nok finne\nut hva det kan peke mot.</language></row>
 	<row id="msg_0430_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A sign pointing left. Any person who\nsees this would naturally want to go find\nout what it could be pointing to.</language>
-	</row>
+	<language name="Norwegian">Et skilt som peker mot venstre. Enhver person som\nser dette, vil naturlig nok finne\nut hva det kan peke mot.</language></row>
 	<row id="msg_0430_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A trash can for disposing of litter.\nIf you have any litter, be sure to\nthrow it away or take it with you.</language>
-	</row>
+	<language name="Norwegian">En søppelbøtte til å kaste søppel i. \nHvis du har noe søppel, må du kaste det eller ta det med deg.</language></row>
 </body>

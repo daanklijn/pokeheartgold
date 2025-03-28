@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0474_T04R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A long time ago, this cool boy rode my\nBike around, and that started this\fentire Bike boom.\rThen I decided to open a branch at\nGoldenrod City.\rAnd they started selling like the wind!\rBut no one comes to this shop anymore\nbecause of that.\rAll I have left here is a bicycle pump...\rShould I start selling inflatable tubes?</language>
-	</row>
+	<language name="Norwegian">For lenge siden syklet denne kule gutten rundt på sykkelen min, og det startet denne\fhele sykkelboomen.\rDa bestemte jeg meg for å åpne en filial i\nGoldenrod City.\rOg de begynte å selge som bare det!\rMen ingen kommer til denne butikken lenger\npå grunn av det.\rAlt jeg har igjen her er en sykkelpumpe...\rSkal jeg begynne å selge oppblåsbare slanger?</language></row>
 </body>

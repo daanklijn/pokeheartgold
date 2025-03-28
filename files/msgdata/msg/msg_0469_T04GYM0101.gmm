@@ -1,71 +1,71 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0469_T04GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}Bump!{SIZE 100}\r</language>
-	</row>
+	<language name="Norwegian">{SIZE 200}Bump!{SIZE 100}\r.</language></row>
 	<row id="msg_0469_T04GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oops! I so sorry!\nYou not hurt, OK?\fI very busy.\fNo time for talking with you.\fNot good for me if seen by somebody.\r</language>
-	</row>
+	<language name="Norwegian">Oops! Jeg er så lei for det!\nDu er ikke såret, OK?\fJeg er veldig opptatt.\fJeg har ikke tid til å snakke med deg.\fDet er ikke bra for meg hvis noen ser meg.\r</language></row>
 	<row id="msg_0469_T04GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh no! You seen me already!\fI make big mistake!\r</language>
-	</row>
+	<language name="Norwegian">Å nei! Du har allerede sett meg! \fJeg gjør en stor feil! \r</language></row>
 	<row id="msg_0469_T04GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, you! Forget you see me, OK?\nYou seen, heard, known nothing, OK?\fBye!\fBye-bye a go-go!\r</language>
-	</row>
+	<language name="Norwegian">Hei, du! Glem at du har sett meg, OK? Du har ikke sett, hørt eller visst noe, OK? Ha det! Ha det! Ha det! Ha det!</language></row>
 	<row id="msg_0469_T04GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sorry, I’ll be out for a while.\nMisty, Gym Leader</language>
-	</row>
+	<language name="Norwegian">Beklager, jeg’blir borte en stund.\nMisty, gymleder</language></row>
 	<row id="msg_0469_T04GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Since Misty’s out, we’ll be away, too.\nGym Trainers</language>
-	</row>
+	<language name="Norwegian">Siden Misty’er ute, blir vi’også borte.\nGym Trainers</language></row>
 	<row id="msg_0469_T04GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cerulean City Pokémon Gym</language>
-	</row>
+	<language name="Norwegian">Cerulean City Pokémon Gym</language></row>
 	<row id="msg_0469_T04GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cerulean City Pokémon Gym\rLeader: Misty\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
-	</row>
+	<language name="Norwegian">Cerulean City Pokémon Gym\rLeder: Misty\nCertifisert trener!\f{STRVAR_1 3, 0, 0}</language></row>
 	<row id="msg_0469_T04GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Misty: I was expecting you,\nyou pest!\rYou may have a lot of Johto Gym Badges,\nbut you’d better not take me\ftoo lightly.\rMy Water-type Pokémon are tough!\r</language>
-	</row>
+	<language name="Norwegian">Misty: Jeg ventet deg,\ndin pest!\rDu har kanskje mange Johto Gym Badges,\nmen du’bør ikke ta\ffor lett på meg.\rMine Pokémon av vanntypen er tøffe!\r</language></row>
 	<row id="msg_0469_T04GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Misty: You really are good...\rI’ll admit that you are skilled...\rHere you go.\nIt’s the Cascade Badge.\r</language>
-	</row>
+	<language name="Norwegian">Misty: Du er virkelig god ...\rJeg’vil innrømme at du er dyktig ...\rHer har du det.\nDet’er Kaskademerket.\r</language></row>
 	<row id="msg_0469_T04GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Cascade Badge from Misty!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} mottatt\nkaskademerket fra Misty!</language></row>
 	<row id="msg_0469_T04GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Misty: Here is another memento\nfrom this battle. Take it!\r</language>
-	</row>
+	<language name="Norwegian">Misty: Her er et annet minne\nfra denne kampen. Ta den!\r</language></row>
 	<row id="msg_0469_T04GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Misty: It contains the move\nWater Pulse.\rIt can sometimes confuse your foe.\rYou’ve managed to defeat Trainers\nall the way from Johto.\fI’m sure you have a good use for it.</language>
-	</row>
+	<language name="Norwegian">Misty: Den inneholder bevegelsen\nVannpuls.\rDen kan noen ganger forvirre fienden din.\rDu’har klart å beseire trenere\nhele veien fra Johto.\fJeg’er sikker på at du har god bruk for den.</language></row>
 	<row id="msg_0469_T04GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Misty: Does Johto have a lot of\npowerful Trainers?\rI will someday go on my journey\nto battle with powerful Trainers!</language>
-	</row>
+	<language name="Norwegian">Misty: Har Johto mange\nmektige trenere?\rEn dag vil jeg dra på min reise\nfor å kjempe mot mektige trenere!</language></row>
 	<row id="msg_0469_T04GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo! Legend in the making!\rSince Misty was away, I went out\nfor some fun, too.\fHe-he-he.</language>
-	</row>
+	<language name="Norwegian">Hei! En legende i emning!\rSiden Misty var borte, gikk jeg ut\nfor å ha det litt gøy, jeg også.\fHe-he-he.</language></row>
 	<row id="msg_0469_T04GYM0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hoo, you showed me how tough you are.\rAs always, that was one great battle!</language>
-	</row>
+	<language name="Norwegian">Hoo, du viste meg hvor tøff du er.\rSom alltid var det en flott kamp!</language></row>
 	<row id="msg_0469_T04GYM0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...!\r{STRVAR_1 3, 0, 0} picked up the black item\nthat was by the pool.\rIt’s a Part from a machine!\r</language>
-	</row>
+	<language name="Norwegian">...!\r{STRVAR_1 3, 0, 0, 0} plukket opp den svarte gjenstanden\nsom lå ved bassenget.\rDet’er en del fra en maskin!\r</language></row>
 </body>

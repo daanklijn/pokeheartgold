@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0489_T06R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know about the Magnet Train?\rIt’s a railway that connects\nKanto and Johto.</language>
-	</row>
+	<language name="Norwegian">Kjenner du til Magnettoget? Det er en jernbane som forbinder Kanto og Johto.</language></row>
 	<row id="msg_0489_T06R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saffron! Saffron!\nI want to go to Saffron City to see\fthe Magnet Train.\rMagnet Train!</language>
-	</row>
+	<language name="Norwegian">Safran! Saffron!\nJeg vil til Saffron City for å se\fmagnet-toget.\rMagnet-toget!</language></row>
 </body>

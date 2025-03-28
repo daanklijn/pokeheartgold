@@ -1,47 +1,47 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0454_T02GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blue: Yo! Finally got here, huh?\rI wasn’t in the mood at Cinnabar,\nbut now I’m ready to battle you.\r...\rYou’re telling me you conquered all\nthe Gyms in Johto?\rHahaha!\fHeh! Johto’s Gyms are that pathetic?\rHey, don’t worry about it.\nI’ll know if you are good or not by\fbattling you right now.\r</language>
-	</row>
+	<language name="Norwegian">Blå: Hei! Endelig kom du hit, hva? \rJeg var’ikke i humør på Cinnabar,\nmen nå er jeg’klar til å kjempe mot deg.\r...\r...\rDu’siger at du har erobret alle\ngymene i Johto? \rHahaha!\fHeh! Johto’s treningssentre er så patetiske?\rHei, ikke’bekymre deg om det.\nJeg’vil vite om du er god eller ikke ved å\fslå deg akkurat nå.\rJeg’vil vite om du er god eller ikke</language></row>
 	<row id="msg_0454_T02GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blue: No way!\rHow the heck did I lose to you?\r...\rTch, all right...\fHere, take this.\fIt’s the Earth Badge.\r</language>
-	</row>
+	<language name="Norwegian">Blå: Det er ikke sant! \rHvordan i all verden tapte jeg mot deg?\r...\rTch, ok...\fHer, ta denne.\fDet’er jordmerket.\r...\r</language></row>
 	<row id="msg_0454_T02GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Earth Badge from Blue!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} mottok\njordmerket fra Blue!</language></row>
 	<row id="msg_0454_T02GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blue: With this Badge, you’ll be able\nto use the HM move Rock Climb!\fHere!\rTake this as well!\r</language>
-	</row>
+	<language name="Norwegian">Blå: Med dette merket kan du’bruke HM-trekket Rock Climb!\fHer!\rTa dette også!\r</language></row>
 	<row id="msg_0454_T02GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blue: It contains Trick Room!\rIt allows slower Pokémon to move\nbefore faster Pokémon for a while.\rIt’s a very tricky move, isn’t it?\nHence the name!</language>
-	</row>
+	<language name="Norwegian">Blå: Den inneholder Trick Room!\rDen lar langsommere Pokémon bevege seg\nforan raskere Pokémon en stund.\rDet’er et veldig vanskelig trekk, ikke sant’?\nDerav navnet!</language></row>
 	<row id="msg_0454_T02GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blue: ...\rAll right, I was wrong. You’re the\nreal deal.\fYou are a good Trainer.\rBut I’m going to beat you someday.\nDon’t you forget it!</language>
-	</row>
+	<language name="Norwegian">Blå: ...\rJa vel, jeg tok feil. Du’er den\negentlige greia.\fDu er en god trener.\rMen jeg’kommer til å slå deg en dag.\nGlem ikke det!</language></row>
 	<row id="msg_0454_T02GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo, legend in the making!\rThe floor here is unstable,\nso you should put away your Pokémon\f...now!\rThe Gym Leader is a guy who battled\nthe Champion three years ago.\rHe’s no pushover.\nGive it everything you’ve got!</language>
-	</row>
+	<language name="Norwegian">Hei, en legende i emning!\rGulvet her er ustabilt,\nså du bør legge vekk Pokémonene dine\f...nå!\rGymlederen er en fyr som kjempet mot\nmesteren for tre år siden.\rHan’er ingen lettvekter.\nGi alt du’har!</language></row>
 	<row id="msg_0454_T02GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Man, you are truly tough...\rThat was such an inspirational battle.\nIt brought tears to my eyes.</language>
-	</row>
+	<language name="Norwegian">Mann, du er virkelig tøff ... m id = 1 /Det var en så inspirerende kamp.m id = 0 /Det fikk tårene til øynene mine.</language></row>
 	<row id="msg_0454_T02GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo, legend in the making!\rThe floor here is unstable,\nso you should put away your Pokémon\f...now!\rThe Gym Leader is a guy who battled\nthe Champion three years ago.\rHe’s no pushover.\nGive it everything you’ve got!\r</language>
-	</row>
+	<language name="Norwegian">Hei, en legende i emning!\rGulvet her er ustabilt,\nså du bør legge vekk dine Pokémon\f...nå!\rGymlederen er en fyr som kjempet mot\nmesteren for tre år siden.\rHan’er ingen lettvekter.\nGi alt du’har!\r...\r.</language></row>
 	<row id="msg_0454_T02GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Viridian City Pokémon Gym</language>
-	</row>
+	<language name="Norwegian">Viridian City Pokémon Gym</language></row>
 	<row id="msg_0454_T02GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Viridian City Pokémon Gym\rGym Leader: Blue\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
-	</row>
+	<language name="Norwegian">Viridian City Pokémon Gym\rGymleder: Blue\nCertifisert trener!\f{STRVAR_1 3, 0, 0}</language></row>
 </body>

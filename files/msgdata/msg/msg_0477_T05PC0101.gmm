@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0477_T05PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">To the north of Lavender is\nthe Rock Tunnel.\rGo through it to get to the\nPower Plant.</language>
-	</row>
+	<language name="Norwegian">Nord for Lavender ligger\nBergtunnelen, som du kan gå gjennom for å komme til\nKraftverket.</language></row>
 	<row id="msg_0477_T05PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s a radio show that plays\nPoké Flute music.\rOh? Ah, your radio needs an EXPN Card\nto tune in to it.</language>
-	</row>
+	<language name="Norwegian">Det’er et radioprogram som spiller\nPoké Flute-musikk.\rÅh? Å, radioen din trenger et EXPN-kort\nfor å stille inn på det.</language></row>
 	<row id="msg_0477_T05PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If the Power Plant isn’t running, the\nMagnet Train won’t run either...\rIt also means the Radio Station\ncan’t broadcast...</language>
-	</row>
+	<language name="Norwegian">Hvis kraftverket ikke er’i drift, vil heller ikke magnettoget’køre...\rDet betyr også at radiostasjonen\nikke’kan’sende...</language></row>
 	<row id="msg_0477_T05PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Director of the Radio Station\nsure was happy.\rHe said they’re back on the air,\nbecause the Power Plant is running\fsmoothly again.</language>
-	</row>
+	<language name="Norwegian">Direktøren for radiostasjonen\nvar fornøyd. \rHan sa at de’er tilbake på lufta,\nfordi kraftverket går\fgodt igjen.</language></row>
 </body>

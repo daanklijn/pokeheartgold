@@ -1,55 +1,55 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0449_T01R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: Hi! My kid brother is the Gym\nLeader in Viridian City.\rBut he goes out of town so often,\nit causes problems for the Trainers.</language>
-	</row>
+	<language name="Norwegian">Daisy: Hei! Lillebroren min er Gym\nLeder i Viridian City.\rMen han reiser bort så ofte, \nat det skaper problemer for Trenerne.</language></row>
 	<row id="msg_0449_T01R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: Hi! Good timing. I’m about\nto have some tea.\rWould you like to join me?\rOh, you seem to keep your Pokémon\na bit on the dirty side.\rGrooming helps them become more\nbeautiful and friendly.\rWould you like me to groom one? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Daisy: Hei! God timing. Jeg’skal\nta meg litt te.\rVil du gjøre meg selskap?\rDu ser ut til å holde dine Pokémon\nlitt skitne.\rPleie hjelper dem til å bli mer\nskjønne og vennlige.\rVil du at jeg skal stelle en? {YESNO 0}</language></row>
 	<row id="msg_0449_T01R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: Which one should I groom?\r</language>
-	</row>
+	<language name="Norwegian">Daisy: Hvilken skal jeg stelle?</language></row>
 	<row id="msg_0449_T01R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} looks content.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0, 0} ser innhold.</language></row>
 	<row id="msg_0449_T01R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: There you go!\nAll done.\rSee? Doesn’t it look nice?\nIt’s such a cute Pokémon.</language>
-	</row>
+	<language name="Norwegian">Daisy: Sånn ja! \nAlt klart.\rSe? Ser den ikke fin ut?’Den’er en så søt Pokémon.</language></row>
 	<row id="msg_0449_T01R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: I always have tea around\nthis time. Come join me.</language>
-	</row>
+	<language name="Norwegian">Daisy: Jeg har alltid te rundt denne tiden. Kom og gjør meg selskap.</language></row>
 	<row id="msg_0449_T01R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: You don’t want to have one\ngroomed? OK, we’ll just have tea.</language>
-	</row>
+	<language name="Norwegian">Daisy: Vil du ikke ha en’pleiet? OK, vi’skal bare drikke te.</language></row>
 	<row id="msg_0449_T01R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: Oh, sorry. I honestly can’t\ngroom an Egg.</language>
-	</row>
+	<language name="Norwegian">Daisy: Å, beklager. Jeg kan ærlig talt ikke stelle et egg.</language></row>
 	<row id="msg_0449_T01R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: You are really into grooming!\nSay!\fWould you like my kid brother’s number?\rHe is the Gym Leader at Viridian City.\nHave you challenged him?\rDo you want to register him? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Daisy: Du liker virkelig å stelle deg!\nSi!\fVil du ha nummeret til lillebroren min’?\rHan er gymleder i Viridian City.\nHar du utfordret ham?\rVil du registrere ham? {YESNO 0}</language></row>
 	<row id="msg_0449_T01R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} registered Blue\nin the Pokégear!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} registrert Blue\ni Pokégear!</language></row>
 	<row id="msg_0449_T01R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: Give him a call when you feel\nlike it.\rHe can be overly confident, but he\nstill needs company.\rHe said he won’t have any plans on\nSunday nights...\fGiggle!</language>
-	</row>
+	<language name="Norwegian">Daisy: Ring ham når du føler\nfor det.\rHan kan være altfor selvsikker, men han\ntrenger fortsatt selskap.\rHan sa at han ikke har\nplaner på\nsøndagskvelder...\fGiggle!</language></row>
 	<row id="msg_0449_T01R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: Really? You won’t?\nI see...\fHow disappointing.</language>
-	</row>
+	<language name="Norwegian">Daisy: Er det sant? Du vant’t?\nJeg skjønner...\fHvor skuffende.</language></row>
 	<row id="msg_0449_T01R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Daisy: Do you want to register\nmy kid brother’s number? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Daisy: Vil du registrere\nnummeret til lillebroren min’? {YESNO 0}</language></row>
 </body>

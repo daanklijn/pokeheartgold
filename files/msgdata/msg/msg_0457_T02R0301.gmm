@@ -1,35 +1,35 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0457_T02R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to Trainer House, the newest\nand most happening place in Viridian.\fWe’re open to Trainers only.\rYou can battle against the best\nof the best right downstairs.</language>
-	</row>
+	<language name="Norwegian">Velkommen til Trenerhuset, det nyeste\nog mest spennende stedet i Viridian.\fVi’er kun åpne for trenere.\rDu kan kjempe mot de beste\nav de beste rett i underetasjen.</language></row>
 	<row id="msg_0457_T02R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Viridian is the town closest to\nIndigo Plateau.\rThey built this place because so\nmany Trainers pass through on their\fway up to Indigo Plateau.</language>
-	</row>
+	<language name="Norwegian">Viridian er den byen som ligger nærmest\nIndigoplatået, og den ble bygget fordi så\nmange trenere passerer her på vei opp til Indigoplatået.</language></row>
 	<row id="msg_0457_T02R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">They hold practice battles\ndownstairs here.\rI would love to see how well a\nTrainer from Johto battles.</language>
-	</row>
+	<language name="Norwegian">De holder treningskamper\nnede i underetasjen her.\rJeg vil gjerne se hvor godt en\nTrener fra Johto kjemper.</language></row>
 	<row id="msg_0457_T02R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You go all over the place and battle\nall kinds of Trainers.\rThis is not just to train your Pokémon.\nThis is also a chance to experience\fmany things yourself.\rI bet the Champion from\nPallet Town went to all the\fcities and towns in Kanto.</language>
-	</row>
+	<language name="Norwegian">Du drar rundt overalt og kjemper mot\nalle slags trenere.\rDette er ikke bare for å trene Pokémon.\nDette er også en sjanse til å oppleve\fmange ting selv.\rJeg vedder på at mesteren fra\nPallet Town dro til alle\fbyer og tettsteder i Kanto.</language></row>
 	<row id="msg_0457_T02R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whew...\rI’m taking a rest from\nPokémon battles.</language>
-	</row>
+	<language name="Norwegian">Uff ... \rJeg’tar en pause fra\nPokémon-kamper.</language></row>
 	<row id="msg_0457_T02R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Practice battles are held in the\nTraining Hall downstairs.\rSkilled Trainers are invited to\nparticipate.\rCommunicate with your friends through\nthe Pokéwalker to bring them here!\rBe aware that you cannot bring them\nhere once you are downstairs!</language>
-	</row>
+	<language name="Norwegian">Treningskamper holdes i\nTreningssalen i underetasjen.\rDyktige trenere er invitert til å\ndelta.\rKommuniser med vennene dine gjennom\nPokéwalkeren for å få dem hit!\rVær oppmerksom på at du ikke kan ta dem\nmed hit når du først er nede i underetasjen!</language></row>
 	<row id="msg_0457_T02R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Trainer House Rules\r1. You can challenge various Trainers\n    once a day.\r2. All Pokémon over Level 50 become\n    Level 50 for the battle.\r3. You cannot use items from your Bag.\r4. Afterward, your Pokémon will recover\n    and the held item will be restored.\r5. You cannot earn experience from\n    the battle.\r6. You earn Battle Points instead!\rSkilled Trainers are invited to\nparticipate.</language>
-	</row>
+	<language name="Norwegian">Trenerhusregler\r1. Du kan utfordre forskjellige trenere\n én gang om dagen.\r2. Alle Pokémon over nivå 50 blir\n nivå 50 i kampen.\r3. Du kan ikke bruke gjenstander fra vesken din.\r4. Etterpå vil din Pokémon restituere seg\n og gjenstanden du har tatt vil bli gjenopprettet.\r5. Du kan ikke tjene erfaring fra\nkampen.\r6. Du tjener kamppoeng i stedet!\rDyktige trenere er invitert til å\ndelta.</language></row>
 	<row id="msg_0457_T02R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...What’s this?\nA strategy memo?\rThis writing looks like ONIX tracks...\fIt’s completely illegible...</language>
-	</row>
+	<language name="Norwegian">...Hva er dette? ’Et strateginotat? \rDenne skriften ser ut som ONIX-spor...\fDen’er helt uleselig...</language></row>
 </body>

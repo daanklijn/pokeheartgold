@@ -1,156 +1,156 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0412_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercials</language>
-	</row>
+	<language name="Norwegian">Reklamefilmer</language></row>
 	<row id="msg_0412_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0412_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Always where you need it!\nYour local Pokémon Center!</language>
-	</row>
+	<language name="Norwegian">Reklame! Alltid der du trenger det!\nDitt lokale Pokémon-senter!</language></row>
 	<row id="msg_0412_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Full of smiling faces!\nYour cheerful Poké Mart!</language>
-	</row>
+	<language name="Norwegian">Reklame: Full av smilende ansikter!\nDin muntre Poké Mart!</language></row>
 	<row id="msg_0412_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Your friend for adventure,\nyour Pokégear...Pokégear...Pokégear!\nYour Pokégear from Silph Co. Take our\nlatest model on your next adventure!</language>
-	</row>
+	<language name="Norwegian">Reklame: Din venn for eventyr,\nDin Pokégear...Pokégear...Pokégear!\nDin Pokégear fra Silph Co. Ta med deg vår\nnyeste modell på ditt neste eventyr!</language></row>
 	<row id="msg_0412_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Catch that Trainer’s eye for\nan intense battle! But don’t pick fights\nwith those who aren’t Trainers. This has\nbeen a message from the Pokémon League.</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Fang trenerens’øye for en intens kamp! Men ikke slåss’med dem som ikke er Trenere. Dette har\nvært en beskjed fra Pokémon League.</language></row>
 	<row id="msg_0412_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Whenever you turn your head,\nthere it is. Your constant companion in\nlife’s journey. Your Pokémon is always\nthere to help. This has been a message\nfrom the Pokémon League.</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Hver gang du snur hodet, er den der. Din faste følgesvenn på livets\nreise. Din Pokémon er alltid\nder for å hjelpe deg. Dette har vært en melding\nfra Pokémon League.</language></row>
 	<row id="msg_0412_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: The gentle flow of time, an\nancient figure... The gentle vibrations\nof Sprout Tower in Violet City... \nIt’s waiting for you. This message\nbrought to you by the Johto Bureau\nof Tourism.</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Tidens milde strøm, en urgammel figur... De milde vibrasjonene i Sprout Tower i Violet City... Det venter på deg. Denne meldingen\nbringer Johto Bureau\nfor turisme.</language></row>
 	<row id="msg_0412_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: An ancient message is being\ndiscovered, right now, in the Ruins of\nAlph! This message brought to you by the\nJohto Bureau of Tourism.</language>
-	</row>
+	<language name="Norwegian">Reklame: Et eldgammelt budskap blir\noppdaget, akkurat nå, i ruinene av\nAlph! Dette budskapet bringes til deg av\nJohto turistbyrå.</language></row>
 	<row id="msg_0412_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: A beautiful sound and\ngraceful dance, together at the\nEcruteak Dance Theater.\nThis message brought to you by the\nJohto Bureau of Tourism.</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: En vakker lyd og\ngrasiøs dans, sammen på\nEcruteak Danseteater.\nDette budskapet bringes til deg av\nJohto Bureau of Tourism.</language></row>
 	<row id="msg_0412_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: The light of hope shines over\nan anxious boat trip to this port city’s\nlandmark! Come see the lighthouse!\nThis message brought to you by the\nJohto Bureau of Tourism.</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Håpet lyser over\nen spent båttur til denne havnebyens’s\nlandemerke! Kom og se fyrtårnet!\nDette budskapet bringes til deg av\nJohto Bureau of Tourism.</language></row>
 	<row id="msg_0412_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Gulp gulp! Yum! Aprijuice!\nAprijuice! Run and shake, make Aprijuice!\nGulp gulp! Drink it up! Aprijuice!\nEveryone loves Aprijuice! Just for\nPokémon! None for humans! Aprijuice!</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Gulp gulp! Nam! Aprijuice! Løp og rist, lag Aprijuice!\nGulp gulp! Drikk det opp! Aprijuice!\nAlle elsker Aprijuice! Bare for \nPokémon! Ikke for mennesker! Aprijuice!</language></row>
 	<row id="msg_0412_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: A polished design, a lively\nsilhouette. A cloud of dust rising up.\nRunning along with your Pokémon in your\nrunning shoes!</language>
-	</row>
+	<language name="Norwegian">Kommersiell: En polert design, en livlig\nsilhuett. En sky av støv stiger opp.\nLøp sammen med Pokémon i dine\nløpesko!</language></row>
 	<row id="msg_0412_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: A fateful encounter that\nbegins in the Pokémon Center...\nA connection between two people...\nIf you climb the stairs, you’ll find it.\nThe Union Room.</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Et skjebnesvangert møte som\nbegynner i Pokémon-senteret...\nEn forbindelse mellom to mennesker...\nHvis du går opp trappene, vil du’finne den.\nThe Union Room.</language></row>
 	<row id="msg_0412_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: A fateful encounter that\nbegins in the Pokémon Center...\nA connection between two people...\nIf you take the escalator down, you’ll\nfind it--the Wi-Fi Club.</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Et skjebnesvangert møte som\nbegynner i Pokémon Center...\nEn forbindelse mellom to mennesker...\nHvis du tar rulletrappen ned, vil du’finne den - Wi-Fi-klubben.</language></row>
 	<row id="msg_0412_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: The symbol of Goldenrod City,\nthe Global Terminal! A place where you\ncan experience the world, where the\nworld can meet you, and the Global Trade\nStation where you can trade Pokémon.</language>
-	</row>
+	<language name="Norwegian">Reklame: Symbolet på Goldenrod City, \nden globale terminalen! Et sted hvor du\nkan oppleve verden, hvor\nverdenen kan møte deg, og Global Trade\nStation hvor du kan handle med Pokémon.</language></row>
 	<row id="msg_0412_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Come one, come all! Welcome!\nWelcome to the Wi-Fi Plaza, where\neveryone meets! Play games with others\nin the Wi-Fi Plaza! The wa...! Wi-Fi Plaza!</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Kom en, kom alle! Velkommen!\nVelkommen til Wi-Fi Plaza, hvor\nalle møtes! Spill spill med andre\npå Wi-Fi Plaza! Wi-fi...! Wi-Fi Plaza!</language></row>
 	<row id="msg_0412_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: If it’s Pokémon goods you\nwant, you can get anything here.\nFrom top to bottom, a wonderful world\nof shopping in the Goldenrod\nDepartment Store.</language>
-	</row>
+	<language name="Norwegian">Kommersielt: Hvis det’er Pokémon-varer du\nønsker deg, kan du få alt her.\nFra topp til bunn, en fantastisk verden\nav shopping i Goldenrod\nDepartment Store.</language></row>
 	<row id="msg_0412_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Between battles, why not\ntake a break and relax at the Goldenrod\nGame Corner?</language>
-	</row>
+	<language name="Norwegian">Kommersielt: Mellom kampene kan du ta en pause og slappe av på Goldenrod\nGame Corner.</language></row>
 	<row id="msg_0412_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Hey, all you radio listeners\nout there. This is the Johto Radio\nBroadcasting Network. We’re sending out\ndreams over our radio waves. La la la,\nthe Johto Radio Station!</language>
-	</row>
+	<language name="Norwegian">Reklame: Hei, alle dere radiolyttere der ute. Dette er Johto Radio\nBroadcasting Network. Vi sender ut’drømmer over radiobølgene våre. La la la, Johto Radio Station!</language></row>
 	<row id="msg_0412_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: All right, all right, all right!\nDon’t you also want to be certain your\nPokémon is victorious? Let’s go to the\nPokéathlon! There are ten different\nevents for you to compete in!</language>
-	</row>
+	<language name="Norwegian">Reklame: Greit, greit, greit! Vil du ikke også være sikker på at din pokémon seirer? La oss gå til’Pokéathlon! Det er ti forskjellige\nkonkurranser du kan delta i!</language></row>
 	<row id="msg_0412_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Da da da dum dum dum da da!\nFriendship!\nCooperation!\nTrust!\nBelief in the possibilities!\nThe dripping sweat is a sign of your\nhard work!\n...\nThe Pokéathlon anthem,\n“Believe in Pokémon!” On sale soon!</language>
-	</row>
+	<language name="Norwegian">Reklame: Da da da dum dum dum dum da da!\nVennskap!\nSamarbeid!\nTillit!\nTro på mulighetene!\nDryppende svette er et tegn på ditt\nharde arbeid!\n...\nPokéathlon-hymnen,\n“Tro på Pokémon!” Snart i salg!</language></row>
 	<row id="msg_0412_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Are you catching Bug-type\nPokémon? Well Tuesdays, Thursdays,\nand Saturdays of every week are\nBug-Catching Contest Days!\nThose of you who love Bug-type Pokémon,\ngather at the National Park every\nTuesday, Thursday, and Saturday!\nSee you there!</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Fanger du Pokémon av insekttypen\nPokémon? Vel, tirsdager, torsdager, \nog lørdager i hver uke er\ninsektfangst-konkurransedager!\nDe av dere som elsker Pokémon av insekttypen, \nsamles i nasjonalparken hver\ntirsdag, torsdag og lørdag!\nVi ses der!</language></row>
 	<row id="msg_0412_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Dum da da dum dum da da\ndum dum. Pa pa pa pa da dum pa pa pa pa\nda dum Pokémon! Catch as many Pokémon\nas you like until the Poké Balls run out\nat Warden Baoba’s Safari Zone...zone...</language>
-	</row>
+	<language name="Norwegian">Reklame: Dum da da dum dum da da da\ndum dum. Pa pa pa pa pa da dum pa pa pa pa pa pa\nda dum Pokémon! Fang så mange Pokémon\nsom du vil til Pokéballene tar slutt\npå Warden Baoba’s Safari Zone...zone...</language></row>
 	<row id="msg_0412_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Mahogany Town’s famous Rage\nCandy Bar! They work so hard every day\nto make these famous RageCandyBars!\nWhy not take one back home to your\nfriends--a RageCandyBar!</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Mahogany Town’s berømte Rage\ngodteribar! De jobber så hardt hver dag\nfor å lage disse berømte RageCandyBars!\nHvorfor ikke ta med en hjem til dine\nvenner - en RageCandyBar!</language></row>
 	<row id="msg_0412_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Extraordinary Pokémon\nbattles, the kind you’ve always wished\nfor, are found only in the Battle Tower.\nTake part in the highest-grade battles.\nWill you take on the challenge by\nyourself or with a partner?</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Ekstraordinære Pokémon\nkamper, den typen du’alltid har ønsket deg\n, finnes bare i Kamptårnet.\nDelta i kampene på høyeste nivå.\nVil du ta utfordringen alene\neller sammen med en partner?</language></row>
 	<row id="msg_0412_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Do you know the true face of\nthe Battle Tower? Opening every door on\nthe planet; every Trainer awaits you!\nHow far will you be able to go?</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Kjenner du det sanne ansiktet til\nkamptårnet? Åpne hver eneste dør på\nplaneten; hver eneste trener venter på deg!\nHvor langt vil du være i stand til å gå?</language></row>
 	<row id="msg_0412_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: A place where your beloved\nPokémon can become number one.\nThe battle of a lifetime in the\nBattle Hall! \nMake your Pokémon shine bright here;\nyou’re the only Trainer who can!</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Et sted hvor din elskede\nPokémon kan bli nummer én.\nDitt livs kamp i\nKamphallen! \nFå din Pokémon til å skinne her;\ndu’er den eneste treneren som kan det!</language></row>
 	<row id="msg_0412_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Collect Castle Points!\nManage your Castle Points and use them\nbefore each battle in the Battle Castle!</language>
-	</row>
+	<language name="Norwegian">Kommersiell: Samle slottspoeng!\nHåndter slottspoengene dine og bruk dem\nfør hver kamp i Battle Castle!</language></row>
 	<row id="msg_0412_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Luck is so fickle and selfish\nat the Battle Arcade! Just believe in\nyour Pokémon and go! Fight against fate\nin the Battle Arcade! Will the next step\nlead you closer to paradise, or\nto failure?</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Lykken er så lunefull og egoistisk\npå Battle Arcade! Bare tro på\ndin Pokémon og sett i gang! Kjemp mot skjebnen\ni Battle Arcade! Vil neste skritt\nføre deg nærmere paradiset, eller\ntil fiasko?</language></row>
 	<row id="msg_0412_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Do you know the best\nbattle techniques to get Pokémon to\nshow off their true potential?\nThe Battle Factory! If you don’t know,\nyou won’t win! See you at the\nBattle Factory!</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Kjenner du de beste\nkampteknikkene for å få Pokémon til å\nvise frem sitt sanne potensial?\nKampfabrikken! Hvis du ikke’vet det,\nvil du’ikke vinne! Vi ses på\nKampfabrikken!</language></row>
 	<row id="msg_0412_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: We invite you to travel the\nlightning-fast trip between Olivine and\nVermilion Cities on a hydroplane-like\nboat ride!</language>
-	</row>
+	<language name="Norwegian">Reklamefilm! Vi inviterer deg til å reise lynraskt mellom Olivine og \nVermilion Cities på en vannflylignende\n båttur!</language></row>
 	<row id="msg_0412_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: If you’d like to ride your\nBike around as much as you want\nunder the Kanto sky, why not try\nCycling Road?\nIt’s waiting for you on Route 17.</language>
-	</row>
+	<language name="Norwegian">Kommersielt: Hvis du’ønsker å sykle rundt så mye du vil\nunder Kanto-himmelen, hvorfor ikke prøve\nCycling Road?\nDen’venter på deg på Route 17.</language></row>
 	<row id="msg_0412_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: The Pokémon League is\nwaiting for you, when you’re ready\nto challenge us. If you’re coming from\nKanto, we’re right at the end of\nRoute 22.\nThis message brought to you by the\nPokémon League.</language>
-	</row>
+	<language name="Norwegian">Reklame: Pokémon League venter på deg, når du er klar til å utfordre oss. Hvis du’kommer fra\nKanto, er vi’rett ved enden av\nrute 22.\nDette budskapet kommer fra\nPokémon-ligaen.</language></row>
 	<row id="msg_0412_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: The man who restored a town\ndevastated by a volcanic eruption. That\nman was none other than Blaine! He may\nhave lost his Cinnabar Gym, but he’s been\nable to reopen it on Seafoam Islands!</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Mannen som gjenopprettet en by som ble ødelagt av et vulkanutbrudd. Den\nmannen var ingen ringere enn Blaine! Han har kanskje\nmistet sitt Cinnabar Gym, men han’har vært\ni stand til å gjenåpne det på Seafoam Islands!</language></row>
 	<row id="msg_0412_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Hey all you radio listeners\nout there. This is the Kanto Radio\nBroadcasting Network. We’re sending out\ndreams over the radio waves. La la la,\nthe Kanto Radio Station!</language>
-	</row>
+	<language name="Norwegian">Reklame: Hei alle dere radiolyttere der ute. Dette er Kanto Radio\nKringkastingsnettverk. Vi sender ut’drømmer over radiobølgene. La la la, Kanto Radio Station!</language></row>
 	<row id="msg_0412_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: Silph Co. is a special\nhigh-tech innovation company dedicated\nto making people’s lives better and\nbringing about a wonderful future.</language>
-	</row>
+	<language name="Norwegian">Kommersiell: Silph Co. er et spesielt\nhøyteknologisk innovasjonsselskap dedikert\ntil å gjøre menneskers’liv bedre og\nskape en fantastisk fremtid.</language></row>
 	<row id="msg_0412_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Commercial: From Goldenrod to Saffron\nCity, a surprising high-speed arrival and\na high-quality journey!\nRide the Magnet Train--the\ntransportation of the future!</language>
-	</row>
+	<language name="Norwegian">Reklamefilm: Fra Goldenrod til Saffron\nCity, en overraskende høyhastighetsankomst og\nen reise av høy kvalitet!\nRid med Magnettoget - fremtidens\ntransportmiddel!</language></row>
 </body>

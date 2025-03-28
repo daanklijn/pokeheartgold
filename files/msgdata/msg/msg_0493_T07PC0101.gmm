@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0493_T07PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That Pokégear you have--\nit’s way too cool!\rIs that the...latest model?</language>
-	</row>
+	<language name="Norwegian">Det Pokégear du har - det er altfor kult! Er det den nyeste modellen?</language></row>
 	<row id="msg_0493_T07PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Erika is a master of Grass-type\nPokémon.\rShe’ll make you pay if you don’t\nwatch yourself.</language>
-	</row>
+	<language name="Norwegian">Erika er en mester i gress-type\nPokémon.\rHun’vil få deg til å betale hvis du ikke’t\npasser deg.</language></row>
 	<row id="msg_0493_T07PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Game Corner in this city used\nto be run by Team Rocket...\rBut when Team Rocket was removed,\nthis rich, game-loving man renovated\fthe Game Corner for the fun of it.</language>
-	</row>
+	<language name="Norwegian">Spillhjørnet i denne byen pleide\nå være drevet av Team Rocket...\rMen da Team Rocket ble fjernet, \nrenoverte denne rike, spillglade mannen\fspillhjørnet for moro skyld.</language></row>
 </body>
