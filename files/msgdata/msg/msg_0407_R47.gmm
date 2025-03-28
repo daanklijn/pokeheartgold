@@ -27,7 +27,7 @@
 	<row id="msg_0407_R47_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Chuck: Say cheese!\nDon’t close your eyes!\r</language>
-	<language name="Norwegian">Chuck: Si "cheese"! \nIkke lukk øynene! \r</language></row>
+	<language name="Norwegian">Chuck: Si cheese! \nIkke lukk øynene! \r</language></row>
 	<row id="msg_0407_R47_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Chuck: Great picture!\nThis wil be a good memory for you, too!</language>
