@@ -8,11 +8,11 @@
 	<row id="msg_0197_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} gained\n{STRVAR_1 54, 1, 0} Exp. Points!\r</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0, 0} oppnådd\n{STRVAR_1 54, 1, 0} Exp. Poeng!\r{STRVAR_1</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0, 0} oppnådd\n{STRVAR_1 54, 1, 0} Exp. Poeng!\r</language></row>
 	<row id="msg_0197_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} gained a boosted\n{STRVAR_1 54, 1, 0} Exp. Points!\r</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0} fikk en økt\n{STRVAR_1 54, 1, 0} Exp. Poeng!\r{STRVAR_1</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0} fikk en økt\n{STRVAR_1 54, 1, 0} Exp. Poeng!\r</language></row>
 	<row id="msg_0197_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} grew to\nLv. {STRVAR_1 52, 1, 0}!{WAIT 5}{WAIT 2}\r</language>
