@@ -1,55 +1,55 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0114_D35R0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: {STRVAR_1 3, 0, 0}!\nIn order to unlock the door to the\fradio transmitter, you need the voice\fof a certain person.\rThe name of the person is Petrel,\nthe Team Rocket Executive!\rI have found out he is hiding in their\nleader’s office!\rUnfortunately though, that room is\nalso protected with a password...\r{STRVAR_1 3, 0, 0}!\nWe need the password to their leader’s\foffice first!\r</language>
-	</row>
+	<language name="Norwegian">Lance: {STRVAR_1 3, 0, 0}!\nFor å låse opp døren til\fradiosenderen, trenger du stemmen\ftil en bestemt person.\rNavnet på personen er Petrel,\n Team Rocket-sjefen!\rJeg har funnet ut at han gjemmer seg på kontoret til\nlederen’på Team Rocket! \rUheldigvis er det rommet\nogså beskyttet med et passord...\r{STRVAR_1 3, 0, 0}!\nVi trenger passordet til’lederens\fkontor først!</language></row>
 	<row id="msg_0114_D35R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: {STRVAR_1 3, 0, 0}!\nIn order to unlock the door to the\fradio transmitter, you need the voice\fof a certain person.\rThe name of the person is Petrel,\nthe Team Rocket Executive!\rI have found out he is hiding in their\nleader’s office!\rUnfortunately though, that room is\nalso protected with a password...\r{STRVAR_1 3, 0, 0}!\nWe need the password to their leader’s\foffice first!\r</language>
-	</row>
+	<language name="Norwegian">Lance: {STRVAR_1 3, 0, 0}!\nFor å låse opp døren til\fradiosenderen, trenger du stemmen\ftil en bestemt person.\rNavnet på personen er Petrel,\n Team Rocket-sjefen!\rJeg har funnet ut at han gjemmer seg på kontoret til\nlederen’på Team Rocket! \rMen dessverre er det rommet\nogså beskyttet med et passord...\r{STRVAR_1 3, 0, 0}!\nVi trenger passordet til’lederens\fkontor først!</language></row>
 	<row id="msg_0114_D35R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Urrggh...\nThe guy in the cape is incredibly\ftough...and I had no choice\fbut to tell him all the secrets about\fthis hideout...\rExcept that our leader’s office is\nprotected with two passwords!\n</language>
-	</row>
+	<language name="Norwegian">Urrggh ... \nFyren i kappen er utrolig\ftøff ... og jeg hadde ikke noe annet valg\fenn å fortelle ham alle hemmelighetene om\fdette gjemmestedet ... \rUtover at kontoret til lederen vår’er\nbeskyttet med to passord!\n</language></row>
 	<row id="msg_0114_D35R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: ...\rSo you are messing with them again.\rHumph, you must really like Team Rocket\nso much.\r...Tell me, who was the guy in the cape\nwho used Dragon-type Pokémon?\rMy Pokémon were no match at all.\rI don’t care that I lost. I can beat\nhim by getting stronger Pokémon.\rIt’s what he said that bothers me...\nHe told me that I don’t love and\ftrust my Pokémon enough.\rI’m furious that I lost to a bleeding\nheart like him.\r...Humph! I don’t have the time for the\nlikes of you!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: ...\rSå du kødder med dem igjen.\rHumph, du må virkelig like Team Rocket\nså godt.\r...Si meg, hvem var fyren i kappen\nsom brukte Pokémon av dragetypen?\rMine Pokémon var ingen match i det hele tatt.\rJeg bryr meg ikke’om at jeg tapte. Jeg kan slå\nham ved å skaffe meg sterkere Pokémon.\rDet’er det han sa som plager meg...\nHan sa at jeg ikke’elsker og\f stoler nok på mine Pokémon.\rJeg’er rasende over at jeg tapte for et blødende\nhjerte som ham.\r...Humph! Jeg har ikke tid til sånne som deg!</language></row>
 	<row id="msg_0114_D35R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Muhahaha, we’ve been waiting for you.\nSo, you are {STRVAR_1 3, 0, 0}...\rMe?\nYou don’t know who I am?\rIt is me, Giovanni.\nThe majestic Giovanni himself!\fWahahaha!\r</language>
-	</row>
+	<language name="Norwegian">Muhahaha, vi’har ventet på deg.\nSå, du er {STRVAR_1 3, 0, 0}...\rMeg? \nVet du ikke hvem jeg er? \rDet er meg, Giovanni.\nDen majestetiske Giovanni i egen høye person!\fWahahaha!\r</language></row>
 	<row id="msg_0114_D35R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Huh?\nI don’t sound anything like Giovanni?\rI don’t even look like Giovanni?\nHow come? I’ve worked so hard\fto mimic him!\r</language>
-	</row>
+	<language name="Norwegian">...hva? Jeg høres ikke ut som Giovanni? Jeg ser ikke engang ut som Giovanni? Hvordan kan det ha seg? Jeg har jobbet så hardt for å etterligne ham!</language></row>
 	<row id="msg_0114_D35R0104_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Petrel: I am a Team Rocket Executive!\rYou must be trying to sneak into the\nradio-transmitter room.\fWell, that’s not going to happen.\rThat room is protected with a special\npassword. The password is\f“Hail Giovanni.”\fSurprised to hear it from me?\rKnowing the password won’t help\nyou though.\rThe door won’t open unless I say the\npassword. It only reacts to my voice.\r</language>
-	</row>
+	<language name="Norwegian">Petrel: Jeg er en Team Rocket-sjef!\rDu må prøve å snike deg inn i\nradiosenderrommet.\fDet’kommer ikke til å skje.\rDette rommet er beskyttet med et spesielt\npassord. Passordet er\f“Hil Giovanni.”\fEr du overrasket over å høre det fra meg? \rDet hjelper ikke’å kunne passordet.\rDøren vil’ikke åpne seg med mindre jeg sier\npassordet. Den reagerer bare på stemmen min.\r</language></row>
 	<row id="msg_0114_D35R0104_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Petrel: Since disbanding Team Rocket\nthree years ago, our Giovanni has\fbeen missing.\rBut we’re certain he’s been waiting\nfor the right time for our revival...\rWahahaha!\rLosing to you won’t change the fact\nthat you are unable to get in the\fradio-transmitter room!\rYou need my voice to unlock it!\r</language>
-	</row>
+	<language name="Norwegian">Petrel: Siden oppløsningen av Team Rocket\nfor tre år siden har vår Giovanni\fvært savnet.\rMen vi’er sikre på at han’har ventet\npå det rette tidspunktet for vår gjenoppliving...\rWahahaha!\rÅ tape mot deg vil’ikke endre det faktum\nat du ikke kan komme deg inn i\fradiosenderrommet!\rDu trenger stemmen min for å låse det opp!\r</language></row>
 	<row id="msg_0114_D35R0104_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MURKROW: Hail Giovanni.\r</language>
-	</row>
+	<language name="Norwegian">Vær hilset, Giovanni.</language></row>
 	<row id="msg_0114_D35R0104_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MURKROW is mimicking\nthe voice of Petrel!\rYou may be able to...!?\r</language>
-	</row>
+	<language name="Norwegian">MURKROW etterligner\nstemmen til Petrel!\rDu kan kanskje...!?\r</language></row>
 	<row id="msg_0114_D35R0104_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MURKROW: Hail Giovanni.\r</language>
-	</row>
+	<language name="Norwegian">Vær hilset, Giovanni.</language></row>
 	<row id="msg_0114_D35R0104_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The door’s closed...\rIt needs two passwords\nto open it.</language>
-	</row>
+	<language name="Norwegian">Døren’er lukket...\rDet trengs to passord\nfor å åpne den.</language></row>
 	<row id="msg_0114_D35R0104_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The door’s closed...\r{STRVAR_1 3, 0, 0} entered the\ntwo passwords.\rThe door opened!\r</language>
-	</row>
+	<language name="Norwegian">Døren’er lukket...\r{STRVAR_1 3, 0, 0, 0} tastet inn de\nto passordene.\rDøren åpnet seg!\r</language></row>
 </body>

@@ -1,67 +1,67 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0141_D49R0105_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the “Trust” room.\rIt is to show the mutual reliance\nbetween Pokémon and people.</language>
-	</row>
+	<language name="Norwegian">Dette er rommet “Trust”, som skal vise den gjensidige avhengigheten\nmellom Pokémon og mennesker.</language></row>
 	<row id="msg_0141_D49R0105_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Only the Pokéathletes who have\ncome first in five courses with\fone Pokémon are allowed here.</language>
-	</row>
+	<language name="Norwegian">Bare Pokéatleter som har\nkommet først i fem baner med\fen Pokémon, har adgang hit.</language></row>
 	<row id="msg_0141_D49R0105_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the “Potential” room.\nPlease go ahead.</language>
-	</row>
+	<language name="Norwegian">Dette er det “Potensielle” rommet \nVær så snill å gå videre.</language></row>
 	<row id="msg_0141_D49R0105_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">To win Medals with different kinds of\nPokémon, it is essential to believe in\fyour Pokémon.</language>
-	</row>
+	<language name="Norwegian">For å vinne medaljer med forskjellige typer\nPokémon, er det viktig å ha tro på\fpokémonene dine.</language></row>
 	<row id="msg_0141_D49R0105_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I would love to see my own shoes here!</language>
-	</row>
+	<language name="Norwegian">Jeg vil gjerne se mine egne sko her!</language></row>
 	<row id="msg_0141_D49R0105_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This Dome contains so many\nother Domes...</language>
-	</row>
+	<language name="Norwegian">Denne kuppelen inneholder så mange\nandre kuppeler...</language></row>
 	<row id="msg_0141_D49R0105_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} checked the Medal!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} sjekket medaljen!\r</language></row>
 	<row id="msg_0141_D49R0105_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Those who have participated in the\nPokéathlon 50 times are commemorated\fhere for their never-yielding spirits.</language>
-	</row>
+	<language name="Norwegian">De som har deltatt i\nPokéathlon 50 ganger, hedres\fher for sin ukuelige innsatsvilje.</language></row>
 	<row id="msg_0141_D49R0105_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s your jersey with\nyour autograph!</language>
-	</row>
+	<language name="Norwegian">Det er din trøye med din autograf!</language></row>
 	<row id="msg_0141_D49R0105_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Those who have dashed 5,000 times\nare commemorated here for their\fachievement in breaking the\flegendary record.</language>
-	</row>
+	<language name="Norwegian">De som har sprunget 5000 ganger\nminnes her for sin\fprestasjon med å slå den\flegendariske rekorden.</language></row>
 	<row id="msg_0141_D49R0105_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cool shoes!\nAnd they’re your model!</language>
-	</row>
+	<language name="Norwegian">Kule sko! \nOg de’er din modell!</language></row>
 	<row id="msg_0141_D49R0105_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Those who have switched 200 times\nare commemorated here for great\fteamwork and their bond with\ftheir Pokémon.</language>
-	</row>
+	<language name="Norwegian">De som har byttet 200 ganger\nminnes her for godt\fteamarbeid og deres bånd med\fsin Pokémon.</language></row>
 	<row id="msg_0141_D49R0105_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s a cool flag!\nAnd it’s yours!</language>
-	</row>
+	<language name="Norwegian">Det’er et kult flagg!\nOg det’er ditt!</language></row>
 	<row id="msg_0141_D49R0105_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokéathlon Medals...\rThose are the proof of the hard work\nof both Pokéathletes and Pokémon.\rThose Pokémon that have won all five\nMedals are called “Medalist Pokémon”\fto commemorate the trust they’ve\fearned from their Pokéathlete.</language>
-	</row>
+	<language name="Norwegian">Pokéathlon-medaljer...\rDe er beviset på det harde arbeidet\nbåde Pokéatleter og Pokémon har lagt ned.\rDe Pokémon som har vunnet alle fem\nmedaljene kalles “Medalist Pokémon”\ffor å minnes den tilliten de’har\foppnådd fra sin Pokéatlet.</language></row>
 	<row id="msg_0141_D49R0105_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ABRA: ...\n...\f...\rIt must be asleep!</language>
-	</row>
+	<language name="Norwegian">ABRA: ...\n...\f...\rDen må sove!</language></row>
 	<row id="msg_0141_D49R0105_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DRATINI: Achoo!</language>
-	</row>
+	<language name="Norwegian">Achoo!</language></row>
 </body>

@@ -1,277 +1,277 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0115_D36R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, man... My boss is going to be\nangry...\rThe FARFETCH’D that cut trees for\ncharcoal took off in the forest.\rCan you catch them for me?\nFARFETCH’D have sensitive ears.\rIf you step on a branch, they will face\ntoward you. That’s your chance.\rSneak up from behind and catch them...\nDo you think you can do that?</language>
-	</row>
+	<language name="Norwegian">Jøss... Sjefen min kommer til å bli\nsint...\rFARFETCH’D som hogger trær til\nkull, stakk av i skogen.\rKan du fange dem for meg?\nFARFETCH’D har følsomme ører.\rHvis du tråkker på en gren, vil de vende\nmot deg. Det’er din sjanse.\rSnik deg opp bakfra og fang dem...\nTror du at du kan gjøre det?</language></row>
 	<row id="msg_0115_D36R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow! You found a FARFETCH’D!\nThank you!\rBut...\nThere is one more missing.\rIf you step on a branch, it will face\nthat way, remember?\rThat’s your chance to catch it.\nSneak up on it slowly from behind.</language>
-	</row>
+	<language name="Norwegian">Jøss! Du fant en FARFETCH’D!\nTakk!\rMen...\nDet mangler en til.\rHvis du tråkker på en gren, vil den vende\nden veien, husker du? \rDet’er din sjanse til å fange den.\nSnik deg sakte innpå den bakfra.</language></row>
 	<row id="msg_0115_D36R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow!\nYou got me both of them.\fThank you so much!\rMy boss’s Pokémon won’t obey me,\nbecause I don’t have a Badge.\rPhew. You saved me.</language>
-	</row>
+	<language name="Norwegian">Jøss! \nDu fikk tak i begge to.\fTusen takk! \rSjefen min’s Pokémon vil’ikke adlyde meg,\nfordi jeg ikke’har noe merke.\rPhew. Du reddet meg.</language></row>
 	<row id="msg_0115_D36R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FARFETCH’D: Kwaa!\r</language>
-	</row>
+	<language name="Norwegian">FARFETCH’D: Kwaa!\r.</language></row>
 	<row id="msg_0115_D36R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FARFETCH’D: Kwaa!</language>
-	</row>
+	<language name="Norwegian">FARFETCH’D: Kwaa!</language></row>
 	<row id="msg_0115_D36R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} caught the FARFETCH’D!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} fanget FARFETCH’D!\r.</language></row>
 	<row id="msg_0115_D36R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ah!\nMy Far and Fetch’d!\rYou found them for us, kid?\nWithout them, we wouldn’t be able to\fcut trees for charcoal.\rThanks, kid!\rNow, how can I thank you...?\nI know! Here, take this.\r</language>
-	</row>
+	<language name="Norwegian">Ah! \nMy Far og Fetch’d!\rDu fant dem for oss, gutt?\nUten dem kunne vi ikke’hugge trær til trekull.\rTakk, gutt!\rHvordan kan jeg takke deg...?\nJeg vet det! Her, ta denne.\r</language></row>
 	<row id="msg_0115_D36R0101_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0115_D36R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s the HM Cut. Teach that to a\nPokémon to clear small trees.\rOf course, you have to have the Gym\nBadge from Azalea to use it.</language>
-	</row>
+	<language name="Norwegian">Det’er HM Cut. Lær den til en\nPokémon for å rydde små trær.\rSelvfølgelig må du ha Gym\nBadge fra Azalea for å bruke den.</language></row>
 	<row id="msg_0115_D36R0101_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0115_D36R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you want to apprentice as a charcoal\nmaker with me?\rYou’ll be first-rate in ten years!</language>
-	</row>
+	<language name="Norwegian">Vil du gå i lære som trekullmaker hos meg? \nDu\rkommer til å bli førsteklasses om ti år!</language></row>
 	<row id="msg_0115_D36R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What am I doing?\rI’m shaking trees using Headbutt.\rIt’s fun. Here, you try it with your\nPokémon, too! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hva er det jeg gjør?\rJeg’ryster trær ved hjelp av Headbutt.\rDet’er gøy. Her kan du prøve det med din\nPokémon også! {YESNO 0}</language></row>
 	<row id="msg_0115_D36R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you want to try it with your\nPokémon? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Vil du prøve det med din\nPokémon? {YESNO 0}</language></row>
 	<row id="msg_0115_D36R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see...\nTake care of its head.</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner... Ta vare på hodet.</language></row>
 	<row id="msg_0115_D36R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which Pokémon should learn it?\r</language>
-	</row>
+	<language name="Norwegian">Hvilken Pokémon bør lære det?\r</language></row>
 	<row id="msg_0115_D36R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmmm...\nEven I couldn’t teach an Egg a move.\r</language>
-	</row>
+	<language name="Norwegian">Hmmm ... \nSelv jeg kunne ikke’lære et egg et trekk.\r</language></row>
 	<row id="msg_0115_D36R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sorry...\nThat Pokémon cannot learn Headbutt.\r</language>
-	</row>
+	<language name="Norwegian">Beklager...\nDenne Pokémon kan ikke lære Headbutt.\r</language></row>
 	<row id="msg_0115_D36R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} is trying to learn\nHeadbutt.\rBut {STRVAR_1 1, 0, 0} can’t learn more\nthan four moves.\rDelete an older move to make\nroom for Headbutt? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0} is trying to learn\nHeadbutt.\rBut {STRVAR_1 1, 0, 0} can’t learn more\nthan four moves.\rDelete an older move to make\nroom for Headbutt? {YESNO 0}</language></row>
 	<row id="msg_0115_D36R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is it OK to forget the\nmove {STRVAR_1 6, 1, 0}? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Er det OK å glemme\nflyttingen {STRVAR_1 6, 1, 0}? {YESNO 0}</language></row>
 	<row id="msg_0115_D36R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Stop trying to teach Headbutt? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Slutte å prøve å lære bort Headbutt? {YESNO 0}</language></row>
 	<row id="msg_0115_D36R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!</language>
-	</row>
+	<language name="Norwegian">1,{PAUSE 20} 2,{PAUSE 20} og...{PAUSE 20} ...{PAUSE 20} Poff!</language></row>
 	<row id="msg_0115_D36R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!</language>
-	</row>
+	<language name="Norwegian">1,{PAUSE 20} 2,{PAUSE 20} og...{PAUSE 20} ...{PAUSE 20} Poff!</language></row>
 	<row id="msg_0115_D36R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There. How do you like it?\nYour {STRVAR_1 0, 0, 0} looks stronger!</language>
-	</row>
+	<language name="Norwegian">Sånn, ja. Hvordan liker du det? \nDin {STRVAR_1 0, 0, 0} ser sterkere ut!</language></row>
 	<row id="msg_0115_D36R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your {STRVAR_1 0, 0, 0}\nhas already learned Headbutt.\r</language>
-	</row>
+	<language name="Norwegian">Din {STRVAR_1 0, 0, 0}\nhar allerede lært Headbutt.\r.</language></row>
 	<row id="msg_0115_D36R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} forgot how to\nuse {STRVAR_1 6, 1, 0}.\rAnd...</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0} glemte hvordan du\nbruker {STRVAR_1 6, 1, 0}.\rOg...</language></row>
 	<row id="msg_0115_D36R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} learned Headbutt.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0} lært hodestøt.</language></row>
 	<row id="msg_0115_D36R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} learned Headbutt!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0} lært hodestøt!</language></row>
 	<row id="msg_0115_D36R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Trainer Tips!\rIlex Forest is so overgrown with trees\nthat you can’t see the sky.\rPlease watch out for items that may\nhave been dropped.</language>
-	</row>
+	<language name="Norwegian">Trenertips!\rIlex Forest er så overgrodd av trær\nat du ikke kan’se himmelen.\rVær oppmerksom på gjenstander som kan\nha blitt mistet.</language></row>
 	<row id="msg_0115_D36R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ilex Forest Shrine...\rIt’s a tribute to the forest’s\nprotector...</language>
-	</row>
+	<language name="Norwegian">Ilex Forest Shrine...\rDet’er en hyllest til skogens’beskytter...</language></row>
 	<row id="msg_0115_D36R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kimono Girl, Kimono Girl, lost and all\nalone. Poor girl lost in the dark\fIlex Forest.\r</language>
-	</row>
+	<language name="Norwegian">Kimono-jenta, Kimono-jenta, fortapt og helt\nalleine. Stakkars jente som har gått seg vill i den mørke\fIlex-skogen\r.</language></row>
 	<row id="msg_0115_D36R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What?\nYou remember me from Violet City?\fYou must be imagining.\rAnyway, will you show me\nhow to get out of this forest? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hva? Husker du meg fra Violet City? Du må innbille deg det. Kan du vise meg hvordan jeg kommer meg ut av denne skogen? {YESNO 0}</language></row>
 	<row id="msg_0115_D36R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You will...?\nAren’t you lost in the forest as well?\fHow do you know how to get out of here?\r</language>
-	</row>
+	<language name="Norwegian">Vil du...?\nEr ikke du også gått deg vill i skogen?’Hvordan vet du hvordan du skal komme deg ut herfra?\r</language></row>
 	<row id="msg_0115_D36R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Me oh my...\nYou are lost yourself, aren’t you?\r</language>
-	</row>
+	<language name="Norwegian">Du har gått deg vill selv, ikke sant?</language></row>
 	<row id="msg_0115_D36R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow! Are you going to\nshow me how to get out?\fYou are such a smart Pokémon!\r</language>
-	</row>
+	<language name="Norwegian">Jøss! Skal du\nvise meg hvordan jeg kommer meg ut?\fDu er en så smart Pokémon!\r</language></row>
 	<row id="msg_0115_D36R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">See you.\r</language>
-	</row>
+	<language name="Norwegian">Vi ses.\r</language></row>
 	<row id="msg_0115_D36R0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FARFETCH’D noticed you!\nIt seems to face the direction of the\fnoise when you step on a branch.</language>
-	</row>
+	<language name="Norwegian">FARFETCH’D la merke til deg!\nDet ser ut til å vende mot retningen av\fstøyen når du tråkker på en gren.</language></row>
 	<row id="msg_0115_D36R0101_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You need to catch it from behind.</language>
-	</row>
+	<language name="Norwegian">Du må ta den bakfra.</language></row>
 	<row id="msg_0115_D36R0101_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You snuck up and caught it from\nbehind before it noticed you!</language>
-	</row>
+	<language name="Norwegian">Du snek deg innpå og tok den bakfra før den oppdaget deg!</language></row>
 	<row id="msg_0115_D36R0101_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s a PICHU...!\nOne of its ears is spiky!\r</language>
-	</row>
+	<language name="Norwegian">Det’er en PICHU...!\nEt av ørene er piggete!\r</language></row>
 	<row id="msg_0115_D36R0101_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It wants to join your party.\nLet it join you!\r</language>
-	</row>
+	<language name="Norwegian">Den ønsker å bli med på festen din.\nLa den bli med deg!\r</language></row>
 	<row id="msg_0115_D36R0101_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Spiky-eared PICHU has joined\nyour party!</language>
-	</row>
+	<language name="Norwegian">PICHU med piggører har sluttet seg til\nfesten din!</language></row>
 	<row id="msg_0115_D36R0101_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Your party is full!\r</language>
-	</row>
+	<language name="Norwegian">...Festen din er full! \r</language></row>
 	<row id="msg_0115_D36R0101_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Your party is full!\rFirst go store a Pokémon in a PC Box.</language>
-	</row>
+	<language name="Norwegian">...Gruppen din er full! \rFørst må du lagre en Pokémon i en PC-boks.</language></row>
 	<row id="msg_0115_D36R0101_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Spiky-eared PICHU: Zapzap chu!\r</language>
-	</row>
+	<language name="Norwegian">PICHU med piggører: Zapzap chu!\r</language></row>
 	<row id="msg_0115_D36R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received the Poké Ball!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} mottok Pokéballen!</language></row>
 	<row id="msg_0115_D36R0101_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to give a nickname\nto the Spiky-eared PICHU? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Vil du gi et kallenavn\ntil PICHU med piggører? {YESNO 0}</language></row>
 	<row id="msg_0115_D36R0101_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, hey!\nYou should not tamper with that shrine!\fPeople are said to disappear.\r</language>
-	</row>
+	<language name="Norwegian">Hei, hei!\nDu bør ikke tukle med den helligdommen!\fFolk sies å forsvinne.\r</language></row>
 	<row id="msg_0115_D36R0101_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kids and Pokémon sometimes disappear\naround this shrine.\rIt is believed that a Pokémon which\nwanders across time does that.\rIt is truly a strange thing...\r</language>
-	</row>
+	<language name="Norwegian">Barn og Pokémon forsvinner noen ganger\nrundt denne helligdommen.\rDet antas at en Pokémon som\nvandrer gjennom tiden gjør det.\rDet er virkelig en merkelig ting...\r</language></row>
 	<row id="msg_0115_D36R0101_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Well, well, this must be...\rThis must be the PICHU that has lived in\nthis forest for some time.\rWhen I saw it the first time, it looked\nlonely. It is full of energy today.\r</language>
-	</row>
+	<language name="Norwegian">Vel, vel, dette må være...\rDette må være PICHU som har bodd i\ndenne skogen en stund.\rDa jeg så den første gangen, så den\nensom ut. I dag er den full av energi.\r</language></row>
 	<row id="msg_0115_D36R0101_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see.\nIt seems that these old friends\ffinally meet again after a long time.\r</language>
-	</row>
+	<language name="Norwegian">Det ser ut til at disse gamle vennene\f endelig møtes igjen etter lang tid.\r</language></row>
 	<row id="msg_0115_D36R0101_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are carrying a lot of Pokémon.\rWhy don’t you store one of them\nat the Pokémon Center?\fI will take care of it in the mean time.</language>
-	</row>
+	<language name="Norwegian">Du har mange Pokémon på deg. \rHvorfor ikke’lagrer du en av dem\npå Pokémon-senteret? \fJeg skal ta meg av det i mellomtiden.</language></row>
 	<row id="msg_0115_D36R0101_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Being with friends should make it happy.\nTake good care of it.\r</language>
-	</row>
+	<language name="Norwegian">Den blir glad av å være sammen med venner.\nTa godt vare på den.\r</language></row>
 	<row id="msg_0115_D36R0101_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, here it is!\nYoung Pokémon Trainer,\fI will give you this Poké Ball.\rI used to use them when I was younger.\rDon’t worry.\nIt’s still in good condition.\r</language>
-	</row>
+	<language name="Norwegian">Å, her er den!\nUnge Pokémon-trener,\fJeg skal gi deg denne Pokéballen.\rJeg pleide å bruke dem da jeg var yngre.\rIkke vær redd.\nDen’er fortsatt i god stand.\r</language></row>
 	<row id="msg_0115_D36R0101_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It seems that Spiky-eared PICHU\nwants to stay in your Poké Ball.\r</language>
-	</row>
+	<language name="Norwegian">Det ser ut til at Spiky-eared PICHU\nønsker å bli i Pokéballen din.\r</language></row>
 	<row id="msg_0115_D36R0101_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You named it {STRVAR_1 1, 0, 0}?\nSuch a cute name!\r</language>
-	</row>
+	<language name="Norwegian">Du kalte den {STRVAR_1 1, 0, 0}?\nSå søtt navn!\r</language></row>
 	<row id="msg_0115_D36R0101_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s been waiting for you\nall this time.\rTalk to it. That’ll make it happy.</language>
-	</row>
+	<language name="Norwegian">Den’har ventet på deg\nhele denne tiden.\rSnakk med den. Det’vil gjøre den glad.</language></row>
 	<row id="msg_0115_D36R0101_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Hi, {STRVAR_1 3, 0, 0}.\nHave you heard of the legend of\fthe shrine?\rThey say that people disappear when\nthey tamper with it.\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Hei, {STRVAR_1 3, 0, 0, 0}.\nHar du hørt om legenden om\fhelligdommen?\rDet sies at folk forsvinner når\nde tukler med den.\r</language></row>
 	<row id="msg_0115_D36R0101_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}.\nHave you heard of the legend of\fthe shrine?\rThey say that people disappear when\nthey tamper with it.\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Hei, {STRVAR_1 3, 0, 0, 0}.\nHar du hørt om legenden om\fhelligdommen?\rDe sier at folk forsvinner når\nde tukler med den.\r</language></row>
 	<row id="msg_0115_D36R0101_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: ...\nWhat was that?\r</language>
-	</row>
+	<language name="Norwegian">Ethan: ...\nHva var det? \r</language></row>
 	<row id="msg_0115_D36R0101_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: ...\nWhat was that?\r</language>
-	</row>
+	<language name="Norwegian">Lyra: ...\nHva var det? \r</language></row>
 	<row id="msg_0115_D36R0101_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Traveling through time\nsure doesn’t feel good.\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Å reise gjennom tiden\nføles’jammen ikke\rgodt.</language></row>
 	<row id="msg_0115_D36R0101_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Traveling through time\nsure doesn’t feel good.\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Å reise gjennom tiden\nføles’jammen ikke\rgodt.</language></row>
 	<row id="msg_0115_D36R0101_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, my MARILL!\r</language>
-	</row>
+	<language name="Norwegian">Hei, min MARILL!</language></row>
 	<row id="msg_0115_D36R0101_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, my MARILL!\r</language>
-	</row>
+	<language name="Norwegian">Hei, min MARILL!</language></row>
 	<row id="msg_0115_D36R0101_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I thought I would never see you again!\rWait a sec...\nSo we must be back to our time!\r</language>
-	</row>
+	<language name="Norwegian">Jeg trodde aldri jeg skulle få se deg igjen! \rVent litt...\nSå vi må være tilbake til vår tid! \r</language></row>
 	<row id="msg_0115_D36R0101_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I missed you so much!\rWait a sec...\nSo we must be back to our time!\r</language>
-	</row>
+	<language name="Norwegian">Jeg har savnet deg så mye! \rVent litt...\nSå vi må være tilbake til vår tid! \r</language></row>
 	<row id="msg_0115_D36R0101_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It was all so bizarre.\nBut now that we are safely back to our\ftime and Team Rocket’s terrible design\ffell through, we can say...\fall’s well that ends well, right?\r{STRVAR_1 3, 0, 0}, you never cease to\ninspire great adventures!\rIt sure was an exhausting day, though.\nI better get going.\rSee you!\r</language>
-	</row>
+	<language name="Norwegian">Det hele var så bisart.\nMen nå som vi er trygt tilbake i vår\ftid og Team Rocket’s forferdelige design\ffalt igjennom, kan vi si...\falt’er godt som ender godt, ikke sant?\r{STRVAR_1 3, 0, 0}, du slutter aldri å\ninspirere til store eventyr!\rDet var jammen en slitsom dag.\nJeg må komme meg av gårde.\rVi ses!\r</language></row>
 	<row id="msg_0115_D36R0101_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It was all so bizarre.\nBut now that we are safely back to our\ftime and Team Rocket’s terrible design\ffell through, we can say...\fall’s well that ends well, right?\r{STRVAR_1 3, 0, 0}, you never cease to\ninspire great adventures!\rIt sure was an exhausting day, though.\nI better get going.\rSee you!\r</language>
-	</row>
+	<language name="Norwegian">Det hele var så bisart.\nMen nå som vi er trygt tilbake i vår\ftid og Team Rocket’s forferdelige design\ffalt igjennom, kan vi si...\falt’er godt som ender godt, ikke sant?\r{STRVAR_1 3, 0, 0}, du slutter aldri å\ninspirere til store eventyr!\rDet var jammen en slitsom dag.\nJeg må komme meg av gårde.\rVi ses!\r</language></row>
 </body>

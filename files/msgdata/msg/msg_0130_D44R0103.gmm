@@ -1,135 +1,135 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0130_D44R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hm... Good to see you here.\fNo need to explain why you came.\rClair sent you here, didn’t she?\fThat girl is a handful...\rI am sorry, but I must test you.\rNot to worry, you are to answer only\na few questions.\fReady?\r</language>
-	</row>
+	<language name="Norwegian">Godt å se deg her. Godt å se deg her.\fIngen grunn til å forklare hvorfor du kom.\rClair sendte deg hit, gjorde hun ikke? ’Den jenta er en håndfull ...\rJeg beklager, men jeg må teste deg.\rIkke bekymre deg, du skal bare svare på noen få spørsmål.\fKlar?\r</language></row>
 	<row id="msg_0130_D44R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What are Pokémon to you? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hva er Pokémon for deg? {YESNO 0}</language></row>
 	<row id="msg_0130_D44R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What helps you to win battles? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hva hjelper deg med å vinne kamper? {YESNO 0}</language></row>
 	<row id="msg_0130_D44R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What kind of Trainer do you\nwish to battle? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hva slags trener ønsker du å kjempe mot? {YESNO 0}</language></row>
 	<row id="msg_0130_D44R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What is most important for\nraising Pokémon? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hva er viktigst for å oppdra Pokémon? {YESNO 0}</language></row>
 	<row id="msg_0130_D44R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Strong Pokémon. Weak Pokémon.\nWhich is more important? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Sterk Pokémon. Svak Pokémon \nHva er viktigst? {YESNO 0}</language></row>
 	<row id="msg_0130_D44R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hm... I see...\nYou care deeply for Pokémon.\rVery commendable.\fThat conviction is what is important!\r{STRVAR_1 3, 0, 0}, don’t lose that belief.\rIt will see you through at the\nPokémon League.\r</language>
-	</row>
+	<language name="Norwegian">Hm ... Jeg skjønner ... m id = 0 /Du bryr deg dypt om Pokémon.m id = 1 /Veldig prisverdig.m id = 3 /Den overbevisningen er det som er viktig!m id = 1 /{STRVAR_1 3, 0, 0}, ikke mist den troen.m id = 8 /Den vil hjelpe deg gjennom i Pokémon-ligaen.m id = 0 /Pokémon League.m id = 1 /</language></row>
 	<row id="msg_0130_D44R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hah? I didn’t quite catch that...\r</language>
-	</row>
+	<language name="Norwegian">Hah? Jeg fikk ikke helt med meg det...\r</language></row>
 	<row id="msg_0130_D44R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What was it you said?</language>
-	</row>
+	<language name="Norwegian">Hva var det du sa?</language></row>
 	<row id="msg_0130_D44R0103_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, I understand...\r</language>
-	</row>
+	<language name="Norwegian">Å, jeg forstår...</language></row>
 	<row id="msg_0130_D44R0103_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So how did it go?\rI guess there’s no point in asking.\nYou did fail?\f...\f...What? You passed?\r</language>
-	</row>
+	<language name="Norwegian">Så hvordan gikk det?\rDet er vel ingen vits i å spørre.\nDu strøk?\f...\f...\f...Hva? Besto du?\r</language></row>
 	<row id="msg_0130_D44R0103_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}That can’t be!{SIZE 100}\r</language>
-	</row>
+	<language name="Norwegian">{SIZE 200}Det kan’ikke være sant! {SIZE 100}\r</language></row>
 	<row id="msg_0130_D44R0103_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re lying!\nEven I haven’t been approved!\r</language>
-	</row>
+	<language name="Norwegian">Du lyver! Selv jeg har ikke blitt godkjent!</language></row>
 	<row id="msg_0130_D44R0103_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Clair!\rThis child is impeccable,\nin skill and spirit!\rAdmit defeat and confer the\nRising Badge!\r...Or must I inform Lance of this?\r</language>
-	</row>
+	<language name="Norwegian">Clair!\rDette barnet er upåklagelig, \ni dyktighet og ånd!\rTilkjenn deg nederlaget og tildel\nRising Badge!\r...Eller må jeg informere Lance om dette?\r</language></row>
 	<row id="msg_0130_D44R0103_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I... I understand...\r</language>
-	</row>
+	<language name="Norwegian">I... Jeg forstår...</language></row>
 	<row id="msg_0130_D44R0103_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Here, this is the Rising Badge...\nHurry up! Take it!\r</language>
-	</row>
+	<language name="Norwegian">Her, dette er Rising Badge ... \nSkynd deg! Ta det! \r</language></row>
 	<row id="msg_0130_D44R0103_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Rising Badge from Clair!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} mottok\n Rising Badge fra Clair!</language></row>
 	<row id="msg_0130_D44R0103_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Rising Badge will enable your\nPokémon to use the move for\fclimbing waterfalls.\rAlso, all Pokémon will know you as\na Trainer and obey your every\fcommand without question.\r</language>
-	</row>
+	<language name="Norwegian">Rising Badge vil gjøre det mulig for din\nPokémon å bruke bevegelsen til\fklatring av fossefall.\rI tillegg vil alle Pokémon kjenne deg som\nen trener og adlyde alle dine\fkommandoer uten å stille spørsmål.\r.</language></row>
 	<row id="msg_0130_D44R0103_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Clair...\rReflect upon what it is that you\nlack and this child has.\r</language>
-	</row>
+	<language name="Norwegian">Clair...\rTenk over hva det er du\nmangler og dette barnet har.\r</language></row>
 	<row id="msg_0130_D44R0103_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\n...\r</language>
-	</row>
+	<language name="Norwegian">...\n ...\r ...\r ... \n</language></row>
 	<row id="msg_0130_D44R0103_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">By the way...\nHave you heard of LUGIA?\rIt is a Pokémon said to have lived\naround Whirl Islands once...\f...Never mind.\rJust mad words of the old.\n</language>
-	</row>
+	<language name="Norwegian">Forresten...\nHar du hørt om LUGIA?\rDet er en Pokémon som sies å ha levd\nrundt Virveløyene en gang...\f...\n...Glem det.\rBare gale ord fra de gamle.\n...\n</language></row>
 	<row id="msg_0130_D44R0103_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">By the way...\nHave you heard of LUGIA?\fEr...\rBetween Olivine and Cianwood are\nislands called Whirl Islands.\rThere is a huge waterfall deep in the\ncave there. It is said that LUGIA\rrests in the deep end of the\nwaterfall basin...\rYou need a Silver Wing to reach the\nwaterfall basin, I’ve heard...</language>
-	</row>
+	<language name="Norwegian">Forresten...\nHar du hørt om LUGIA?\fEr...\rMellom Olivine og Cianwood ligger\nØyer som kalles Virveløyene.\rDer er en enorm foss dypt inne i den\ngrotten der. Det sies at LUGIA\rligger i den dype enden av\nvannfallsbassenget...\rDu trenger en sølvvinge for å komme til\nvannfallsbassenget, har jeg’hørt...</language></row>
 	<row id="msg_0130_D44R0103_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is a huge waterfall deep in the\ncave there. It is said that LUGIA\rrests in the deep end of the\nwaterfall basin...\rYou need a Silver Wing to reach the\nwaterfall basin, I’ve heard...</language>
-	</row>
+	<language name="Norwegian">Det er en stor foss dypt inne i grotten der. Det sies at LUGIA\rligger i den dype enden av\nvannfallsbassenget...\rDu trenger en sølvvinge for å komme til\nvannfallsbassenget, har jeg’hørt...</language></row>
 	<row id="msg_0130_D44R0103_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Come again, if you so desire.</language>
-	</row>
+	<language name="Norwegian">Kom igjen, hvis du ønsker det.</language></row>
 	<row id="msg_0130_D44R0103_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s been quite some time since a\nTrainer has gained our Master’s\frare approval.\rIn fact, not since Master Lance.</language>
-	</row>
+	<language name="Norwegian">Det er’en god stund siden en\ntrener har fått vår Mesters’s\fsjeldne godkjenning.\rFaktisk ikke siden Mester Lance.</language></row>
 	<row id="msg_0130_D44R0103_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You know young Master Lance?\rHe looks so much like our Master\ndid in his youth.\fIt’s in their blood.</language>
-	</row>
+	<language name="Norwegian">Du kjenner unge mester Lance? \rHan ser så mye ut som vår mester\ngjorde i sin ungdom.\fDet’ligger i blodet deres.</language></row>
 	<row id="msg_0130_D44R0103_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hm... Good to see you here.\rYour arrival is most fortunate.\nI have something for you.\rTake this DRATINI as proof that I\nnow know your worth.\r</language>
-	</row>
+	<language name="Norwegian">Hm... Godt å se deg her.\rDin ankomst er svært heldig.\nJeg har noe til deg.\rTa denne DRATINI som bevis på at jeg\nnå vet hva du er verdt.\r</language></row>
 	<row id="msg_0130_D44R0103_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nDRATINI from the Master!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottatt\nDRATINI fra Master!</language></row>
 	<row id="msg_0130_D44R0103_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hm? Your party is full.</language>
-	</row>
+	<language name="Norwegian">Hm? Festen din er full.</language></row>
 	<row id="msg_0130_D44R0103_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dragon Pokémon are symbolic of\nour clan.\rYou have shown that you can be\nentrusted with one.</language>
-	</row>
+	<language name="Norwegian">Drage-Pokémon er symbolet på\nvår klan. \rDu har vist at du kan bli\nbetrodd en.</language></row>
 	<row id="msg_0130_D44R0103_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Clair appears to have learned an\ninvaluable lesson from you.\rI thank you as her grandfather.</language>
-	</row>
+	<language name="Norwegian">Clair ser ut til å ha lært en\nuvurderlig lekse av deg.</language></row>
 	<row id="msg_0130_D44R0103_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A boy close to your age is in\ntraining here.\rHe is much like Clair when she was\nyounger. It is a little worrisome...</language>
-	</row>
+	<language name="Norwegian">En gutt på din alder er i\ntrening her, og han ligner mye på Clair da hun var\nyngre. Det er litt bekymringsfullt...</language></row>
 	<row id="msg_0130_D44R0103_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Give a nickname to the\nDRATINI you received? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Gi et kallenavn til\nDRATINI du har mottatt? {YESNO 0}</language></row>
 </body>

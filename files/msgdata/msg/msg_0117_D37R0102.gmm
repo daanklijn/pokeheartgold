@@ -1,265 +1,265 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0117_D37R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello, dear.\rI sell inexpensive herbal medicine.\nThey’re good, but a trifle bitter.\rYour Pokémon may not like them.\nHehehehe... {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei, kjære.\rJeg selger billig urtemedisin.\nDe’er gode, men en smule bitre.\rDin Pokémon vil kanskje ikke like dem.\nHehehehe... {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hiya! Care to see some bargains?\rI sell rare items that nobody else\ncarries--but only one of\feach item. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei! Vil du se noen gode kjøp? \rJeg selger sjeldne varer som ingen andre\nhar - men bare én av\fhver vare. {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 8, 0, 0} costs\n${STRVAR_1 53, 1, 0}. Want it?</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 8, 0, 0} koster\n${STRVAR_1 53, 1, 0}. Vil du ha den?</language></row>
 	<row id="msg_0117_D37R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thanks.\r</language>
-	</row>
+	<language name="Norwegian">Takk \r.</language></row>
 	<row id="msg_0117_D37R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You put the {STRVAR_1 8, 0, 0} in\nthe {STRVAR_1 18, 1, 0} Pocket. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du legger {STRVAR_1 8, 0, 0} i\nlommen {STRVAR_1 18, 1, 0}. {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You bought that already. I’m all\nsold out of it. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du har allerede kjøpt den. Jeg har solgt meg ut av den. {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Uh-oh, you’re short on funds. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Uh-oh, du har’lite penger. {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Uh-oh, your Bag is chock-full. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Vesken din er full. {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We’re closed for the day.</language>
-	</row>
+	<language name="Norwegian">Vi har stengt for i dag.</language></row>
 	<row id="msg_0117_D37R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Come by again sometime.</language>
-	</row>
+	<language name="Norwegian">Kom innom igjen en gang.</language></row>
 	<row id="msg_0117_D37R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome!\rI run the Pokémon Salon!\rI’m the older and better of the two\nHaircut Brothers.\rI can make your Pokémon beautiful for\njust $500.\rGrooming gives a better look.\nYour Pokémon will become friendlier and\fmore beautiful.\rWould you like me to do that? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Velkommen!\rJeg driver Pokémon-salongen!\rJeg’er den eldste og beste av de to\nHaircut Brothers.\rJeg kan gjøre din Pokémon vakker for\nbare $500.\rPleie gir et bedre utseende.\nDin Pokémon vil bli vennligere og\f vakrere.\rVil du at jeg skal gjøre det? {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which Pokémon should I work on?</language>
-	</row>
+	<language name="Norwegian">Hvilken Pokémon bør jeg jobbe med?</language></row>
 	<row id="msg_0117_D37R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK! Watch it become beautiful!</language>
-	</row>
+	<language name="Norwegian">OK! Se hvordan det blir vakkert!</language></row>
 	<row id="msg_0117_D37R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There! All done!</language>
-	</row>
+	<language name="Norwegian">Sånn, ja! Alt ferdig!</language></row>
 	<row id="msg_0117_D37R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is that right? That’s a shame!</language>
-	</row>
+	<language name="Norwegian">Er det sant? Det er synd!</language></row>
 	<row id="msg_0117_D37R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ll need more money than that.</language>
-	</row>
+	<language name="Norwegian">Du trenger mer penger enn det.</language></row>
 	<row id="msg_0117_D37R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I do only one haircut a day, sorry.\nI’m done for today.</language>
-	</row>
+	<language name="Norwegian">Jeg klipper bare én gang om dagen, beklager.</language></row>
 	<row id="msg_0117_D37R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to the Pokémon Salon!\rI’m the younger and less expensive of\nthe two Haircut Brothers.\rI’ll spruce up your Pokémon for\njust $300.\rGrooming gives a better look.\nYour Pokémon will become friendlier and\fmore beautiful.\rSo? How about it?</language>
-	</row>
+	<language name="Norwegian">Velkommen til Pokémon-salongen!\rJeg’er den yngre og rimeligere av\nde to Haircut-brødrene.\rJeg’vil pusse opp din Pokémon for\nbare $300.\rPussing gir et bedre utseende.\nDin Pokémon vil bli vennligere og\fvakrere.\rSå? Hva sier du til det?</language></row>
 	<row id="msg_0117_D37R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK, which Pokémon should I spruce up?</language>
-	</row>
+	<language name="Norwegian">OK, hvilken Pokémon skal jeg pusse opp?</language></row>
 	<row id="msg_0117_D37R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK! I hope I do a good job!</language>
-	</row>
+	<language name="Norwegian">OK! Jeg håper jeg gjør en god jobb!</language></row>
 	<row id="msg_0117_D37R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There we go! All done!</language>
-	</row>
+	<language name="Norwegian">Sånn, ja! Alt ferdig!</language></row>
 	<row id="msg_0117_D37R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No? How disappointing!</language>
-	</row>
+	<language name="Norwegian">Ikke det? Så skuffende!</language></row>
 	<row id="msg_0117_D37R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re a little short on funds.</language>
-	</row>
+	<language name="Norwegian">Du har litt lite penger.</language></row>
 	<row id="msg_0117_D37R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I have a feeling that it won’t go well\nnext time. Let me close for the day!</language>
-	</row>
+	<language name="Norwegian">Jeg har en følelse av at det ikke kommer til å gå’bra\nneste gang. La meg stenge for i dag!</language></row>
 	<row id="msg_0117_D37R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} looks a little happier.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0} ser litt lykkeligere ut.</language></row>
 	<row id="msg_0117_D37R0102_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} looks happy.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0} ser fornøyd ut.</language></row>
 	<row id="msg_0117_D37R0102_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} looks delighted!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0, 0} ser strålende ut!</language></row>
 	<row id="msg_0117_D37R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO ENTRY BEYOND THIS POINT</language>
-	</row>
+	<language name="Norwegian">INGEN ADGANG ETTER DETTE PUNKTET</language></row>
 	<row id="msg_0117_D37R0102_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} inserted the\nBasement Key.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} satt inn\nKjellernøkkelen.\r</language></row>
 	<row id="msg_0117_D37R0102_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to the Memorial Photo Studio.\nWe are no ordinary studio!\rYou can wear a Team Rocket uniform\nto take a picture!\rWould you like to try it? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Velkommen til Memorial Photo Studio.\nVi er ikke noe vanlig studio!\rDu kan ha på deg en Team Rocket-uniform\nfor å ta et bilde!\rVil du prøve det? {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please stand in front of the camera\nonce you have changed.\r</language>
-	</row>
+	<language name="Norwegian">Vennligst still deg foran kameraet\nnår du har skiftet.</language></row>
 	<row id="msg_0117_D37R0102_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are you ready?\rCome on!\nLook cool as if you own the world!\r</language>
-	</row>
+	<language name="Norwegian">Er du klar? \rKom igjen!\nSe kul ut som om du eier verden!\r</language></row>
 	<row id="msg_0117_D37R0102_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Good job.\rYou can check the picture using the PC.</language>
-	</row>
+	<language name="Norwegian">Bra jobbet.\rDu kan sjekke bildet ved hjelp av PC-en.</language></row>
 	<row id="msg_0117_D37R0102_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can wear a Team Rocket uniform\nto take a picture!\rWould you like to try it? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du kan ha på deg en Team Rocket-uniform\nfor å ta et bilde!\rVil du prøve det? {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Fair enough.\rNo one should look up to Team Rocket.</language>
-	</row>
+	<language name="Norwegian">...greit nok. Ingen bør se opp til Team Rocket.</language></row>
 	<row id="msg_0117_D37R0102_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmm. Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
-	</row>
+	<language name="Norwegian">Fotoalbumet ditt er fullt. Fotoalbumet ditt er fullt. \rFå tilgang til PC-en din og slett\nnoen bilder.</language></row>
 	<row id="msg_0117_D37R0102_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh?\nAre you a newcomer, too?\rWe had to recruit new members for the\nRadio Tower mission.\fThen we ran out of uniforms.\rI heard this studio has some, so I\ndecided to “borrow” one.\rSince you are here, why don’t you\nchange as well?\r</language>
-	</row>
+	<language name="Norwegian">Hva? \nEr du også en nykommer? \rVi måtte rekruttere nye medlemmer til oppdraget\nRadiotårnet.\fDa gikk vi tom for uniformer.\rJeg hørte at dette studioet hadde noen, så jeg\nbestemte meg for å “låne”en.\rSiden du er her, hvorfor bytter ikke du\nogså\nom?\r</language></row>
 	<row id="msg_0117_D37R0102_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Look at you! Pretty good!\rOh, but you shouldn’t try to scare\npeople walking around looking\flike that, OK?</language>
-	</row>
+	<language name="Norwegian">Se på deg! Ganske bra! Men du burde ikke prøve å skremme folk som går rundt og ser sånn ut, ok?</language></row>
 	<row id="msg_0117_D37R0102_00038" index="38">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0117_D37R0102_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ooh, your Pokémon are so very\ncharming! How enchanting!\rIf you dress up your Pokémon here,\nmake it a sight to behold!\rThen I will even hang a picture of one\nin the other room!\rYou will do this, won’t you? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Åh, Pokémonene dine er så veldig\nsjarmerende! Så fortryllende!\rHvis du kler opp Pokémonene dine her,\nså blir det et syn for øyet!\rSå skal jeg til og med henge opp et bilde av en\ni det andre rommet!\rDu vil gjøre dette, vil du ikke’det? {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, you silly thing...\nWhere’s your sense of adventure?</language>
-	</row>
+	<language name="Norwegian">Å, din dumme ting ... \nHvor’er eventyrlysten din?</language></row>
 	<row id="msg_0117_D37R0102_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ooh, ooh, yes! How nice!\nLet’s not delay!\rShould I explain to you how\nto dress up your Pokémon? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Ooh, ooh, ja! Så fint!\nLa oss ikke utsette det!\rSkal jeg forklare deg hvordan\ndu skal kle opp Pokémon? {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ooh, I wonder which Pokémon you’ll\ndress up?\r</language>
-	</row>
+	<language name="Norwegian">Åh, jeg lurer på hvilken Pokémon du’vil\nkle deg ut som?</language></row>
 	<row id="msg_0117_D37R0102_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Teeheehee...\nI hope you will dress it up adorably!\r</language>
-	</row>
+	<language name="Norwegian">Teeheehee ... m id = 0 /Jeg håper du vil kle det søtt!</language></row>
 	<row id="msg_0117_D37R0102_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have a Fashion Case, don’t you?\nAh, oui, wonderful!\rJust choose the Accessories and put\nthem on your Pokémon.\rWhen you’re done, I will snap a photo\nand put it up beside me!\rIf you mix your records with others,\nyou can get their photos, too!\rI think it will be much easier if \nyou will just try! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du har et moteetui, har du ikke? ’Ah, oui, herlig!\rBare velg tilbehør og sett\ndem på din Pokémon.\rNår du’er ferdig, skal jeg ta et bilde\nog sette det opp ved siden av meg!\rHvis du blander postene dine med andre,\nkan du få bildene deres også!\rJeg tror det blir mye lettere hvis \ndu bare prøver! {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ooh, nice work!\nLet’s display the photo right away!\fOh, but it needs to have a title!\r</language>
-	</row>
+	<language name="Norwegian">Bra jobbet!\nLa’bildet vises med en gang!\fMen det må ha en tittel!\r</language></row>
 	<row id="msg_0117_D37R0102_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 28, 0, 0}...\rOoh, yes, yes! I get it now!\nYour aesthetics shine through!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 28, 0, 0}...\rOh, ja, ja! Nå skjønner jeg det!\nDin estetikk skinner igjennom!\r</language></row>
 	<row id="msg_0117_D37R0102_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, non, non, non!\nIt will be forlorn without a title.\r</language>
-	</row>
+	<language name="Norwegian">Å, nei, nei, nei! \nDet vil være håpløst uten en tittel.\r</language></row>
 	<row id="msg_0117_D37R0102_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh... You came out without doing\nanything... How disappointing.</language>
-	</row>
+	<language name="Norwegian">Du kom ut uten å gjøre noe som helst... Så skuffende.</language></row>
 	<row id="msg_0117_D37R0102_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you dress up any Pokémon again,\nthe photo here will be changed.\rWould you like to dress up\na Pokémon, dearie? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hvis du kler ut en Pokémon igjen,\nvil bildet her bli endret.\rVil du kle ut\nen Pokémon, kjære? {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Why don’t I dress up myself and hang a\npicture...?\rThe title should be...\nHmm...how about “Girl’s Paradise”?</language>
-	</row>
+	<language name="Norwegian">Hvorfor ikke’klede meg ut og henge opp et\nbilde...?\rTittelen burde være...\nHmm...hva med “Jentas’paradis”?</language></row>
 	<row id="msg_0117_D37R0102_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ooh, non, non, non! That’s an Egg!\nIt’s too young to be dressing up!\r</language>
-	</row>
+	<language name="Norwegian">Nei, nei, nei, nei! Det er et egg! Det er for ungt til å kle seg ut!</language></row>
 	<row id="msg_0117_D37R0102_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I put your photo up right here.\nIt just looks so perfect there!</language>
-	</row>
+	<language name="Norwegian">Jeg legger bildet ditt opp akkurat her.\nDet ser bare så perfekt ut der!</language></row>
 	<row id="msg_0117_D37R0102_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s a frame for holding a\nportrait photo.</language>
-	</row>
+	<language name="Norwegian">Det’er en ramme for å holde et\nportrettbilde.</language></row>
 	<row id="msg_0117_D37R0102_00054" index="54">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0117_D37R0102_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team Rocket members in black suits\nhave been running around...\rI was wondering what was going on.\nSo, you took on Team Rocket?\fYou are impressive!\rYou may be able to face the\nlegendary Poké...\r</language>
-	</row>
+	<language name="Norwegian">Team Rocket-medlemmer i svarte drakter\nhar løpt rundt...\rJeg lurte på hva som foregikk.\nSå du tok deg av Team Rocket? \fDu er imponerende! \rDu er kanskje i stand til å møte den\nlegendariske Poké...\r.</language></row>
 	<row id="msg_0117_D37R0102_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hahaha! Never mind.\rI must go now.\r</language>
-	</row>
+	<language name="Norwegian">Hahaha! Glem det. Jeg må gå nå.</language></row>
 	<row id="msg_0117_D37R0102_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Take a look!\rThis is a drawing for Accessories.\nYou never know what you’re gonna get.\rWould you like to try for $100? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Ta en titt!\rDette er en tegning for tilbehør.\nDu vet aldri hva du’får.\rVil du prøve for $100? {YESNO 0}</language></row>
 	<row id="msg_0117_D37R0102_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow, you are great!\nSo many Accessories and wallpapers!\rGo ahead and dress up your Pokémon!</language>
-	</row>
+	<language name="Norwegian">Jøss, du er flott!\nSå mange tilbehør og bakgrunnsbilder!\rGå videre og kle opp Pokémon!</language></row>
 	<row id="msg_0117_D37R0102_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please come again!</language>
-	</row>
+	<language name="Norwegian">Vær så snill å komme igjen!</language></row>
 	<row id="msg_0117_D37R0102_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, no!\nYou’re short on funds.</language>
-	</row>
+	<language name="Norwegian">Å, nei! Du har ikke nok penger.</language></row>
 	<row id="msg_0117_D37R0102_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Here we go!\r..................\n..................\f......\fYou win!\r</language>
-	</row>
+	<language name="Norwegian">Vær så god!\r..................\n..................\f......\fDu vinner!\r</language></row>
 	<row id="msg_0117_D37R0102_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">How about a wallpaper?\r</language>
-	</row>
+	<language name="Norwegian">Hva med et bakgrunnsbilde?</language></row>
 	<row id="msg_0117_D37R0102_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Come again!</language>
-	</row>
+	<language name="Norwegian">Kom igjen!</language></row>
 	<row id="msg_0117_D37R0102_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, you didn’t win. Sorry.\r</language>
-	</row>
+	<language name="Norwegian">Å, du vant ikke. Beklager.\r</language></row>
 </body>

@@ -1,71 +1,71 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0186_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to Geonet, the high-tech\nglobe!\r</language>
-	</row>
+	<language name="Norwegian">Velkommen til Geonet, den høyteknologiske\ngloben!\r</language></row>
 	<row id="msg_0186_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What would you like to do?</language>
-	</row>
+	<language name="Norwegian">Hva har du lyst til å gjøre?</language></row>
 	<row id="msg_0186_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Here, you may register the location\nof where you live.\rThat information may be provided to\nfriends and strangers through\fDS Wireless Communications or over\fNintendo WFC.\rWould you like to register your\nhome’s location area?</language>
-	</row>
+	<language name="Norwegian">Her kan du registrere hvor du bor.\nDenne informasjonen kan gis til\nvenner og fremmede gjennom\fDS Wireless Communications eller over\fNintendo WFC.\rVil du registrere ditt\nhjemmets’lokasjonsområde?</language></row>
 	<row id="msg_0186_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please select the location in which\nyou live.</language>
-	</row>
+	<language name="Norwegian">Vennligst velg stedet du bor på.</language></row>
 	<row id="msg_0186_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please select the area in which\nyou live.</language>
-	</row>
+	<language name="Norwegian">Vennligst velg området du bor i.</language></row>
 	<row id="msg_0186_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Once registered, you may not change\nyour registered location data.\rShould this location be registered\nas where you live?</language>
-	</row>
+	<language name="Norwegian">Når du har registrert deg, kan du ikke endre\nde registrerte stedsopplysningene dine.\rSkal dette stedet registreres\nsom der du bor?</language></row>
 	<row id="msg_0186_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 36, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 36, 0, 0}</language></row>
 	<row id="msg_0186_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 37, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 37, 0, 0}</language></row>
 	<row id="msg_0186_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">YES</language>
-	</row>
+	<language name="Norwegian">JA</language></row>
 	<row id="msg_0186_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO</language>
-	</row>
+	<language name="Norwegian">NEI</language></row>
 	<row id="msg_0186_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEE LIST</language>
-	</row>
+	<language name="Norwegian">SE LISTE</language></row>
 	<row id="msg_0186_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">REGISTER</language>
-	</row>
+	<language name="Norwegian">REGISTRER</language></row>
 	<row id="msg_0186_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EXIT</language>
-	</row>
+	<language name="Norwegian">EXIT</language></row>
 	<row id="msg_0186_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}VIEW</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}VIEW</language></row>
 	<row id="msg_0186_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your registered location:\n{STRVAR_1 36, 0, 0}\n{STRVAR_1 37, 1, 0}</language>
-	</row>
+	<language name="Norwegian">Din registrerte plassering:\n{STRVAR_1 36, 0, 0}\n{STRVAR_1 37, 1, 0}</language></row>
 	<row id="msg_0186_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">To display registered locations, line up\nthe cursor, and press the X Button.</language>
-	</row>
+	<language name="Norwegian">For å vise registrerte steder, stiller du markøren på linje\n og trykker på X-knappen.</language></row>
 	<row id="msg_0186_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}QUIT</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}QUIT</language></row>
 </body>

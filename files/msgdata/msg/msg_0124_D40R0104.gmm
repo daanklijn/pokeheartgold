@@ -1,35 +1,35 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0124_D40R0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A long time ago, the Whirl Islands used\nto be one large island.\rThere were two countries fighting over\nthe island back then.\rLUGIA, the guardian of the island, got\nupset and cast lightning bolts to tear\fthe island into four pieces, then\fdisappeared into the deep end\fof the waterfall basin...\rI will let you through if you bring the\nSilver Wing, which is said to have fallen\ffrom LUGIA.\rBut the true challenge is whether\nLUGIA will appear in front of you.\rWhat LUGIA has longed for is the\ninvisible trust between people and\fPokémon...\rOr the person who can restore such\na relationship...</language>
-	</row>
+	<language name="Norwegian">For lenge siden var Virveløyene én stor øy.\rDet var to land som kjempet om øya.\rLUGIA, øyas vokter, ble\nopprørt og kastet lyn for å rive øya i fire biter, og forsvant deretter ned i den dype enden\fav fossebassenget ...\rJeg vil slippe deg gjennom hvis du tar med deg\nSølvvingen, som sies å ha falt\fned fra LUGIA.\rMen den virkelige utfordringen er om\nLUGIA vil dukke opp foran deg.\rDet LUGIA har lengtet etter, er den\nusynlige tilliten mellom mennesker og\fPokémon...\rEller den personen som kan gjenopprette et slikt\nforhold...</language></row>
 	<row id="msg_0124_D40R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LUGIA, the Pokémon of the island, hid\nitself deep in the end of the waterfall\fbasin, and no one has seen it since...\rIf anyone who could restore deep trust\nbetween people and Pokémon were to\fcome here with something linked to\fLUGIA, it may show itself for such\fa person...</language>
-	</row>
+	<language name="Norwegian">LUGIA, øyas Pokémon, gjemte\nseg dypt i enden av fossens\fbasseng, og ingen har sett den siden...\rHvis noen som kan gjenopprette dyp tillit\nmellom mennesker og Pokémon skulle\fkomme hit med noe som er knyttet til\fLUGIA, vil den kanskje vise seg for en slik\fperson...</language></row>
 	<row id="msg_0124_D40R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That thing you have...!\r</language>
-	</row>
+	<language name="Norwegian">Den greia du har...!</language></row>
 	<row id="msg_0124_D40R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have found it...\nPlease go ahead.\r</language>
-	</row>
+	<language name="Norwegian">Du har funnet det...\nVær så snill å gå videre.\r</language></row>
 	<row id="msg_0124_D40R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have found it...\nPlease go ahead.</language>
-	</row>
+	<language name="Norwegian">Du har funnet det...\nVær så snill å gå videre.</language></row>
 	<row id="msg_0124_D40R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Silver Wing will merely permit you to go\ndown the waterfall.\rIf you are not the kind of person who\nwould restore the trust between people\fand Pokémon, LUGIA will never show\fitself to you...</language>
-	</row>
+	<language name="Norwegian">Silver Wing vil bare tillate deg å gå\nned fossen.\rHvis du ikke er den typen person som\nvil gjenopprette tilliten mellom mennesker\fog Pokémon, vil LUGIA aldri vise\fseg for deg...</language></row>
 	<row id="msg_0124_D40R0104_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmmm.\rSo it was you and the Bell!</language>
-	</row>
+	<language name="Norwegian">Så det var du og klokka!</language></row>
 	<row id="msg_0124_D40R0104_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are quite a remarkable Trainer\nfor your age...</language>
-	</row>
+	<language name="Norwegian">Du er en bemerkelsesverdig trener for din alder...</language></row>
 </body>

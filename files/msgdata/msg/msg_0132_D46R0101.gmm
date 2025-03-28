@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0132_D46R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bugsy: I came to Kanto to look for\nBug-type Pokémon, so I can become\fa stronger Bug-type Pokémon Trainer!\rHey, why don’t we swap phone\nnumbers? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Bugsy: Jeg kom til Kanto for å lete etter\nBug-type Pokémon, slik at jeg kan bli\fen sterkere Bug-type Pokémon-trener!\rHei, hvorfor bytter vi ikke’telefonnummer? {YESNO 0}</language></row>
 	<row id="msg_0132_D46R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} registered Bugsy\nin the Pokégear!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} registrerte Bugsy\ni Pokégear!</language></row>
 	<row id="msg_0132_D46R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bugsy: We can battle around lunch\non Thursdays!\fGive me a call!</language>
-	</row>
+	<language name="Norwegian">Bugsy: Vi kan slåss rundt lunsj på torsdager! Ring meg!</language></row>
 	<row id="msg_0132_D46R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bugsy: Oh, well...\nThat’s OK...</language>
-	</row>
+	<language name="Norwegian">Bugsy: Å, vel ... \nDet’er OK ...</language></row>
 	<row id="msg_0132_D46R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bugsy: Will you give me your phone\nnumber? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Bugsy: Kan du gi meg telefonnummeret ditt? {YESNO 0}</language></row>
 </body>

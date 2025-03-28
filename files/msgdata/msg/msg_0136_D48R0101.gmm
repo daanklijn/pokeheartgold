@@ -1,51 +1,51 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0136_D48R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know?\nThey are constructing a Safari Zone\fjust around the corner.\rThey say it’ll be really fun!\nYou will see many different kinds of\fPokémon, and it’s all you can catch!\rThere is no reason not to go, right?\nI’m so looking forward to the\fSafari Zone!\rFinish the construction already!</language>
-	</row>
+	<language name="Norwegian">Visste du at de holder på å bygge en safarisone\frett rundt hjørnet.\rDe sier at det’skal bli veldig gøy!\nDu vil se mange forskjellige typer\fPokémon, og det’er alt du kan fange!\rDet er ingen grunn til å ikke dra, ikke sant? \nJeg’ gleder meg så mye til\fSafarisonen!\rGjør ferdig byggingen nå!</language></row>
 	<row id="msg_0136_D48R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know? There’s a Safari Zone\njust around the corner.\rIt’s really fun!\nYou will see many different kinds of\fPokémon, and it’s all you can catch!\rThere is no reason not to go, right?\nJust around the corner.\rIt won’t take too long.\nWhy don’t you drop by? Won’t you? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Visste du det? Det’er en safarisone\nrett rundt hjørnet.\rDet’er veldig gøy!\nDu vil se mange forskjellige typer\fPokémon, og det’er alt du kan fange!\rDet er ingen grunn til ikke å dra, ikke sant? \nBare rundt hjørnet.\rDet tar ikke’for lang tid.\nHvorfor kommer du ikke innom? Vil du ikke? {YESNO 0}</language></row>
 	<row id="msg_0136_D48R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right!\nIt’s just over there.\rGo up the stairs, and you’ll be outside.\nThen it’s only a few paces away!</language>
-	</row>
+	<language name="Norwegian">Greit! \nDet’er rett der borte.\rGå opp trappen, så er du’utenfor.\nSå er det’bare noen få skritt unna!</language></row>
 	<row id="msg_0136_D48R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s such a good deal, you know?</language>
-	</row>
+	<language name="Norwegian">Det er en så god deal, vet du?</language></row>
 	<row id="msg_0136_D48R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">See? The Safari Zone was fun?\nNo need to say anything!\fYour face says it was really fun!</language>
-	</row>
+	<language name="Norwegian">Ser du? Safarisonen var morsom? \nIngen grunn til å si noe!\fFjeset ditt sier at det var veldig gøy!</language></row>
 	<row id="msg_0136_D48R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What?\nYou want to go to the Safari Zone, too?\rIt’s still under construction.\nPlease come back later.</language>
-	</row>
+	<language name="Norwegian">Hva? \nVil du også gå til Safarisonen? \rDen’er fortsatt under bygging.\nKom gjerne tilbake senere.</language></row>
 	<row id="msg_0136_D48R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I appreciate that everybody is looking\nforward to it. But the lady at the\freception seems a bit too dramatic...\fDon’t get your expectations too high!</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner at alle gleder seg. Men damen på mottakelsen virker litt for dramatisk...\fIkke ha for høye forventninger!</language></row>
 	<row id="msg_0136_D48R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Chuck: Hey, {STRVAR_1 3, 0, 0}!\nGood to see you again! But I never\fexpected to see you around here.\rCould it be...that you are on the way\nto the Embedded Tower?\rThe Embedded Tower is a huge tower\npiercing the sky.\rIt is said to have something to do with\nthe mythical Pokémon that stretched\fthe seas and that Pokémon that widened\fthe lands.\rBut the tower no longer is standing.\r</language>
-	</row>
+	<language name="Norwegian">Chuck: Hei, {STRVAR_1 3, 0, 0}!\nGøy å se deg igjen! Men jeg hadde aldri\fventet å se deg her.\rKan det være...at du er på vei\ntil det innebygde tårnet?\rDet innebygde tårnet er et enormt tårn\nsom rager opp i himmelen.\rDet sies å ha noe å gjøre med\nden mytiske Pokémon som strakte\fhavet og den Pokémon som utvidet\flandet.\rMen tårnet står ikke lenger.\rMen tårnet står ikke lenger.\r</language></row>
 	<row id="msg_0136_D48R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Chuck: The way to the Embedded Tower\nis harder than you can imagine.\rYou need to use Rock Climb\nas well as Surf.\r</language>
-	</row>
+	<language name="Norwegian">Chuck: Veien til det innebygde tårnet\ner vanskeligere enn du kan forestille deg.\rDu må bruke Rock Climb\nså vel som Surf.\r.</language></row>
 	<row id="msg_0136_D48R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Chuck: I see! So you’ve defeated all\nthe Gym Leaders in Kanto as well!\rThen there’s nothing to worry about.\nBelieve in yourself and walk your path.\rYahaha!\r</language>
-	</row>
+	<language name="Norwegian">Chuck: Jeg skjønner! Så du’har beseiret alle\ngymlederne i Kanto også!\rDa er det’ingenting å bekymre seg for.\nTro på deg selv og gå din vei.\rYahaha!\r</language></row>
 	<row id="msg_0136_D48R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everything Is Thrilling!\nExplore to Find Wild Pokémon!\rWarden Baoba’s Safari Zone\nComing Soon!</language>
-	</row>
+	<language name="Norwegian">Alt er spennende!\nUtforsk for å finne ville Pokémon!\rWarden Baoba’s Safari Zone\nKommer snart!</language></row>
 	<row id="msg_0136_D48R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everything Is Thrilling!\nExplore to Find Wild Pokémon!\rWarden Baoba’s Safari Zone\nUp and Running!</language>
-	</row>
+	<language name="Norwegian">Alt er spennende!\nUtforsk for å finne ville Pokémon!\rWarden Baoba’s Safari Zone\nI gang!</language></row>
 </body>

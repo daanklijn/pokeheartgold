@@ -1,103 +1,103 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0142_D49R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the “Potential” room.\nIt is to show the infinite potential\fof both Pokémon and people.</language>
-	</row>
+	<language name="Norwegian">Dette er “Potensialrommet”Det skal vise det uendelige potensialet\fbåde hos Pokémon og mennesker.</language></row>
 	<row id="msg_0142_D49R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Only the Pokéathletes who have held\nthe best record in every event\fare allowed here.\rContinue your hard work toward\nbreaking every record there is.</language>
-	</row>
+	<language name="Norwegian">Bare Pokéatleter som har hatt\nden beste rekorden i hver øvelse\fhar adgang her.\rFortsett det harde arbeidet mot\nå slå alle rekorder som finnes.</language></row>
 	<row id="msg_0142_D49R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the “Friendship” room.\nPlease go ahead.</language>
-	</row>
+	<language name="Norwegian">Dette er rommet “Vennskap” \nVær så snill å gå videre.</language></row>
 	<row id="msg_0142_D49R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are quite a Pokéathlete to\ncome here!\rBut you still have a long way\nto become the Top Pokéathlete.\rShall I show you some special\ntechniques? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du er litt av en pokéatlet som har\nkommet hit!\rMen du har fortsatt en lang vei\ntil å bli den beste pokéatleten.\rSkal jeg vise deg noen spesielle\nteknikker? {YESNO 0}</language></row>
 	<row id="msg_0142_D49R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nDo you have anything else\fyou want to know about? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei, {STRVAR_1 3, 0, 0}!\nHar du noe annet\fdu vil vite om? {YESNO 0}</language></row>
 	<row id="msg_0142_D49R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nDo you have anything else\fyou want to know about? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei, {STRVAR_1 3, 0, 0}!\nHar du noe annet\fdu vil vite om? {YESNO 0}</language></row>
 	<row id="msg_0142_D49R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">About which course? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Om hvilket kurs? {YESNO 0}</language></row>
 	<row id="msg_0142_D49R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which event would you\nlike to know about? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hvilket arrangement vil du\ngerne vite mer om? {YESNO 0}</language></row>
 	<row id="msg_0142_D49R0106_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In Hurdle Dash, timing is everything.\rYour Pokémon will pick up speed\nif you let them wait until the last\fmoment before they jump the Hurdles.\r</language>
-	</row>
+	<language name="Norwegian">I Hurdle Dash er timing alt.\rDin Pokémon vil øke hastigheten\nhvis du lar dem vente til det siste\føyeblikket før de hopper over hindrene.\r</language></row>
 	<row id="msg_0142_D49R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pennant Capture...\rThis event is not only about the\nPennants on the beach, but also\fthe ones other Pokémon have collected.\rIf you bump into them from behind,\nthey will be knocked down and your\fPokémon will grab their Pennants.\rThat’s the way experts fight.\r</language>
-	</row>
+	<language name="Norwegian">Vimpelfangst...\rDenne hendelsen handler ikke bare om\nvimplene på stranden, men også\fde andre Pokémon har samlet.\rHvis du støter på dem bakfra,\nvil de bli slått ned, og din\fPokémon vil gripe tak i vimplene deres.\rDet’er slik ekspertene slåss.\rDet er slik ekspertene slåss.</language></row>
 	<row id="msg_0142_D49R0106_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The key is to push other Pokémon out\nof the Circles...which may be obvious.\rActually, your Pokémon can push harder\nif you pick the right moment to tell\fthem to push.\rSo you might be able to push back\npowerful Pokémon if you give frequent\finstructions to push.\r</language>
-	</row>
+	<language name="Norwegian">Nøkkelen er å skyve andre Pokémon ut\nav sirklene ... noe som kanskje er åpenbart.\rFaktisk kan Pokémonene dine skyve hardere\nhvis du velger det rette øyeblikket for å be\fdem om å skyve.\rSå du kan kanskje skyve tilbake\nsterke Pokémon hvis du gir hyppige\finstruksjoner om å skyve.\r</language></row>
 	<row id="msg_0142_D49R0106_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Block Smash is not just about smashing.\rDid you ever notice that sometimes\nthere are small cracks in the Blocks?\rWell, if you can hit those cracks,\nthey break real fast!\rIf you can aim at cracks in a row,\nyour Pokémon will feel great and\fthey’ll show great potential.\rOne more thing...\rWhen you make them switch,\nflick your Pokémon upwards\ffor a quicker switch.\r</language>
-	</row>
+	<language name="Norwegian">Block Smash handler ikke bare om å knuse.\rHar du noen gang lagt merke til at det noen ganger\ner små sprekker i blokkene?\rHvis du kan treffe disse sprekkene,\ngår de i stykker veldig fort!\rHvis du kan sikte på sprekker på rad,\nvil dine Pokémon føle seg bra og\fde’vil vise stort potensial.\rEn ting til...\rNår du får dem til å bytte,\nflikker du Pokémon oppover\ffor å få et raskere bytte.\r.</language></row>
 	<row id="msg_0142_D49R0106_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Disc Catch is about how long you can\nwait until you catch the Discs.\rBird Pokémon can move around in the\nair, so it’ll be easier to catch Discs\fif you form a team of bird Pokémon.\r</language>
-	</row>
+	<language name="Norwegian">Disc Catch handler om hvor lenge du kan\nvente til du fanger Discs.\rFugl-Pokémon kan bevege seg rundt i\nluften, så det’vil være lettere å fange Discs\fhvis du danner et team av fugle-Pokémon.\r.</language></row>
 	<row id="msg_0142_D49R0106_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lamp Jump is not only about jumping.\rThere are three Pokémon bouncing\ntogether, so one Pokémon can’t jump\fwell if another comes down right when\fthe other wants to go up in the air.\rLetting them jump at the right time\nis the key.\r</language>
-	</row>
+	<language name="Norwegian">Lamp Jump handler ikke bare om å hoppe.\rDet er tre Pokémon som spretter\nsammen, så en Pokémon kan’ikke hoppe\fgodt hvis en annen kommer ned akkurat når\fden andre vil opp i luften.\rÅ la dem hoppe på riktig tidspunkt\ner nøkkelen.\rDet handler om å få dem til å hoppe på riktig tidspunkt.</language></row>
 	<row id="msg_0142_D49R0106_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Relay Run requires well-timed switching.\rDid you notice that Pokémon start to\nsweat a little when they become tired?\rIt also indicates they have slowed down\na lot.\rYou shouldn’t allow them to sweat.\rSwitching before they start to sweat,\nthat is the key.\r</language>
-	</row>
+	<language name="Norwegian">Stafettløp krever godt timet bytte.\rHar du lagt merke til at Pokémon begynner å\nsvette litt når de blir slitne?\rDet indikerer også at de har bremset ned\nmye.\rDu bør’ikke la dem svette.\rBytte før de begynner å svette,\ndet er nøkkelen.\rDet er nøkkelen.\r</language></row>
 	<row id="msg_0142_D49R0106_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s not easy to aim for the top\nby just tackling a lot in Ring Drop.\fDo you know what a “Body Attack” is?\rI call it a Body Attack, anyway...\rYour Pokémon can actually jump\nas it moves forward.\rIf you can let your Pokémon\nBody Attack others, you can drop\fthem off the Ring altogether!\r</language>
-	</row>
+	<language name="Norwegian">Det’er ikke lett å sikte mot toppen\nved å bare takle mye i Ring Drop.\fVet du hva et “Kroppsangrep”er?\rJeg kaller det i alle fall et Kroppsangrep... \rDin Pokémon kan hoppe\nmens den beveger seg fremover.\rDin Pokémon kan faktisk hoppe\n mens den beveger seg fremover.\rHvis du kan la din Pokémon\nKroppsangripe andre, kan du slippe\fdem helt av ringen!</language></row>
 	<row id="msg_0142_D49R0106_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Snow Throw is not just about smashing.\rAre you making sure the Snowballs\nare big?\rBigger Snowballs have a better\nchance of making other Pokémon\ffall down.\rYou can also block other Snowballs\nfrom hitting your Pokémon by having\fyour Pokémon hold on to\fsome Snowballs.\r</language>
-	</row>
+	<language name="Norwegian">Snøkast handler ikke bare om å knuse.\rSørger du for at snøballene\ner store? \rStørre snøballer har større\nsjanse for å få andre Pokémon\ftil å falle ned.\rDu kan også hindre andre Snøballer\ni å treffe din Pokémon ved å få\fdin Pokémon til å holde fast i\fnoen Snøballer.\r</language></row>
 	<row id="msg_0142_D49R0106_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Goal Roll requires the skills of\na Pokéathlete.\rThe situation changes every second,\nbut stay calm as you instruct\fyour Pokémon.\rPositioning is key.\rI recommend keeping one at your own\nGoal to protect it--one in the middle of\fthe field for flexibility and one in\ffront of the Goal you want to\froll the ball into.\r</language>
-	</row>
+	<language name="Norwegian">Målkast krever ferdighetene til\nen pokéatlet.\rSituasjonen endrer seg hvert sekund,\nmen behold roen mens du instruerer\f Pokémonene dine.\rPosisjonering er nøkkelen.\rJeg anbefaler å ha en ved ditt eget\nmål for å beskytte det - en midt på\fbanen for fleksibilitet og en foran det målet du vil\frullere ballen inn i.\r</language></row>
 	<row id="msg_0142_D49R0106_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I hope you’ll become a Top Pokéathlete.\nGood luck!</language>
-	</row>
+	<language name="Norwegian">Jeg håper du’vil bli en topp Pokéathlete.\nGod lykke!</language></row>
 	<row id="msg_0142_D49R0106_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Those who have won at the Pokéathlon\n100 times are commemorated here for\ftheir achievement of creating the new,\flegendary record.</language>
-	</row>
+	<language name="Norwegian">De som har vunnet Pokéathlon\n100 ganger, blir her hedret for\fderes prestasjon med å skape den nye, \flegendariske rekorden.</language></row>
 	<row id="msg_0142_D49R0106_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It is a cool Pokégear to commemorate\nyour 100th victory in the Pokéathlon.\rThat is your model!\nIt is a special Pokégear with\fthe Pokéathlon logo in the back.</language>
-	</row>
+	<language name="Norwegian">Det er en kul Pokégear å feire\ndin 100. seier i Pokéathlon.\rDet er din modell!\nDet er en spesiell Pokégear med\fPokéathlon-logoen på baksiden.</language></row>
 	<row id="msg_0142_D49R0106_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Those Pokéathletes who have come in\nfirst in every event at the Pokéathlon\f50 times are commemorated here for\ftheir overwhelming might and the\farrival of a new legend.</language>
-	</row>
+	<language name="Norwegian">De Pokéatletene som har kommet på\nførsteplass i hver eneste konkurranse i Pokéathlon\f50 ganger, hedres her for\fsin overveldende styrke og\fankomsten av en ny legende.</language></row>
 	<row id="msg_0142_D49R0106_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s an awesome Poké Ball to\ncommemorate your 50th victory\fin every Pokéathlon event.\rIt’s your model Poké Ball!\nThe engraving reads, “Stay on Top.”</language>
-	</row>
+	<language name="Norwegian">Det’er en fantastisk Poké Ball for å\nminne om din 50. seier\fi hvert Pokéathlon-arrangement.\rDet’er din modell Poké Ball!\nGraveringen lyder, “Stay on Top.”.</language></row>
 	<row id="msg_0142_D49R0106_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} checked\nthe event records.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} sjekket\nhendelsesoppføringene.\r</language></row>
 	<row id="msg_0142_D49R0106_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DODRIO: Keewn!</language>
-	</row>
+	<language name="Norwegian">Keewn!</language></row>
 </body>

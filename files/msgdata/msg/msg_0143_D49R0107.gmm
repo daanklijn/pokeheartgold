@@ -1,59 +1,59 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0143_D49R0107_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Magnus: Oh, gosh!\r</language>
-	</row>
+	<language name="Norwegian">Magnus: Å, jøss!</language></row>
 	<row id="msg_0143_D49R0107_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are...!\nIt is indeed you, {STRVAR_1 3, 0, 0}!\rOutstanding!\nQuite an achievement for you\fto come up here, bud!\r</language>
-	</row>
+	<language name="Norwegian">Du er...!\nDet er virkelig deg, {STRVAR_1 3, 0, 0}!\rEnestående!\nEn stor prestasjon av deg\få komme opp hit, kompis!\r...</language></row>
 	<row id="msg_0143_D49R0107_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the “Friendship” room.\rIt was built to commemorate the\nsolidarity, trust, and potential\fof Pokémon and people and\fto hope for the eternal friendship\fbetween Pokémon and people.\r</language>
-	</row>
+	<language name="Norwegian">Dette er “Vennskap” -rommet.\rDet ble bygget for å minnes\nsolidariteten, tilliten og potensialet\fmellom Pokémon og mennesker, og\ffor å håpe på evig vennskap\fmellom Pokémon og mennesker.\r.</language></row>
 	<row id="msg_0143_D49R0107_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Congratulations!\rThis room is only for those true\nPokéathletes who have earned\freal friendships with Pokémon!\r{STRVAR_1 3, 0, 0}!\nYou are a true Pokéathlete, bud!\r</language>
-	</row>
+	<language name="Norwegian">Gratulerer!\rDette rommet er bare for de ekte\nPokéatletene som har oppnådd\fvirkelige vennskap med Pokémon!\r{STRVAR_1 3, 0, 0}!\nDu er en ekte Pokéatlet, kompis!\r</language></row>
 	<row id="msg_0143_D49R0107_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Having said that...\nthis is also the moment\fof a new beginning...\r</language>
-	</row>
+	<language name="Norwegian">Når det er sagt...\ndette er også øyeblikket\ffor en ny begynnelse...\r</language></row>
 	<row id="msg_0143_D49R0107_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s right, bud!\nYou have just heard a new starting\fsignal. Your challenge continues\ffor a whole new height and to become\fthe legendary Pokéathlete!\rTake a look at this statue.\nYou may be looking at your goal...\r</language>
-	</row>
+	<language name="Norwegian">Det’s stemmer, kompis!\nDu har nettopp hørt et nytt startsignal\f. Utfordringen din fortsetter\ffor å nå en helt ny høyde og bli\fden legendariske Pokéathlete!\rTa en titt på denne statuen.\nDu ser kanskje på målet ditt...\r</language></row>
 	<row id="msg_0143_D49R0107_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Magnus: This is the “Friendship” room.\nIt is the last of all. It’s the room\fwhere eternal friendship between\fpeople and Pokémon is pledged.\r...But this is not your goal, bud.\rEach room has Trophies to earn,\nbut you can aim for any new height.\rIt is entirely up to you whether\nyou get there or not...\rThat’s right!\rYour true goal is not something\nanyone else can decide for you, bud.\r{STRVAR_1 3, 0, 0}!\nYou can overcome any difficulties\fwith your friendship with your Pokémon.</language>
-	</row>
+	<language name="Norwegian">Magnus: Dette er “Vennskapets” rom.\nDet er det siste av alle. Det’er rommet\fhvor evig vennskap mellom\fmennesker og Pokémon er lovet.\r...\r...Men dette er ikke målet ditt, kompis.\rHvert rom har trofeer å vinne,\nmen du kan sikte mot hvilken som helst ny høyde.\rDet er helt opp til deg om\ndu kommer dit eller ikke...\rDet er’det siste...\rDet’har du rett i!\rDitt sanne mål er ikke noe\nnoen andre kan bestemme for deg, kompis.\r{STRVAR_1 3, 0, 0}!\nDu kan overvinne alle vanskeligheter\fmed ditt vennskap med din Pokémon.</language></row>
 	<row id="msg_0143_D49R0107_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s your statue!\r</language>
-	</row>
+	<language name="Norwegian">Det er din statue!</language></row>
 	<row id="msg_0143_D49R0107_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The statue of the Pokémon\nyou’ve shared your journey\fwith, helping each other and\fcultivating your friendship!</language>
-	</row>
+	<language name="Norwegian">Statuen av Pokémon\ndu’har delt reisen\fmed, hjulpet hverandre og\fdyrket vennskapet deres!</language></row>
 	<row id="msg_0143_D49R0107_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It is the statue of a Medalist Pokémon.\rDo you want to replace it with another?</language>
-	</row>
+	<language name="Norwegian">Det er statuen av en Pokémon-medaljør.\rVil du bytte den ut med en annen?</language></row>
 	<row id="msg_0143_D49R0107_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can place a statue of a\nMedalist Pokémon that has\fearned five medals.\rDo you want to place a statue?</language>
-	</row>
+	<language name="Norwegian">Du kan plassere en statue av en\nMedalist-Pokémon som har\ftjent fem medaljer.\rVil du plassere en statue?</language></row>
 	<row id="msg_0143_D49R0107_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It is the statue of a Medalist Pokémon.\rDo you want to replace it with another?</language>
-	</row>
+	<language name="Norwegian">Det er statuen av en Pokémon-medaljør.\rVil du bytte den ut med en annen?</language></row>
 	<row id="msg_0143_D49R0107_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can place a statue of a\nMedalist Pokémon that has\fearned five medals.\rDo you want to place a statue?</language>
-	</row>
+	<language name="Norwegian">Du kan plassere en statue av en\nMedalist-Pokémon som har\ftjent fem medaljer.\rVil du plassere en statue?</language></row>
 	<row id="msg_0143_D49R0107_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It is the statue of a Medalist Pokémon.\rDo you want to replace it with another?</language>
-	</row>
+	<language name="Norwegian">Det er statuen av en Pokémon-medaljør.\rVil du bytte den ut med en annen?</language></row>
 </body>

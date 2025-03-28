@@ -1,203 +1,203 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0137_D49_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Muhaha!\r</language>
-	</row>
+	<language name="Norwegian">Muhaha!\r</language></row>
 	<row id="msg_0137_D49_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I feel it!\rThe twinkle in your eyes!\nThe twinkle of friendship!\rYou’re quite something.\nYour {STRVAR_1 0, 1, 0} is quite a Pokémon!\rIt’s ready to participate in the\nPokéathlon, bud!\rMost of all, your solidarity with and\ntrust of Pokémon makes me\fbelieve in infinite potential!\rAll right. Follow me!\r</language>
-	</row>
+	<language name="Norwegian">Jeg føler det!\rFlimmeret i øynene dine!\nFlimmeret av vennskap!\rDu’er litt av en Pokémon.\nDin {STRVAR_1 0, 1, 0} er litt av en Pokémon!\rDen’er klar til å delta i\nPokéathlon, kompis!\rMest av alt, din solidaritet med og\ntillit til Pokémon får meg\ftil å tro på uendelig potensial!\rAlt i orden. Følg meg!\rFølg meg!\r</language></row>
 	<row id="msg_0137_D49_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What do you think?\nThis is the Pokéathlon Dome!\r</language>
-	</row>
+	<language name="Norwegian">Hva synes du?\nDette er Pokéathlon Dome!\r</language></row>
 	<row id="msg_0137_D49_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokéathlon is a sports festival for\nTrainers and Pokémon!\rInside the Dome are various challenges\nawaiting Trainers and Pokémon to test\ftheir friendship.\fWhy don’t you try it?\r</language>
-	</row>
+	<language name="Norwegian">Pokéathlon er en sportsfestival for\nTrenere og Pokémon!\rInne i kuppelen venter ulike utfordringer\npå at trenere og Pokémon skal teste\fvennskapet sitt.\fHvorfor prøver du ikke’det?\r.</language></row>
 	<row id="msg_0137_D49_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re amazing, bud!\nThis is a pleasant surprise!\rTo see a Pokéathlete with strong\npotential is such a pleasure! I’m glad\fI held the Pokéathlon here in Johto.\r...My name is Magnus.\nWe shall meet again, bud.\rMagnus: See you, young Pokéathlete!\r</language>
-	</row>
+	<language name="Norwegian">Du’er fantastisk, kompis!\nDette er en hyggelig overraskelse!\rÅ se en Pokéatlet med sterkt\npotensial er en slik glede! Jeg’er glad\fjeg holdt Pokéathlon her i Johto.\r...Mitt navn er Magnus.\nVi møtes igjen, kompis.\rMagnus: Vi ses, unge Pokéathlete!\r</language></row>
 	<row id="msg_0137_D49_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I feel it!\rThe twinkle in your eyes!\nThe twinkle of friendship!\rYou’re ready to participate in the\nPokéathlon, bud!\rMost of all, your mutual trust and\nteamwork with Pokémon makes me\fbelieve anything is possible!\rAll right. Follow me, bud!\r</language>
-	</row>
+	<language name="Norwegian">Jeg føler det!\rFlimmeret i øynene dine!\nFlimmeret av vennskap!\rDu’er klar til å delta i\nPokéathlon, kompis!\rMest av alt, din gjensidige tillit og\nteamarbeid med Pokémon får meg\ftil å tro at alt er mulig!\rOkay...\rOkay. Følg meg, kompis!\r</language></row>
 	<row id="msg_0137_D49_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmmm...\r</language>
-	</row>
+	<language name="Norwegian">Hmmm ... \r</language></row>
 	<row id="msg_0137_D49_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Running and jumping and...\nThere are so many events for Pokémon\fto choose from. Which one should I try?</language>
-	</row>
+	<language name="Norwegian">Løping og hopping og...\nDet finnes så mange Pokémon-arrangementer\få velge mellom. Hvilken skal jeg prøve?</language></row>
 	<row id="msg_0137_D49_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ODDISH: Odd! Odd!</language>
-	</row>
+	<language name="Norwegian">ODDISH: Odd! Odd!</language></row>
 	<row id="msg_0137_D49_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is more to Pokémon than battling!</language>
-	</row>
+	<language name="Norwegian">Pokémon er mer enn bare kamper!</language></row>
 	<row id="msg_0137_D49_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MEOWTH: Nyaah!</language>
-	</row>
+	<language name="Norwegian">Nyaah!</language></row>
 	<row id="msg_0137_D49_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s not good at battles...but no\nPokémon can beat it at running, thanks\fto the walk we take every morning!</language>
-	</row>
+	<language name="Norwegian">Den’er ikke god til å slåss ... men ingen\nPokémon kan slå den i løping, takket være\fturen vi tar hver morgen!</language></row>
 	<row id="msg_0137_D49_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huff huff!\nEveryday training is the sure way\fto glory!\rDashing 1,000 times!\nThat’s my goal for now.\r</language>
-	</row>
+	<language name="Norwegian">Huff huff!\nHverdagstrening er den sikre veien\ftil heder og ære!\rDashing 1000 ganger!\nDet’er målet mitt for øyeblikket.\r</language></row>
 	<row id="msg_0137_D49_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s your goal?\nHaving a goal lets you enjoy life more.</language>
-	</row>
+	<language name="Norwegian">Hva’er målet ditt?\nHar du et mål, kan du nyte livet mer.</language></row>
 	<row id="msg_0137_D49_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">............\nOh, you have done the dash 1,000 times?\rI thought it was basically impossible,\nbut you make me feel courageous.\rThank you!\nPlease take this!\r</language>
-	</row>
+	<language name="Norwegian">............\nÅh, du har gjort streken 1000 ganger?\rJeg trodde det var helt umulig,\nmen du får meg til å føle meg modig.\rTakk!\nVær så snill å ta denne!\r</language></row>
 	<row id="msg_0137_D49_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve become your fan! I would run\nanywhere for you!\fI’ll be supporting you!</language>
-	</row>
+	<language name="Norwegian">Jeg’har blitt din fan! Jeg ville løpt\nhvor som helst for deg!\fJeg’vil støtte deg!</language></row>
 	<row id="msg_0137_D49_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PIDGEY: Po po!</language>
-	</row>
+	<language name="Norwegian">PIDGEY: Po po po!</language></row>
 	<row id="msg_0137_D49_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Have you heard of Aprijuice?\rPokémon can increase their Performance\nwith food and drink.\rAprijuice is a drink developed from\nnutrition research to improve\fPerformance.\rIf you let your Pokémon drink it before\na Pokéathlon event, it will show its\ftrue potential!</language>
-	</row>
+	<language name="Norwegian">Har du hørt om Aprijuice?\rPokémon kan øke sine prestasjoner\nmed mat og drikke.\rAprijuice er en drikk utviklet fra\nernæringsforskning for å forbedre\fprestasjonene.\rHvis du lar din Pokémon drikke den før\net Pokéathlon-arrangement, vil den vise sitt\fsanne potensial!</language></row>
 	<row id="msg_0137_D49_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SLOWBRO: Whick!</language>
-	</row>
+	<language name="Norwegian">Whick!</language></row>
 	<row id="msg_0137_D49_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Each Pokémon has its unique traits.\rA true Pokéathlete knows them and lets\nthe true Performance of his or her\fPokémon emerge!</language>
-	</row>
+	<language name="Norwegian">Hver Pokémon har sine unike egenskaper, og en ekte Pokéathlete kjenner dem og lar\n sin\fPokémons sanne egenskaper komme til syne!</language></row>
 	<row id="msg_0137_D49_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MACHOP: Machao!</language>
-	</row>
+	<language name="Norwegian">Machao!</language></row>
 	<row id="msg_0137_D49_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh!\nThey look good today!\rThey weren’t so well yesterday, but\nwe’ll win today for sure!</language>
-	</row>
+	<language name="Norwegian">De ser bra ut i dag! De var ikke så gode i går, men vi kommer helt sikkert til å vinne i dag!</language></row>
 	<row id="msg_0137_D49_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SLOWPOKE: Moah!</language>
-	</row>
+	<language name="Norwegian">Moah!</language></row>
 	<row id="msg_0137_D49_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FARFETCH’D: Teree!</language>
-	</row>
+	<language name="Norwegian">FARFETCH’D: Teree!</language></row>
 	<row id="msg_0137_D49_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PSYDUCK: Guack!</language>
-	</row>
+	<language name="Norwegian">PSYDUCK: Guack!</language></row>
 	<row id="msg_0137_D49_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Energy drink!\nWelcome to the Aprijuice stand!\rAre you giving your Pokémon Aprijuice?\nI can explain anything you\fneed to know about it! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Energidrikk!\nVelkommen til Aprijuice-standen!\rGir du din Pokémon Aprijuice?\nJeg kan forklare alt du\fvil vite om det! {YESNO 0}</language></row>
 	<row id="msg_0137_D49_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Energy drink!\nWelcome to the Aprijuice stand!\rHuh? What’s that confused look about?\nYou don’t know about Aprijuice?\fThere, take this!\r</language>
-	</row>
+	<language name="Norwegian">Energidrikk!\nVelkommen til Aprijuice-standen!\rHva? Hva’er det forvirrede blikket for?\nKjenner du ikke til Aprijuice?\fDer, ta denne!\r</language></row>
 	<row id="msg_0137_D49_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Apriblender!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottatt\napriblenderen!</language></row>
 	<row id="msg_0137_D49_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You put away the Apriblender\nin the Apricorn Box.\r</language>
-	</row>
+	<language name="Norwegian">Du legger Apriblenderen\ni Apricorn-esken\r.</language></row>
 	<row id="msg_0137_D49_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When you have the Apriblender, you can\nmake Aprijuice to let your Pokémon show\ftheir true potential!\rIt’s so easy to make! All you have to\ndo is to put Apricorns in the\fApriblender. Put in as many as you can!\rThe more, the merrier!\nThen you walk!\rYou can run if you want...\n98...99...100 steps!\rHere! Then you open it, give it to your\nPokémon, or drink it yourself.\rYou can buy Aprijuice here.\nWhy don’t you try and see how it works?\rDo you have any more questions? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Når du har Apriblenderen, kan du\nlage Aprijuice for å la dine Pokémon vise\f sitt sanne potensial!\rDet’er så enkelt å lage! Alt du trenger å\ngjøre er å putte Apricorns i\fApriblenderen. Ha i så mange du kan!\rJo flere, jo bedre!\nDeretter går du!\rDu kan løpe hvis du vil...\n98...99...100 skritt!\rHer! Så åpner du den, gir den til din\nPokémon, eller drikker den selv.\rDu kan kjøpe Aprijuice her.\nHvorfor ikke’prøve og se hvordan det fungerer?\rHar du flere spørsmål? {YESNO 0}</language></row>
 	<row id="msg_0137_D49_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aprijuice improves a Pokémon’s\nPerformance! Pokémon have strengths\fand weaknesses.\rBut there is no need to worry. Give it\nAprijuice, and you can max out its\fPerformance!\rYou will need it!\rDo you have any more questions? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Aprijuice forbedrer en Pokémon’s\nytelse! Pokémon har styrker\fog svakheter.\rMen det er ingen grunn til bekymring. Gi den\nAprijuice, så kan du maksimere dens\fytelse!\rDu kommer til å trenge det!\rHar du flere spørsmål? {YESNO 0}</language></row>
 	<row id="msg_0137_D49_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Choose from the three Apriblenders.\rThe labels tell you what kind of drink\nit is. Different drinks have\fdifferent effects.\rYou should use them to suit the event\nyou want to participate in. That’s how\fto make a top Pokéathlete.\rBut remember this!\nIf your Pokémon’s Performance is maxed\fout, you cannot make it higher.\rYou should check your Pokémon’s\nPerformance before you\fgive it Aprijuice.\rDo you have any more questions? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Velg mellom de tre Apriblenderne.\rEtikettene forteller deg hva slags drikk\ndet er. Forskjellige drikker har\fforskjellige effekter.\rDu bør bruke dem slik at de passer til det arrangementet\ndu vil delta i. Det er slik’du blir en topp Pokéathlete.\rMen husk dette!\nHvis din Pokémon’s ytelse er maksimert\fkan du ikke øke den.\rDu bør sjekke din Pokémon’s\nytelse før du\fgir den Aprijuice.\rHar du noen flere spørsmål? {YESNO 0}</language></row>
 	<row id="msg_0137_D49_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Charge yourself with friendship!\nGet in the know about Aprijuice!\fPick one from the shelf!</language>
-	</row>
+	<language name="Norwegian">Lad deg selv med vennskap!\nFå vite mer om Aprijuice!\fPlukk en fra hyllen!</language></row>
 	<row id="msg_0137_D49_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So discerning of you!\n{STRVAR_1 3, 0, 0}’s {STRVAR_1 8, 1, 0}!\fOnly ${STRVAR_1 53, 2, 0}! Quite a bargain! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Så kresen av deg!\n{STRVAR_1 3, 0, 0}’s {STRVAR_1 8, 1, 0}!\fBare ${STRVAR_1 53, 2, 0}! Litt av et røverkjøp! {YESNO 0}</language></row>
 	<row id="msg_0137_D49_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thank you!\nWhich Pokémon do you want to give it to?\r</language>
-	</row>
+	<language name="Norwegian">Takk!\nHvilken Pokémon vil du gi den til?\r</language></row>
 	<row id="msg_0137_D49_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Charge yourself with friendship!\nCome back again when you want more!\r</language>
-	</row>
+	<language name="Norwegian">Lad deg selv med vennskap!\nKom tilbake igjen når du vil ha mer!\r</language></row>
 	<row id="msg_0137_D49_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s a pity!\nCome back when you want to win!\r</language>
-	</row>
+	<language name="Norwegian">Det’er synd!\nKom tilbake når du vil vinne!\r</language></row>
 	<row id="msg_0137_D49_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, you don’t have enough money!\r</language>
-	</row>
+	<language name="Norwegian">Å, du har ikke nok penger!</language></row>
 	<row id="msg_0137_D49_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s {STRVAR_1 8, 1, 0}!\nOnly ${STRVAR_1 53, 2, 0}! Quite a bargain! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s {STRVAR_1 8, 1, 0}!\nOnly ${STRVAR_1 53, 2, 0}! Quite a bargain! {YESNO 0}</language></row>
 	<row id="msg_0137_D49_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hi! What can I do for you?\r</language>
-	</row>
+	<language name="Norwegian">Hei! Hva kan jeg gjøre for deg?</language></row>
 	<row id="msg_0137_D49_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Its richness is {STRVAR_1 52, 3, 0}!\nIts smoothness is {STRVAR_1 52, 4, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Dens rikdom er {STRVAR_1 52, 3, 0}!\nDens jevnhet er {STRVAR_1 52, 4, 0}!\r.</language></row>
 	<row id="msg_0137_D49_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Owner’s Comment\nSomebody, somewhere put it together!\fThe mysterious {STRVAR_1 8, 1, 0}!\rIt may go up.\nIt may go down.\fMay your luck be with this juice!\r</language>
-	</row>
+	<language name="Norwegian">Eier’s Kommentar\nNoen, et eller annet sted, har satt den sammen!\fDen mystiske {STRVAR_1 8, 1, 0}!\rDet kan gå opp.\nDet kan gå ned.\fMåtte lykken stå deg bi med denne juicen!\r...</language></row>
 	<row id="msg_0137_D49_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Owner’s Comment\nNot many people know about it!\rIt’s the newcomer Pokéathlete\n{STRVAR_1 3, 0, 0}’s {STRVAR_1 8, 1, 0}!\rIt’s a long way to perfection!\nBut it’s irresistible to some!\fIt’s a gleam of {STRVAR_1 8, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Eier’s Kommentar\nDet er ikke mange som vet om den!\rDen’er nykommeren Pokéathlete\n{STRVAR_1 3, 0, 0}’s {STRVAR_1 8, 1, 0}!\rDet’er langt igjen til perfeksjon!\nMen det’er uimotståelig for noen!\fDet’er et glimt av {STRVAR_1 8, 1, 0}!\rDet’er et glimt av {STRVAR_1 8, 1, 0}!</language></row>
 	<row id="msg_0137_D49_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Owner’s Comment\nYou know who’s around here!\rThis {STRVAR_1 8, 1, 0} is what has helped\nmake you-know-who who they\fare today!\fTry it if you feel sluggish!\r</language>
-	</row>
+	<language name="Norwegian">Owner’s Comment\nDu vet hvem’som er her!\rDette {STRVAR_1 8, 1, 0} er det som har hjulpet\nmed å gjøre deg-vet-hvem til den de\fer i dag!\fPrøv det hvis du føler deg treg!\rDu vet hvem\fer!</language></row>
 	<row id="msg_0137_D49_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Owner’s Comment\nYou don’t know it?\fThat’s the last thing you want to hear!\rIt is time you try {STRVAR_1 3, 0, 0}’s\n{STRVAR_1 8, 1, 0}, the sign of a new era!\r</language>
-	</row>
+	<language name="Norwegian">Eier’s Kommentar\nKjenner du ikke’det? \fDet’er det siste du vil høre!\rDet er på tide at du prøver {STRVAR_1 3, 0, 0}’s\n{STRVAR_1 8, 1, 0}, tegnet på en ny æra!\r</language></row>
 	<row id="msg_0137_D49_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Owner’s Comment\n{STRVAR_1 8, 1, 0} was developed by\fthat popular Pokéathlete!\rYou may never be able to shake hands,\nbut you can still drink the same juice!\rThis is a must-buy juice for every\nPokéathlete!\r</language>
-	</row>
+	<language name="Norwegian">Owner’s Comment\n{STRVAR_1 8, 1, 0} ble utviklet av\fden populære Pokéathleten!\rDu vil kanskje aldri kunne håndhilse, \nmen du kan fortsatt drikke den samme juicen!\rDette er en must-buy juice for alle\nPokéathleter!\rDette er en must-buy juice for alle\nPokéathleter!\r</language></row>
 	<row id="msg_0137_D49_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Owner’s Comment\n{STRVAR_1 8, 1, 0}!\fDeveloped by that elite Pokéathlete!\rYou may never see it again.\nIf you won’t win today, when will you?\rFor those who want to win today, here\nis the juice of victory!\r</language>
-	</row>
+	<language name="Norwegian">Eier’s Kommentar\n{STRVAR_1 8, 1, 0}!\fUtviklet av den elitepokéatleten!\rDu får kanskje aldri se den igjen.\nHvis du ikke vinner’i dag, når vil du gjøre det?\rFor de som vil vinne i dag, her\ner seierssaften!\r</language></row>
 	<row id="msg_0137_D49_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Owner’s Comment\n{STRVAR_1 8, 1, 0} of the legendary\fPokéathlete!\rIt grew side by side with {STRVAR_1 3, 0, 0}!\rThe road to victory is shown when you\ndrink it! This will make you a legend!\r</language>
-	</row>
+	<language name="Norwegian">Eier’s Kommentar\n{STRVAR_1 8, 1, 0} av den legendariske\fPokéatleten!\rDen vokste side om side med {STRVAR_1 3, 0, 0}!\rVeien til seier vises når du\ndrikker den! Dette vil gjøre deg til en legende!\r</language></row>
 	<row id="msg_0137_D49_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It improves your Pokémon’s\nPerformance!\rLet it shine its best with Aprijuice!</language>
-	</row>
+	<language name="Norwegian">Det forbedrer din Pokémon’s\nytelse!\rLa den skinne på sitt beste med Aprijuice!</language></row>
 	<row id="msg_0137_D49_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Pokéathlon Dome\nThe Place for True Pokéathletes!</language>
-	</row>
+	<language name="Norwegian">Pokéathlon Dome\n Stedet for ekte pokéatleter!</language></row>
 </body>

@@ -1,60 +1,60 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0147_D51R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cynthia: My name is Cynthia.\nI am a Pokémon Trainer.\rThe {COLOR 1}Sinjoh Ruins{COLOR 0} remind me of Sinnoh,\nwhere I come from.\rInitially, I thought it was because\nit snows a lot here as well.\rBut that was not it.\rA long time ago...people came from\nSinnoh to live here.\rThey must have built a temple here\nwhile longing for home.\rThat’s why we call these the\n{COLOR 1}Sinjoh Ruins{COLOR 0}...\r</language>
-	</row>
+	<language name="Norwegian">Cynthia: Jeg heter Cynthia.\nJeg er en Pokémon-trener.\rDe {COLOR 1}Sinjoh-ruinene{COLOR 0} minner meg om Sinnoh,\nder jeg kommer fra.\rI begynnelsen trodde jeg det var fordi\ndet snør mye her også.\rMen det var ikke det.\rFor lenge siden... kom folk fra\nSinnoh for å bo her.\rDe må ha bygget et tempel her\n mens de lengtet hjem.\rDet er derfor vi kaller dette\n{FARGE 1}Sinjoh-ruinene{FARGE 0}...\r...\r</language></row>
 	<row id="msg_0147_D51R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cynthia: You are...\fa Pokémon Trainer?\rI can sense strong power coming\nfrom your Poké Ball...\r</language>
-	</row>
+	<language name="Norwegian">Cynthia: Du er ... \fen Pokémon-trener? \rJeg kan fornemme en sterk kraft som kommer\nfra Pokéballen din ...\r.</language></row>
 	<row id="msg_0147_D51R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cynthia: I wouldn’t assume you managed\nto get here by yourself.\rThis is a heavy-snowfall area where\nthe snowbound land freezes you\fto the core...\rTalk to the old man if you wish to go\nback. ABRA should be able to take you\fwhere you come from.</language>
-	</row>
+	<language name="Norwegian">Cynthia: Jeg ville’ikke anta at du klarte\nå komme deg hit på egen hånd.\rDette er et område med kraftig snøfall hvor\ndet snødekte landet fryser deg\finn til kjernen...\rSnakk med den gamle mannen hvis du ønsker å dra\ntilbake. ABRA bør kunne ta deg\fdithen du kommer fra.</language></row>
 	<row id="msg_0147_D51R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cynthia: I feel a familiar presence...\nThe power of DIALGA...\fPALKIA...\for could it be GIRATINA?\rIt’s similar, but not quite the same...\r</language>
-	</row>
+	<language name="Norwegian">Cynthia: Jeg føler et kjent nærvær ...\nKraften til DIALGA ...\fPALKIA ...\feller kan det være GIRATINA?\rDet’er likt, men ikke helt det samme ...\r.</language></row>
 	<row id="msg_0147_D51R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cynthia: Have you got time?\rCan you come to the {COLOR 1}Sinjoh Ruins{COLOR 0}\nwith me?\rCall it a Trainer’s intuition.\rWhen you and your Pokémon step onto\nthat stage, something will happen.\r</language>
-	</row>
+	<language name="Norwegian">Cynthia: Har du tid?\rKan du bli med meg til {COLOR 1}Sinjoh-ruinene{COLOR 0}\n?\rKall det en Trener’s intuisjon.\rNår du og din Pokémon går inn på\nden scenen, vil noe skje.\r.</language></row>
 	<row id="msg_0147_D51R0301_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0147_D51R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cynthia: The snowbound ruins make\nme wonder...\rTime and space change, and we with\nthem. We leave some things behind\fand give each other company...\rSinnoh, Johto...\nWhen you feel you’re close to\funderstanding the whole world,\fyou are merely drowning in your\fown miniscule perception.\r</language>
-	</row>
+	<language name="Norwegian">Cynthia: De snødekte ruinene får\nmeg til å undres...\rTid og rom forandrer seg, og vi med\ndem. Vi etterlater oss noen ting\fog gir hverandre selskap...\rSinnoh, Johto...\nNår du føler at du’er nær ved\få forstå hele verden,\fer du bare i ferd med å drukne i din\fegen, ørsmå oppfattelse.\r...\r</language></row>
 	<row id="msg_0147_D51R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A long time ago, people used to draw\nlife from Pokémon and also give their\flives to those Pokémon...\rThat shows that people and Pokémon\nused to be more closely bonded with\feach other.\rWhen people moved from place to place,\nthe myths and legends of Pokémon\fand their power would also be carried\fwith those people.\rThat’s how myths and legends from each\nregion are blended with each other.\rThe ancient ruins here have inherited\nthe legends from both the {COLOR 1}Ruins of Alph{COLOR 0}\fin Johto and the {COLOR 1}Spear Pillar{COLOR 0} in Sinnoh.\rThat is proof that people from Johto\nand Sinnoh blended together\fas a group.</language>
-	</row>
+	<language name="Norwegian">For lenge siden pleide folk å hente\nliv fra Pokémon og også gi sine\fliv til disse Pokémon...\rDet viser at mennesker og Pokémon\nbrukte å være tettere knyttet til\fhverandre.\rNår folk flyttet fra sted til sted,\nble mytene og legendene om Pokémon\fog deres krefter også båret\fmed disse menneskene.\rDet er slik myter og legender fra hver\n region er blandet med hverandre.\rDe gamle ruinene her har arvet\nlegendene fra både {COLOR 1}Alph{COLOR 0}\fruinene i Johto og {COLOR 1}Spear Pillar{COLOR 0} i Sinnoh.\rDet er bevis på at folk fra Johto\nog Sinnoh blandet seg sammen\fsom en gruppe.</language></row>
 	<row id="msg_0147_D51R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ARCEUS is said to have come out of\nan Egg.\rJohto people believe that Pokémon Eggs\nare the vessels of life, and thus\fsomething astounding.\rPlaces far from each other can share\nsimilar myths and legends...\rThat’s quite interesting, isn’t it?</language>
-	</row>
+	<language name="Norwegian">ARCEUS sies å ha kommet ut av\net egg.\rJohto-folket tror at Pokémon-egg\ner livets kar, og dermed\fnoe forbløffende.\rPlasser langt fra hverandre kan dele\nlike myter og legender...\rDet’er ganske interessant, er det ikke’det?</language></row>
 	<row id="msg_0147_D51R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Well, hello!\nWe meet again!\rCynthia has gone back to Sinnoh.\fShe is the Sinnoh League Champion.\rShe studies various ruins despite her\ntight schedule.\rHow wonderful she is!</language>
-	</row>
+	<language name="Norwegian">Vel, hallo!\nVi møtes igjen!\rCynthia har dratt tilbake til Sinnoh.\fHun er Sinnoh-ligamester.\rHun studerer ulike ruiner til tross for sitt\nstramme tidsskjema.\rHvor fantastisk hun er!</language></row>
 	<row id="msg_0147_D51R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You seem so out of place, not even\nknowing why you are here.\rDo you want my ABRA to use a\nspecial power to take you home? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du virker så malplassert, du vet ikke engang hvorfor du er her.\rVil du at min ABRA skal bruke en\nspesialkraft for å ta deg med hjem? {YESNO 0}</language></row>
 	<row id="msg_0147_D51R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK. OK.\nPicture your house in your mind...\r</language>
-	</row>
+	<language name="Norwegian">OK. OK. Forestill deg huset ditt i tankene dine...</language></row>
 	<row id="msg_0147_D51R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK... OK...\nThe best of luck to you!</language>
-	</row>
+	<language name="Norwegian">OK...OK...\n Lykke til!</language></row>
 	<row id="msg_0147_D51R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ABRA: Aabra...</language>
-	</row>
+	<language name="Norwegian">Aabra...</language></row>
 </body>

@@ -1,37 +1,37 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0145_D51R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Well, hello!\rIt’s so freezing, isn’t it?\rFor a youngster like you to be\ninterested in the Sinjoh Ruins is\fnot something we see every day.\rTake a look at them.\rFrom the design of the pillars at the\nSinjoh Ruins, you can see that the\fcultures of Sinnoh and Johto\fhave blended.\r</language>
-	</row>
+	<language name="Norwegian">Vel, hallo!\rDet er’så kaldt, er det ikke? \rAt en ungdom som deg er\ninteressert i Sinjoh-ruinene er\fikke noe vi ser hver dag.\rTa en titt på dem.\rFra utformingen av søylene ved\nSinjoh-ruinene kan du se at kulturene i Sinnoh og Johto\fhar smeltet sammen.\r</language></row>
 	<row id="msg_0145_D51R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What was I thinking?\rWe don’t need to be standing here.\nWhy don’t you come to the cabin\faround the corner for more discussion?\r</language>
-	</row>
+	<language name="Norwegian">Hva tenkte jeg på? \rVi trenger ikke å stå her.\nHvorfor kommer du ikke til hytta’ rundt hjørnet for å diskutere mer? \r</language></row>
 	<row id="msg_0145_D51R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">By the way, we happen to have a person\nat the cabin.\rAny Trainer should know who she is.\nThe famous Trainer from Sinnoh!\rShe is traveling around to study\nmyths and ancient ruins.\fIsn’t that something?\r</language>
-	</row>
+	<language name="Norwegian">Forresten, vi har tilfeldigvis en person\npå hytta.\rAlle trenere bør vite hvem hun er.\nDen berømte treneren fra Sinnoh!\rHun reiser rundt for å studere\nmyter og gamle ruiner.\fEr ikke det’noget?</language></row>
 	<row id="msg_0145_D51R0101_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0145_D51R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cynthia: Bring your ARCEUS only.\rOther Pokémon may get blown away by\nthe strong power lingering at\fthe ruins.\r</language>
-	</row>
+	<language name="Norwegian">Cynthia: Ta bare med din ARCEUS.\rAndre Pokémon kan bli blåst bort av\nden sterke kraften som henger ved\fruinene.\r</language></row>
 	<row id="msg_0145_D51R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cynthia: It seems your ARCEUS is\nresonating in harmony with the Ruins.\rIt might just be me but I can\nfeel that...\fwe are surrounded by strong power.\rThe answer lies inside the ruins.\rThe place that has been waiting for\nits rightful owner, the {COLOR 1}Mystri Stage{COLOR 0}...\r</language>
-	</row>
+	<language name="Norwegian">Cynthia: Det ser ut til at din ARCEUS\nresonnerer i harmoni med ruinene.\rDet er kanskje bare meg, men jeg kan\nføle at...\fvi er omgitt av sterk kraft.\rSvaret ligger inne i ruinene.\rStedet som har ventet på\nsin rettmessige eier, {COLOR 1}Mystri-scenen{COLOR 0}...\r...\r</language></row>
 	<row id="msg_0145_D51R0101_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0145_D51R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Sinjoh Ruins</language>
-	</row>
+	<language name="Norwegian">Sinjoh-ruinene</language></row>
 </body>

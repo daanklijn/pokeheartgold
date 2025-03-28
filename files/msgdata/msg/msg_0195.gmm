@@ -1,165 +1,165 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0195_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">First, we will hold your Pokémon in\nexchange for you renting our Pokémon.\rMay I suggest choosing Pokémon after\nappropriate deliberation?\r</language>
-	</row>
+	<language name="Norwegian">Først vil vi holde din Pokémon i\n bytte mot at du leier vår Pokémon.\rKan jeg foreslå at du velger Pokémon etter\nbehørig overveielse?\r</language></row>
 	<row id="msg_0195_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please wait a moment.</language>
-	</row>
+	<language name="Norwegian">Vennligst vent et øyeblikk.</language></row>
 	<row id="msg_0195_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please go in.</language>
-	</row>
+	<language name="Norwegian">Vennligst gå inn.</language></row>
 	<row id="msg_0195_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Well done!\nYour party Pokémon will be healed now.</language>
-	</row>
+	<language name="Norwegian">Godt gjort!\nDin Pokémon-gruppe vil bli helbredet nå.</language></row>
 	<row id="msg_0195_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Next up, battle no. {STRVAR_1 53, 0, 0}!\nAre you ready?</language>
-	</row>
+	<language name="Norwegian">Neste, kamp nr. {STRVAR_1 53, 0, 0}!\nEr du klar?</language></row>
 	<row id="msg_0195_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to trade Pokémon before\nyour battle?</language>
-	</row>
+	<language name="Norwegian">Ønsker du å bytte Pokémon før\nkampen din?</language></row>
 	<row id="msg_0195_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to save the last battle\nas your Battle Video?</language>
-	</row>
+	<language name="Norwegian">Vil du lagre den siste kampen\n som din kampvideo?</language></row>
 	<row id="msg_0195_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s battle has been saved\nas a Battle Video.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s kamp har blitt lagret\nsom en kampvideo.\r</language></row>
 	<row id="msg_0195_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There was an error.\nThe Battle Video couldn’t be saved.\r</language>
-	</row>
+	<language name="Norwegian">Det oppstod en feil: \nKampvideoen kunne’ikke lagres.\r</language></row>
 	<row id="msg_0195_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Delete your existing Battle Video and\nsave the last battle?</language>
-	</row>
+	<language name="Norwegian">Slett den eksisterende kampvideoen og\nlagre den siste kampen?</language></row>
 	<row id="msg_0195_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saving...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Lagring...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0195_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to save and take a break\nfrom playing?</language>
-	</row>
+	<language name="Norwegian">Vil du spare og ta en pause\nfra spillingen?</language></row>
 	<row id="msg_0195_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to retire from this\nBattle Factory challenge?</language>
-	</row>
+	<language name="Norwegian">Vil du trekke deg fra denne\nBattle Factory-utfordringen?</language></row>
 	<row id="msg_0195_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} is choosing.\nPlease wait.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} er å velge \nVent litt.</language></row>
 	<row id="msg_0195_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0195_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} chose to retire.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} valgte å trekke seg.</language></row>
 	<row id="msg_0195_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have cleared your seventh Battle\nFactory match! Congratulations!\rIn recognition of your deep knowledge\nin matters pertaining to Pokémon,\fwe present you with BP!\r</language>
-	</row>
+	<language name="Norwegian">Du har klart din syvende Battle\nFactory-kamp! Gratulerer!\rI anerkjennelse av dine dype kunnskaper\ni Pokémon-spørsmål,\foverrekker vi deg BP!\r</language></row>
 	<row id="msg_0195_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 1, 0} BP!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottatt {STRVAR_1 51, 1, 0} BP!\r</language></row>
 	<row id="msg_0195_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Let’s trade back your Pokémon that\nwe’ve been holding for the rentals.\r</language>
-	</row>
+	<language name="Norwegian">La oss bytte tilbake Pokémon som’vi’har holdt for utleien.\r</language></row>
 	<row id="msg_0195_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saving...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Lagring...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0195_00020" index="20">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0195_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rYou can expect to see {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 3, 0}, and {STRVAR_1 0, 5, 0}.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har undersøkt litt om din\nneste motstander.\rDu kan forvente å se {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 3, 0}, og {STRVAR_1 0, 5, 0}.\rDu kan forvente å se {STRVAR_1 0, 5, 0}.\r</language></row>
 	<row id="msg_0195_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rYou can expect to see {STRVAR_1 0, 1, 0}\nand {STRVAR_1 0, 3, 0}.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har gjort litt research på din\nneste motstander.\rDu kan forvente å se {STRVAR_1 0, 1, 0}\nog {STRVAR_1 0, 3, 0}.\r</language></row>
 	<row id="msg_0195_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rFirst out will be a tough,\n{STRVAR_1 6, 0, 0}-using {STRVAR_1 0, 1, 0}.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har gjort litt research på din\nneste motstander.\rFørst ut blir en tøff,\n{STRVAR_1 6, 0, 0}-ved hjelp av {STRVAR_1 0, 1, 0}.\r</language></row>
 	<row id="msg_0195_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rFirst out will be a Pokémon that has\nthe move {STRVAR_1 6, 0, 0}.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har gjort litt research på din\nneste motstander.\rFørst ut vil være en Pokémon som har\ntrekket {STRVAR_1 6, 0, 0}.\r.</language></row>
 	<row id="msg_0195_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rThe opponent seems to be good with\nthe {STRVAR_1 15, 0, 0} type.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har gjort litt research på din\nneste motstander.\rMotstanderen ser ut til å være god med\ntypen {STRVAR_1 15, 0, 0}.\r.</language></row>
 	<row id="msg_0195_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rThe opponent doesn’t seem to be\nconcerned about the types of Pokémon.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har gjort litt research på din\nneste motstander.\rMotstanderen ser ikke ut til å være’bekymret for hvilke typer Pokémon.\r</language></row>
 	<row id="msg_0195_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rYou can expect to see {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0}, and\f{STRVAR_1 0, 4, 0}.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har undersøkt litt om din\nneste motstander.\rDu kan forvente å se {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0}, og\f{STRVAR_1 0, 4, 0}.\rDu kan forvente å se {STRVAR_1 0, 4, 0}.\r</language></row>
 	<row id="msg_0195_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rYou can expect to see {STRVAR_1 0, 1, 0}\nand {STRVAR_1 0, 2, 0} first.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har gjort litt research på din\nneste motstander.\rDu kan forvente å se {STRVAR_1 0, 1, 0}\nog {STRVAR_1 0, 2, 0} først.\r</language></row>
 	<row id="msg_0195_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rFirst out will be Pokémon with the moves\n{STRVAR_1 6, 0, 0} and {STRVAR_1 6, 1, 0}.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har gjort litt research på din\nneste motstander.\rFørst ut vil være Pokémon med trekkene\n{STRVAR_1 6, 0, 0} og {STRVAR_1 6, 1, 0}.\r.</language></row>
 	<row id="msg_0195_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve done a bit of research into your\nnext opponent.\rFirst out will be a Pokémon that has\nthe move {STRVAR_1 6, 0, 0}.\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har gjort litt research på din\nneste motstander.\rFørst ut vil være en Pokémon som har\ntrekket {STRVAR_1 6, 0, 0}.\r.</language></row>
 	<row id="msg_0195_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CONTINUE</language>
-	</row>
+	<language name="Norwegian">FORTSETT</language></row>
 	<row id="msg_0195_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">RECORD</language>
-	</row>
+	<language name="Norwegian">REKORD</language></row>
 	<row id="msg_0195_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">REST</language>
-	</row>
+	<language name="Norwegian">REST</language></row>
 	<row id="msg_0195_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">RETIRE</language>
-	</row>
+	<language name="Norwegian">PENSJONERER</language></row>
 	<row id="msg_0195_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Congratulations to you, Trainer!\rIn recognition of your outstanding\nwinning streak, our Frontier Brain is\fdemanding a match with you.\rSo, your next match is against the\nFactory Head with no right of refusal!\rAre you prepared?\r</language>
-	</row>
+	<language name="Norwegian">Gratulerer til deg, trener!\rFor å anerkjenne din enestående\nseiersrekke, krever vår grensehjerne\fen kamp med deg.\rDin neste kamp er mot\nFabrikkhodet, og du har ingen rett til å nekte!\rEr du forberedt?\r</language></row>
 	<row id="msg_0195_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thorton: Bzweeeeep!\rSorry, don’t mind me.\rWhat I’m using is an invention of mine.\nIt’s my data-interpreting machine.\rIt’s telling me what you’ve rented\nfor this match.\rI see! You’ve rented {STRVAR_1 0, 0, 0},\n{STRVAR_1 0, 1, 0}, and {STRVAR_1 0, 2, 0}.\rI have to say, that’s a good setup.\nLike, say, {STRVAR_1 51, 3, 0} percent?\fOh, don’t let that number concern you!\rAll righty, let’s get going!\r</language>
-	</row>
+	<language name="Norwegian">Thorton: Bzweeeeep!\rUnskyld, ikke bry deg om meg.\rDet jeg’bruker er en oppfinnelse av meg.\nDet’er min datatolkningsmaskin.\rDen’forteller meg hva du’har leid\nfor denne kampen.\rJeg skjønner! Du’har leid {STRVAR_1 0, 0, 0},\n{STRVAR_1 0, 1, 0}, og {STRVAR_1 0, 2, 0}.\rJeg må si at’det’er et bra oppsett.\nSom for eksempel {STRVAR_1 51, 3, 0} prosent? \fÅh, ikke la’det tallet bekymre deg!\rAlt i orden, la oss komme i gang!\rDet er’et godt oppsett.</language></row>
 	<row id="msg_0195_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thorton: Bzweeeeep!\rLet’s see what I can see about you\nthrough my data-interpreting machine.\rSo, what have you rented for this\nmatch...?\rI see! You’ve rented {STRVAR_1 0, 0, 0},\n{STRVAR_1 0, 1, 0}, and {STRVAR_1 0, 2, 0}.\rI have to admit, that’s a good setup.\rIt’s a combination of friendship with\ncooperation all around.\rI’d say it’s like {STRVAR_1 51, 3, 0} percent?\fOh, don’t let that number concern you!\rAll righty, let’s get going!\nNo losing for me this time!\r</language>
-	</row>
+	<language name="Norwegian">Thorton: Bzweeeeep!\rLa oss se hva jeg kan se om deg\ngjennom min datatolkningsmaskin.\rSå, hva har du leid for denne\nmatchen...?\rJeg ser! Du har leid {STRVAR_1 0, 0, 0, 0},\n{STRVAR_1 0, 1, 0}, og {STRVAR_1 0, 2, 0}.\rJeg må innrømme at det’er et godt oppsett.\rDet’er en kombinasjon av vennskap med\nsamarbeid rundt omkring.\rJeg’vil si at det’er som {STRVAR_1 51, 3, 0} prosent?\fÅh, ikke la’det tallet bekymre deg!\rAlt i orden, la oss komme i gang!\nIngen tap for meg denne gangen!\rDet er en kombinasjon av vennskap og\nsamarbeid.</language></row>
 	<row id="msg_0195_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thorton: Hmm...\nI got handed the loss here.\rIt’s not making me happy at all, losing.\nEven though I’m not happy, I did glean\fsome useful data, I suppose.\rThat makes me glad I battled you.\rSo, did you get to like those Pokémon\nyou rented?\rAs the Factory Head, it would sure make\nme happy if you did.\rNext time, come back with different\nrental Pokémon.\r</language>
-	</row>
+	<language name="Norwegian">Thorton: Hmm ... m id = 0 /Jeg fikk overlevert tap her.m id = 1 /Detm id = 8 /s ikke gjør meg glad i det hele tatt, taper.m id = 0 /Selv om jegm id = 8 /m ikke er fornøyd, jeg fikkm id = 3 /noen nyttige data, antar jeg.m id = 1 /Det gjør meg glad jeg kjempet mot deg.\rFikk du lyst på de Pokémon\ndu leide? \rSom fabrikksjef ville jeg blitt\nglad hvis du gjorde det.\rNeste gang, kom tilbake med andre\nleide Pokémon.\r</language></row>
 	<row id="msg_0195_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thorton: Hmm...\nI got handed another loss.\rIt’s not making me happy at all, this.\nIn fact, I’m stewing here.\rI thought I learned a lot about\nPokémon since I lost to you.\rBut that’s all right.\nSome things you learn from winning.\fBut some things you learn by losing.\rI hope you’ll keep renting our Pokémon\nand give me a chance to redeem myself!\r</language>
-	</row>
+	<language name="Norwegian">Thorton: Hmm ... \nJeg fikk nok et tap.\rDet’gjør meg ikke glad i det hele tatt, dette.\nFaktisk sitter jeg’og sturer her.\rJeg trodde jeg lærte mye om\nPokémon siden jeg tapte for deg.\rMen det’er greit.\nNoen ting lærer man av å vinne.\fMen noen ting lærer man av å tape.\rJeg håper du’vil fortsette å leie ut våre Pokémon\nog gi meg en sjanse til å gjøre opp for meg!\r</language></row>
 </body>

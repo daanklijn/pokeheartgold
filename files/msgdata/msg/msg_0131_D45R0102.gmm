@@ -1,115 +1,115 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0131_D45R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\rI don’t know why you have come here.\rAnyway, I have to warn you that\nthis is not a place for kids like you.\r</language>
-	</row>
+	<language name="Norwegian">...\rJeg vet’ikke hvorfor du har kommet hit.\rI alle fall må jeg advare deg om at\ndette ikke er et sted for barn som deg.\r</language></row>
 	<row id="msg_0131_D45R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have a certain look...\rIt reminds me of the kid who stood in\nfront of me three years ago...\fYou have the same eyes...\r...\rI’m on my way to Goldenrod City to\nanswer the call and join my team.\fAre you going to get in my way?\r</language>
-	</row>
+	<language name="Norwegian">Du har et visst blikk...\rDet minner meg om gutten som sto foran meg for tre år siden...\nDu har de samme øynene...\r...\rJeg’er på vei til Goldenrod City for å\nsvare på oppropet og bli med på laget mitt.\fStiller du deg i veien for meg?\r</language></row>
 	<row id="msg_0131_D45R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\nThis is the Radio Tower.\fThis is the Radio Tower.\fWe are pleased to declare\fTeam Rocket’s revival.\f...Giovanni?\f...Can you hear us?\fWe have finally made it!\f...\r</language>
-	</row>
+	<language name="Norwegian">...\nDette er radiotårnet.\fDette er radiotårnet.\fVi har gleden av å erklære\fTeam Rocket’s gjenoppliving.\f...Giovanni?\f...Kan du høre oss?\fVi har endelig klart det!\f...\r...\r</language></row>
 	<row id="msg_0131_D45R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My old associates need me...\rWe will not repeat the failure of three\nyears ago!\r{COLOR 1}Team Rocket{COLOR 0} will be born again, and I\nwill rule the world!\r</language>
-	</row>
+	<language name="Norwegian">Mine gamle kompanjonger trenger meg...\rVi skal ikke gjenta fiaskoen for tre\når siden!\r{FARGE 1}Team Rocket{FARGE 0} vil bli født på ny, og jeg\nvil herske over verden!\r</language></row>
 	<row id="msg_0131_D45R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Giovanni: How is this possible...?\rThe past three years have been\na waste...?\rHow can a kid like you manage to\ndestroy my dream once again?\rThe precious dream of Team Rocket has\nbecome little more than an illusion...\r</language>
-	</row>
+	<language name="Norwegian">Giovanni: Hvordan er dette mulig...?\rDe siste tre årene har vært\n bortkastet...?\rHvordan kan en guttunge som deg klare å\nødelegge drømmen min nok en gang?\rDen dyrebare drømmen om Team Rocket har\nblitt lite mer enn en illusjon...\r...\r</language></row>
 	<row id="msg_0131_D45R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\n...Hey!\fWhere has Giovanni gone?\fI wonder if he is listening to\four broadcast...\f...\r</language>
-	</row>
+	<language name="Norwegian">...\n...Hei!\fHvor er Giovanni blitt av?\fJeg lurer på om han hører på\fsendingen vår...\f...\r</language></row>
 	<row id="msg_0131_D45R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Giovanni: Mark my words.\rNot being able to measure your own\nstrength shows that you are still\fbut a child.\r</language>
-	</row>
+	<language name="Norwegian">Giovanni: Merk deg mine ord.\rAt du ikke er i stand til å måle din egen\nstyrke viser at du fremdeles\fer et barn.\r</language></row>
 	<row id="msg_0131_D45R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Huh?\rThat’s the guy we just saw arguing with\nthat boy!\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Hva? Det\rer fyren vi nettopp så krangle med\nden gutten!\r</language></row>
 	<row id="msg_0131_D45R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Huh?\rThat’s the guy we just saw arguing with\nthat boy!\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Hva? Det er han vi nettopp så krangle med den gutten!</language></row>
 	<row id="msg_0131_D45R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Three years ago...?\nGoldenrod City...?\r</language>
-	</row>
+	<language name="Norwegian">Ethan: For tre år siden...?</language></row>
 	<row id="msg_0131_D45R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Three years ago...?\nGoldenrod City...?\r</language>
-	</row>
+	<language name="Norwegian">Lyra: For tre år siden...?\nGoldenrod City...?\r</language></row>
 	<row id="msg_0131_D45R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Could this be the one that the radio\nwas trying to reach?\fGiovanni, their boss?\r</language>
-	</row>
+	<language name="Norwegian">Kan det være ham som radioen\nforsøkte å nå? \fGiovanni, sjefen deres? \r</language></row>
 	<row id="msg_0131_D45R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Could this be the one that the radio\nwas trying to reach?\fGiovanni, their boss?\r</language>
-	</row>
+	<language name="Norwegian">Kan det være ham som radioen\nforsøkte å nå? \fGiovanni, sjefen deres? \r</language></row>
 	<row id="msg_0131_D45R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you hear it, {STRVAR_1 3, 0, 0}?\nThe radio is saying something strange!\rTeam Rocket has occupied the Radio\nTower at Goldenrod City!\rIt can’t be! {STRVAR_1 3, 0, 0}, you solved\nthis case already!\r</language>
-	</row>
+	<language name="Norwegian">Hører du det, {STRVAR_1 3, 0, 0, 0}?\nRadioen sier noe rart!\rTeam Rocket har okkupert Radio\nTårnet i Goldenrod City!\rDet kan’ikke være sant! {STRVAR_1 3, 0, 0, 0}, du har løst\ndenne saken allerede!\r</language></row>
 	<row id="msg_0131_D45R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you hear it, {STRVAR_1 3, 0, 0}?\nThe radio is saying something strange!\rTeam Rocket has occupied the Radio\nTower at Goldenrod City!\rIt can’t be! {STRVAR_1 3, 0, 0}, you solved\nthis case already!\r</language>
-	</row>
+	<language name="Norwegian">Hører du det, {STRVAR_1 3, 0, 0, 0}?\nRadioen sier noe rart!\rTeam Rocket har okkupert Radio\nTårnet i Goldenrod City!\rDet kan’ikke være sant! {STRVAR_1 3, 0, 0, 0}, du har løst\ndenne saken allerede!\r</language></row>
 	<row id="msg_0131_D45R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: They keep calling for their boss.\nI feel sorry they don’t know he’s\fnot coming.\rAfter this, {STRVAR_1 3, 0, 0}, you will\ndefeat them!\r...Wait a second!\r{STRVAR_1 3, 0, 0}, you’re still here.\nThen, who will defeat Team Rocket...?\r</language>
-	</row>
+	<language name="Norwegian">Ethan: De fortsetter å rope på sjefen sin.\nJeg synes det er synd at de ikke’vet at han’ikke kommer.\rEtter dette, {STRVAR_1 3, 0, 0, 0}, vil du\nbeseire dem!\r...Vent litt! \r{STRVAR_1 3, 0, 0, 0}, du’er fortsatt her.\nNå, hvem skal beseire Team Rocket...?\r</language></row>
 	<row id="msg_0131_D45R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: They keep calling for their boss.\nI feel sorry they don’t know he’s\fnot coming.\rAfter this, {STRVAR_1 3, 0, 0}, you will\ndefeat them!\r...Wait a second!\r{STRVAR_1 3, 0, 0}, you’re still here.\nThen, who will defeat Team Rocket...?\r</language>
-	</row>
+	<language name="Norwegian">Lyra: De fortsetter å rope på sjefen sin.\nJeg synes det er synd at de ikke’vet at han’ikke kommer.\rEtter dette, {STRVAR_1 3, 0, 0, 0}, vil du\nbesejre dem!\r...Vent litt! \r{STRVAR_1 3, 0, 0, 0}, du’er fortsatt her.\nNå, hvem skal beseire Team Rocket...?\r</language></row>
 	<row id="msg_0131_D45R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Not again...!\nI’ve had enough!\fPlease let me go back to my time!\r</language>
-	</row>
+	<language name="Norwegian">Ikke igjen...!\nJeg’har fått nok!\fLa meg få gå tilbake til min tid!\r</language></row>
 	<row id="msg_0131_D45R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Not again...!\nI’ve had enough!\fPlease let me go back to my time!\r</language>
-	</row>
+	<language name="Norwegian">Ikke igjen...!\nJeg’har fått nok!\fLa meg få gå tilbake til min tid!\r</language></row>
 	<row id="msg_0131_D45R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CELEBI is traveling through time!\nIt is going back to the time before\fthis strange adventure began...\r</language>
-	</row>
+	<language name="Norwegian">CELEBI reiser gjennom tiden!\nDen reiser tilbake til tiden før\fdette merkelige eventyret begynte...\r</language></row>
 	<row id="msg_0131_D45R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is a radio that no longer works...</language>
-	</row>
+	<language name="Norwegian">Det er en radio som ikke lenger virker...</language></row>
 	<row id="msg_0131_D45R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You cannot turn on the radio.\nGiovanni must have left it here...</language>
-	</row>
+	<language name="Norwegian">Du kan ikke slå på radioen. Giovanni må ha glemt den her...</language></row>
 	<row id="msg_0131_D45R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CELEBI...!\rWe need it to get better, or we will\nnever be able to go back to our time!\r</language>
-	</row>
+	<language name="Norwegian">CELEBI...!\rVi trenger at det blir bedre, ellers vil vi\naldri kunne gå tilbake til vår tid!\r</language></row>
 	<row id="msg_0131_D45R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CELEBI...!\rWe need it to get better, or we will\nnever be able to go back to our time!\r</language>
-	</row>
+	<language name="Norwegian">CELEBI...!\rVi trenger at det blir bedre, ellers vil vi\naldri kunne gå tilbake til vår tid!\r</language></row>
 	<row id="msg_0131_D45R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan used Max Revive on CELEBI!\r</language>
-	</row>
+	<language name="Norwegian">Ethan brukte Max Revive på CELEBI!\r</language></row>
 	<row id="msg_0131_D45R0102_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra used Max Revive on CELEBI!\r</language>
-	</row>
+	<language name="Norwegian">Lyra brukte Max Revive på CELEBI!\r</language></row>
 	<row id="msg_0131_D45R0102_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 1}Time Travel{COLOR 0}......!\rThis is it! Please take us to our time!\r</language>
-	</row>
+	<language name="Norwegian">{COLOR 1}Tidsreise{COLOR 0}......!\rDette er det! Ta oss med til vår tid!\r</language></row>
 	<row id="msg_0131_D45R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 1}Time Travel{COLOR 0}......!\rThis is it! Please take us to our time!\r</language>
-	</row>
+	<language name="Norwegian">{COLOR 1}Tidsreise{COLOR 0}......!\rDette er det! Ta oss med til vår tid!\r</language></row>
 </body>

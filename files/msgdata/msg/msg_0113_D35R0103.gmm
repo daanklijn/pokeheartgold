@@ -1,115 +1,115 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0113_D35R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: Are you all right?\rYour Pokémon are hurt and tired.\nHere, give them some of my medicine.\r</language>
-	</row>
+	<language name="Norwegian">Lance: Går det bra med deg?\rDine Pokémon er skadet og slitne.\nHer, gi dem litt av min medisin.\r</language></row>
 	<row id="msg_0113_D35R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: {STRVAR_1 3, 0, 0}, let’s give our\nbest for Pokémon.\r</language>
-	</row>
+	<language name="Norwegian">Lance: {STRVAR_1 3, 0, 0, 0}, la oss gi vårt’best for Pokémon.\r.</language></row>
 	<row id="msg_0113_D35R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: {STRVAR_1 3, 0, 0}, let’s give our\nbest for Pokémon.\r</language>
-	</row>
+	<language name="Norwegian">Lance: {STRVAR_1 3, 0, 0, 0}, la oss gi vårt’best for Pokémon.\r.</language></row>
 	<row id="msg_0113_D35R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ariana: Hold it right there!</language>
-	</row>
+	<language name="Norwegian">Ariana: Stopp der!</language></row>
 	<row id="msg_0113_D35R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ariana: We can’t let a brat like you\ndo as you please forever.\rIt’ll hurt Team Rocket’s pride over and\nover again. Making it lessen, you see.\r...So, it’s time to finish you. However\nstrong you may be, if the two of us\ffight at the same time, you’ll have no\fchance of winning. Don’t you agree?\rHee hee hee! Sorry, baby. Now, get\nready to be thrashed.\r</language>
-	</row>
+	<language name="Norwegian">Ariana: Vi kan ikke la en drittunge som deg’få gjøre som du vil for alltid.\rDet’vil såre Team Rocket’s stolthet om og\nom igjen. Det gjør den mindre, skjønner du.\r...Så det’er på tide å gjøre slutt på deg. Uansett hvor\nsterk du er, hvis vi to\fkjemper samtidig, har du’ingen\fsjanse til å vinne. Er du ikke enig? Beklager, baby. Nå, gjør deg klar til å bli banket.</language></row>
 	<row id="msg_0113_D35R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: Hold it!\rA two-on-one battle?\nThat is so unfair!\rTypical of Team Rocket to be so sneaky.\nAllow me to join the battle!\r</language>
-	</row>
+	<language name="Norwegian">Lance: Vent litt! En kamp to mot en? Det er så urettferdig! Typisk Team Rocket å være så sleipe. Tillat meg å bli med i kampen!</language></row>
 	<row id="msg_0113_D35R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ariana: What? You had an accomplice?\nWhere is your sense of dignity?\rAs interim boss in place of Giovanni,\nI’ll show you how wrong it is to meddle\fwith Team Rocket!\r</language>
-	</row>
+	<language name="Norwegian">Ariana: Hva? Hadde du en medskyldig? \nHvor er din følelse av verdighet? \rSom midlertidig sjef i stedet for Giovanni,\nskal jeg’vise deg hvor galt det er å blande seg\finn i Team Rocket!\r</language></row>
 	<row id="msg_0113_D35R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tch, you really are strong.\nIt’s too bad.\rIf you were to join Team Rocket, you\ncould become an Executive.\r</language>
-	</row>
+	<language name="Norwegian">Du er virkelig sterk.\nDet’er synd.\rHvis du blir med i Team Rocket, kan du\nbli en av lederne.\r</language></row>
 	<row id="msg_0113_D35R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ariana: But that’s fine. The broadcast\nexperiment was a total success.\rIt doesn’t matter what happens to this\nhideout now.\rWe have much bigger plans.\nYou’ll come to appreciate Team\fRocket’s true power soon enough.\rEnjoy yourself while you can...\nHee hee hee...\r</language>
-	</row>
+	<language name="Norwegian">Ariana: Men det’er greit. Kringkastingseksperimentet var en total suksess.\rDet spiller ingen rolle hva som skjer med dette\nskjulestedet nå.\rVi har mye større planer.\nDu’vil snart sette pris på Team\fRakettens’s sanne kraft.\rGled deg mens du kan...\nHee hee hee...\r</language></row>
 	<row id="msg_0113_D35R0103_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: That did it. We defeated all the\nmembers of Team Rocket here.\rBut I’m concerned about the young guy\nwith red hair I battled in the\fprocess...\r</language>
-	</row>
+	<language name="Norwegian">Lance: Det var det. Vi beseiret alle medlemmene av Team Rocket her, men jeg er bekymret for den unge fyren med rødt hår som jeg kjempet mot i prosessen...m id = 1 /.</language></row>
 	<row id="msg_0113_D35R0103_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sorry, {STRVAR_1 3, 0, 0}. I saw how well you\nwere doing, so I just hung back.\rNow all there is left to do is to turn\noff that odd radio signal.\r</language>
-	</row>
+	<language name="Norwegian">Unnskyld, {STRVAR_1 3, 0, 0}. Jeg så hvor godt du\nhadde det, så jeg bare trakk meg tilbake.\rNå gjenstår det bare å slå\nav det merkelige radiosignalet.\r</language></row>
 	<row id="msg_0113_D35R0103_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sorry, {STRVAR_1 3, 0, 0}. I saw how well you\nwere doing, so I just hung back.\rNow all there is left to do is to turn\noff that odd radio signal.\r</language>
-	</row>
+	<language name="Norwegian">Unnskyld, {STRVAR_1 3, 0, 0}. Jeg så hvor godt du\nhadde det, så jeg bare trakk meg tilbake.\rNå gjenstår det bare å slå\nav det merkelige radiosignalet.\r</language></row>
 	<row id="msg_0113_D35R0103_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s this machine that’s causing all the\nproblems. I don’t see a switch on it...\rWe have no choice. We have to make all\nthe ELECTRODE faint.\rThat should stop this machine from\ntransmitting that strange signal.\rIt’s no fault of the ELECTRODE, so it\nmakes me feel sad.\r{STRVAR_1 3, 0, 0}, let’s split the job.\r</language>
-	</row>
+	<language name="Norwegian">Det er denne maskinen som forårsaker alle problemene. Jeg kan ikke se noen bryter på den...’Vi har ikke noe valg. Vi må få alle\nelektrodene til å besvime.\rDet burde stoppe denne maskinen fra å\nsende det merkelige signalet.\rDet’er ikke ELEKTRODEENS feil, så det\ngjør meg trist.\r{STRVAR_1 3, 0, 0}, la oss’dele opp jobben.\r</language></row>
 	<row id="msg_0113_D35R0103_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s this machine that’s causing all the\nproblems. I don’t see a switch on it...\rWe have no choice. We have to make all\nthe ELECTRODE faint.\rThat should stop this machine from\ntransmitting that strange signal.\rIt’s no fault of the ELECTRODE, so it\nmakes me feel sad.\r{STRVAR_1 3, 0, 0}, let’s split the job.\r</language>
-	</row>
+	<language name="Norwegian">Det er denne maskinen som forårsaker alle problemene. Jeg kan ikke se noen bryter på den...’Vi har ikke noe valg. Vi må få alle\nelektrodene til å besvime.\rDet burde stoppe denne maskinen fra å\nsende det merkelige signalet.\rDet’er ikke ELEKTRODEENS feil, så det\ngjør meg trist.\r{STRVAR_1 3, 0, 0}, la oss’dele opp jobben.\r</language></row>
 	<row id="msg_0113_D35R0103_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: Leave this side to me.\r</language>
-	</row>
+	<language name="Norwegian">Lance: Overlat denne siden til meg.</language></row>
 	<row id="msg_0113_D35R0103_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: That odd signal has finally\nstopped. The lake should be back to\fnormal. You’re the best!\rLet me thank you on behalf of all the\nPokémon. Oh, yes. You should take this.\rI found it here, but I don’t have any\nneed for it.\r</language>
-	</row>
+	<language name="Norwegian">Lance: Det merkelige signalet har endelig stoppet. Innsjøen burde være tilbake til\fnormalt. Du’er den beste! La meg takke deg på vegne av alle\nPokémon. Å, ja. Du burde ta denne. Jeg fant den her, men jeg har ikke bruk for den.</language></row>
 	<row id="msg_0113_D35R0103_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received HM05 from Lance!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottatt HM05 fra Lance!</language></row>
 	<row id="msg_0113_D35R0103_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: That’s Whirlpool.\rTeach it to a Pokémon to get across wild\nwater. But keep this in mind.\rYou can use that out of battle only with\nthe Badge from Mahogany Gym.\r</language>
-	</row>
+	<language name="Norwegian">Lance: Det’er Whirlpool.\rLær den til en Pokémon for å komme over vilt\nvann. Men husk dette.\rDu kan bare bruke den utenfor kamp med\nmerket fra Mahogany Gym.\r</language></row>
 	<row id="msg_0113_D35R0103_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}...\rThe journey to becoming the Pokémon\nChampion is long and difficult.\rKnowing that, will you keep going?\r..................\rI see. No, you’re right.\rIf you would give up that easily,\nyou would have never chased that\fdream in the first place.\rI look forward to seeing you again!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}...\rReisen til å bli Pokémon\nChampion er lang og vanskelig.\rVil du fortsette når du vet det? \r..................\rJeg skjønner. Nei, du’har rett.\rHvis du hadde gitt opp så lett,\nhadde du aldri fulgt den\fdrømmen i det hele tatt.\rJeg gleder meg til å se deg igjen!\r</language></row>
 	<row id="msg_0113_D35R0103_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}...\rThe journey to becoming the Pokémon\nChampion is long and difficult.\rKnowing that, will you keep going?\r..................\rI see. No, you’re right.\rIf you would give up that easily,\nyou would have never chased that\fdream in the first place.\rI look forward to seeing you again!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}...\rReisen til å bli Pokémon\nChampion er lang og vanskelig.\rVil du fortsette når du vet det? \r..................\rJeg skjønner. Nei, du’har rett.\rHvis du hadde gitt opp så lett,\nhadde du aldri fulgt den\fdrømmen i det hele tatt.\rJeg gleder meg til å se deg igjen!\r</language></row>
 	<row id="msg_0113_D35R0103_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">“The Radio Transmitter”\rIt seems that this door checks the\nvoice of the person saying the password\fbefore it opens...</language>
-	</row>
+	<language name="Norwegian">“Radiosenderen”\rDet ser ut til at denne døren sjekker\nstemmen til personen som sier passordet\ffør den åpnes...</language></row>
 	<row id="msg_0113_D35R0103_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The door’s closed...\r{STRVAR_1 3, 0, 0} entered the password.\rThe door opened!\r</language>
-	</row>
+	<language name="Norwegian">Døren’er lukket...\r{STRVAR_1 3, 0, 0} tastet inn passordet.\rDøren åpnet seg!\r</language></row>
 	<row id="msg_0113_D35R0103_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s the radio transmitter that’s\nsending the sinister signal.\rIt’s working at full capacity.</language>
-	</row>
+	<language name="Norwegian">Det’er radiosenderen som’sender det uhyggelige signalet.\rDen’arbeider for fullt.</language></row>
 	<row id="msg_0113_D35R0103_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The radio transmitter has finally\nstopped its evil broadcast.</language>
-	</row>
+	<language name="Norwegian">Radiosenderen har endelig\nstoppet sin onde sending.</language></row>
 	<row id="msg_0113_D35R0103_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MURKROW: The password is...\fHail Giovanni.\r</language>
-	</row>
+	<language name="Norwegian">MURKROW: Passordet er ... \fHil Giovanni.\r</language></row>
 	<row id="msg_0113_D35R0103_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MURKROW: The password is...\fHail Giovanni.\r</language>
-	</row>
+	<language name="Norwegian">MURKROW: Passordet er ... \fHil Giovanni.\r</language></row>
 	<row id="msg_0113_D35R0103_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MURKROW: The password is...\fHail Giovanni.\r</language>
-	</row>
+	<language name="Norwegian">MURKROW: Passordet er ... \fHil Giovanni.\r</language></row>
 	<row id="msg_0113_D35R0103_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MURKROW screamed the password,\nmimicking the voice of Petrel.\r..................\rThe voice-recognition system unlocked\nthe door!\r</language>
-	</row>
+	<language name="Norwegian">MURKROW skrek passordet,\n og etterlignet stemmen til Petrel.\r..................\rStemegjenkjenningssystemet låste opp\ndøren!\r</language></row>
 </body>

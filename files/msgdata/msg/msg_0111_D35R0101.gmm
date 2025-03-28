@@ -1,67 +1,67 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0111_D35R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh?\rYou hear wind blowing into this room?\nThat is...just me whistling.\rEnough about that.\nWhy don’t you buy something? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hm? \rHører du vinden blåse inn i dette rommet? \nDet er ... bare meg som plystrer.\rNok om det.\nHvorfor’kjøper du ikke noe? {YESNO 0}</language></row>
 	<row id="msg_0111_D35R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Arrgh...\nYou found the secret stairway...\rHow did you do that?\nI thought it was well camouflaged...</language>
-	</row>
+	<language name="Norwegian">Arrgh ...\nDu fant den hemmelige trappen ...\rHvordan gjorde du det?\nJeg trodde den var godt kamuflert ...</language></row>
 	<row id="msg_0111_D35R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Heheh! The experiment worked like\na charm.\rMAGIKARP are just worthless, but\nGYARADOS are big moneymakers.</language>
-	</row>
+	<language name="Norwegian">Heheh! Eksperimentet fungerte som\nen sjarm.\rMAGIKARP er bare verdiløse, men\nGYARADOS er store pengemakere.</language></row>
 	<row id="msg_0111_D35R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Urrgh...\rThat guy’s Dragon-type Pokémon\nare tough...</language>
-	</row>
+	<language name="Norwegian">Urrgh ... \rDen fyren’s Pokémon av dragetypen\ner tøff ...</language></row>
 	<row id="msg_0111_D35R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: DRAGONITE, Hyper Beam.\r</language>
-	</row>
+	<language name="Norwegian">Lanse: DRAGONITE, Hyper Beam.\r</language></row>
 	<row id="msg_0111_D35R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What took you so long, {STRVAR_1 3, 0, 0}?\rJust as I thought, that strange radio\nsignal is coming from here.\r</language>
-	</row>
+	<language name="Norwegian">Hvorfor tok det så lang tid, {STRVAR_1 3, 0, 0}?\rJust som jeg trodde, det merkelige radiosignalet kommer herfra.\r</language></row>
 	<row id="msg_0111_D35R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What took you so long, {STRVAR_1 3, 0, 0}?\rJust as I thought, that strange radio\nsignal is coming from here.\r</language>
-	</row>
+	<language name="Norwegian">Hvorfor tok det så lang tid, {STRVAR_1 3, 0, 0}?\rJust som jeg trodde, det merkelige radiosignalet kommer herfra.\r</language></row>
 	<row id="msg_0111_D35R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The stairs are right here.\r</language>
-	</row>
+	<language name="Norwegian">Trappen er her.</language></row>
 	<row id="msg_0111_D35R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: {STRVAR_1 3, 0, 0}, we should split up\nto check this place. I’ll go first.\r</language>
-	</row>
+	<language name="Norwegian">Lance: {STRVAR_1 3, 0, 0}, vi bør dele oss opp\nfor å sjekke dette stedet. Jeg’går først.\r</language></row>
 	<row id="msg_0111_D35R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lance: {STRVAR_1 3, 0, 0}, we should split up\nto check this place. I’ll go first.\r</language>
-	</row>
+	<language name="Norwegian">Lance: {STRVAR_1 3, 0, 0}, vi bør dele oss opp\nfor å sjekke dette stedet. Jeg’går først.\r</language></row>
 	<row id="msg_0111_D35R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whistle...whistle...\rAre you bothered by that noise? That’s\nme. My false teeth don’t fit right,\fand the gap makes the noise.\rEnough about that.\nWhy don’t you buy something?\r</language>
-	</row>
+	<language name="Norwegian">Fløyte...fløyte...\rEr du plaget av den lyden? Det er meg. De falske tennene mine passer ikke riktig,’og gapet lager lyden.\rSlik er det nok.\nHvorfor kjøper du ikke noe?\r</language></row>
 	<row id="msg_0111_D35R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The radio is on.\rThe variety show is airing\nThe Pokémon Search Party!</language>
-	</row>
+	<language name="Norwegian">Radioen er på.\rVarietéshowet sendes\nPokémon Search Party!</language></row>
 	<row id="msg_0111_D35R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The radio is on.\rThe variety show is airing\nThe Radio Miniseries!</language>
-	</row>
+	<language name="Norwegian">Radioen er på.\rVarietéshowet sendes\nRadioens miniserie!</language></row>
 	<row id="msg_0111_D35R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The radio is on.\rThe variety show is airing\nBuena’s Password!</language>
-	</row>
+	<language name="Norwegian">Radioen er på.\rVarietéshowet sendes\nBuena’s Passord!</language></row>
 	<row id="msg_0111_D35R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team Rocket is declaring its revival on\nthe radio!</language>
-	</row>
+	<language name="Norwegian">Team Rocket erklærer sin gjenoppliving på radio!</language></row>
 	<row id="msg_0111_D35R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You hear something strange...!</language>
-	</row>
+	<language name="Norwegian">Du hører noe merkelig...!</language></row>
 </body>

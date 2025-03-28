@@ -1,20 +1,20 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0127_D42R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whoa! You startled me there!\rI had my BlackGlasses on, so I didn’t\nnotice you at all.\rWhat am I doing here?\rHey, don’t you worry about it.\nI’ll give you a pair of BlackGlasses, so\fforget you saw me, OK?\r</language>
-	</row>
+	<language name="Norwegian">Jøss! Du skremte meg! \rJeg hadde på meg BlackGlasses, så jeg la ikke merke til deg i det hele tatt.\rHva gjør jeg her?\rHei, ikke tenk på det.\nJeg’gir deg et par BlackGlasses, så\fglem at du så meg, OK?\rDu får ikke se meg.</language></row>
 	<row id="msg_0127_D42R0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0127_D42R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BlackGlasses up the power of\nDark-type moves.</language>
-	</row>
+	<language name="Norwegian">BlackGlasses øker kraften til\nDark-type trekk.</language></row>
 	<row id="msg_0127_D42R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You don’t have room for this...</language>
-	</row>
+	<language name="Norwegian">Du har ikke plass til dette...</language></row>
 </body>

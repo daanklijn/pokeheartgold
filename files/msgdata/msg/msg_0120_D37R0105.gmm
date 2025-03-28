@@ -1,20 +1,20 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0120_D37R0105_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Director: Who? What? You came to\nrescue me? Thank you!\rThe Radio Tower!\nWhat’s happening there?\rTaken over by Team Rocket?\nHere. Take this Card Key.\r</language>
-	</row>
+	<language name="Norwegian">Direktør: Hvem? Hva? Kom du for å redde meg? Takk! Radiotårnet! Hva er det som skjer der? Overtatt av Team Rocket? Her. Ta denne kortnøkkelen.</language></row>
 	<row id="msg_0120_D37R0105_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0120_D37R0105_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Director: Use that to open the\nshutters on 3F.\r</language>
-	</row>
+	<language name="Norwegian">Direktør: Bruk den til å åpne skoddene på 3F.</language></row>
 	<row id="msg_0120_D37R0105_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m begging you to help.\rThere’s no telling what they’ll do if\nthey control the transmitter.\rThey may even be able to control\nPokémon using a special signal!\rYou’re the only one I can call on.\nPlease save the Radio Tower...\fand all the Pokémon nationwide!</language>
-	</row>
+	<language name="Norwegian">Jeg ber deg om hjelp. Det er umulig å si hva de vil gjøre hvis de får kontroll over senderen.\rDe kan kanskje til og med kontrollere\nPokémon ved hjelp av et spesielt signal!\rDu’er den eneste jeg kan påkalle.\nVær så snill å redde radiotårnet...\fog alle Pokémon over hele landet!</language></row>
 </body>
