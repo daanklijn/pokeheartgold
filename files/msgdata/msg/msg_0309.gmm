@@ -223,7 +223,7 @@
 	<row id="msg_0309_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Closing-ceremony bonus awards.\n{STRVAR_1 55, 1, 0} times. Luck and true strength!\r</language>
-	<language name="Norwegian">Bonusutdeling ved avslutningsseremonien.\n{STRVAR_1 55, 1, 0} ganger. Flaks og ekte styrke!\r{STRVAR_1</language></row>
+	<language name="Norwegian">Bonusutdeling ved avslutningsseremonien.\n{STRVAR_1 55, 1, 0} ganger. Flaks og ekte styrke!\r</language></row>
 	<row id="msg_0309_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Always giving instructions to Pokémon!\nHowl for heaps of championships!\r</language>
