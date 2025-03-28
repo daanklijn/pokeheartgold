@@ -100,103 +100,103 @@
 	<row id="msg_0302_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Hardy{COLOR 0} nature.</language>
-	<language name="Norwegian">{Farget 2. Hardfør natur.</language></row>
+	<language name="Norwegian">{COLOR 2}COLORt 2. Hardfør natur.</language></row>
 	<row id="msg_0302_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Lonely{COLOR 0} nature.</language>
-	<language name="Norwegian">{Ensom natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Ensom natur.</language></row>
 	<row id="msg_0302_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Brave{COLOR 0} nature.</language>
-	<language name="Norwegian">{Modig natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Modig natur.</language></row>
 	<row id="msg_0302_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Adamant{COLOR 0} nature.</language>
-	<language name="Norwegian">{...fordømmende natur.</language></row>
+	<language name="Norwegian">{COLOR 2}...fordømmende natur.</language></row>
 	<row id="msg_0302_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Naughty{COLOR 0} nature.</language>
-	<language name="Norwegian">{Frekk natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Frekk natur.</language></row>
 	<row id="msg_0302_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Bold{COLOR 0} nature.</language>
-	<language name="Norwegian">{FARGE 2}Fett{FARGE 0} natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Fett{COLOR 0} natur.</language></row>
 	<row id="msg_0302_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Docile{COLOR 0} nature.</language>
-	<language name="Norwegian">{FARGE 2}Docile{FARGE 0} natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Docile{COLOR 0} natur.</language></row>
 	<row id="msg_0302_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Relaxed{COLOR 0} nature.</language>
-	<language name="Norwegian">{Avslappet natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Avslappet natur.</language></row>
 	<row id="msg_0302_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Impish{COLOR 0} nature.</language>
-	<language name="Norwegian">{Uærlig natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Uærlig natur.</language></row>
 	<row id="msg_0302_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Lax{COLOR 0} nature.</language>
-	<language name="Norwegian">{Laks natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Laks natur.</language></row>
 	<row id="msg_0302_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Timid{COLOR 0} nature.</language>
-	<language name="Norwegian">{FARGE 2}Timid{FARGE 0} natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Timid{COLOR 0} natur.</language></row>
 	<row id="msg_0302_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Hasty{COLOR 0} nature.</language>
-	<language name="Norwegian">{Hasty natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Hasty natur.</language></row>
 	<row id="msg_0302_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Serious{COLOR 0} nature.</language>
-	<language name="Norwegian">{Alvorlig natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Alvorlig natur.</language></row>
 	<row id="msg_0302_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Jolly{COLOR 0} nature.</language>
-	<language name="Norwegian">{Glad natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Glad natur.</language></row>
 	<row id="msg_0302_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Naive{COLOR 0} nature.</language>
-	<language name="Norwegian">{FARGE 2}Naiv{FARGE 0} natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Naiv{COLOR 0} natur.</language></row>
 	<row id="msg_0302_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Modest{COLOR 0} nature.</language>
-	<language name="Norwegian">{Modest natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Modest natur.</language></row>
 	<row id="msg_0302_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Mild{COLOR 0} nature.</language>
-	<language name="Norwegian">{Mild natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Mild natur.</language></row>
 	<row id="msg_0302_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Quiet{COLOR 0} nature.</language>
-	<language name="Norwegian">{Rolig natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Rolig natur.</language></row>
 	<row id="msg_0302_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Bashful{COLOR 0} nature.</language>
-	<language name="Norwegian">{Overmodig natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Overmodig natur.</language></row>
 	<row id="msg_0302_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Rash{COLOR 0} nature.</language>
-	<language name="Norwegian">{Natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Natur.</language></row>
 	<row id="msg_0302_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Calm{COLOR 0} nature.</language>
-	<language name="Norwegian">{Rolig natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Rolig natur.</language></row>
 	<row id="msg_0302_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Gentle{COLOR 0} nature.</language>
-	<language name="Norwegian">{Mild natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Mild natur.</language></row>
 	<row id="msg_0302_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Sassy{COLOR 0} nature.</language>
-	<language name="Norwegian">{Frekk natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Frekk natur.</language></row>
 	<row id="msg_0302_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Careful{COLOR 0} nature.</language>
-	<language name="Norwegian">{Forsiktig natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Forsiktig natur.</language></row>
 	<row id="msg_0302_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 2}Quirky{COLOR 0} nature.</language>
-	<language name="Norwegian">{Særegen natur.</language></row>
+	<language name="Norwegian">{COLOR 2}Særegen natur.</language></row>
 	<row id="msg_0302_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nMet at Lv. {STRVAR_1 52, 3, 0}.</language>
@@ -240,7 +240,7 @@
 	<row id="msg_0302_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nEgg obtained.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nEgg apparently hatched.\nFateful encounter.</language>
-	<language name="Norwegian">{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nEgg oppnådd.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{FARGE 2}{STRVAR_1 4, 4, 0}{FARGE 0}\nEgget ser ut til å ha klekket ut.\nEgget er et skjebnesvangert møte.</language></row>
+	<language name="Norwegian">{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nEgg oppnådd.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nEgget ser ut til å ha klekket ut.\nEgget er et skjebnesvangert møte.</language></row>
 	<row id="msg_0302_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nEgg arrived.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nEgg hatched.\nFateful encounter.</language>
@@ -256,7 +256,7 @@
 	<row id="msg_0302_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nEgg obtained.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nEgg apparently hatched.\nFateful encounter.</language>
-	<language name="Norwegian">{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nEgg oppnådd.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{FARGE 2}{STRVAR_1 4, 4, 0}{FARGE 0}\nEgget ser ut til å ha klekket ut.\nEgget er et skjebnesvangert møte.</language></row>
+	<language name="Norwegian">{STRVAR_34 16, 6, 0} {STRVAR_1 51, 7, 0}, 20{STRVAR_1 51, 5, 0}\n{COLOR 2}{STRVAR_1 4, 8, 0}{COLOR 0}\nEgg oppnådd.\n{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nEgget ser ut til å ha klekket ut.\nEgget er et skjebnesvangert møte.</language></row>
 	<row id="msg_0302_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, 20{STRVAR_1 51, 0, 0}\n{COLOR 2}{STRVAR_1 4, 4, 0}{COLOR 0}\nArrived at Lv. {STRVAR_1 52, 3, 0}.</language>
@@ -264,23 +264,23 @@
 	<row id="msg_0302_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Likes {COLOR 2}spicy{COLOR 0} food.</language>
-	<language name="Norwegian">Liker {FARGE 2}krydret mat.</language></row>
+	<language name="Norwegian">Liker {COLOR 2}krydret mat.</language></row>
 	<row id="msg_0302_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Likes {COLOR 2}dry{COLOR 0} food.</language>
-	<language name="Norwegian">Liker {FARGE 2}tørr mat.</language></row>
+	<language name="Norwegian">Liker {COLOR 2}tørr mat.</language></row>
 	<row id="msg_0302_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Likes {COLOR 2}sweet{COLOR 0} food.</language>
-	<language name="Norwegian">Liker {FARGE 2}søt mat.</language></row>
+	<language name="Norwegian">Liker {COLOR 2}søt mat.</language></row>
 	<row id="msg_0302_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Likes {COLOR 2}bitter{COLOR 0} food.</language>
-	<language name="Norwegian">Liker {FARGE 2}bitter mat.</language></row>
+	<language name="Norwegian">Liker {COLOR 2}bitter mat.</language></row>
 	<row id="msg_0302_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Likes {COLOR 2}sour{COLOR 0} food.</language>
-	<language name="Norwegian">Liker {FARGE 2}sur{FARGE 0} mat.</language></row>
+	<language name="Norwegian">Liker {COLOR 2}sur{COLOR 0} mat.</language></row>
 	<row id="msg_0302_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Happily eats anything.</language>
