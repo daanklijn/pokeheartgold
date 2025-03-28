@@ -90,7 +90,7 @@
 	<row id="msg_0018_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to play with\n{STRVAR_1 3, 0, 0} again? {YESNO 0}</language>
-	<language name="Norwegian">Vil du leke med\n{STRVAR_1 3, 0, 0} igjen? {YESNO 0}{STRVAR_1</language></row>
+	<language name="Norwegian">Vil du leke med\n{STRVAR_1 3, 0, 0} igjen? {YESNO 0}</language></row>
 	<row id="msg_0018_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
