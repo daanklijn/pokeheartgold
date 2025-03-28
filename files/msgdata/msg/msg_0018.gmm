@@ -48,7 +48,7 @@
 	<row id="msg_0018_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You and your friend must choose the\nsame kind of Pokémon to battle.\r</language>
-	<language name="Norwegian">Du og vennen din må velge samme type Pokémon å kjempe mot.\nm id=1 /&gt;.</language></row>
+	<language name="Norwegian">Du og vennen din må velge samme type Pokémon å kjempe mot.\r</language></row>
 	<row id="msg_0018_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
