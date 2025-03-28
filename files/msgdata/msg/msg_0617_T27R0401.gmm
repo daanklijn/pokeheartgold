@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0617_T27R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This happened when I was young.\rThe sky suddenly turned black.\nA giant Flying-type Pokémon was\fblocking out the sun.\rI wonder what that Pokémon was?\rIt was like a bird and like a dragon.</language>
-	</row>
+	<language name="Norwegian">Dette skjedde da jeg var ung.\rHimmelen ble plutselig svart.\nEn gigantisk Pokémon av flytypen\fblokkerte solen.\rJeg lurer på hva det var for en Pokémon?\rDen var som en fugl og som en drage.</language></row>
 	<row id="msg_0617_T27R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is there really a Pokémon that big?\fIf it exists, it must be powerful.</language>
-	</row>
+	<language name="Norwegian">Finnes det virkelig en så stor Pokémon? \fHvis den finnes, må den være mektig.</language></row>
 </body>

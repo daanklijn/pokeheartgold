@@ -1,28 +1,28 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0610_T26R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Olivine is on the sea!\rAnd if it’s on the sea, there is bound\nto be something to catch!\rI’ve fished here for 30 years.\rWould you like to face the sea\nand fish? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Olivine er på havet!\rOg hvis det’er på havet, må det\nvære noe å fange!\rJeg’har fisket her i 30 år.\rHar du lyst til å møte havet\nog fiske? {YESNO 0}</language></row>
 	<row id="msg_0610_T26R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ah, hahah!\nWe have ourselves a new angler!</language>
-	</row>
+	<language name="Norwegian">Vi har fått en ny sportsfisker!</language></row>
 	<row id="msg_0610_T26R0601_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0610_T26R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Water-type Pokémon aren’t found\nin the sea alone.\fThey go wherever there is water.</language>
-	</row>
+	<language name="Norwegian">Pokémon av vanntypen finnes’ikke\nbare i havet.\fDe finnes overalt der det er vann.</language></row>
 	<row id="msg_0610_T26R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whaaat? You don’t like to fish!?\fIncomprehensible!</language>
-	</row>
+	<language name="Norwegian">Hva? Du liker ikke å fiske? Ubegripelig!</language></row>
 	<row id="msg_0610_T26R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">How are things?\nLand the big one?</language>
-	</row>
+	<language name="Norwegian">Hvordan går det?</language></row>
 </body>

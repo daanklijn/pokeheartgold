@@ -1,91 +1,91 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0669_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tiffany</language>
-	</row>
+	<language name="Norwegian">Tiffany</language></row>
 	<row id="msg_0669_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hi! You like CLEFAIRY, too?\nThey’re so very cute, aren’t they?\rI think we can be good friends!\nI want to know your phone number!\rLet’s talk about CLEFAIRY! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei! Liker du også CLEFAIRY? \nDe’er så søte, ikke sant? \rJeg tror vi kan bli gode venner!\nJeg vil ha telefonnummeret ditt!\rLa oss’snakke om CLEFAIRY! {YESNO 0}</language></row>
 	<row id="msg_0669_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Isn’t my CLEFAIRY super adorable?</language>
-	</row>
+	<language name="Norwegian">Er ikke CLEFAIRY-en min kjempesøt?</language></row>
 	<row id="msg_0669_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aww... Oh well. Look for me if you want\nto talk about CLEFAIRY.</language>
-	</row>
+	<language name="Norwegian">Aww... Ja, ja. Se etter meg hvis du vil snakke om CLEFAIRY.</language></row>
 	<row id="msg_0669_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Won’t you give me your number?\nLet’s talk about CLEFAIRY! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Vil du ikke gi meg nummeret ditt? La oss snakke om CLEFAIRY! {YESNO 0}</language></row>
 	<row id="msg_0669_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, there you are!\nI’ll give this to you then.\fIt’s a CLEFAIRY Poké Doll!\r</language>
-	</row>
+	<language name="Norwegian">Å, der er du jo! \nJeg’skal gi deg denne da.\fDet’er en CLEFAIRY Poké Doll! \r</language></row>
 	<row id="msg_0669_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Um... Well...\nIs it that difficult to talk to me?\rI mean, by phone is all right, but if\nwe’re this close, you don’t have to\fstay away.\fYou can just come talk to me.</language>
-	</row>
+	<language name="Norwegian">Er det så vanskelig å snakke med meg? Jeg mener, på telefon er greit, men hvis vi er så nærme, trenger du ikke å holde deg borte.</language></row>
 	<row id="msg_0669_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 14, 4, 0}!\nIt’s awful. My CLEFAIRY...\rHuh? This is {STRVAR_1 3, 0, 0}?\rOh, sorry! I was in a hurry, and I...\nI have to go! Bye-bye!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 14, 4, 0}!\nDet’er forferdelig. Min CLEFAIRY...\rHva? Dette er {STRVAR_1 3, 0, 0}?\rUnskyld! Jeg hadde det travelt, og jeg...\nJeg må gå! Ha det bra!</language></row>
 	<row id="msg_0669_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 14, 4, 0}!\nIt’s awful. My CLEFAIRY...\rHuh? This is {STRVAR_1 3, 0, 0}?\rOh, sorry! I was in a hurry, and I...\nI have to go! Bye-bye!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 14, 4, 0}!\nDet’er forferdelig. Min CLEFAIRY...\rHva? Dette er {STRVAR_1 3, 0, 0}?\rUnskyld! Jeg hadde det travelt, og jeg...\nJeg må gå! Ha det bra!</language></row>
 	<row id="msg_0669_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My {STRVAR_1 0, 10, 0}’s adorable, don’t you\nthink so?\rI always sleep next to it--it’s so\nfluffy and warm!\rOh, and we had to battle a wild\n{STRVAR_1 0, 11, 0} a while ago...\rMy CLEFAIRY came close to fainting!\nIsn’t that awful?\rI hate those nasty {STRVAR_1 0, 11, 0}!\nBye-bye!</language>
-	</row>
+	<language name="Norwegian">Min {STRVAR_1 0, 10, 0}’er bedårende, synes du ikke’det? \rJeg sover alltid ved siden av den - den’er så\nluftig og varm!\rOg vi måtte slåss mot en vill\n{STRVAR_1 0, 11, 0} for en stund siden...\rMin CLEFAIRY var nær ved å besvime!\nEr det ikke’forferdelig?\rJeg hater de ekle {STRVAR_1 0, 11, 0}!\nHa det bra!\nHa det bra!\nHa det bra!</language></row>
 	<row id="msg_0669_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My {STRVAR_1 0, 10, 0}’s adorable, don’t you\nthink so?\rI always sleep next to it--it’s so\nfluffy and warm!\rOh, and we had to battle a wild\n{STRVAR_1 0, 11, 0} a while ago...\rMy CLEFAIRY got frightened, so we ran\naway as fast as we could!\rI just can’t help feeling protective of\nmy CLEFAIRY.\rBye-bye!</language>
-	</row>
+	<language name="Norwegian">Min {STRVAR_1 0, 10, 0}’er bedårende, synes du ikke’det? \rJeg sover alltid ved siden av den - den’er så\nluftig og varm!\rOh, og vi måtte kjempe mot en vill\n{STRVAR_1 0, 11, 0} for en stund siden...\rMin CLEFAIRY ble redd, så vi løp\n bort så fort vi kunne!\rJeg kan bare’ikke hjelpe for at jeg føler meg beskyttende overfor\nmin CLEFAIRY.\rHa det bra!</language></row>
 	<row id="msg_0669_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I know this might surprise you, but\nwould you like to battle?\rI’ll be waiting with CLEFAIRY on\n{STRVAR_1 4, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Jeg vet at dette kanskje vil overraske deg, men\nvil du kjempe? \rJeg’vil vente med CLEFAIRY på\n{STRVAR_1 4, 3, 0}.</language></row>
 	<row id="msg_0669_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s wrong? Can’t you visit?\rCLEFAIRY got tired and fell asleep.\nI’m not sure if I can wake it up...\rPlease hurry to {STRVAR_1 4, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Hva er galt? Kan’du ikke komme på besøk?\rCLEFAIRY ble trøtt og sovnet.\nJeg’er ikke sikker på om jeg kan vekke den...\rVær så snill å skynde deg til {STRVAR_1 4, 3, 0}!</language></row>
 	<row id="msg_0669_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I love dressing up my CLEFAIRY!</language>
-	</row>
+	<language name="Norwegian">Jeg elsker å pynte opp CLEFAIRY!</language></row>
 	<row id="msg_0669_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">While I was at the Goldenrod Dept.\nStore recently, I found these\fsuper-cute Poké Dolls!\fI’ll give you one!\rCome collect it on {STRVAR_1 4, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Da jeg var i Goldenrod Dept.\nStore nylig, fant jeg disse\fsuper søte Poké Dolls!\fJeg’vil gi deg en!\rKom og hent den på {STRVAR_1 4, 3, 0}.</language></row>
 	<row id="msg_0669_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s wrong? Can’t you visit?\rThis Poké Doll is so cute, too!\nPlease hurry to {STRVAR_1 4, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Hva er det som er galt? Kan’du ikke komme på besøk?\rDenne Pokédukken er også så søt!\nSkynd deg til {STRVAR_1 4, 3, 0}!</language></row>
 	<row id="msg_0669_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Grandpa</language>
-	</row>
+	<language name="Norwegian">Bestefar</language></row>
 	<row id="msg_0669_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Grandma</language>
-	</row>
+	<language name="Norwegian">Bestemor</language></row>
 	<row id="msg_0669_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mom</language>
-	</row>
+	<language name="Norwegian">Mamma</language></row>
 	<row id="msg_0669_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dad</language>
-	</row>
+	<language name="Norwegian">Pappa</language></row>
 	<row id="msg_0669_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sis</language>
-	</row>
+	<language name="Norwegian">Søster</language></row>
 	<row id="msg_0669_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bro</language>
-	</row>
+	<language name="Norwegian">Bro</language></row>
 </body>

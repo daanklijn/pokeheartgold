@@ -1,104 +1,104 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0606_T26GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Thank you for your help\nat the Lighthouse...\rBut this is different. Please allow me to\nintroduce myself.\rI am Jasmine, a Gym Leader.\nI use the...clang!\fSteel type!\r...Do you know about the Steel type?\rThey are very hard, cold, sharp,\nand really strong!\fUm... I’m not lying.\r</language>
-	</row>
+	<language name="Norwegian">Jasmine: Takk for hjelpen\npå fyrtårnet...\rMen dette er annerledes. Tillat meg å\npresentere meg selv.\rJeg er Jasmine, en Gym Leader.\nJeg bruker...clang!\fståltypen!\r...Kjenner du til ståltypen?\rDe er veldig harde, kalde, skarpe,\nog veldig sterke!\fUm... Jeg’ljuger ikke.\r</language></row>
 	<row id="msg_0606_T26GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: ...You are a better Trainer\nthan me, in both skill and kindness.\rIn accordance with League rules,\nI confer upon you this Badge.\r</language>
-	</row>
+	<language name="Norwegian">Jasmine: ...Du er en bedre trener\nenn meg, både når det gjelder dyktighet og vennlighet.\rI samsvar med ligareglene,\ntildeler jeg deg dette merket.\r</language></row>
 	<row id="msg_0606_T26GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Mineral Badge from Jasmine!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} mottok\nmineralmerket fra Jasmine!</language></row>
 	<row id="msg_0606_T26GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: With that Badge,\nall Pokémon, including traded\fPokémon up to Lv. 70, will obey\fyou without question.\fUm... Please take this, too...\r</language>
-	</row>
+	<language name="Norwegian">Jasmine: Med dette merket vil \nalle Pokémon, inkludert innbyttede\fPokémon opp til Lv. 70, adlyde\fdeg uten å stille spørsmål.\fUm... Vær så snill å ta denne også...\r</language></row>
 	<row id="msg_0606_T26GYM0101_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0606_T26GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: It is called Iron Tail...\rYour Pokémon will hit the target\nwith its hard tail, occasionally\flowering the target’s Defense...</language>
-	</row>
+	<language name="Norwegian">Jasmine: Den kalles Jernhale...\rDin Pokémon vil treffe målet\nmed sin harde hale, og av og til\fsenke målet’s forsvar...</language></row>
 	<row id="msg_0606_T26GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Um...\rI don’t know how to say this, but\ngood luck...</language>
-	</row>
+	<language name="Norwegian">Jasmine..: Um ... \rJeg vet ikke hvordan jeg skal si dette, men\n lykke til ...</language></row>
 	<row id="msg_0606_T26GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Long time, no see.\rUm... I’m fine, thank you.\rI don’t know how to say this,\nbut...nothing...</language>
-	</row>
+	<language name="Norwegian">Jasmine: Det er lenge siden sist.\rJeg har det bra, takk.\rJeg vet ikke hvordan jeg skal si dette,\nmen...ingenting...</language></row>
 	<row id="msg_0606_T26GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Um... Er...\rWill you trade your Pokémon\nfor mine? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jasmine: Øh... Øh...\rVil du bytte din Pokémon\nmot min? {YESNO 0}</language></row>
 	<row id="msg_0606_T26GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Really? Thank you very much!\rI’ll be happy with any Pokémon!\r</language>
-	</row>
+	<language name="Norwegian">Jasmine: Jaså? Tusen takk!\rJeg’vil bli glad for hvilken som helst Pokémon!\r</language></row>
 	<row id="msg_0606_T26GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Oh, uh-huh, I see.\nThat’s disappointing, but I understand.</language>
-	</row>
+	<language name="Norwegian">Jasmine: Å, ja, jeg skjønner. det\ner skuffende, men jeg forstår det.</language></row>
 	<row id="msg_0606_T26GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Thank you so much.\nI’ll take good care of it.</language>
-	</row>
+	<language name="Norwegian">Jasmine: Tusen takk. \nJeg’skal ta godt vare på den.</language></row>
 	<row id="msg_0606_T26GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Don’t you sometimes feel like\nscrubbing Steel-type Pokémon?\fDon’t you?</language>
-	</row>
+	<language name="Norwegian">Jasmine: Har du ikke lyst til å’skrubbe Pokémon av ståltypen noen ganger?</language></row>
 	<row id="msg_0606_T26GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Will you trade {STRVAR_1 1, 1, 0}? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Vil du handle {STRVAR_1 1, 1, 0}? {YESNO 0}</language></row>
 	<row id="msg_0606_T26GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: I like Eggs, too, but\nI’d like a Pokémon, {STRVAR_1 3, 0, 0}.\fOne that might have a little training...</language>
-	</row>
+	<language name="Norwegian">Jasmine: Jeg liker også egg, men\nJeg’vil gjerne ha en Pokémon, {STRVAR_1 3, 0, 0, 0}.\fEn som kanskje har litt trening...</language></row>
 	<row id="msg_0606_T26GYM0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: I’d appreciate it so much...\nExcept that I cannot accept such\fa precious Pokémon.</language>
-	</row>
+	<language name="Norwegian">Jasmine: Jeg’ville satt så stor pris på det...\nMen jeg kan ikke ta imot en så\f dyrebar Pokémon.</language></row>
 	<row id="msg_0606_T26GYM0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine, the Gym Leader?\nShe’s at the Lighthouse.\rShe’s been tending to a sick Pokémon.\rA strong Trainer is compassionate\nat the same time...</language>
-	</row>
+	<language name="Norwegian">Jasmine, Gymlederen...\nHun’er på fyrtårnet.\rHun’har tatt seg av en syk Pokémon.\rEn sterk trener er medfølende\nsamtidig som...</language></row>
 	<row id="msg_0606_T26GYM0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine uses Steel-type Pokémon.\rShe’s trying to hide her tenderness\nbehind her steely coldness.</language>
-	</row>
+	<language name="Norwegian">Jasmine bruker Pokémon av typen Stål.\rHun’forsøker å skjule sin ømhet\nbak sin stålharde kulde.</language></row>
 	<row id="msg_0606_T26GYM0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That was awesome.\fThe Steel type, huh?\fThat was one heated battle you had!</language>
-	</row>
+	<language name="Norwegian">Det var fantastisk. \fStåltypen, hva? \fDet var en heftig kamp du hadde!</language></row>
 	<row id="msg_0606_T26GYM0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I knew you’d come here.\rThank you for helping the Gym Leader,\nbut battle is a separate matter.\rGo for it!</language>
-	</row>
+	<language name="Norwegian">Jeg visste at du’ville komme hit.\rTakk for at du hjalp Gymlederen,\nmen kamp er en annen sak.\rGå for det!</language></row>
 	<row id="msg_0606_T26GYM0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Impressive!\rYou should continue your journey to\ndifferent places.\rSince you can use Surf, why don’t you\ntry it on the Lake of Rage?</language>
-	</row>
+	<language name="Norwegian">Imponerende! \rDu bør fortsette reisen til\nandre steder.\rSiden du kan bruke Surf, hvorfor ikke’prøve det på Lake of Rage?</language></row>
 	<row id="msg_0606_T26GYM0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Giggle...\rI know how capable you are\nfrom the Lighthouse.\rIt’s time you showed that side of\nyourself to Jasmine! Good luck!</language>
-	</row>
+	<language name="Norwegian">Fnis...\rJeg vet hvor dyktig du er\nfra Lighthouse.\rDet’er på tide at du viser den siden av\ndeg selv til Jasmine! Lykke til!</language></row>
 	<row id="msg_0606_T26GYM0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are amazing...\rYou should aim even higher, since\nyou have such potential.\rHave you been to Mahogany Town?</language>
-	</row>
+	<language name="Norwegian">Du er fantastisk...\rDu burde sikte enda høyere, siden\ndu har et slikt potensial.\rHar du vært i Mahogany Town?</language></row>
 	<row id="msg_0606_T26GYM0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Olivine City Pokémon Gym</language>
-	</row>
+	<language name="Norwegian">Olivine City Pokémon Gym</language></row>
 	<row id="msg_0606_T26GYM0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Olivine City Pokémon Gym\rLeader: Jasmine\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
-	</row>
+	<language name="Norwegian">Olivine City Pokémon Gym\rLeder: Jasmine\nCertifisert trener!\f{STRVAR_1 3, 0, 0}</language></row>
 </body>

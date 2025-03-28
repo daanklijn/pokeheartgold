@@ -1,67 +1,67 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0602_T25R1203_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What you see here is how much people\naround the world love Pokémon.\rWatching Battle Videos lets you share\nthe fun these people had.</language>
-	</row>
+	<language name="Norwegian">Det du ser her, er hvor mye folk\nover hele verden elsker Pokémon.\rVed å se på kampvideoer kan du dele\nden moroa disse menneskene hadde.</language></row>
 	<row id="msg_0602_T25R1203_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is a great idea.\nAnyone and everyone can participate.\rEven if you lose, that battle could still\nbecome an outstanding Battle Video.</language>
-	</row>
+	<language name="Norwegian">Dette er en god idé.\nAlle og enhver kan delta.\rSelv om du taper, kan det slaget likevel\nbli en enestående Battle Video.</language></row>
 	<row id="msg_0602_T25R1203_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What stunning, gripping Battle Videos!\nShould I go home and retrain\fmy Pokémon?</language>
-	</row>
+	<language name="Norwegian">For noen fantastiske, gripende kampvideoer!\nBør jeg dra hjem og trene om\f Pokémonene mine?</language></row>
 	<row id="msg_0602_T25R1203_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My Battle Videos starring only cute\nlittle MARILL are the ones I like best.</language>
-	</row>
+	<language name="Norwegian">Mine Battle-videoer med bare søte\nsmå MARILL i hovedrollen er de jeg liker best.</language></row>
 	<row id="msg_0602_T25R1203_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What an amazing collection!\nI can see why this is so popular.\rJust seeing some of these Battle Videos\nmakes me feel tougher!</language>
-	</row>
+	<language name="Norwegian">For en fantastisk samling! m id = 0 / Jeg kan se hvorfor dette er så populært.m id = 1 / Bare å se noen av disse kampvideoene m id = 0 / får meg til å føle meg tøffere!</language></row>
 	<row id="msg_0602_T25R1203_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">To treat one’s self to Battle Videos\nevery day...\rI would consider that a hobby worthy\nof a true gentleman.</language>
-	</row>
+	<language name="Norwegian">Å unne seg’self å se kampvideoer\nhver dag...\rdet vil jeg anse som en hobby verdig\nen sann gentleman.</language></row>
 	<row id="msg_0602_T25R1203_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My mysterious Battle Video.\nMy mysterious Battle Video.\rWhat’s on it?\nWhat’s on it?\rIt’s a mystery!\nIt’s a mystery! And I mean it!</language>
-	</row>
+	<language name="Norwegian">Min mystiske kampvideo.\nMin mystiske kampvideo.\rHva’er på den?\nHva’er på den?\rDet’er et mysterium!\nDet’er et mysterium! Og jeg mener det!</language></row>
 	<row id="msg_0602_T25R1203_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Let me attempt the alphabet rap using\nGoldenrod, dig?\rG... Go south from here for the\nIlex Forest.\rO... Over land is not where you’ll find\nthe Goldenrod Tunnel.\rL... Looking like criminals in their black\npajamas is Team Rocket.\rD... Um... D... is...\nYeah, I know, lame-o.\fYou give it a try!</language>
-	</row>
+	<language name="Norwegian">La meg prøve alfabetet rap ved hjelp av\nGoldenrod, dig?\rG... Gå sørover herfra for å finne\nIlex-skogen\rO... Over land er ikke der du’vil finne\ngullris-tunnelen.\rL... Team Rocket ser ut som forbrytere i sin svarte\npyjamas.\rD... D... er...\nJa, jeg vet det, lame-o.\fDu kan jo prøve!</language></row>
 	<row id="msg_0602_T25R1203_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Hiker enjoying the Box Data down\non 2F is my little brother.</language>
-	</row>
+	<language name="Norwegian">Vandreren som nyter Box Data nede\npå 2F er lillebroren min.</language></row>
 	<row id="msg_0602_T25R1203_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Warps to the GTS and the Trainer\nRankings on 1F.</language>
-	</row>
+	<language name="Norwegian">Warps til GTS og Trainer\nRangeringer på 1F.</language></row>
 	<row id="msg_0602_T25R1203_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Warps to the studios for Box Data and\nDress-Up Data on 2F.</language>
-	</row>
+	<language name="Norwegian">Warps til studioene for Box Data og\nDress-Up Data på 2F.</language></row>
 	<row id="msg_0602_T25R1203_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Connect to Nintendo Wi-Fi\nConnection for Battle Videos? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Koble til Nintendo Wi-Fi\nKobling for kampvideoer? {YESNO 0}</language></row>
 	<row id="msg_0602_T25R1203_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Here, you may post a Battle Video of\nyour Pokémon.\rYou may also view Battle Videos posted\nby other Trainers.\rThe Battle Videos may be sorted by\nPokémon, battle facility, and so on.\rThe Battle Video you post will be\nassigned a 12-digit number.\rYour friends may view your Battle Video\nby entering this 12-digit code here.\r</language>
-	</row>
+	<language name="Norwegian">Her kan du legge ut en kampvideo av\ndin Pokémon.\rDu kan også se kampvideoer lagt ut\nav andre trenere.\rKampvideoene kan sorteres etter\nPokémon, kampanlegg, og så videre.\rKampvideoen du legger ut vil bli\ntildelt et 12-sifret nummer.\rDine venner kan se kampvideoen din\nved å skrive inn denne 12-sifrede koden her.\r</language></row>
 	<row id="msg_0602_T25R1203_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">USE</language>
-	</row>
+	<language name="Norwegian">BRUK</language></row>
 	<row id="msg_0602_T25R1203_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">INFO</language>
-	</row>
+	<language name="Norwegian">INFO</language></row>
 	<row id="msg_0602_T25R1203_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
-	</row>
+	<language name="Norwegian">AVBRYT</language></row>
 </body>

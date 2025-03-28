@@ -1,63 +1,63 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0645_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Janine</language>
-	</row>
+	<language name="Norwegian">Janine</language></row>
 	<row id="msg_0645_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sorry? I’m afraid I can’t hear you very\nwell. Must be a bad connection.\rCan you call again from somewhere else?</language>
-	</row>
+	<language name="Norwegian">Unnskyld? Jeg er redd jeg ikke hører deg så godt. Det må være en dårlig forbindelse. Kan du ringe igjen fra et annet sted?</language></row>
 	<row id="msg_0645_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello, hello, hello...\nOh, hello, what are you up to?\fI’m just fine, thanks!\r</language>
-	</row>
+	<language name="Norwegian">Hallo, hallo, hallo...\nHei, hallo, hva driver du med?\fJeg’har det helt fint, takk!\r</language></row>
 	<row id="msg_0645_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Many of the Gym Leaders are much\nstronger than I am. We’ve just got to\fwork harder!</language>
-	</row>
+	<language name="Norwegian">Mange av gymlederne er mye\nsterkere enn meg. Vi må bare jobbe hardere!</language></row>
 	<row id="msg_0645_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My schedule’s fairly open on Monday\nafternoons. Would you mind calling\fme back then?</language>
-	</row>
+	<language name="Norwegian">Jeg har ganske åpent på mandag ettermiddag. Kan du ringe meg tilbake da?</language></row>
 	<row id="msg_0645_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I can hear you clearly now.\nSay, my schedule just opened up.\fWould you like to meet for\fa battle or something? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg hører deg tydelig nå.\nSi, timeplanen min ble nettopp ledig.\fHar du lyst til å møtes for\fen kamp eller noe? {YESNO 0}</language></row>
 	<row id="msg_0645_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Super!\nI’m burning up, ready to fight!\rI’ll be waiting for you at the\nFighting Dojo in Saffron City!</language>
-	</row>
+	<language name="Norwegian">Super! \nJeg’brenner opp, klar til å slåss! \rJeg’venter på deg i\nKampdojoen i Saffron City!</language></row>
 	<row id="msg_0645_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, I getcha...\nYou’re afraid to face me...\fNah, that’s not true, right?</language>
-	</row>
+	<language name="Norwegian">Å, jeg skjønner...\nDu’er redd for å møte meg...\fNei, det’er ikke sant, vel?</language></row>
 	<row id="msg_0645_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re sure you want to meet me for\na battle?\rDon’t you have kind of a full schedule,\nwith other appointments?</language>
-	</row>
+	<language name="Norwegian">Er du sikker på at du vil møte meg til en kamp? Har du ikke en full timeplan med andre avtaler?</language></row>
 	<row id="msg_0645_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m waiting for you at the Fighting Dojo\nin Saffron City!\fCome on! Move like the wind!</language>
-	</row>
+	<language name="Norwegian">Jeg venter på deg i kampdojoen i Saffron City! Kom igjen! Beveg deg som vinden!</language></row>
 	<row id="msg_0645_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is Janine.\nHow are you doing?\r</language>
-	</row>
+	<language name="Norwegian">Dette er Janine. \nHvordan går det med deg? \r</language></row>
 	<row id="msg_0645_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Remember, you promised to meet me at\nthe Fighting Dojo in Saffron City.\fI’m ready whenever you are...like, now!</language>
-	</row>
+	<language name="Norwegian">Husk at du lovte å møte meg ved\nkampdojoen i Saffron City. \fJeg’er klar når du er ... nå!</language></row>
 	<row id="msg_0645_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, can I talk to you about my dad?\nOnly if you want to hear, though.\rSeriously? I might talk your ear off\nif I’m not careful!</language>
-	</row>
+	<language name="Norwegian">Kan jeg snakke med deg om faren min? Bare hvis du vil høre det. Jeg kan snakke øret av deg\nhvis jeg’ikke er forsiktig!</language></row>
 	<row id="msg_0645_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">See, I’ve been training with my dad\nsince I was little--to be a Gym Leader.\rI haven’t even considered taking any\nother path, really.\rIt’s my dream to someday become a\nbetter Gym Leader than Dad!</language>
-	</row>
+	<language name="Norwegian">Du skjønner, jeg har trent med pappa siden jeg var liten - for å bli gymleder.\rJeg har’ikke engang vurdert å ta noen\nannen vei, egentlig.\rDet’er drømmen min å en dag bli en\nbedre gymleder enn pappa!</language></row>
 	<row id="msg_0645_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Falkner in Violet City...\nHe’s talking about his dad all the time!\rSeriously, he’s such a daddy’s boy,\nhe needs to become his own person\fsometime, you know?\rWhat do you mean, I should talk?\fHa ha--mind your own business!</language>
-	</row>
+	<language name="Norwegian">Falkner i Violet City...\nHan’prater om faren sin hele tiden!\rAlvorlig talt, han’er en sånn pappagutt,\nhan må bli sin egen person\fen gang iblant, skjønner du?\rHva mener du med at jeg skal snakke?\fHa ha - pass dine egne saker!</language></row>
 </body>

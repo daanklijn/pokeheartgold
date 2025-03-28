@@ -1,51 +1,51 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0670_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Alfred</language>
-	</row>
+	<language name="Norwegian">Alfred</language></row>
 	<row id="msg_0670_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Well, now that we’ve made each other’s\nacquaintance, shall we trade phone\fnumbers? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Nå som vi har blitt kjent med hverandre, skal vi utveksle telefonnumre? {YESNO 0}</language></row>
 	<row id="msg_0670_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lovely!\nNow I shall be able to call you anytime.</language>
-	</row>
+	<language name="Norwegian">Nydelig! \nNå skal jeg kunne ringe deg når som helst.</language></row>
 	<row id="msg_0670_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see...\rAs to be expected, children prefer to\nspend time with others their own age...</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner...\rSom forventet foretrekker barn å tilbringe tid sammen med andre på sin egen alder...</language></row>
 	<row id="msg_0670_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You don’t really want to trade\nphone numbers with me, do you? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du har vel ikke lyst til å bytte telefonnummer med meg? {YESNO 0}</language></row>
 	<row id="msg_0670_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s wrong? Aren’t we on the same\nfloor right now?\rWhy not talk in person?</language>
-	</row>
+	<language name="Norwegian">Hva er galt? Er’vi ikke på samme\netasje akkurat nå?\rHvorfor ikke snakke sammen ansikt til ansikt?</language></row>
 	<row id="msg_0670_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I was so surprised!\nA few days ago, I received a NOCTOWL\fwhen I traded with someone.\rIt turns out that NOCTOWL was the same\none I gave away in a trade with another\fTrainer years ago!\rI guess that’s a case of “What goes\naround, comes around,” in that it came\fback to me.\rThe world is small after all!</language>
-	</row>
+	<language name="Norwegian">Jeg ble så overrasket!\nFor noen dager siden fikk jeg en NOCTOWL\fnår jeg byttet med noen.\rDet viser seg at NOCTOWL var den samme\nsom jeg ga bort i en byttehandel med en annen\ftrener for mange år siden!\rJeg antar at’det er et tilfelle av “hvad som\ngår rundt, kommer rundt,”i og med at den kom\ftilbake til meg.\rVerden er tross alt liten!</language></row>
 	<row id="msg_0670_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s kind of disappointing.\nA few days ago, I received a NOCTOWL\fwhen I traded with someone.\rIt was such a familiar NOCTOWL...\rI thought it was the NOCTOWL that I had\noriginally trained!\rIt’d somehow found its way back...\nI was so moved...\fBut when I looked closer, I saw that\fit wasn’t the NOCTOWL I thought it was.\rThat kind of thing can’t really happen\nin this world, right?</language>
-	</row>
+	<language name="Norwegian">Det’er litt skuffende.\nFor noen dager siden fikk jeg en NOCTOWL\fnår jeg byttet med noen.\rDet var en så kjent NOCTOWL...\rJeg trodde det var den NOCTOWLen jeg hadde\nopplært i utgangspunktet!\rDen’hadde på en eller annen måte funnet veien tilbake...\nJeg ble så rørt...\fMen da jeg så nærmere etter, så jeg at\fden ikke var’den NOCTOWLen jeg trodde det var.\rSlike ting kan’ikke skje\ni denne verden, ikke sant?</language></row>
 	<row id="msg_0670_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You know, whenever I try to catch a\nwild Pokémon, they seem to always run\faway. It’s happened so many times.\rA couple days ago a RATTATA got away\nfrom me...\rYou know, whenever I meet a person or\nPokémon, I always make sure to take off\fmy hat and introduce myself properly,\fand that’s when they run away.\rRATTATA are such impolite creatures...</language>
-	</row>
+	<language name="Norwegian">Du vet, hver gang jeg prøver å fange en\nvild Pokémon, ser det ut til at de alltid løper\f vekk. Det har skjedd så mange ganger. For et par dager siden stakk en RATTATA av fra meg...\rVed du, når jeg møter en person eller\nPokémon, sørger jeg alltid for å ta av meg\fhatten og presentere meg ordentlig,\fog det’er da de stikker av.\rRATTATA er så uhøflige skapninger...</language></row>
 	<row id="msg_0670_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ha ha, would you like to battle again?\nI think that’s a fine idea!\rI’ll meet you at {STRVAR_1 4, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Ha ha, har du lyst til å kjempe igjen? \nJeg synes det’er en god idé!\rJeg’møter deg på {STRVAR_1 4, 3, 0}!</language></row>
 	<row id="msg_0670_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is everything all right?\nDid you forget about our appointment?\rI’m waiting at {STRVAR_1 4, 3, 0}.\nI will see you there!</language>
-	</row>
+	<language name="Norwegian">Er alt i orden?\nHar du glemt avtalen vår?\rJeg’venter på {STRVAR_1 4, 3, 0}.\nVi ses der!</language></row>
 	<row id="msg_0670_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Just like this, when calling a young\nperson such as yourself, you can trade\finformation.\rJust like this, Pokémon bring people\ntogether, don’t they?\rTruly, Pokémon are such\nextraordinary creatures.</language>
-	</row>
+	<language name="Norwegian">Når du ringer en ung\nperson som deg selv, kan du utveksle\finformasjon.\rPå denne måten bringer Pokémon folk\nsammen, ikke sant?\rSannelig, Pokémon er slike\nekstraordinære skapninger.</language></row>
 </body>

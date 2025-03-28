@@ -1,63 +1,63 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0647_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blue</language>
-	</row>
+	<language name="Norwegian">Blå</language></row>
 	<row id="msg_0647_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wha... I can’t make out what you’re\nsaying! This connection is no good!\rCall from somewhere better, OK?</language>
-	</row>
+	<language name="Norwegian">Hva... Jeg skjønner ikke hva du sier! Denne forbindelsen er ikke bra! Ring fra et bedre sted, OK?</language></row>
 	<row id="msg_0647_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello...\nWhatever... Don’t worry about me.\fI’m doing peachy over here!\r</language>
-	</row>
+	<language name="Norwegian">Hallo...\nHva som helst... Ikke bekymre deg for meg. Jeg har det fint her borte!</language></row>
 	<row id="msg_0647_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are there any Gym Leaders you haven’t\nbattled yet?\fMake your move! Show some initiative!</language>
-	</row>
+	<language name="Norwegian">Er det noen Gymledere du har’ikke\nbattlet med ennå?\fGjør ditt trekk! Vis litt initiativ!</language></row>
 	<row id="msg_0647_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If it’s not Sunday night, then I’m not\navailable. Call then or forget about it!</language>
-	</row>
+	<language name="Norwegian">Hvis det’ikke er søndag kveld, er jeg’ikke\ntilgjengelig. Ring da, ellers kan du glemme det!</language></row>
 	<row id="msg_0647_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I was just looking for something\nto do!\fWanna battle me again? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg lette bare etter noe\nå gjøre!\fVil du kjempe mot meg igjen? {YESNO 0}</language></row>
 	<row id="msg_0647_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whatever!\nI won’t lose to you again, got that?\rI’ll be waiting at the Fighting Dojo in\nSaffron City.</language>
-	</row>
+	<language name="Norwegian">Samme det! \nJeg skal’ikke tape mot deg igjen, forstått? \rJeg’vil vente på deg i kampdojoen i\nSaffron City.</language></row>
 	<row id="msg_0647_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whatever. Sounds like you’re pretty\nbusy yourself.</language>
-	</row>
+	<language name="Norwegian">Ja, ja. Høres ut som du er ganske opptatt selv.</language></row>
 	<row id="msg_0647_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wha...?\nOh, c’mon... Haven’t you made plans\fwith enough other people?</language>
-	</row>
+	<language name="Norwegian">Hva...? Å, herregud... Har du ikke lagt planer med nok andre mennesker?</language></row>
 	<row id="msg_0647_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m waiting at the Fighting Dojo in\nSaffron City.\fC’mon, show a little initiative here!</language>
-	</row>
+	<language name="Norwegian">Jeg venter på deg i kampdojoen i Safron City, så vis litt initiativ!</language></row>
 	<row id="msg_0647_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m Blue.\r</language>
-	</row>
+	<language name="Norwegian">I’m Blue.\rm Blue</language></row>
 	<row id="msg_0647_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Remember we made plans to battle at\nthe Fighting Dojo in Saffron City?\fWha...! Did you seriously forget?\fC’mon, I don’t have all day!</language>
-	</row>
+	<language name="Norwegian">Husker du at vi hadde planer om å kjempe i kampdojoen i Saffron City? Har du virkelig glemt det? Jeg har ikke hele dagen på meg!</language></row>
 	<row id="msg_0647_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When I look at Pokémon, I get a strange\nfeeling--you ever get that?\rThere’s round ones, square ones, flying\nones, swimming ones, flaming ones,\ffreezing ones, shiny ones, dark ones--\fthere are so many different types, and\fyet, they’re all Pokémon.\rI mean, like Pokémon, there’s not\njust one type of person, either...\rBut it’s still kind of strange when you\nthink about it.</language>
-	</row>
+	<language name="Norwegian">Når jeg ser på Pokémon, får jeg en merkelig\nfølelse - har du noen gang fått det? \rDet’er runde, firkantede, flygende\ner, svømmende, flammende,\ffrysende, skinnende, mørke -\fdet er så mange forskjellige typer, og\fallikevel er de’alle Pokémon.\rJeg mener, som Pokémon, det’er ikke\nbare én type person, heller...\rMen det’er likevel litt rart når du\ntenker på det.</language></row>
 	<row id="msg_0647_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Anyway, you’re really something.\rTraveling all by yourself, visiting all\nthese different Gyms you find and\fbeating them all...\rWell, you’re not really alone...\nYou’ve got Pokémon with you!</language>
-	</row>
+	<language name="Norwegian">Uansett, du’er virkelig noe for deg selv...\rReiser helt alene, besøker alle\nde forskjellige Gymmene du finner og\fslår dem alle...\rVel, du’er ikke helt alene...\nDu’har Pokémon med deg!</language></row>
 	<row id="msg_0647_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Man, this guy called Red brought\nme down in a heartbeat.\rI haven’t seen him in a long time...\nI wonder where he is and what he’s\fup to...\rCome to think of it, you look a little bit\nlike Red. Yeah, you do.\rJust...\nJust a little bit. Whatever...</language>
-	</row>
+	<language name="Norwegian">Denne fyren som heter Red fikk meg ned på et blunk.\rJeg har’ikke sett ham på lenge...\nJeg lurer på hvor han er og hva han’har\fpå gang...\rNår jeg tenker meg om, så ligner du litt\npå Red. Ja, det gjør du. Bare litt. Samme det...</language></row>
 </body>

@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0639_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">too spicy</language>
-	</row>
+	<language name="Norwegian">for krydret</language></row>
 	<row id="msg_0639_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">too dry</language>
-	</row>
+	<language name="Norwegian">for tørr</language></row>
 	<row id="msg_0639_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">too sweet</language>
-	</row>
+	<language name="Norwegian">for søt</language></row>
 	<row id="msg_0639_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">too bitter</language>
-	</row>
+	<language name="Norwegian">for bitter</language></row>
 	<row id="msg_0639_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">too sour</language>
-	</row>
+	<language name="Norwegian">for surt</language></row>
 </body>

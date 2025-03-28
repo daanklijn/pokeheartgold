@@ -1,59 +1,59 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0611_T26R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You!\nHow is your Pokémon training\fcoming along?\rHave you ever noticed that in the\nmountains, sometimes there are round\fboulders right in your way...?\rYou can move them with the\nhidden move Strength!\rHikers at Mt. Mortar sometimes have\nextra, or so I’ve heard...</language>
-	</row>
+	<language name="Norwegian">Du!\nHvordan går det med Pokémon-treningen\fdin?\rHar du noen gang lagt merke til at det i fjellene noen ganger ligger runde\nsteinblokker i veien for deg...?\rDu kan flytte dem med det\nskjulte trekket Styrke!\rTurister på Morterfjellet har noen ganger\nekstra....\rDu kan flytte dem med den\nskjulte bevegelsen Styrke!\rTurister på Morterfjellet har noen ganger\nekstra, det har jeg i hvert fall’hørt...</language></row>
 	<row id="msg_0611_T26R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Gobble...gobble...\r...Choke!\nAck... I’m choking!\rWhew! That was close.\nI should chew before I swallow my food.</language>
-	</row>
+	<language name="Norwegian">Gobble...gobble...\r...Choke!\nAck... Jeg setter i halsen! Det var nære på...\nJeg burde tygge før jeg svelger maten.</language></row>
 	<row id="msg_0611_T26R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whenever I roll into Olivine, I always\nvisit the Olivine Café.\rEverything on the menu makes me feel\nstronger. I can’t stop eating!</language>
-	</row>
+	<language name="Norwegian">Hver gang jeg kommer til Olivine, besøker jeg alltid\nOlivine Café.\rAlt på menyen får meg til å føle meg\nsterkere. Jeg kan’ikke slutte å spise!</language></row>
 	<row id="msg_0611_T26R0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Olivine Café’s menu is chock-full\nof hearty fare for beefy Sailors!</language>
-	</row>
+	<language name="Norwegian">Olivine Café’s meny er full av\ndeilige retter for kjøttfulle sjømenn!</language></row>
 	<row id="msg_0611_T26R0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Hi!\n...!\rThese empty dishes in front of me\nare not all mine...\rEr...\rActually, the person who sat here\nahead of me ate a lot...\rAnyway, do you want to exchange\nphone numbers? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jasmine: Hei!\n...!\rDe tomme tallerkenene foran meg\ner ikke alle mine...\rEr...\rPersonen som satt her\nforan meg spiste faktisk mye...\rVil du utveksle\ntelefonnr...\rI alle fall, vil du utveksle\ntelefonnr. {YESNO 0}</language></row>
 	<row id="msg_0611_T26R0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} registered Jasmine\nin the Pokégear!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} registrerte Jasmine\ni Pokégear!</language></row>
 	<row id="msg_0611_T26R0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Now we can contact each\nother anytime.\rI should be able to battle you around\nnoon on Wednesdays.\fI’ll be waiting for your call!</language>
-	</row>
+	<language name="Norwegian">Jasmine: Nå kan vi kontakte hverandre når som helst.\nJeg burde kunne treffe deg rundt\nformiddag på onsdager.\fJeg’venter på at du ringer!</language></row>
 	<row id="msg_0611_T26R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Oh... I understand...</language>
-	</row>
+	<language name="Norwegian">Jasmine: Jeg forstår...</language></row>
 	<row id="msg_0611_T26R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Did you change your mind?\nWill you exchange numbers? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jasmine: Har du ombestemt deg? Vil du bytte nummer? {YESNO 0}</language></row>
 	<row id="msg_0611_T26R0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: We seem to...bump into each\nother often.\rWhy don’t we take a picture\nto make this a memory? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jasmine: Det ser ut til at vi støter på hverandre ofte\nHvorfor kan vi ikke ta et bilde’for å gjøre dette til et minne? {YESNO 0}</language></row>
 	<row id="msg_0611_T26R0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: Are you ready?\r</language>
-	</row>
+	<language name="Norwegian">Jasmine: Er du klar?</language></row>
 	<row id="msg_0611_T26R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: You did a fine job.\nWe look good.</language>
-	</row>
+	<language name="Norwegian">Jasmine: Du gjorde en god jobb. Vi ser bra ut.</language></row>
 	<row id="msg_0611_T26R0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: I see...</language>
-	</row>
+	<language name="Norwegian">Jasmine: Jeg skjønner...</language></row>
 	<row id="msg_0611_T26R0701_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your Photo Album is full.\rAccess your PC to delete\nsome pictures.</language>
-	</row>
+	<language name="Norwegian">Fotoalbumet ditt er fullt. \rFå tilgang til PC-en din for å slette\nnoen bilder.</language></row>
 </body>

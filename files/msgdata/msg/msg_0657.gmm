@@ -1,63 +1,63 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0657_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Brock</language>
-	</row>
+	<language name="Norwegian">Brock</language></row>
 	<row id="msg_0657_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh? I can’t hear you. I think we’ve\ngot a bad connection.\rGo somewhere else and call again!</language>
-	</row>
+	<language name="Norwegian">Hva? Jeg kan ikke høre deg. Jeg tror vi’har\ndårlig forbindelse.\rGå et annet sted og ring igjen!</language></row>
 	<row id="msg_0657_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello...\nWhat’s up?\fI’m doing great!\r</language>
-	</row>
+	<language name="Norwegian">Hallo...\nHva skjer’?\fJeg’har det flott!\r</language></row>
 	<row id="msg_0657_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmm... I’d like to battle you again, but\nI think there’re some Gyms that you\fhaven’t visited yet, aren’t there?</language>
-	</row>
+	<language name="Norwegian">Hmm... Jeg’vil gjerne kjempe mot deg igjen, men’jeg tror det’er noen treningssentre som du\fikke’har’besøkt ennå, er det ikke det?</language></row>
 	<row id="msg_0657_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I can take a break on Saturday\nevenings, if you want to give me a call\fagain then.</language>
-	</row>
+	<language name="Norwegian">Jeg kan ta en pause på lørdager\nkvelder, hvis du vil ringe meg\f igjen da.</language></row>
 	<row id="msg_0657_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, you called at just the right time!\nI’m free right now.\fWant to battle me again? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei, du ringte akkurat i rett tid! \nJeg’er ledig akkurat nå.\fVil du kjempe mot meg igjen? {YESNO 0}</language></row>
 	<row id="msg_0657_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right, all right!\nI’m looking forward to it!\rI’ll meet you at the Fighting Dojo in\nSaffron City!\rI won’t be at the Pewter Gym, all right?\nDon’t get confused!</language>
-	</row>
+	<language name="Norwegian">Greit, greit!\nJeg’ser frem til det!\rJeg’møter deg på Fighting Dojo i\nSaffron City!\rJeg kommer’ikke til å være på Pewter Gym, ok?\nIkke bli’forvirret!\nIkke bli’forvirret!</language></row>
 	<row id="msg_0657_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is that so...\nWell, I suppose you must have a lot of\fthings to do yourself...</language>
-	</row>
+	<language name="Norwegian">Er det slik...\nJeg antar at du må ha mye å gjøre selv...</language></row>
 	<row id="msg_0657_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yeah, I’d really like to battle with you\nagain... But I think you’ve got an\fappointment with someone else?\rOnce you’ve taken care of your\nobligations with other Trainers,\fthen call me again!</language>
-	</row>
+	<language name="Norwegian">Ja, jeg skulle gjerne ha kjempet med deg igjen... Men jeg tror du’har en\favtale med noen andre? \rNår du’har tatt deg av dine\nforpliktelser med andre trenere,\fså ring meg igjen!</language></row>
 	<row id="msg_0657_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ll be waiting for you to arrive at\nthe Fighting Dojo in Saffron City.\fIt’s a promise between Trainers!</language>
-	</row>
+	<language name="Norwegian">Jeg’vil vente på deg når du kommer til\nkampdojoen i Saffron City.\fDet’er et løfte mellom trenere!</language></row>
 	<row id="msg_0657_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is Brock.\nOh hey, how are you doing?\r</language>
-	</row>
+	<language name="Norwegian">Dette er Brock. \nHei, hvordan går det? \r</language></row>
 	<row id="msg_0657_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We made plans to battle at the Fighting\nDojo in Saffron City, didn’t we?\fYou didn’t forget, did you?</language>
-	</row>
+	<language name="Norwegian">Vi hadde planer om å kjempe ved Fighting Dojo i Saffron City, ikke sant? Du har vel ikke glemt det?</language></row>
 	<row id="msg_0657_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A large earthquake struck recently.\nSome of the walls in my Gym\fcrumbled a bit.\rWell, I guess that’s just the kind of\nthing my Gym’s known for.\rSo even if the walls crumbled a bit,\nnobody would really notice!</language>
-	</row>
+	<language name="Norwegian">Et stort jordskjelv rammet nylig.\nNoen av veggene i gymsalen min\fsmuldret litt.\rJeg antar at det’er akkurat den typen\nting gymsalen min’er kjent for.\rSå selv om veggene smuldret litt,\ner det ingen som legger merke til det!</language></row>
 	<row id="msg_0657_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There are so many different types of\nPokémon in the world. As you could\fguess, I like Rock-type Pokémon best.\rThey’re solid and rough, and yet\nsomewhat brittle at the same time.\fOnce you’ve really gotten to know\fthem, they’re even quite cute.\rWhat do you think?</language>
-	</row>
+	<language name="Norwegian">Det finnes så mange forskjellige typer\nPokémon i verden. Som du kanskje kan\fgette, liker jeg best Pokémon av steintypen.\rDe’er solide og røffe, og samtidig\nen smule sprø.\fNår du først har blitt kjent med dem, er de’til og med ganske søte.\rHva synes du?</language></row>
 	<row id="msg_0657_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Every town’s Pokémon Gym is different!\nThe design, the tricks, everything is so\fdifferent. It’s interesting!\rEach Gym Leader assigned to take care\nof a Gym by the Pokémon League gets to\fdesign as they please.\rOf course, Pewter Gym’s design is my\npride and joy!\rThe tricks aren’t much, but you can’t\ndeny that when you enter, the design\fhas a breathtaking impact, right?</language>
-	</row>
+	<language name="Norwegian">Hver bys Pokémon Gym er forskjellig!’Designet, triksene, alt er så\fforskjellig. Det er’interessant!\rHver Gym-leder som får i oppdrag av Pokémon League å ta seg\nav et Gym, får\fdesigne det som de vil.\rSelvfølgelig er Pewter Gym’designet min\nstolthet og glede!\rTriksene er’ikke mye, men du kan’ikke\nnekte for at når du kommer inn, har designet\fen fantastisk virkning, ikke sant?</language></row>
 </body>

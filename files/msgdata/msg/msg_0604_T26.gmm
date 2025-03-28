@@ -1,39 +1,39 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0604_T26_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\rYou again?\rThere’s no need to be alert.\nI don’t bother with wimps like you.\rSpeaking of weaklings, the city’s\nGym Leader isn’t here, and\fis supposedly taking care of a\fsick Pokémon at the Lighthouse.\rHumph! Boo-hoo!\nJust let sick Pokémon go!\rA Pokémon that can’t battle\nis worthless!\rWhy don’t you go train at\nthe Lighthouse?\rWho knows? It may make you a bit\nof a better Trainer!\r</language>
-	</row>
+	<language name="Norwegian">...\rDu igjen? \rDet er ingen grunn til å være på vakt.\nJeg gidder ikke bry meg med sveklinger som deg.\rApropos sveklinger, byens’Gymleder er\nikke her, og\fskal visstnok ta seg av en\fsyk Pokémon på fyrtårnet.\rHumph! Boo-hoo!\nLa bare syke Pokémon gå!\rEn Pokémon som ikke kan’kjempe\ner verdiløs!\rHvorfor går du ikke’og trener på\nFyrtårnet?\rHvem vet? Det kan gjøre deg til en litt\nbedre trener!</language></row>
 	<row id="msg_0604_T26_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dark roads are dangerous at night.\rBut, in the pitch-black night,\nthe sea is even more treacherous!\rWithout the beacon of the Lighthouse\nto guide her, no ship can sail.</language>
-	</row>
+	<language name="Norwegian">Mørke veier er farlige om natten.\rMen i den bekmørke natten er havet enda mer forrædersk!\rUten fyrtårnet\nsom kan vise vei, kan ikke noe skip seile.</language></row>
 	<row id="msg_0604_T26_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That thing you have--\nit’s a Pokégear, right?\fWow, that’s cool.</language>
-	</row>
+	<language name="Norwegian">Den greia du har -\ndet’er en Pokégear, ikke sant?\fWow, det’er kult.</language></row>
 	<row id="msg_0604_T26_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow, you have a Pokémon!\nThat is just so awesome.</language>
-	</row>
+	<language name="Norwegian">Jøss, du har en Pokémon! Det er bare så fantastisk.</language></row>
 	<row id="msg_0604_T26_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You, young Trainer!\nThe sea is sweet!\rSing with me!\fThe sea is blue!\nThe sea is salty!</language>
-	</row>
+	<language name="Norwegian">Du, unge trener!\nHavet er søtt!\rSyng med meg!\fHavet er blått!\nHavet er salt!</language></row>
 	<row id="msg_0604_T26_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Olivine City\nThe Port with Sea Breezes</language>
-	</row>
+	<language name="Norwegian">Olivine City\nHavnen med havbrisen</language></row>
 	<row id="msg_0604_T26_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Olivine Port\nFast-Ship Pier</language>
-	</row>
+	<language name="Norwegian">Olivine Port\nFastskipskai</language></row>
 	<row id="msg_0604_T26_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Olivine City Pokémon Gym\nLeader: Jasmine\fThe Steel-Clad Defense Girl</language>
-	</row>
+	<language name="Norwegian">Olivine City Pokémon Gym\nLeder: Jasmine\fDen stålkledde forsvarsjenta</language></row>
 	<row id="msg_0604_T26_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Olivine’s Lighthouse\rIt is also known as\nthe Glitter Lighthouse.</language>
-	</row>
+	<language name="Norwegian">Olivine’s Lighthouse\rDet er også kjent som\nglitterfyret.</language></row>
 </body>

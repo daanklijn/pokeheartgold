@@ -1,39 +1,39 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0607_T26PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokémon get more friendly if you\nspend time with them.</language>
-	</row>
+	<language name="Norwegian">Pokémon blir mer vennlige hvis du\nbruker tid sammen med dem.</language></row>
 	<row id="msg_0607_T26PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">They can shine like a bright light--\nlike a beacon at night to guide us...\rThey can take us across the water on\ntheir backs when we are without\fa boat...\rPokémon are helping us everywhere.\fI can’t imagine a life without them!</language>
-	</row>
+	<language name="Norwegian">De kan skinne som et sterkt lys -\nsom et fyrtårn om natten for å veilede oss...\rDe kan ta oss over vannet på\nryggen når vi er uten\fen båt...\rPokémon hjelper oss overalt.\fJeg kan’ikke forestille meg et liv uten dem!</language></row>
 	<row id="msg_0607_T26PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s a person in Cianwood City\nacross the sea.\rI heard him bragging about his\nrare Pokémon.</language>
-	</row>
+	<language name="Norwegian">Det’er en person i Cianwood City\npå den andre siden av havet.\rJeg hørte ham skryte av sine\nsjeldne Pokémon.</language></row>
 	<row id="msg_0607_T26PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...There!\nAll done!\fIt’s sure to surprise anyone!\r</language>
-	</row>
+	<language name="Norwegian">...Der!\nSå er det gjort!\fDet’ vil garantert overraske alle!\r</language></row>
 	<row id="msg_0607_T26PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, are you a Trainer?\rYou came at just the right time!\nI just finished putting my Ball Capsule\fon my Poké Ball.\rDo you want to battle and be\namazed by my decoration? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Å, er du en trener?\rDu kom akkurat til rett tid!\nJeg er akkurat ferdig med å sette ballkapselen\fpå pokéballen min.\rVil du kjempe og bli\nforbløffet over utsmykningen min? {YESNO 0}</language></row>
 	<row id="msg_0607_T26PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right!\nHere I come!\r</language>
-	</row>
+	<language name="Norwegian">Greit! \nHer kommer jeg! \r</language></row>
 	<row id="msg_0607_T26PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can turn your Poké Balls into your\nown special creations by adding Seals.\rHow cool is it to have a Poké Ball that\nonly you have in the entire world?\fGive it a whirl!\rOh, remember to put the Ball Capsule\non a Poké Ball once it’s ready!</language>
-	</row>
+	<language name="Norwegian">Du kan gjøre Pokéballene dine til dine\negne spesialkreasjoner ved å legge til segl.\rHvor kult er det ikke å ha en Pokéball som\nbare du har i hele verden?\fPrøv det! \rHusk å sette ballkapselen\npå en Pokéball når den’er klar!</language></row>
 	<row id="msg_0607_T26PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, really?\rTalk to me if you want to see my\nBall Capsule sometime!</language>
-	</row>
+	<language name="Norwegian">Å, virkelig? Snakk med meg hvis du vil se ballkapselen min en gang!</language></row>
 	<row id="msg_0607_T26PC0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Now you want to see my Ball Capsule?\rBattle me so I can show it to you! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Nå vil du se ballkapselen min? \rKamp mot meg så jeg kan vise deg den! {YESNO 0}</language></row>
 </body>

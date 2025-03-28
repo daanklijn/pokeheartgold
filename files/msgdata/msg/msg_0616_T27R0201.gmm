@@ -1,47 +1,47 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0616_T27R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Past here is the Bell Tower.\nThis tower was built as a place of rest\ffor HO-OH, the legendary Flying-type\fPokémon.\rSince HO-OH left, many people have gone\nup to the tower to try to bring it back.\rBut none have succeeded in making\nHO-OH appear...\rMorty, the Gym Leader, is one who\nhas tried.\rYou don’t seem to have the Ecruteak\nGym Badge. If you can’t even defeat\fMorty, going up there will be\fa waste of time.\rSorry, but you’ll have to leave.</language>
-	</row>
+	<language name="Norwegian">Forbi her ligger klokketårnet.\nDette tårnet ble bygget som et hvilested\ffor HO-OH, den legendariske flytypen\fPokémon.\rSiden HO-OH dro, har mange mennesker gått\nopp i tårnet for å prøve å få den tilbake.\rMen ingen har lykkes med å få\nHO-OH til å dukke opp...\rMorty, Gym-lederen, er en av dem som\nhar prøvd.\rDu ser ikke ut til å ha Ecruteak\nGym-merket. Hvis du ikke engang kan’besejre\fMorty, er det bortkastet tid å gå opp dit.\rSorry, men du’må dra.</language></row>
 	<row id="msg_0616_T27R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Morty, the Gym Leader, ascended this\ntower to try to bring back HO-OH,\fbecause it no longer appears.\rEven he couldn’t bring it back.\rYou don’t seem to have the Ecruteak\nGym Badge.\rIf you can’t even defeat Morty, going\nup there will be a waste of time.\rSorry, but you’ll have to leave.</language>
-	</row>
+	<language name="Norwegian">Morty, Gymlederen, klatret opp i dette\ntårnet for å prøve å få tilbake HO-OH,\ffordi det ikke lenger finnes.\rHan kunne’ikke engang få det tilbake.\rDet ser ikke ut til at du har Ecruteak\nGym Badge.\rHvis du ikke engang kan’beseire Morty, vil det være bortkastet tid å gå\nopp dit.\rUnskyld, men du’må dra.</language></row>
 	<row id="msg_0616_T27R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Past here is the Bell Tower.\nThis tower was built as a place of rest\ffor HO-OH, the legendary Flying-type\fPokémon.\rSince HO-OH left, many people have gone\nup to the tower to try to bring it back.\rBut none have succeeded in making\nHO-OH appear...\rMorty, the Gym Leader, is one who\nhas tried.\rI see...\fThat’s the Ecruteak Gym Badge.\rThe Badge alone will not do any good,\nbut I can let you through.\rPlease, do go on.\r</language>
-	</row>
+	<language name="Norwegian">Forbi her ligger klokketårnet.\nDette tårnet ble bygget som et hvilested\ffor HO-OH, den legendariske flytypen\fPokémon.\rSiden HO-OH dro, har mange gått\nopp i tårnet for å prøve å få den tilbake.\rMen ingen har lykkes i å få\nHO-OH til å dukke opp...\rMorty, Gymlederen, er en av dem som\nhar prøvd.\rJeg ser...\fDet’er Ecruteak Gym-merket.\rMerket alene vil ikke gjøre noen nytte, \nmen jeg kan slippe deg gjennom.\rVær så snill, fortsett.\r</language></row>
 	<row id="msg_0616_T27R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see...\nThat’s the Ecruteak Gym Badge.\rThe Badge alone will not do any good,\nbut I can let you through.\rPlease, do go on.\r</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner...\nDet’er Ecruteak Gym Badge.\rBadgen alene vil ikke gjøre noen nytte, \nmen jeg kan slippe deg gjennom.\rVær så snill, fortsett.\r</language></row>
 	<row id="msg_0616_T27R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please, do go on.</language>
-	</row>
+	<language name="Norwegian">Vær så snill, fortsett.</language></row>
 	<row id="msg_0616_T27R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Having been able to witness HO-OH\ncoming back to this tower is more than\fworth the training I have gone through.</language>
-	</row>
+	<language name="Norwegian">Å ha vært vitne til at HO-OH\nkommer tilbake til dette tårnet er mer enn\f verdt treningen jeg har gått gjennom.</language></row>
 	<row id="msg_0616_T27R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Only those who possess the Rainbow Wing\nare given permission to go up to\fthe top of the Bell Tower...\rBut the rainbow-hued Pokémon will\nnot come down for just anybody who\fgoes up there.\rThere must be something else you need.\nI’ve heard the Kimono Girls know\fsomething about it.</language>
-	</row>
+	<language name="Norwegian">Bare de som har Regnbuevingen\nfår tillatelse til å gå opp til\ftoppen av klokketårnet...\rMen de regnbuefargede Pokémon vil\nikke komme ned for hvem som helst som\fgår opp dit.\rDet må være noe annet du trenger.\nJeg’har hørt at Kimono-jentene vet\fnoe om det.</language></row>
 	<row id="msg_0616_T27R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Johto region has two legends.\rOne is the legend about Whirl Islands.\nThe other is the Bell Tower legend...\rWe have been passing down the\nBell Tower legend for generations\fin Ecruteak City.</language>
-	</row>
+	<language name="Norwegian">Johto-regionen har to legender.\rDen ene er legenden om Virveløyene.\nDen andre er legenden om Klokketårnet...\rVi har overlevert\nLegenden om Klokketårnet i generasjoner\fi Ecruteak City.</language></row>
 	<row id="msg_0616_T27R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Bell Tower shook!\rIt must be HO-OH...\nHO-OH must have returned to the top!</language>
-	</row>
+	<language name="Norwegian">Klokketårnet ristet! \rDet må være HO-OH ...\nHO-OH må ha vendt tilbake til toppen!</language></row>
 	<row id="msg_0616_T27R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Such a young one to take on HO-OH...</language>
-	</row>
+	<language name="Norwegian">En så ung en å ta på seg HO-OH...</language></row>
 	<row id="msg_0616_T27R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The rainbow-hued Pokémon flying\ngracefully over the tower...\rThe silvery, sparkling Pokémon resting\ngently upon the whirling seabed...\rAll of this is far beyond my imagination.</language>
-	</row>
+	<language name="Norwegian">Den regnbuefargede Pokémon som flyr\ngrasiøst over tårnet...\rDen sølvskinnende, glitrende Pokémon som hviler\nhvilt på den virvlende havbunnen...\rAlt dette er langt utenfor min fantasi.</language></row>
 </body>

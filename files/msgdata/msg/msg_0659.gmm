@@ -1,63 +1,63 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0659_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pryce</language>
-	</row>
+	<language name="Norwegian">Pryce</language></row>
 	<row id="msg_0659_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What? I can’t hear you very well.\nI think we’ve got a bad connection.\rWell, if you have something you want to\ntalk to me about, go somewhere else and\ftry calling again.</language>
-	</row>
+	<language name="Norwegian">Hva? Jeg kan’ikke høre deg særlig godt.\nJeg tror vi’har dårlig forbindelse.\rHvis du har noe du vil\nsnakke med meg om, kan du gå et annet sted og\fprøve å ringe igjen.</language></row>
 	<row id="msg_0659_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello...\nOh, hi, how are you?\fI’m doing fine, thanks.\r</language>
-	</row>
+	<language name="Norwegian">Hallo...\nHei, hvordan har du det?\fJeg’har det bra, takk.\r</language></row>
 	<row id="msg_0659_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You know, there are Gym Leaders out\nthere who are stronger than me.\fYou should try battling them.\fI don’t think you’d lose.</language>
-	</row>
+	<language name="Norwegian">Du vet, det finnes Gymledere der ute som er sterkere enn meg.\fDu burde prøve å kjempe mot dem.\fJeg tror’ikke du’vil tape.</language></row>
 	<row id="msg_0659_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I usually get up pretty early...\nIf we’re going to battle, I’m at my best\fin the morning... How about you give me\fa call on Monday morning!</language>
-	</row>
+	<language name="Norwegian">Jeg står vanligvis opp ganske tidlig...\nHvis vi’skal slåss, er jeg’på mitt beste\fom morgenen... Hva med å ringe meg på mandag morgen!</language></row>
 	<row id="msg_0659_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, perfect timing!\nI was starting to get bored...\fDo you want to battle again? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Perfekt timing! \nJeg begynte å kjede meg...\fVil du kjempe igjen? {YESNO 0}</language></row>
 	<row id="msg_0659_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Honesty is good.\rSo, I’ll meet you at the Fighting Dojo in\nSaffron City, then?</language>
-	</row>
+	<language name="Norwegian">Ærlighet er bra. Så jeg møter deg i kampdojoen i Safron City, da?</language></row>
 	<row id="msg_0659_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see. Well, that’s how it’s got\nto be...\rIf you ever change your mind, give me\na call.\rRemember, I’m free on Monday mornings.</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner. Vel, det er slik det må være... Hvis du ombestemmer deg, så ring meg. Husk at jeg er ledig på mandag morgen.</language></row>
 	<row id="msg_0659_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmm. Do you really have the time to\nbattle me right now?\rIf you’ve got plans with other people,\nyou should take care of those first,\fdon’t you think?</language>
-	</row>
+	<language name="Norwegian">Hmm. Har du virkelig tid til å slåss mot meg akkurat nå? Hvis du har planer med andre mennesker, bør du ta deg av dem først, synes du ikke?</language></row>
 	<row id="msg_0659_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right, I will see you at the\nFighting Dojo in Saffron City.\fI won’t be late. Don’t worry!</language>
-	</row>
+	<language name="Norwegian">Greit, vi ses i kampdojoen i Saffron City. Jeg kommer ikke for sent. Ikke vær redd!</language></row>
 	<row id="msg_0659_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yes, this is Pryce.\nHow are you doing?\r</language>
-	</row>
+	<language name="Norwegian">Ja, dette er Pryce. \nHvordan går det med deg? \r</language></row>
 	<row id="msg_0659_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We made plans to battle at the Fighting\nDojo in Saffron City.\fYou didn’t forget, did you?\fI’m waiting there for you.</language>
-	</row>
+	<language name="Norwegian">Vi hadde planer om å kjempe i Fighting Dojo i Saffron City. \fDu har vel ikke glemt det? \fJeg’venter på deg der.</language></row>
 	<row id="msg_0659_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Just like one of my children...\rNo.\rYou’re more like one of my\ngrandchildren...\rThere’s such an age difference between\nmyself and the Trainers who defeat me\fnowadays...\rBut you know, the strange thing is that\nwhen I lose, I don’t feel disappointed.\rI just feel happy.\rJust happy that such talented Trainers\nhave come to see me.\r...I just wanted to talk to someone\nabout that, so I called you.\rThat’s all.</language>
-	</row>
+	<language name="Norwegian">Akkurat som et av mine barn...\rNei.\rDu’er mer som et av mine\nbarnebarn...\rDet’er en slik aldersforskjell mellom\nmeg selv og de trenerne som slår meg\fnå for tiden...\rMen vet du, det rare er at\nnår jeg taper, føler jeg meg ikke’skuffet.\rJeg føler meg bare glad.\rJeg er bare glad for at så talentfulle trenere\nhar kommet for å treffe meg.\r...Jeg ville bare snakke med noen\nom det, så jeg ringte deg.\rDet’er alt.</language></row>
 	<row id="msg_0659_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know why they call me the winter\nTrainer? Do you recall that my middle\fname is “Willow”?\rThe willow tree looks like it withers in\nwinter’s cold. But really, it sprouts\fdozens of new buds.\rMy fighting style is also strong just\nlike that...\rIt’s written in old books, you know.\nYou should look it up sometime.</language>
-	</row>
+	<language name="Norwegian">Vet du hvorfor de kaller meg vinter\nTreneren? Husker du at mellomnavnet mitt er \fPil“Pil”?\rPiletreet ser ut som om det visner i\nvinterens’kulde. Men i virkeligheten spirer det\fdusinvis av nye knopper.\rMin kampstil er også sterk, akkurat\nslik ...\rDet’står skrevet i gamle bøker, vet du.\nDu burde slå det opp en gang.</language></row>
 	<row id="msg_0659_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That reminds me, you kept Team\nRocket’s treachery in check, right?\rHumph...\nThat’s a praiseworthy deed and an\fappropriate responsibility for a Trainer\fwho could defeat me.\rI think there’s still several things I\ncould stand to learn from you.\rI’m looking forward to it.</language>
-	</row>
+	<language name="Norwegian">Det minner meg på at du holdt Team\nRocket’s forræderi i sjakk, ikke sant? \rHumph...\nDet’er en prisverdig gjerning og et\fpassende ansvar for en Trener\fsom kunne beseire meg.\rJeg tror det’er flere ting jeg\nkan lære av deg.\rJeg’ser frem til det.</language></row>
 </body>

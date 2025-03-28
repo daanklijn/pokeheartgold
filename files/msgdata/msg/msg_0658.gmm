@@ -1,63 +1,63 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0658_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bugsy</language>
-	</row>
+	<language name="Norwegian">Bugsy</language></row>
 	<row id="msg_0658_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh? I can’t hear you very well!\nI think we’ve got a bad connection.\rCall me back from somewhere else!</language>
-	</row>
+	<language name="Norwegian">Hva? Jeg hører deg ikke så godt! Jeg tror forbindelsen er dårlig. Ring meg tilbake fra et annet sted!</language></row>
 	<row id="msg_0658_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello? How are you?\nI’m doing great as usual!\r</language>
-	</row>
+	<language name="Norwegian">Hallo? Hvordan går det? Hvordan har du det? Jeg har det bra som vanlig!</language></row>
 	<row id="msg_0658_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There are so many stronger Gym\nLeaders than me out there.\rYou’re trying to visit every Gym around\nthe region, aren’t you?\fThat’s great! Keep up the good work!</language>
-	</row>
+	<language name="Norwegian">Det er så mange sterkere Gym\nLedere enn meg der ute.\rDu’prøver å besøke alle Gym rundt\ni regionen, gjør du ikke’ikke sant?\fDet’er flott! Fortsett med det gode arbeidet!</language></row>
 	<row id="msg_0658_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">On Thursdays around noon, I’m\nusually free.\fIf you want to see my Bug-type Pokémon\fagain, you should call me then!</language>
-	</row>
+	<language name="Norwegian">På torsdager rundt kl. 12.00 er jeg’m\nvanligvis ledig.\fHvis du vil se mine Pokémon av insekttypen\f igjen, bør du ringe meg da!</language></row>
 	<row id="msg_0658_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, you called at just the right time!\nI’m not doing anything right now.\fWanna battle again? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Å, du ringte akkurat i rett tid! \nJeg’har ikke noe å gjøre akkurat nå.\fVil du kjempe igjen? {YESNO 0}</language></row>
 	<row id="msg_0658_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right!\rSee you at the Fighting Dojo in\nSaffron City!</language>
-	</row>
+	<language name="Norwegian">Greit! Vi ses i kampdojoen i Safron City!</language></row>
 	<row id="msg_0658_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see...\nWell, there’s no helping that...</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner...\nDet er ikke noe å gjøre med det...</language></row>
 	<row id="msg_0658_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh?\nIt’s great that you want to battle,\fbut don’t you have other plans?\rYou should take care of those plans\nfirst, and then give me a call.</language>
-	</row>
+	<language name="Norwegian">Det er flott at du vil kjempe, men har du ikke andre planer? Du bør ta deg av de planene først, og så kan du ringe meg.</language></row>
 	<row id="msg_0658_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right, I’ll be waiting for you at the\nFighting Dojo in Saffron City!\fRace you there!</language>
-	</row>
+	<language name="Norwegian">Greit, jeg’venter på deg ved\nKampdojoen i Saffron City!\fKjør om kapp med deg dit!</language></row>
 	<row id="msg_0658_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yeah, this is Bugsy...\nWhat’s up?\r</language>
-	</row>
+	<language name="Norwegian">Ja, dette er Bugsy...\nHva skjer?</language></row>
 	<row id="msg_0658_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, didn’t we make plans to meet at\nthe Fighting Dojo in Saffron City for a\fbattle? Did you forget or something?</language>
-	</row>
+	<language name="Norwegian">Hei, skulle vi ikke møtes i kampdojoen i Saffron City for en kamp? Har du glemt det eller noe?</language></row>
 	<row id="msg_0658_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You know, everyone’s really into\nBug-type Pokémon when they’re kids.\rBut then for some reason, as people\ngrow up, at some point they all start\fto like Bug-type Pokémon less and less.\rHow about you?\nDo you still like Bug-type Pokémon?\rEven if I grow up I’ll never stop liking\nBug-type Pokémon, no way!</language>
-	</row>
+	<language name="Norwegian">Du vet, alle’er veldig glad i’insekt-type Pokémon når de’er barn.\rMen av en eller annen grunn, etter hvert som folk\nvokser opp, begynner de på et eller annet tidspunkt å\flike insekt-type Pokémon mindre og mindre.\rHva med deg?\nLiker du fortsatt Pokémon av insekttypen?\rSelv om jeg blir voksen vil jeg’aldri slutte å like\nPokémon av insekttypen, aldri i livet!</language></row>
 	<row id="msg_0658_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My Gym has such a different trick to it,\ndoesn’t it?\rIt may seem like it was really difficult\nto get a trick like that set up...\fBut the truth is, it was actually\fpretty easy.\rFirst we ran the ropes through the\nGym, then all the Pokémon helped us\ffinish everything else up!</language>
-	</row>
+	<language name="Norwegian">Gymmet mitt har et så annerledes triks,\nikke sant? \rDet kan virke som om det var veldig vanskelig\nå få til et slikt triks...\fMen sannheten er at det faktisk var\fganske enkelt.\rFørst kjørte vi tauene gjennom\nGym, og så hjalp alle Pokémon oss\fmed å gjøre alt det andre ferdig!</language></row>
 	<row id="msg_0658_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I think I’ve already mentioned this to\nyou, but did you know I’m doing\fresearch on Bug-type Pokémon?\rThere’s so many different kinds, it’s a\nbit difficult, you know?\rI’m just studying Bug-type Pokémon,\nand yet it’s still this difficult.\rPeople like Professor Elm and\nProfessor Oak who study all the\fdifferent types of Pokémon are really\fsomething else, you know?</language>
-	</row>
+	<language name="Norwegian">Jeg tror jeg’har allerede nevnt dette for\ndeg, men visste du at jeg’forsker\fpå Pokémon av insekttypen?\rDet’er så mange forskjellige typer, det’er litt\nvanskelig, skjønner du?\rJeg’studerer bare Pokémon av insekttypen,\nog likevel er det’så vanskelig.\rFolk som professor Elm og\nprofessor Oak som studerer alle de\fforskjellige typene Pokémon er virkelig\fnoe helt annet, skjønner du?</language></row>
 </body>

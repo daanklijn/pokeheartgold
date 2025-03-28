@@ -1,83 +1,83 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0612_T27_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ecruteak used to have two towers,\none in the east and one in the west.</language>
-	</row>
+	<language name="Norwegian">Ecruteak hadde tidligere to tårn, \net i øst og et i vest.</language></row>
 	<row id="msg_0612_T27_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Have you heard that they are talking\nabout rebuilding the Burned Tower?\rThere will be two towers again!\nI’m looking forward to it!</language>
-	</row>
+	<language name="Norwegian">Har du hørt at de snakker\nom å bygge opp igjen det brente tårnet?\rDet blir to tårn igjen!\nJeg’ gleder meg til det!</language></row>
 	<row id="msg_0612_T27_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmm...\nI thought I just heard a woman\fscreaming or something...\rIs that just me?</language>
-	</row>
+	<language name="Norwegian">Hmm ... \nJeg syntes jeg nettopp hørte en kvinne\fskrike eller noe ... \rEr det bare meg?</language></row>
 	<row id="msg_0612_T27_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kimono Girls are always rehearsing their\ndances at the Dance Theater there.</language>
-	</row>
+	<language name="Norwegian">Kimono-jentene øver alltid på dansene sine på danseteateret der.</language></row>
 	<row id="msg_0612_T27_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m going to rehearse at the\nDance Theater. Care to join me?</language>
-	</row>
+	<language name="Norwegian">Jeg skal øve på danseteateret. Har du lyst til å bli med?</language></row>
 	<row id="msg_0612_T27_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The tower that used to be here...\nI heard that it used to be much taller\fbefore it was burned by a fire.</language>
-	</row>
+	<language name="Norwegian">Tårnet som pleide å stå her ... \nJeg har hørt at det pleide å være mye høyere\ffør det brant ned i en brann.</language></row>
 	<row id="msg_0612_T27_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Three big Pokémon ran off in different\ndirections. What were they?</language>
-	</row>
+	<language name="Norwegian">Tre store Pokémon løp av gårde i forskjellige retninger. Hva var de for noen?</language></row>
 	<row id="msg_0612_T27_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">They say that they will start the\nconstruction work to rebuild this\ftower soon!</language>
-	</row>
+	<language name="Norwegian">De sier at de snart vil starte byggearbeidene for å gjenoppbygge dette\ftårnet!</language></row>
 	<row id="msg_0612_T27_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh!\nThat’s a nice Pokémon you’re walking\fwith! They make you feel uplifted,\fdon’t they?\rThey give us the hope of the light,\nso to speak.\rSpeaking of the light, I heard something\nabout the Lighthouse in Olivine.\rThe Pokémon that serves as the\nbeacon has fallen ill.\fSounds like it’s in trouble.</language>
-	</row>
+	<language name="Norwegian">Åh! \nDet’er en fin Pokémon du’går\fmed! De får deg til å føle deg oppløftet,\fikke sant? \rDe gir oss håp om lyset,\nså å si.\r Apropos lyset, jeg hørte noe\nom fyrtårnet i Olivine.\rPokémonen som fungerer som\nfyrtårn er blitt syk.\fDet høres ut som om den’er i trøbbel.</language></row>
 	<row id="msg_0612_T27_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Pokémon at that Lighthouse in\nOlivine has fully recovered.\rI heard that boats can safely sail out\nto sea at night again.</language>
-	</row>
+	<language name="Norwegian">Pokémon ved fyrtårnet i\nOlivine har kommet seg helt.\rJeg har hørt at båter trygt kan seile ut\npå havet om natten igjen.</language></row>
 	<row id="msg_0612_T27_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you go west from this city, you’ll\nreach a port called Olivine City.\rWhen your Pokémon learns Surf,\nyou can go out to the ocean from\fRoute 40 without a ship!</language>
-	</row>
+	<language name="Norwegian">Hvis du går vestover fra denne byen, kommer du’til en havn som heter Olivine City.\rNår din Pokémon lærer seg å surfe, \nkan du dra ut til havet fra\fRute 40 uten et skip!</language></row>
 	<row id="msg_0612_T27_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ecruteak City\nA Historical City</language>
-	</row>
+	<language name="Norwegian">Ecruteak City\nEn historisk by</language></row>
 	<row id="msg_0612_T27_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ecruteak City Pokémon Gym\nLeader: Morty\fThe Mystic Seer of the Future</language>
-	</row>
+	<language name="Norwegian">Ecruteak City Pokémon Gym\nLeder: Morty\fDen mystiske seeren av fremtiden</language></row>
 	<row id="msg_0612_T27_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ecruteak Dance Theater</language>
-	</row>
+	<language name="Norwegian">Ecruteak Danseteater</language></row>
 	<row id="msg_0612_T27_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Burned Tower\nIt was destroyed by a mysterious fire.\rPlease stay away, as it is unsafe.</language>
-	</row>
+	<language name="Norwegian">Brent tårn\nDet ble ødelagt av en mystisk brann.\rVær så snill å holde deg unna, da det er utrygt.</language></row>
 	<row id="msg_0612_T27_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Barrier Station to Bell Tower\nNo Trespassing by the Unworthy</language>
-	</row>
+	<language name="Norwegian">Barrierestasjon til klokketårnet\nIngen adgang for uverdige</language></row>
 	<row id="msg_0612_T27_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}Thud!!</language>
-	</row>
+	<language name="Norwegian">{Dunk!</language></row>
 	<row id="msg_0612_T27_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: How...? How is this\npossible? How can I lose to\fmere Kimono Girls...?\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 1, 0}: Hvordan...? Hvordan er dette\nmulig? Hvordan kan jeg tape mot\fmere Kimono Girls...?\r</language></row>
 	<row id="msg_0612_T27_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: You were watching me,\n{STRVAR_1 3, 0, 0}...\rYeah, that’s right!\rI never thought defeating five Kimono\nGirls would be so hard...\rI got beaten to a pulp...\r...\rYou must have come here for the same\nreason, right?\rDon’t get cocky just because you\ndefeated Team Rocket!\rThese Kimono Girls are insanely strong.\rGo ahead! See if you can defeat them.\rBut I’m not going back.\nI don’t want to see you win.\r</language>
-	</row>
+	<language name="Norwegian">{...3, 1, 0..:} Du så på meg,\n{STRVAR_1 3, 0, 0}...\rJa, det’er riktig!\rJeg trodde aldri det ville være så vanskelig å beseire fem Kimono\njenter...\rJeg ble slått til pinneved...\r...\r...Du må ha kommet hit av samme grunn, ikke sant? Ikke bli kjepphøy bare fordi du beseiret Team Rocket! Disse Kimono-jentene er vanvittig sterke. Se om du kan beseire dem.\rMen jeg’kommer ikke tilbake.\nJeg’vil ikke se deg vinne.\r</language></row>
 	<row id="msg_0612_T27_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In the distant past...\rWhen this tower burned in a fire,\nthree nameless Pokémon perished in it.\rThen, a rainbow-hued Pokémon\ndescended from the sky and\fsomehow brought them back...\rThe people were afraid of power such as\nthe rainbow-hued Pokémon had shown.\rThey tried to control it by force.\rThe nameless Pokémon made no attempt\nto fight back. Instead, their\fgreat sorrow compelled them to leave.\rThis legend has been passed down\nby the Ecruteak Gym Leader. Me?\rI was a Trainer way back when.\nHo ho ho!</language>
-	</row>
+	<language name="Norwegian">I en fjern fortid...\rDa dette tårnet brant i en brann,\nomkom tre navnløse Pokémon i det.\rDa steg en regnbuefarget Pokémon\nned fra himmelen og\fbrakte dem på en eller annen måte tilbake...\rMenneskene var redde for en slik kraft som\nden regnbuefargede Pokémon hadde vist.\rDe prøvde å kontrollere den med makt.\rDen navnløse Pokémon gjorde ingen forsøk\npå å slå tilbake. I stedet tvang deres\fstore sorg dem til å dra.\rDenne legenden har blitt overlevert\nav Ecruteak Gym Leader. Jeg? \rJeg var en trener for lenge siden.\nHo ho ho!</language></row>
 </body>

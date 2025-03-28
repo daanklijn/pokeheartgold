@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0623_T28GYM0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pryce is a veteran who has trained\nPokémon for some 50 years.\rAs you’ll find, his attacks will make\nyou shiver in this freezing Gym.\rAre you ready to be frozen solid?\rI mean--keep up a hot fighting spirit\nagainst ice!</language>
-	</row>
+	<language name="Norwegian">Pryce er en veteran som har trent\nPokémon i rundt 50 år.\rSom du’vil oppdage, vil angrepene hans få\ndeg til å skjelve i denne iskalde gymsalen.\rEr du klar til å bli frosset fast?\rJeg mener - hold kampånden\nopp mot isen!</language></row>
 	<row id="msg_0623_T28GYM0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pryce is something, but you’re\nsomething else!\rThat was a hot battle that\nspanned the generations!</language>
-	</row>
+	<language name="Norwegian">Pryce er noe, men du’er\nnoe annet!\rDet var en het kamp som\nspente seg over generasjoner!</language></row>
 	<row id="msg_0623_T28GYM0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mahogany Town Pokémon Gym</language>
-	</row>
+	<language name="Norwegian">Mahogany Town Pokémon Gym</language></row>
 	<row id="msg_0623_T28GYM0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mahogany Town Pokémon Gym\rLeader: Pryce\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
-	</row>
+	<language name="Norwegian">Mahogany Town Pokémon Gym\rLeder: Pryce\nCertifisert trener!\f{STRVAR_1 3, 0, 0}</language></row>
 </body>

@@ -1,63 +1,63 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0648_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Falkner</language>
-	</row>
+	<language name="Norwegian">Falkner</language></row>
 	<row id="msg_0648_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Who? You sound like you’re underwater.\nThis is not a good connection. At all.\rGet another line somewhere else, OK?</language>
-	</row>
+	<language name="Norwegian">Hvem? Du høres ut som om du er under vann. Det er ikke en god forbindelse. Ikke i det hele tatt. Finn en annen linje et annet sted, OK?</language></row>
 	<row id="msg_0648_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello...\nOK, now I can hear you.\fYeah, I’m in top form.\r</language>
-	</row>
+	<language name="Norwegian">Hallo...\nOK, nå kan jeg høre deg.\fJa, jeg’er i toppform.\r</language></row>
 	<row id="msg_0648_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are there any Gym Leaders you haven’t\nbattled yet?\fStep up! Get on it!</language>
-	</row>
+	<language name="Norwegian">Er det noen Gymledere du har’ikke\nbekjempet ennå?\fStev opp! Kom igjen!</language></row>
 	<row id="msg_0648_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Let’s see... I’m free Saturday mornings\nusually.\fPlease, give me a call then.</language>
-	</row>
+	<language name="Norwegian">La oss se... Jeg er ledig lørdag formiddag som regel. Ring meg da.</language></row>
 	<row id="msg_0648_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I was hoping for an invitation!\nWe’re battling again, correct?{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg hadde håpet på en invitasjon!\nVi’kjemper igjen, ikke sant?{YESNO 0}</language></row>
 	<row id="msg_0648_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Excellent! Glad to hear it.\nI’m looking forward to this.\rI’ll be waiting at the Fighting Dojo in\nSaffron City!</language>
-	</row>
+	<language name="Norwegian">Utmerket! Glad for å høre det.\nJeg’ser frem til dette.\rJeg’vil vente på Fighting Dojo i\nSaffron City!</language></row>
 	<row id="msg_0648_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sure, sure...\nI know you’ve got a busy schedule...</language>
-	</row>
+	<language name="Norwegian">Jada, jada...\nJeg vet at du’har en travel timeplan...</language></row>
 	<row id="msg_0648_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve got to say this...\nBefore we battle again, how about you\fkeep any promises you made to\fothers first?</language>
-	</row>
+	<language name="Norwegian">Jeg’må si dette...\nFør vi kjemper igjen, hva med at du\fholder løftene du har gitt til\fandre først?</language></row>
 	<row id="msg_0648_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m waiting at the Fighting Dojo in\nSaffron City!\fThat was a promise!</language>
-	</row>
+	<language name="Norwegian">Jeg’venter på kampdojoen i\nSaffron City!\fDet var et løfte!</language></row>
 	<row id="msg_0648_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, this is Falkner.\nHow are you doing?\r</language>
-	</row>
+	<language name="Norwegian">Hei, dette er Falkner. \nHvordan går det? \r</language></row>
 	<row id="msg_0648_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You know our plans to meet at the\nFighting Dojo in Saffron City?\fThat’s still on your mind, isn’t it?</language>
-	</row>
+	<language name="Norwegian">Du vet planene våre om å møtes i kampdojoen i Saffron City? Det tenker du fremdeles på, ikke sant?</language></row>
 	<row id="msg_0648_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My dad told me something when I was\na kid.\rHe said “Falkner, bird Pokémon don’t\njust fly with their wings, they soar\fthrough the sky because that’s what\fthey want to do with all their heart.”\rThat’s just like my dad.</language>
-	</row>
+	<language name="Norwegian">Faren min fortalte meg noe da jeg var\nen liten gutt. \rHan sa “Falkner, fugle-Pokémon flyr’ikke\nbare med vingene, de svever\fover himmelen fordi det’er det\fde ønsker å gjøre av hele sitt hjerte.”\rDet’er akkurat som faren min.</language></row>
 	<row id="msg_0648_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The scaffolding in my Gym was in bad\nshape when you came to battle, eh?\rEvery year, we give the place a\nthorough scrubbing. It’s a challenge.\rBut the bird Pokémon help us out,\nso we’re able to manage.</language>
-	</row>
+	<language name="Norwegian">Stillaset i min Gym var i dårlig\nform da du kom for å kjempe, hva? \rHvert år gir vi stedet en\n grundig skrubbing. Det’er en utfordring.\rMen fugle-Pokémon hjelper oss,\nså vi’klarer det.</language></row>
 	<row id="msg_0648_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ve chatted with Janine in\nFuchsia City, haven’t you?\rAll she ever talks about is her dad,\nyou know? Endlessly.\rI mean, it’s good to have a healthy\nrespect for your dad, but it’s\fbetter to have some self-confidence!\rDon’t you have faith in your\nown abilities?</language>
-	</row>
+	<language name="Norwegian">Du har snakket med Janine i Fuchsia City, har du ikke? Det eneste hun snakker om er faren sin. Det er bra å ha en sunn respekt for faren din, men det er bedre å ha litt selvtillit! Har du ikke tro på dine egne evner?</language></row>
 </body>

@@ -1,188 +1,188 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0618_T27R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}Hey! Hey!{SIZE 100}\r</language>
-	</row>
+	<language name="Norwegian">{SIZE 200}Hey! Hey!{SIZE 100}\r</language></row>
 	<row id="msg_0618_T27R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Stop dancing such a serious dance!\nShow me something like a hula dance!\r</language>
-	</row>
+	<language name="Norwegian">Slutt å danse en så alvorlig dans!\nVis meg noe som en hula-dans!\r</language></row>
 	<row id="msg_0618_T27R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...You mustn’t push such a request\non me.\r</language>
-	</row>
+	<language name="Norwegian">...Du må ikke sende en slik forespørsel’på meg.\n /</language></row>
 	<row id="msg_0618_T27R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh?\nAre you telling me you don’t respect\fwhat the customer wants?\r</language>
-	</row>
+	<language name="Norwegian">Sier du at du ikke respekterer kundens ønsker?</language></row>
 	<row id="msg_0618_T27R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Well, then I’ll show you how to dance.\rI’ll show you a great one.\nWahahaha!\r</language>
-	</row>
+	<language name="Norwegian">Vel, da skal jeg vise deg hvordan man danser.\rJeg’skal vise deg en flott en.\nWahahaha!\r</language></row>
 	<row id="msg_0618_T27R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh? Who are you?\rYou dare to get in my way?\r</language>
-	</row>
+	<language name="Norwegian">Hvem er du? Hvem er du? Våger du å stå i veien for meg?</language></row>
 	<row id="msg_0618_T27R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, no!\nYou make me look like a villain!\r</language>
-	</row>
+	<language name="Norwegian">Å, nei! Du får meg til å se ut som en skurk!</language></row>
 	<row id="msg_0618_T27R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oops!\nI have an important mission.\rIf they find out I was wasting time\nhere, they’ll make me start over\fas the lowest Team Rocket Grunt!\rI better leave now!\r</language>
-	</row>
+	<language name="Norwegian">Oops!\nJeg har et viktig oppdrag.\rHvis de finner ut at jeg kaster bort tiden\nher, vil de’tvinge meg til å begynne på nytt\fsom den laveste Team Rocket Grunt!\rJeg bør dra nå!\r</language></row>
 	<row id="msg_0618_T27R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...</language>
-	</row>
+	<language name="Norwegian">...</language></row>
 	<row id="msg_0618_T27R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You must be {STRVAR_1 3, 0, 0}, correct?\nThat was indeed excellent.\fKind and strong...\fGood at raising Pokémon as well...\rThat person does know what to look for\nin people...\rOhoho! That was just me talking to\nmyself.\fNever mind.</language>
-	</row>
+	<language name="Norwegian">Du må være {STRVAR_1 3, 0, 0}, ikke sant? \nDet var virkelig utmerket.\fSnill og sterk...\fGod til å oppdra Pokémon også...\rDen personen vet hva man skal se etter\ni folk...\rOhoho! Det var bare meg som snakket med\nmeg selv.\fGlem det.</language></row>
 	<row id="msg_0618_T27R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">For Kimono Girls like me, dancing\nis everything.\rI have never gone a day without\na dance practice.\rPokémon are the same.\rThey grow with you little by little\neach day.</language>
-	</row>
+	<language name="Norwegian">For Kimono-jenter som meg er dans\nalt.\rJeg har aldri gått en dag uten\nen dansetrening.\rPokémon er det samme.\rDe vokser med deg litt etter litt\nfor hver dag.</language></row>
 	<row id="msg_0618_T27R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome.\nMy name is Zuki.\fI met you previously in Violet City.\rIn order to bring back HO-OH, we\nneeded someone with the right bond\fwith Pokémon.\rWe asked Mr. Pokémon to give this\nMystery Egg to whoever showed\ftrue potential.\rThe Egg was eventually handed from\nMr. Pokémon to Professor Elm, and then\fto you.\rHowever, being pure alone will not be\nsufficient to face the power of\fthis Pokémon.\fI must test you.\rAre you ready? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Velkommen.\nMitt navn er Zuki.\fJeg møtte deg tidligere i Violet City.\rFor å bringe HO-OH tilbake, trengte vi\nnoen med det rette båndet\ftil Pokémon.\rVi ba herr Pokémon om å gi dette\nmysterieegget til den som viste\fsant potensial.\rEgget ble til slutt overlevert fra\nHerre Pokémon til professor Elm, og deretter\ftil deg.\rMen å være ren alene vil ikke være\ntilstrekkelig for å møte kraften til\fdenne Pokémon.\fJeg må teste deg.\rEr du klar? {YESNO 0}</language></row>
 	<row id="msg_0618_T27R0501_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome.\nMy name is Zuki.\fI met you previously in Violet City.\rIn order to bring back LUGIA, we\nneeded someone with the right bond\fwith Pokémon.\rWe asked Mr. Pokémon to give this\nMystery Egg to whoever showed\ftrue potential.\rThe Egg was eventually handed from\nMr. Pokémon to Professor Elm, and then\fto you.\rHowever, being pure alone will not be\nsufficient to face the power of\fthis Pokémon.\fI must test you.\rAre you ready? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Velkommen.\nMitt navn er Zuki.\fJeg møtte deg tidligere i Violet City.\rFor å bringe LUGIA tilbake, trengte vi\nnoen med det rette båndet\fmed Pokémon.\rVi ba herr Pokémon om å gi dette\nmysterieegget til den som viste\fsant potensial.\rEgget ble til slutt overlevert fra\nHerre Pokémon til professor Elm, og deretter\ftil deg.\rMen å være ren alene vil ikke være\ntilstrekkelig for å møte kraften til\fdenne Pokémon.\fJeg må teste deg.\rEr du klar? {YESNO 0}</language></row>
 	<row id="msg_0618_T27R0501_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I will test you to see if you are a good\nPokémon Trainer.\rAre you ready? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg vil teste deg for å se om du er en god \nPokémon-trener.\rEr du klar? {YESNO 0}</language></row>
 	<row id="msg_0618_T27R0501_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That is fine...\nI will wait for you to get ready.</language>
-	</row>
+	<language name="Norwegian">Det er greit ... \nJeg skal vente på at du blir klar.</language></row>
 	<row id="msg_0618_T27R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are quite strong.\rYou helped me in the Ilex Forest.\rMy name is Naoko. I’m the one that’s\nnot so good at directions.\rMy eyes witnessed you defeating\nTeam Rocket when Kurt was in trouble\fat the SLOWPOKE Well.\rAllow me to challenge you and your\nPokémon!\r</language>
-	</row>
+	<language name="Norwegian">Du er ganske sterk. Du hjalp meg i Ilex-skogen. Jeg heter Naoko. Jeg’er den som’er\nikke så god på veibeskrivelser.\rMine øyne var vitne til at du beseiret\nTeam Rocket da Kurt var i trøbbel\fved SLOWPOKE-brønnen.\rTillat meg å utfordre deg og din\nPokémon!\r</language></row>
 	<row id="msg_0618_T27R0501_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are quite the Trainer.\rI remember you chasing off\nthat Team Rocket Grunt\ffrom right here.\rI must thank you for that.\rAlthough, I am actually a Trainer\nmyself.\rShe who knows the most speaks\nthe least!\fI am Miki--the Kimono Girl!\rAllow me to challenge you and your\nPokémon!\r</language>
-	</row>
+	<language name="Norwegian">Du er litt av en trener.\rJeg husker at du jaget bort\nden Team Rocket Grunt\ffra akkurat her.\rDet må jeg takke deg for.\rMen jeg er faktisk en trener\nselv.\rDen som vet mest, snakker\nmindst!\fJeg er Miki- Kimono-jenta!\rTillat meg å utfordre deg og din\nPokémon!\r</language></row>
 	<row id="msg_0618_T27R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Excellent fighting spirit!\rYou got me off the ice by pushing me\nfrom the back.\rI am the one who skates in sandals.\fI am Sayo--the Kimono Girl!\rI was listening in the Dragon’s Den\nwhen you passed the test of the Elder.\rAllow me to challenge you and your\nPokémon!\r</language>
-	</row>
+	<language name="Norwegian">Utmerket kampånd!\rDu fikk meg av isen ved å dytte meg\nbakfra.\rJeg er den som går på skøyter i sandaler.\fJeg er Sayo - Kimono-jenta!\rJeg lyttet i Dragehulen’når du besto den eldstes test.\rTillat meg å utfordre deg og din\nPokémon!\r</language></row>
 	<row id="msg_0618_T27R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I am the last one.\rYou were so dependable at the\nGoldenrod Tunnel. I am the one who\ftwirls even underground.\rI am Kuni--the Kimono Girl!\rI looked at you in wonder when you\nthwarted Team Rocket’s mission\fto take over the Radio Tower.\fYou must show your strength to me now.\rAllow me to challenge you and your\nPokémon!\r</language>
-	</row>
+	<language name="Norwegian">Jeg er den siste.\rDu var så pålitelig ved\nGoldenrod-tunnelen. Jeg er den som\fvirvler selv under jorden.\rJeg er Kuni - Kimono-jenta!\rJeg så på deg med undring da du\nstred Team Rocket’s oppdrag\fom å ta over radiotårnet.\fNå må du vise meg din styrke.\rTillat meg å utfordre deg og din\nPokémon!\r</language></row>
 	<row id="msg_0618_T27R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Talk to Zuki in the middle\nwhen you are ready.</language>
-	</row>
+	<language name="Norwegian">Snakk med Zuki i midten\nnår du er klar.</language></row>
 	<row id="msg_0618_T27R0501_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We were not wrong about you.\nYou are indeed worthy of this...\rPlease take it.\r</language>
-	</row>
+	<language name="Norwegian">Vi tok ikke feil av deg...\nDu er virkelig verdig dette...\rVær så snill å ta det...\r</language></row>
 	<row id="msg_0618_T27R0501_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Big sisters!\rI just saw the big shadow of a Pokémon\nover the Bell Tower!\rIt could be...\r</language>
-	</row>
+	<language name="Norwegian">Storesøstre!\rJeg så nettopp den store skyggen av en Pokémon\nover klokketårnet!\rDet kunne være...\r</language></row>
 	<row id="msg_0618_T27R0501_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Big sisters!\rI just saw the big shadow of a Pokémon\nin the Whirl Islands’ waters!\rIt could be...\r</language>
-	</row>
+	<language name="Norwegian">Storesøstre!\rJeg så nettopp den store skyggen av en Pokémon\ni Whirl Islands’ vann!\rDet kunne være...\r</language></row>
 	<row id="msg_0618_T27R0501_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Zuki: {STRVAR_1 3, 0, 0}!\nWe’ll be at the Bell Tower.\fSee you there!\r</language>
-	</row>
+	<language name="Norwegian">Zuki: {STRVAR_1 3, 0, 0}!\nVi’vil være ved klokketårnet.\fVi ses der!\r</language></row>
 	<row id="msg_0618_T27R0501_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Zuki: {STRVAR_1 3, 0, 0}!\nWe’ll be at the Whirl Islands.\fSee you there!\r</language>
-	</row>
+	<language name="Norwegian">Zuki: {STRVAR_1 3, 0, 0}!\nVi’vil være på Whirl Islands.\fVi ses der!\r</language></row>
 	<row id="msg_0618_T27R0501_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s the deal with that Team Rocket\nGrunt, messing with my Kimono Girl?\rYou are a Trainer, aren’t you?\fPlease help her!</language>
-	</row>
+	<language name="Norwegian">Hva’er greia med den Team Rocket\nGrunt, som tuller med Kimono-jenta mi?\rDu er en trener, er du ikke’ikke sant?\fHjelp henne!</language></row>
 	<row id="msg_0618_T27R0501_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wonderful!\nYou were so courageous for your age!\rIt was a rare sight to see!\nI want you to have this.\fDon’t be shy--take it!\r</language>
-	</row>
+	<language name="Norwegian">Fantastisk! \nDu var så modig for alderen din! \rDet var et sjeldent syn å se! \nJeg vil at du skal ha denne. \fVær ikke sjenert - ta den! \r</language></row>
 	<row id="msg_0618_T27R0501_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0618_T27R0501_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s Surf.\nIt’s a move that lets Pokémon swim\facross water with ease.\r</language>
-	</row>
+	<language name="Norwegian">Det’er Surf.\nDet’er et trekk som lar Pokémon svømme\fover vann med letthet.\r</language></row>
 	<row id="msg_0618_T27R0501_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Not only are the Kimono Girls great\ndancers, they’re also skilled at\fPokémon.\rBut they battle only for good reasons.\rI don’t know if you could defeat them if\nthey showed what they can do...</language>
-	</row>
+	<language name="Norwegian">Kimono-jentene er ikke bare gode\ndansere, de’er også dyktige på\fPokémon.\rMen de kjemper bare av gode grunner.\rJeg vet’ikke om du kunne beseire dem hvis\nde viste hva de kan gjøre ...</language></row>
 	<row id="msg_0618_T27R0501_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PSYDUCK: Dau dau!</language>
-	</row>
+	<language name="Norwegian">PSYDUCK: Dau dau!</language></row>
 	<row id="msg_0618_T27R0501_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That man’s always with his PSYDUCK.\rSays he wants a Pokémon that can\nSurf and dance.\rIs he trying to make a Pokémon\nthat stars at synchronized swimming?</language>
-	</row>
+	<language name="Norwegian">Den mannen’har alltid med seg sin PSYDUCK.\rSiger at han vil ha en Pokémon som kan\nsurfe og danse.\rPrøver han å lage en Pokémon\nsom er en stjerne i synkronsvømming?</language></row>
 	<row id="msg_0618_T27R0501_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh... Ouch...!\rThis stomachache!\rI wouldn’t let this guy act like that\nwere it not for this pain...!</language>
-	</row>
+	<language name="Norwegian">Åh... Au da...!\rDenne magesmerten!\rJeg ville’ikke latt denne fyren oppføre seg sånn\nhvis det ikke var for denne smerten...!</language></row>
 	<row id="msg_0618_T27R0501_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I was supposed to be the hero...!\rSo much for getting close to\na Kimono Girl!\n</language>
-	</row>
+	<language name="Norwegian">Det var meningen at jeg skulle være helten! Så mye for å komme nær en Kimono-jente!</language></row>
 	<row id="msg_0618_T27R0501_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh... Ouch...!\rThis back pain!\rI wouldn’t let this guy act like that\nwere it not for this pain...!</language>
-	</row>
+	<language name="Norwegian">Åh... Au da...!\rDenne ryggsmerten!\rJeg ville’ikke latt denne fyren oppføre seg sånn\nhvis det ikke var for denne smerten...!</language></row>
 	<row id="msg_0618_T27R0501_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh... Ouch...!\rThis toothache!\rI wouldn’t let this guy act like that\nwere it not for this pain...! </language>
-	</row>
+	<language name="Norwegian">Åh... Au da...!\rDenne tannpinen!\rJeg ville’ikke latt denne fyren oppføre seg slik\nhvis det ikke var for denne smerten...!</language></row>
 	<row id="msg_0618_T27R0501_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Kimono Girls are so beautiful...\rBut they have to go through rigorous\ntraining.\rAnd they have to learn to follow\ncustoms before appearing in public.\rBut if you love something, anything\nis possible.</language>
-	</row>
+	<language name="Norwegian">Kimono-jentene er så vakre...\rMen de må gå gjennom streng\ntrening.\rOg de må lære seg å følge\nskikker før de opptrer offentlig.\rMen hvis du elsker noe, er alt\nmulig.</language></row>
 	<row id="msg_0618_T27R0501_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">To do such a terrible thing to\na Kimono Girl!\rI don’t understand how young people\nbehave these days.</language>
-	</row>
+	<language name="Norwegian">Å gjøre noe så forferdelig mot en Kimono-jente! Jeg forstår ikke hvordan unge mennesker oppfører seg i disse dager.</language></row>
 	<row id="msg_0618_T27R0501_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Quite the Trainer for your age indeed!</language>
-	</row>
+	<language name="Norwegian">Litt av en trener for din alder!</language></row>
 	<row id="msg_0618_T27R0501_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This desk is used for\ncertain programs...</language>
-	</row>
+	<language name="Norwegian">Dette skrivebordet brukes til\nvisse programmer...</language></row>
 	<row id="msg_0618_T27R0501_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thank you for your help the other day.</language>
-	</row>
+	<language name="Norwegian">Takk for hjelpen forleden dag.</language></row>
 	<row id="msg_0618_T27R0501_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We are rehearsing a dance.</language>
-	</row>
+	<language name="Norwegian">Vi øver på en dans.</language></row>
 	<row id="msg_0618_T27R0501_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thank you for your help the other day.\rYou have beautifully proven that the\nbond between people can be extended to\fthe bond between people and Pokémon...\rWe all appreciate that you have lived up\nto our expectations, {STRVAR_1 3, 0, 0}!\rIf you feel that this experience has\ntaught you anything, the people you\fshould thank are not us, but\fMr. Pokémon and Professor Elm...</language>
-	</row>
+	<language name="Norwegian">Takk for hjelpen forleden dag.\rDu har på en vakker måte bevist at båndet mellom mennesker kan utvides til\fbåndet mellom mennesker og Pokémon...\rVi setter alle pris på at du har levd opp\ntil våre forventninger, {STRVAR_1 3, 0, 0}!\rHvis du føler at denne opplevelsen har\nlært deg noe, er det ikke oss du\fbør takke, men\fMr. Pokémon og professor Elm...</language></row>
 	<row id="msg_0618_T27R0501_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We are rehearsing a dance.</language>
-	</row>
+	<language name="Norwegian">Vi øver på en dans.</language></row>
 	<row id="msg_0618_T27R0501_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thank you for your help the other day.</language>
-	</row>
+	<language name="Norwegian">Takk for hjelpen forleden dag.</language></row>
 	<row id="msg_0618_T27R0501_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I will test how closely you’ve\nbonded with your Pokémon!\r</language>
-	</row>
+	<language name="Norwegian">Jeg vil teste hvor tett du’har\nbundet deg med din Pokémon!\r</language></row>
 </body>

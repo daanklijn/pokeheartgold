@@ -1,63 +1,63 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0652_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lt. Surge</language>
-	</row>
+	<language name="Norwegian">Løytnant Surge</language></row>
 	<row id="msg_0652_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What? I can’t hear you very well.\nMaybe we’ve got a bad connection?\rTry calling again from somewhere else.</language>
-	</row>
+	<language name="Norwegian">Hva? Jeg hører deg ikke så godt.’Måskje har vi’dårlig forbindelse? \rPrøv å ringe igjen fra et annet sted.</language></row>
 	<row id="msg_0652_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello? What’s up?\nI’m doing great!\r</language>
-	</row>
+	<language name="Norwegian">Hallo? Hva skjer? Hva skjer? ’Jeg har det bra! ’Jeg har det bra! \r</language></row>
 	<row id="msg_0652_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aren’t there any other Trainers you’d\nlike to battle more than me?</language>
-	</row>
+	<language name="Norwegian">Er det ingen andre trenere du liker bedre å kjempe mot enn meg?</language></row>
 	<row id="msg_0652_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My free time?\nI’m usually available Friday mornings.\fTry calling me again then!</language>
-	</row>
+	<language name="Norwegian">Fritiden min? \nJeg’er vanligvis tilgjengelig fredag formiddag.\fRing meg igjen da!</language></row>
 	<row id="msg_0652_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, you!\rBattle me again!\nWhat do you say? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei, du! Slåss mot meg igjen! Hva sier du? {YESNO 0}</language></row>
 	<row id="msg_0652_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right!\rI’ll be waiting for you in Saffron City’s\nFighting Dojo. Don’t be late!</language>
-	</row>
+	<language name="Norwegian">Greit! Jeg venter på deg i Saffron Citys kampdojo. Ikke kom for sent!</language></row>
 	<row id="msg_0652_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see...\nYou must be pretty busy.</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner... Du må ha det ganske travelt.</language></row>
 	<row id="msg_0652_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmm...\nWell, I appreciate that you want to\fbattle me again, but didn’t you promise\fsomeone else?</language>
-	</row>
+	<language name="Norwegian">Hmm ... \nJeg setter pris på at du vil\fkjempe mot meg igjen, men lovte du ikke’noen andre?</language></row>
 	<row id="msg_0652_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ll be waiting for you at the Fighting\nDojo in Saffron City.\fDon’t forget! Come on!</language>
-	</row>
+	<language name="Norwegian">Jeg’venter på deg ved Fighting\nDojo i Saffron City.\fGlem ikke det! Kom igjen, kom igjen!</language></row>
 	<row id="msg_0652_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo! This is Lt. Surge.\nHow are you?\r</language>
-	</row>
+	<language name="Norwegian">Hei! Dette er løytnant Surge. Hvordan går det?</language></row>
 	<row id="msg_0652_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, did you forget that I’m standing\nin the Fighting Dojo in Saffron City\fwaiting for you?\rI guess I got here before you.\nI’ll be waiting!</language>
-	</row>
+	<language name="Norwegian">Hei, har du glemt at jeg’står\ni kampdojoen i Saffron City\fog venter på deg?\rJeg antar at jeg kom hit før deg.\nJeg’vil vente på deg!</language></row>
 	<row id="msg_0652_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So, why do you think I put all those\ntraps in the Vermilion Gym?\rThat’s right!\nIt’s to test the intellect of any\fTrainer who comes in to battle!\rPokémon battles aren’t just about\npower or stamina.\rIf you can balance power and\nintelligence, then you’ve got the\fmakings to become a great Trainer!</language>
-	</row>
+	<language name="Norwegian">Så hvorfor tror du jeg har lagt alle disse\nfellene i Vermilion Gym?\rDet’er riktig!\nDet’er for å teste intellektet til enhver\ftrener som kommer i kamp!\rPokémon-kamper handler’ikke bare om\nkraft eller utholdenhet.\rHvis du kan balansere kraft og\nintelligens, så har du’forutsetningene for å bli en stor trener!</language></row>
 	<row id="msg_0652_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When I was fighting for my country,\nI helped raise a lot of Trainers, taught\fthem the ropes.\rBut!\rBy the time you met me, you’d already\nperfected your abilities!\rWhere did you train? Who taught you how\nto battle?\rIt’s so strange and amazing!</language>
-	</row>
+	<language name="Norwegian">Da jeg kjempet for landet mitt, hjalp jeg til med å oppdra mange trenere, lærte dem hvordan man gjør.\rMen! \rDa du møtte meg, hadde du allerede’perfeksjonert evnene dine!\rHvor trente du? Hvem lærte deg hvordan du skulle slåss? Det er så merkelig og fantastisk!</language></row>
 	<row id="msg_0652_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve been studying this region’s\ndialect during my time as Gym Leader\fhere in Vermilion.\rBut there’s still so many sayings that\nI don’t understand.\rHey, will you talk with me some more?\nWe could teach each other some\fnew things to say!</language>
-	</row>
+	<language name="Norwegian">Jeg har studert denne regionens’dialekt i løpet av min tid som gymleder\fher i Vermilion.\rMen det’er fortsatt så mange ordtak som\njeg ikke’forstår.\rHei, vil du snakke litt mer med meg? \nVi kan lære hverandre noen\fnye ting å si!</language></row>
 </body>
