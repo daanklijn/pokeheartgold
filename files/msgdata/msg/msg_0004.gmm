@@ -23,5 +23,5 @@
 	<row id="msg_0004_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Fighting together, walking\n{ALN_CENTER}together. Forging a bond that\n{ALN_CENTER}cannot be broken and will go\n{ALN_CENTER}on continually into eternity.\n{ALN_CENTER}This bond is illuminated here.</language>
-	<language name="Norwegian">{Vi kjemper sammen, vandrer\n{ALN_CENTER}sammen. Vi knytter et bånd som\n{ALN_CENTER}ikke kan brytes og som vil fortsette\n{ALN_CENTER}inn i evigheten.\n{ALN_CENTER}Dette båndet er belyst her.</language></row>
+	<language name="Norwegian">{ALN_CENTER}Kjemper sammen, vandrer\n{ALN_CENTER}sammen. Vi knytter et bånd som\n{ALN_CENTER}ikke kan brytes og som vil fortsette\n{ALN_CENTER}inn i evigheten.\n{ALN_CENTER}Dette båndet er belyst her.</language></row>
 </body>

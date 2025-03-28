@@ -7,7 +7,7 @@
 	<row id="msg_0002_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This Pokémon hides on the\nseafloor and watches the\nshore with eyes on its back.</language>
-	<language name="Norwegian">Denne Pokémon gjemmer seg på\nhavbunnen og følger med på\nkysten med øyne på ryggen.</language></row>
+	<language name="Norwegian">Denne Pokémon gjemmer seg på\nhavbunnen og holder øye med\nkysten med øyne på ryggen.</language></row>
 	<row id="msg_0002_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This Pokémon knew no fear\nand flew as it pleased\nthrough the skies long ago.</language>
