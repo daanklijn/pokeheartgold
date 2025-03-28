@@ -1,31 +1,31 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0044_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">sleep</language>
-	</row>
+	<language name="Norwegian">sove</language></row>
 	<row id="msg_0044_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">poison</language>
-	</row>
+	<language name="Norwegian">gift</language></row>
 	<row id="msg_0044_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">burn</language>
-	</row>
+	<language name="Norwegian">brenne</language></row>
 	<row id="msg_0044_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">paralysis</language>
-	</row>
+	<language name="Norwegian">lammelse</language></row>
 	<row id="msg_0044_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">frozen</language>
-	</row>
+	<language name="Norwegian">frosset</language></row>
 	<row id="msg_0044_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">confusion</language>
-	</row>
+	<language name="Norwegian">forvirring</language></row>
 	<row id="msg_0044_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">infatuation</language>
-	</row>
+	<language name="Norwegian">forelskelse</language></row>
 </body>

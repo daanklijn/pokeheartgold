@@ -194,7 +194,7 @@
 	<row id="msg_0019_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">View Records\nPlease select a Pokémon. {YESNO 0}</language>
-	<language name="Norwegian">Vis poster\nVelg en Pokémon. {YESNO 0}.</language></row>
+	<language name="Norwegian">Vis poster\nVelg en Pokémon. {YESNO 0}</language></row>
 	<row id="msg_0019_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">RECORD</language>
