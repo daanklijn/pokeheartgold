@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0328_R04_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mt. Moon ahead.\rMt. Moon Square is on\nthe way to the top!</language>
-	</row>
+	<language name="Norwegian">Mt. Moon ligger på\rMt. Moon Square er på\nveien til toppen!</language></row>
 </body>

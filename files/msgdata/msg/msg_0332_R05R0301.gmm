@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0332_R05R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are from Johto, aren’t you?\nHow do you like Kanto?\fIt’s nice, don’t you agree?\fHow many cities have you visited?\fHave you been to Cerulean City already?\fThe view at Cerulean Cape is really\fsomething, isn’t it?\fIt’s a good place for dates.\fDo you have anyone in mind?\r..................\rSorry, am I prying too much?</language>
-	</row>
+	<language name="Norwegian">Du er fra Johto, er du ikke det?’Hva synes du om Kanto?\fDet’er fint, er du ikke enig?’Hvor mange byer har du besøkt?\fHar du allerede vært i Cerulean City?\fUtsikten på Cerulean Cape er virkelig\fnoe for seg selv, ikke sant?\fDet’er et bra sted for stevnemøter.\fHar du noen i tankene?\r..................\rUnskyld, snoker jeg for mye?</language></row>
 </body>

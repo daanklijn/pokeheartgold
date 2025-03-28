@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0393_R37_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rt. 37\nNorth to Ecruteak City</language>
-	</row>
+	<language name="Norwegian">Rt. 37\nNord til Ecruteak City</language></row>
 	<row id="msg_0393_R37_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Trainer Tips\rThe move Dig can take you back to\nthe entrance when you use it.\rIf you want to explore a cave or\nsomething similar, a Pokémon with\fDig will be quite useful.</language>
-	</row>
+	<language name="Norwegian">Trenertips\rTrekket Dig kan ta deg tilbake til\ninngangen når du bruker det.\rHvis du vil utforske en hule eller\nnoe lignende, vil en Pokémon med\fDig være ganske nyttig.</language></row>
 </body>

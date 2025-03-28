@@ -1,24 +1,24 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0386_R34R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, honey. You’re making a Pokédex?\rYou must be battling all kinds\nof Pokémon.\rTry using this TM for a change.</language>
-	</row>
+	<language name="Norwegian">Å, kjære. Du’laver en Pokédex? \rDu må kjempe mot alle slags\n Pokémon.\rPrøv å bruke denne TM-en til en forandring.</language></row>
 	<row id="msg_0386_R34R0201_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0386_R34R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s Taunt.\rUse it and the target Pokémon\ncan only use moves that do damage\fto your Pokémon for a while.</language>
-	</row>
+	<language name="Norwegian">Den’er Taunt.\rBruk den, og mål-Pokémonen\nkan bare bruke bevegelser som gjør skade\fpå din Pokémon i en stund.</language></row>
 	<row id="msg_0386_R34R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BUTTERFREE: Freeh!</language>
-	</row>
+	<language name="Norwegian">BUTTERFREE: Freeh!</language></row>
 	<row id="msg_0386_R34R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you see the shrine that pays homage\nto the protector?\rThis protector watches over the forest\nfrom across time.\rI think that it must be a\nGrass-type Pokémon.</language>
-	</row>
+	<language name="Norwegian">Så du helligdommen som hyller\nbeskytteren?\rDenne beskytteren våker over skogen\nfra alle tider.\rJeg tror at det må være en Pokémon av typen\nGrass.</language></row>
 </body>

@@ -1,43 +1,43 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0331_R05R0202_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Don’t be afraid. I’m not a bad person.\rA place like this...\nattracts mean people.\rThey would eventually cause trouble...\rThat’s why Uncle Rage is watching for\nsuch things...\rThe echo at the Underground Path is...\namazing...</language>
-	</row>
+	<language name="Norwegian">Ikke vær redd. Jeg’er ikke et dårlig menneske.\rEt sted som dette...\ntiltrekker seg slemme mennesker.\rDe vil til slutt skape trøbbel...\rDet er derfor onkel Rage holder øye med\nslike ting...\rEkkoet på Den underjordiske stien er...\nfantastisk...\n</language></row>
 	<row id="msg_0331_R05R0202_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Don’t be afraid. I’m not a bad person.\rA place like this...\nattracts mean people.\rThey would eventually cause trouble...\rIt makes me mad just thinking\nabout it...\r</language>
-	</row>
+	<language name="Norwegian">Ikke vær redd. Jeg er ikke et dårlig menneske...\rEt sted som dette...\ntiltrekker seg slemme mennesker...\rDe vil til slutt lage bråk...\rJeg blir sint bare av å tenke på det...\r...\r.</language></row>
 	<row id="msg_0331_R05R0202_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aha!\nThat’s a RageCandyBar!\rCan I have it?\nPlease! {YESNO 0}\n</language>
-	</row>
+	<language name="Norwegian">Aha!\nDet’er en RageCandyBar!\rKan jeg få den?\nVær så snill! {YESNO 0}\n</language></row>
 	<row id="msg_0331_R05R0202_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} gave the RageCandyBar\nto the guy at the Underground Path.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} ga RageCandyBar\n til fyren ved Underground Path.\r.</language></row>
 	<row id="msg_0331_R05R0202_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Munch!\rHow upsetting!\rBut this is so good!\rMunch munch!\rAargh! Makes me mad!\rMunch munch!\rAargh...\r..................Phew!\rI am feeling much better.\nThank you for your candy!\fI want you to have this!\r</language>
-	</row>
+	<language name="Norwegian">Munch!\rSå opprørende!\rMen dette er så godt!\rMunch munch!\rAargh! Gjør meg sint!\rMunch munch!\rAargh...\r..................Phew!\rJeg føler meg mye bedre.\nTakk for godteriet!\fJeg vil at du skal ha dette!\rJeg vil at du skal ha dette!\r</language></row>
 	<row id="msg_0331_R05R0202_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">TM64 contains......\rtick-\n    tock\ftick-\f    tock\ftick-\f    tock\ftick-\f    tock\ftick...\f..................\f..................\r</language>
-	</row>
+	<language name="Norwegian">TM64 inneholder......\rtick-\n tock\ftick-\f tock\ftick-\f tock\ftick-\f tock\ftick-\f tock\ftick...\f..................\f..................\r .</language></row>
 	<row id="msg_0331_R05R0202_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}Ka-Boom!!</language>
-	</row>
+	<language name="Norwegian">{Ka-Boom!</language></row>
 	<row id="msg_0331_R05R0202_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A place like this...\nattracts mean people.\rThey would eventually cause trouble...\rThat’s why Uncle Rage is watching for\nsuch things...\rThe echo at the Underground Path is...\namazing...</language>
-	</row>
+	<language name="Norwegian">Et sted som dette...\ntiltrekker seg slemme folk.\rDe vil til slutt skape trøbbel...\rDet er derfor onkel Rage er på utkikk etter\nslikt...\rEkkoet ved den underjordiske stien er...\nforbløffende...\n...</language></row>
 	<row id="msg_0331_R05R0202_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are you going to eat it all\nby yourself?!</language>
-	</row>
+	<language name="Norwegian">Skal du spise alt selv?!</language></row>
 	<row id="msg_0331_R05R0202_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aha! Thank you!\r...But your Bag is full...\nMake some room, and come back later...</language>
-	</row>
+	<language name="Norwegian">Aha! Takk! \r...Men vesken din er full...\nGjør litt plass, og kom tilbake senere...</language></row>
 </body>

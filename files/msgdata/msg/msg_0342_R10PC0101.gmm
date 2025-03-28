@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0342_R10PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Pokémon Center near a cave?\nThat’s mighty convenient.</language>
-	</row>
+	<language name="Norwegian">En Pokémon Center i nærheten av en hule? m id = 0 /Thatm id = 8 /s mektig praktisk.</language></row>
 	<row id="msg_0342_R10PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The last time I came by the Power\nPlant, I heard somebody screaming,\f“Oh no, it must be a thief!”\rI think it was the Manager’s voice.</language>
-	</row>
+	<language name="Norwegian">Sist jeg var innom kraftverket, hørte jeg noen skrike,\f“Å nei, det må være en tyv!”\rJeg tror det var direktørens’stemme.</language></row>
 	<row id="msg_0342_R10PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I hear Team Rocket got back together\nin Johto but fell apart right away.\rI didn’t know anything about that.</language>
-	</row>
+	<language name="Norwegian">Jeg har hørt at Team Rocket ble samlet igjen\ni Johto, men falt fra hverandre med en gang.\rJeg visste’ikke noe om det.</language></row>
 	<row id="msg_0342_R10PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can’t see it from here, but there’s\na Power Plant south of this\fPokémon Center!</language>
-	</row>
+	<language name="Norwegian">Du kan’ikke se det herfra, men det’ligger\net kraftverk sør for dette\fPokémonsenteret!</language></row>
 </body>

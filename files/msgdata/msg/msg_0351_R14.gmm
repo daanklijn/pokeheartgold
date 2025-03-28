@@ -1,35 +1,35 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0351_R14_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know which is the cutest Pokémon\nin the world?\fIt’s CHANSEY, of course!\fI say CHANSEY, and that’s final!\r</language>
-	</row>
+	<language name="Norwegian">Vet du hvilken som er den søteste Pokémon\ni verden?\fDet’er CHANSEY, selvfølgelig!\fJeg sier CHANSEY, og det’er endelig!\r</language></row>
 	<row id="msg_0351_R14_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I will give you something good\nif you can bring me a CHANSEY!</language>
-	</row>
+	<language name="Norwegian">Jeg skal gi deg noe godt hvis du kan gi meg en CHANSEY!</language></row>
 	<row id="msg_0351_R14_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That Pokémon is...CHANSEY!\rWhat are the chances of\nseeing CHANSEY this close?\rTake this as a token of my gratitude!\r</language>
-	</row>
+	<language name="Norwegian">Den Pokémon er ... CHANSEY!\rHvor stor er sjansen for å\nse CHANSEY på så nært hold?\rTa dette som et tegn på min takknemlighet!\r</language></row>
 	<row id="msg_0351_R14_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Let a CHANSEY hold this Lucky Punch,\nand it’ll have a better chance at\fgetting critical hits!\rIsn’t that awesome?!</language>
-	</row>
+	<language name="Norwegian">La en CHANSEY holde dette Lucky Punch, \nog den’vil ha en bedre sjanse til å\ffå kritiske treff!\rEr ikke det fantastisk?</language></row>
 	<row id="msg_0351_R14_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello, you lovely CHANSEY!</language>
-	</row>
+	<language name="Norwegian">Hallo, du skjønne CHANSEY!</language></row>
 	<row id="msg_0351_R14_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know which is the cutest Pokémon\nin the world?\fIt is CHANSEY, of course!\fI say CHANSEY, and that’s final!</language>
-	</row>
+	<language name="Norwegian">Vet du hvilken som er den søteste Pokémon\ni verden?\fDet er selvfølgelig CHANSEY!\fJeg sier CHANSEY, og det’er endelig!</language></row>
 	<row id="msg_0351_R14_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eusine: {STRVAR_1 3, 0, 0}! Not again!\nI’ll be there first next time!\rHaving followed it here, I’m\nstarting to understand what\fSUICUNE is after.\rTo be honest, I would like to keep\nthis information to myself.\rBut I want to be an honest Trainer in\nfront of SUICUNE!\rThat’s why I am sharing a clue with you.\nIt seems that...\r...SUICUNE prefers a hilly place\nnear water...\f...Somewhere north.\rI don’t know exactly where, yet.\nIt will be just you and me!\rWho’ll find it first? I challenge you!</language>
-	</row>
+	<language name="Norwegian">Eusine: {STRVAR_1 3, 0, 0}! Ikke igjen!\nJeg’vil være der først neste gang!\rEtter å ha fulgt den her, begynner jeg’m\nå forstå hva\fSUICUNE er ute etter.\rFor å være ærlig, vil jeg gjerne holde\ndenne informasjonen for meg selv.\rMen jeg ønsker å være en ærlig trener i\nfronten av SUICUNE!\rDet er derfor jeg deler en ledetråd med deg.\nDet ser ut til at...\r...SUICUNE foretrekker et kupert sted\nnær vann...\f...Et sted nordover.\rJeg vet’ikke nøyaktig hvor ennå.\nDet blir bare du og jeg!\rHvem’vil finne det først? Jeg utfordrer deg!</language></row>
 	<row id="msg_0351_R14_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eusine: What’s wrong, {STRVAR_1 3, 0, 0}?\nTo be honest, I would like to keep\fthis information to myself.\rBut I want to be an honest Trainer in\nfront of SUICUNE!\rThat’s why I am sharing a clue with you.\rIt seems that...\n...SUICUNE prefers a hilly place\fnear water...\f...Somewhere north.\rI don’t know exactly where, yet.\nIt will be just you and me!</language>
-	</row>
+	<language name="Norwegian">Eusine: Hva’er galt, {STRVAR_1 3, 0, 0}?\nFor å være ærlig vil jeg gjerne holde\fdenne informasjonen for meg selv.\rMen jeg vil være en ærlig trener overfor SUICUNE!\rDerfor’deler jeg en ledetråd med deg.\rDet ser ut til at...\n...SUICUNE foretrekker et kupert sted\fnær vann...\f...\rEt sted nordover.\rJeg vet’ikke nøyaktig hvor, ennå.\nDet blir bare deg og meg!</language></row>
 </body>

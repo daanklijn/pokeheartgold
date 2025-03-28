@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0324_R02R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Viridian Forest is like a maze inside.\nBe careful. Don’t get lost in there.</language>
-	</row>
+	<language name="Norwegian">Viridian Forest er som en labyrint på innsiden. Ikke gå deg vill der inne.</language></row>
 </body>

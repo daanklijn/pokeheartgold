@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0323_R02R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So you are {STRVAR_1 3, 0, 0}?\nProfessor Oak is waiting for you in his\flab in Pallet Town.\rAlso, I received this from him.\nHe wants you to have this.\r</language>
-	</row>
+	<language name="Norwegian">Så du er {STRVAR_1 3, 0, 0}?\nProfessor Oak venter på deg i sitt\flaboratorium i Pallet Town.\rJeg har også fått denne fra ham.\nHan vil at du skal ha denne.\r</language></row>
 	<row id="msg_0323_R02R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So you are {STRVAR_1 3, 0, 0}?\nProfessor Oak is waiting for you in his\flab in Pallet Town.\rAlso, I received this from him.\nHe wants you to have this.\r</language>
-	</row>
+	<language name="Norwegian">Så du er {STRVAR_1 3, 0, 0}?\nProfessor Oak venter på deg i sitt\flaboratorium i Pallet Town.\rJeg har også fått denne fra ham.\nHan vil at du skal ha denne.\r</language></row>
 	<row id="msg_0323_R02R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sacred Ash is an amazing item that can\nrevive all fainted Pokémon!</language>
-	</row>
+	<language name="Norwegian">Sacred Ash er en fantastisk gjenstand som kan\ngjenopplive alle besvimte Pokémon!</language></row>
 	<row id="msg_0323_R02R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">To the north is Pewter City.\nTo the south is Viridian City.\rI know, I know. I sound like a sign.</language>
-	</row>
+	<language name="Norwegian">I nord ligger Pewter City.\nI sør ligger Viridian City.\rJeg vet det, jeg vet det. Jeg høres ut som et skilt.</language></row>
 </body>

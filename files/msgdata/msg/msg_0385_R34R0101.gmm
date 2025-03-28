@@ -1,83 +1,83 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0385_R34R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Grandma!\rLet me introduce my friend.\nThis is {STRVAR_1 3, 0, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Bestemor!\rLa meg introdusere min venn.\nDette er {STRVAR_1 3, 0, 0}!\r</language></row>
 	<row id="msg_0385_R34R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ah ha.\nThis is your boy...friend.\fI see. Hmm.\r</language>
-	</row>
+	<language name="Norwegian">Dette er din venn... Hmm.\r</language></row>
 	<row id="msg_0385_R34R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: What? Grandma...!\nWhat are you talking about?\rHe just happens to live nearby...\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Hva? Bestemor...!\nHva snakker du om?\rHan bor tilfeldigvis i nærheten...\r</language></row>
 	<row id="msg_0385_R34R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Grandma: Hahaha.\nI know. I know.\rSince you brought him here, Lyra, you\nmust be sure about his talent.\rRight, {STRVAR_1 3, 0, 0}?\nCome and see us anytime!\r</language>
-	</row>
+	<language name="Norwegian">Bestemor: Hahaha.\nJeg vet det. Jeg vet det.\rSiden du tok ham med hit, Lyra, må du\nvære sikker på talentet hans.\rRiktig, {STRVAR_1 3, 0, 0}?\nKom og besøk oss når som helst!\r</language></row>
 	<row id="msg_0385_R34R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Well, I better go now...\nSee ya!\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Vel, det er best jeg går nå ... \nSees!</language></row>
 	<row id="msg_0385_R34R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Oh! I almost forgot!\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Å! Det glemte jeg nesten!</language></row>
 	<row id="msg_0385_R34R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Here!\nThis is my Pokégear number!\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Her!\nDette er mitt Pokégear-nummer!\r</language></row>
 	<row id="msg_0385_R34R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} registered Lyra\nin the Pokégear!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} registrert Lyra\ni Pokégear!\r</language></row>
 	<row id="msg_0385_R34R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: You know you can talk to your\nPokémon as they follow you?\rThey do all sorts of cute stuff on the\nroad and in towns.\rI’m taking notes every time they do\nfunny things.\rGive me a call and I’ll share some of\nthem with you.\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Du vet at du kan snakke med dine\nPokémon mens de følger etter deg?\rDe gjør alle slags søte ting på\nveien og i byene.\rJeg’noterer hver gang de gjør\nmorsomme ting.\rRing meg, så skal jeg’dele noen av\ndem med deg.\r.</language></row>
 	<row id="msg_0385_R34R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Grandma!\rDon’t you say anything.\rWe are both Trainers, and we are\nsupposed to exchange numbers.\fThat’s all.\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Bestemor!\rIkke si noe.\rVi er begge trenere, og vi skal\nutveksle tall.\fDet’er alt.\r</language></row>
 	<row id="msg_0385_R34R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Grandma!\rLet me introduce my friend.\nThis is {STRVAR_1 3, 0, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Bestemor!\rLa meg introdusere min venn.\nDette er {STRVAR_1 3, 0, 0}!\r</language></row>
 	<row id="msg_0385_R34R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ah ha.\nThis is your girl...friend.\fI see. Hmm.\r</language>
-	</row>
+	<language name="Norwegian">Det er jenta di... venninne. Hmm.\r</language></row>
 	<row id="msg_0385_R34R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: What? Grandma...!\nWhat are you talking about?\rShe just happens to live nearby...\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Hva snakker du om? Bestemor...!\nHva snakker du om?\rHun bor tilfeldigvis i nærheten...\r</language></row>
 	<row id="msg_0385_R34R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hahaha.\nI know. I know.\rSince you took her here, Ethan, you\nmust be sure about her talent.\rRight, {STRVAR_1 3, 0, 0}?\nCome and see us anytime!\r</language>
-	</row>
+	<language name="Norwegian">Jeg vet det. Jeg vet det.\rSiden du tok henne med hit, Ethan, må du\nvære sikker på talentet hennes.\rRiktig, {STRVAR_1 3, 0, 0}?\nKom og besøk oss når som helst!\r</language></row>
 	<row id="msg_0385_R34R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Well, I better go now...\nSee ya!\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Vel, jeg må gå nå ... \nSees! \r</language></row>
 	<row id="msg_0385_R34R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Oh! I almost forgot!\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Jeg glemte det nesten!</language></row>
 	<row id="msg_0385_R34R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Here!\nThis is my Pokégear number!\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Her!\nDette er mitt Pokégear-nummer!\r</language></row>
 	<row id="msg_0385_R34R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} registered Ethan\nin the Pokégear!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} registrert Ethan\ni Pokégear!\r</language></row>
 	<row id="msg_0385_R34R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: You know you can talk to your\nPokémon as they follow you?\rThey do all sorts of cute stuff on the\nroad and in towns.\rI’m taking notes every time they do\nfunny things.\rGive me a call and I’ll share some of\nthem with you.\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Du vet at du kan snakke med dine\nPokémon mens de følger etter deg?\rDe gjør alle slags søte ting på\nveien og i byene.\rJeg’tar notater hver gang de gjør\nmorsomme ting.\rRing meg, så skal jeg’dele noen av\ndem med deg.\r.</language></row>
 	<row id="msg_0385_R34R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Grandma!\rDon’t you say anything.\rWe are both Trainers, and we are\nsupposed to exchange numbers.\fThat’s all.\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Bestemor! \rIkke si noe.\rVi er begge trenere, og vi skal\nutveksle numre.\fDet’er alt.\r</language></row>
 </body>

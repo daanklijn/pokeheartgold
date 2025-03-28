@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0327_R03PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh my!\nI remember there was nothing built here\fwhen I climbed the mountain.\rThings change, and it’s getting more\nand more convenient.\n</language>
-	</row>
+	<language name="Norwegian">Å, jøss! \nJeg husker at det ikke var bygget noe her\fda jeg besteg fjellet.\rTing forandrer seg, og det’blir mer\nog mer praktisk.\n</language></row>
 	<row id="msg_0327_R03PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Many Trainers are visiting the mountain.\nYou never know what wild Pokémon you’ll\fencounter. It is very important to\frecover your Pokémon at a place like\fthis. Don’t forget to make a record\fof your progress, either!\n</language>
-	</row>
+	<language name="Norwegian">Mange Trenere er på besøk i fjellet, og du vet aldri hvilke ville Pokémon du’vil\fmøte på. Det er veldig viktig å\fgjenfinne Pokémon på et sted som\fdette. Ikke glem å notere’fremgangen din heller!</language></row>
 </body>

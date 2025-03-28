@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0400_R42R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mt. Mortar is like a maze inside.\fBe careful. Don’t get lost in there.</language>
-	</row>
+	<language name="Norwegian">Morterfjellet er som en labyrint inni. Vær forsiktig. Ikke gå deg vill der inne.</language></row>
 </body>

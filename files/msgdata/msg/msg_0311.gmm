@@ -1,203 +1,203 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0311_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow, you’re energetic and hardworking!\nI won’t get tricked by your cuteness!\r</language>
-	</row>
+	<language name="Norwegian">Jøss, du er energisk og hardtarbeidende!’Jeg vil ikke la meg lure av hvor søt du er!’Jeg vil ikke la meg lure av hvor søt du er!\r</language></row>
 	<row id="msg_0311_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Don’t eat the grass along the road of\nlife! My personal slogan!\r</language>
-	</row>
+	<language name="Norwegian">Ikke spis gresset langs livets vei! Mitt personlige slagord!\r</language></row>
 	<row id="msg_0311_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Together with these three Pokémon I’ll\nget stronger! I’ll get bigger!\r</language>
-	</row>
+	<language name="Norwegian">Sammen med disse tre Pokémon vil jeg’bli\nsterkere! Jeg’vil bli større!\r</language></row>
 	<row id="msg_0311_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you think you can keep up with me?\nThey call me the “Victorious Victor”!\r</language>
-	</row>
+	<language name="Norwegian">Tror du at du kan holde følge med meg? \nDe kaller meg den “seirende seierherren”!\r</language></row>
 	<row id="msg_0311_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jump! Fight! Be like the wind!\nSomeday I want to fly high!\r</language>
-	</row>
+	<language name="Norwegian">Hopp! Kjemp! Vær som vinden!\nEn dag vil jeg fly høyt!\r</language></row>
 	<row id="msg_0311_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Behind that cute face lies hidden\npower! You’ll see it with your own eyes!\r</language>
-	</row>
+	<language name="Norwegian">Bak det søte ansiktet skjuler det seg\nkraft! Du’vil se det med dine egne øyne!\r</language></row>
 	<row id="msg_0311_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is our team!\nThis is our power!\r</language>
-	</row>
+	<language name="Norwegian">Dette er vårt team!\nDette er vår styrke!\r</language></row>
 	<row id="msg_0311_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Power is strength! Strength is power!\nI’ll use that power to climb to the top!\r</language>
-	</row>
+	<language name="Norwegian">Kraft er styrke! Styrke er makt!\nJeg’vil bruke den makten til å klatre til topps!\r</language></row>
 	<row id="msg_0311_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know me!? Do you know what kind\nof hidden talents I have?!\r</language>
-	</row>
+	<language name="Norwegian">Kjenner du meg? Vet du hva slags skjulte talenter jeg har?</language></row>
 	<row id="msg_0311_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Pokémon’s strength and power...\nI’ll show them to you!\r</language>
-	</row>
+	<language name="Norwegian">En Pokémon’s styrke og kraft...\nJeg’vil vise deg dem!\r</language></row>
 	<row id="msg_0311_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokémon’s friendship and affection! If\nyou’ve got that, you’ll never lose!\r</language>
-	</row>
+	<language name="Norwegian">Pokémon’s vennskap og hengivenhet! Hvis\ndu’har det, vil du’aldri tape!\r</language></row>
 	<row id="msg_0311_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My Pokémon are always protecting me!\nSo there’s no way that we’ll lose!\r</language>
-	</row>
+	<language name="Norwegian">Pokémonene mine beskytter meg alltid!\nSå det’er ingen sjanse for at vi’kommer til å tape!\r</language></row>
 	<row id="msg_0311_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The accuracy of Bug-type Pokémon!\nI’m a man who knows all about them!\r</language>
-	</row>
+	<language name="Norwegian">Nøyaktigheten av Bug-type Pokémon!\nJeg’er en mann som vet alt om dem!\r</language></row>
 	<row id="msg_0311_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That skill is like a well-oiled machine!\nThe result of the calculation is...!\r</language>
-	</row>
+	<language name="Norwegian">Denne ferdigheten er som et velsmurt maskineri!\nResultatet av beregningen er...!\r</language></row>
 	<row id="msg_0311_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know the skill of\nthese Pokémon?!\r</language>
-	</row>
+	<language name="Norwegian">Kjenner du ferdighetene til\ndisse Pokémon?!\r</language></row>
 	<row id="msg_0311_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Never crumble, no matter what happens!\nThat’s the kind of friendship we’ve got!\r</language>
-	</row>
+	<language name="Norwegian">Aldri gi opp, uansett hva som skjer!\nDet’er den typen vennskap vi’har fått!\r</language></row>
 	<row id="msg_0311_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That kind of tenacity is common in\neveryone! That spirit! That gutsiness!\r</language>
-	</row>
+	<language name="Norwegian">Den slags utholdenhet finnes hos\nalle! Den ånden! Det motet!</language></row>
 	<row id="msg_0311_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">On the mountain five years together...\nThe friendship is everlasting!\r</language>
-	</row>
+	<language name="Norwegian">På fjellet fem år sammen...\nVennskapet er evigvarende!\r</language></row>
 	<row id="msg_0311_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Master fighting! Live for fighting!\nAnd live for the Pokéathlon!\r</language>
-	</row>
+	<language name="Norwegian">Mestre kampene! Lev for å slåss!\nOg lev for Pokéathlon!\r</language></row>
 	<row id="msg_0311_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I can see victory! That’s because I\ndon’t think there’s any way I’ll lose!\r</language>
-	</row>
+	<language name="Norwegian">Jeg kan se seieren! Det’er fordi jeg’ikke’tror det’er noen mulighet for at jeg’vil tape!\r</language></row>
 	<row id="msg_0311_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I can fly with these Pokémon so far!\nOver the rainbow!\r</language>
-	</row>
+	<language name="Norwegian">Jeg kan fly med disse Pokémon så langt!\nOver regnbuen!\r</language></row>
 	<row id="msg_0311_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jump to victory!\nJump to the other side of victory!\r</language>
-	</row>
+	<language name="Norwegian">Hopp til seier!\nHopp til den andre siden av seieren!\r</language></row>
 	<row id="msg_0311_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Why can you jump that high?!\nSimple, it’s because it’s all you can do.\r</language>
-	</row>
+	<language name="Norwegian">Hvorfor kan du hoppe så høyt?!!!\nEnkelt, det’er fordi det’er alt du kan gjøre.\r</language></row>
 	<row id="msg_0311_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We’re not done. We’re just beginning!\nWe’ll show you just how far we can jump!\r</language>
-	</row>
+	<language name="Norwegian">Vi er ikke ferdige. Vi’har bare så vidt begynt!\nVi’skal vise deg hvor langt vi kan hoppe!\r</language></row>
 	<row id="msg_0311_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Flying is like breathing to me!\nThat’s only natural, if you ask me.\r</language>
-	</row>
+	<language name="Norwegian">Å fly er som å puste for meg! \nDet’er helt naturlig, hvis du spør meg.\r</language></row>
 	<row id="msg_0311_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s impossible to measure that speed!\nA legendary team known for speed!\r</language>
-	</row>
+	<language name="Norwegian">Det’er umulig å måle den hastigheten!\nEt legendarisk lag kjent for fart!\r</language></row>
 	<row id="msg_0311_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Finally here! The amazingly persistent\nGym Leader! How much true power?\r</language>
-	</row>
+	<language name="Norwegian">Endelig er den her! Den utrolig utholdende\nGym Leader! Hvor mye sann kraft?</language></row>
 	<row id="msg_0311_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cuteness, strength, and speed!\nA girl with sparkle!\r</language>
-	</row>
+	<language name="Norwegian">Søt, sterk og rask!\nEn jente med glitter!\r</language></row>
 	<row id="msg_0311_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nothing in front of this guy... Even a\nbolt of lightning can come from behind!\r</language>
-	</row>
+	<language name="Norwegian">Ingenting foran denne fyren... Selv et lyn kan komme bakfra!</language></row>
 	<row id="msg_0311_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Run! The thing beyond that--the goal\nis called friendship!\r</language>
-	</row>
+	<language name="Norwegian">Løp! Det som er bortenfor det - målet\n kalles vennskap!</language></row>
 	<row id="msg_0311_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The famous guy on the TV all the time\nis now participating in the Pokéathlon!\r</language>
-	</row>
+	<language name="Norwegian">Den berømte fyren på TV hele tiden\ndeltar nå i Pokéathlon!\r</language></row>
 	<row id="msg_0311_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right! The cute and energetic Gym\nLeader from the Sinnoh region!\r</language>
-	</row>
+	<language name="Norwegian">Da så! Den søte og energiske Gym\nLederen fra Sinnoh-regionen!\r</language></row>
 	<row id="msg_0311_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Power... That is cuteness!\nCould you possibly believe that power?\r</language>
-	</row>
+	<language name="Norwegian">Makt... Det er søtt! Kan du tro den kraften?</language></row>
 	<row id="msg_0311_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Abandon common sense!\nThis is reality!\r</language>
-	</row>
+	<language name="Norwegian">Forlat sunn fornuft!\nDette er virkeligheten!\r</language></row>
 	<row id="msg_0311_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Power is everything! Power is right!\nPower is proof of friendship!\r</language>
-	</row>
+	<language name="Norwegian">Makt er alt! Makt er rett!\nMakt er bevis på vennskap!\r</language></row>
 	<row id="msg_0311_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve got innate talent! This genius is\ngoing to seize victory!\r</language>
-	</row>
+	<language name="Norwegian">Jeg har et medfødt talent! Dette geniet kommer til å ta seieren!</language></row>
 	<row id="msg_0311_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Friendship? We don’t need it. That’s\nbecause we are already one.\r</language>
-	</row>
+	<language name="Norwegian">Vennskap? Vi trenger det ikke. Det’er\nfordi vi allerede er ett.\r</language></row>
 	<row id="msg_0311_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My Pokémon are always protecting me,\nso there’s no way we can lose!\r</language>
-	</row>
+	<language name="Norwegian">Pokémonene mine beskytter meg alltid,\nså det’er ingen sjanse for at vi kan tape!\r</language></row>
 	<row id="msg_0311_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Such splendid dancing and splendid\nwinning! I’ve come from Ecruteak City!\r</language>
-	</row>
+	<language name="Norwegian">For en fantastisk dans og for en fantastisk\nseier! Jeg’kommer fra Ecruteak City!\r</language></row>
 	<row id="msg_0311_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are we looking at an illusion? The most\nskilled Pokéathlete!\r</language>
-	</row>
+	<language name="Norwegian">Ser vi på en illusjon? Den dyktigste Pokéatleten!</language></row>
 	<row id="msg_0311_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Gym Leader of steel is participating!\nI’ll show you steely determination!\r</language>
-	</row>
+	<language name="Norwegian">Gym Leader of steel deltar!\nJeg’vil vise deg stålfasthet!\r</language></row>
 	<row id="msg_0311_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m so full of energy! What’s fatigue?\nWhere’s this stamina coming from?!\r</language>
-	</row>
+	<language name="Norwegian">Jeg er så full av energi! Hva’er tretthet?\nHvor’kommer denne utholdenheten fra?</language></row>
 	<row id="msg_0311_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Chance of victory: 100%! No doubt!\nI just came up with that calculation!\r</language>
-	</row>
+	<language name="Norwegian">Sjansen for seier: 100%! Ingen tvil!\nJeg kom nettopp med den beregningen!\r</language></row>
 	<row id="msg_0311_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Morning is practice, noon is practice,\nand evening...is training!\r</language>
-	</row>
+	<language name="Norwegian">Morgen er trening, middag er trening, \nog kveld ... er trening!\r</language></row>
 	<row id="msg_0311_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">He said it...\nFatigue is not in our vocabulary!\r</language>
-	</row>
+	<language name="Norwegian">Han sa det ... \nTretthet er ikke i vårt vokabular!</language></row>
 	<row id="msg_0311_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The world we’re aiming for is the\nchampionship, that world!\r</language>
-	</row>
+	<language name="Norwegian">Den verdenen vi sikter mot er mesterskapet, den verdenen!</language></row>
 	<row id="msg_0311_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Flying... Even gravity is\nkeeping its distance from her!\r</language>
-	</row>
+	<language name="Norwegian">Flyr... Selv tyngdekraften holder seg på avstand fra henne!</language></row>
 	<row id="msg_0311_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Gym Leader of flight appears!\nMy dad’s Pokémon really soar!\r</language>
-	</row>
+	<language name="Norwegian">Gymlederen for flukt dukker opp!\nMin fars’ Pokémon flyr virkelig høyt!\r</language></row>
 	<row id="msg_0311_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We can go as far as we want...\nCome on, let’s go together!\r</language>
-	</row>
+	<language name="Norwegian">Vi kan gå så langt vi vil...\nKom igjen, la oss gå sammen!\r</language></row>
 	<row id="msg_0311_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s no sky above him!\nThere’s a sky below him!\r</language>
-	</row>
+	<language name="Norwegian">Det’er ingen himmel over ham!\nDet’er en himmel under ham!\r</language></row>
 </body>

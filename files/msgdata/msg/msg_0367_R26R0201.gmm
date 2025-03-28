@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0367_R26R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s something written here.\nRead it? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Det’står noe her.\nLeser du det? {YESNO 0}</language></row>
 	<row id="msg_0367_R26R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">To my brothers and sisters:\rWe take pride in serving\nPokémon Trainers.\rWhen Trainers talk to you, give them\nsomething useful.\rLove,\nMonica\rKeep reading? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Til mine brødre og søstre:\rVi er stolte av å tjene\nPokémon-trenere.\rNår trenere snakker til deg, gi dem\nnoe nyttig.\rKærlig hilsen,\nMonica\rLes videre? {YESNO 0}</language></row>
 	<row id="msg_0367_R26R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Monday, Monica\nRt. 40\rTuesday, Tuscany\nRt. 29\rWednesday, Wesley\nLake of Rage\rThursday, Arthur\nRt. 36\rFriday, Frieda\nRt. 32\rSaturday, Santos\nBlackthorn City\rSunday, Sunny\nRt. 37</language>
-	</row>
+	<language name="Norwegian">Mandag, Monica\nRt. 40\rTirsdag, Tuscany\nRt. 29\rOnsdag, Wesley\nLake of Rage\rTorsdag, Arthur\nRt. 36\rFredag, Frieda\nRt. 36\rFredag, Frieda\nRt. 32\rLørdag, Santos\nBlackthorn City\rSøndag, Sunny\nRt. 37</language></row>
 </body>

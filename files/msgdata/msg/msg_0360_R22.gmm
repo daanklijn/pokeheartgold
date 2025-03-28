@@ -1,103 +1,103 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0360_R22_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokémon League\nVictory Road Entrance</language>
-	</row>
+	<language name="Norwegian">Pokémon League\nVictory Road Inngang</language></row>
 	<row id="msg_0360_R22_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It seems that CELEBI has made you\ntravel through time...\fto the past!\r</language>
-	</row>
+	<language name="Norwegian">Det ser ut til at CELEBI har fått deg til å\nreise gjennom tiden...\ftil fortiden!\r</language></row>
 	<row id="msg_0360_R22_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: You told me...\nyou were the number one in the world!\rAre you gonna quit?\rWhat are you going to do now?\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Du sa til meg...\nat du var nummer én i verden!\rHar du tenkt å slutte?\rHva skal du gjøre nå?\r</language></row>
 	<row id="msg_0360_R22_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: What aspect of you was\nnumber one?\rGathering so many only to be defeated\nby a mere child!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Hvilket aspekt av deg var\nnumber one?\rSamle så mange bare for å bli beseiret\nav et enkelt barn!\r</language></row>
 	<row id="msg_0360_R22_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: I don’t understand you!\rYou don’t make any sense!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Jeg forstår deg ikke!’Du gir ikke mening!’Du gir ikke mening!\r</language></row>
 	<row id="msg_0360_R22_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: I don’t want to\nunderstand you!\rI will never become someone like you.\rA coward when you’re alone and\nacting like a tyrant when you’re in\ffront of other cowards!\rI will become strong!\rI will become a stronger man all\nby myself!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: Jeg vil’ikke\nforstå deg!\rJeg vil aldri bli en som deg.\rEn feiging når du’er alene og\noppfører deg som en tyrann når du’er i\fforan andre feiginger!\rJeg vil bli sterk!\rJeg vil bli en sterkere mann helt\nav meg selv!\r</language></row>
 	<row id="msg_0360_R22_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}All by myself!{SIZE 100}\r</language>
-	</row>
+	<language name="Norwegian">{SIZE 200}Alt på egen hånd! {SIZE 100}\r</language></row>
 	<row id="msg_0360_R22_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: ...What are you\nstaring at?\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: ...Hva stirrer du\npå?\r</language></row>
 	<row id="msg_0360_R22_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">..................\rOne must acknowledge one’s defeat\nbefore he can move on...\rI will go solo...for now...\rSo that one day I will form\na stronger organization!\r</language>
-	</row>
+	<language name="Norwegian">..................\rMan må erkjenne sitt’nederlag\nfør man kan gå videre...\rJeg vil gå solo...inntil videre...\rSlik at jeg en dag kan danne\nen sterkere organisasjon!\r</language></row>
 	<row id="msg_0360_R22_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Putting together the potential of many\nis how you produce a huge power...\fThat’s what an organization is...\rThat’s the strength of\nan organization!\rI failed...to make the best use of\nmy subordinates’ potential...!\rBut you shall witness one day\nthe revival of me and my {COLOR 1}Team Rocket{COLOR 0}!\r</language>
-	</row>
+	<language name="Norwegian">Ved å sette sammen potensialet til mange\ner det slik du produserer en enorm kraft...\fDet’er hva en organisasjon er...\rDet’er styrken til\nen organisasjon!\rJeg klarte ikke...å utnytte\nmine underordnedes’potensiale på best mulig måte...!\rMen dere skal en dag bli vitne til\ngjenreisningen av meg og mitt {FARGE 1}Team Rocket{FARGE 0}!\r...\r...\r...\r...</language></row>
 	<row id="msg_0360_R22_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">..................\nOne day, you will understand.\r</language>
-	</row>
+	<language name="Norwegian">..................\nEn dag vil du forstå.\r</language></row>
 	<row id="msg_0360_R22_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Where are we...?\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Hvor er vi?</language></row>
 	<row id="msg_0360_R22_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Where are we...?\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Hvor er vi?</language></row>
 	<row id="msg_0360_R22_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Ilex Forest has disappeared!\r...That’s not it.\nIt’s more like we have been\ftransported somewhere else...?\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Ilex Forest har forsvunnet! \r...Det’er ikke det.\nDet’er mer som om vi har blitt\ftransportert et annet sted...?\r</language></row>
 	<row id="msg_0360_R22_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Ilex Forest has disappeared!\r...That’s not it.\nIt’s more like we have been\ftransported somewhere else...?\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Ilex-skogen har forsvunnet! \r...Det’er det ikke.\nDet’er mer som om vi har blitt\ftransportert et annet sted...?\r</language></row>
 	<row id="msg_0360_R22_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, something is strange!\rI heard the radio mentioning\nthe date from three years ago!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, noe er rart!\rJeg hørte radioen nevne\ndatoen for tre år siden!\r</language></row>
 	<row id="msg_0360_R22_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, something is strange!\rI heard the radio mentioning\nthe date from three years ago!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, noe er rart!\rJeg hørte radioen nevne\ndatoen for tre år siden!\r</language></row>
 	<row id="msg_0360_R22_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is that...am I looking at...\nCELEBI?\rThat explains it!\nCELEBI must have caused all this!\rMy grandpa once told me that\nCELEBI can travel through time using\fits mystic power called {COLOR 1}Time Travel{COLOR 0}!\rCELEBI must have taken us back in time!\nLiterally!\r</language>
-	</row>
+	<language name="Norwegian">Er det...ser jeg på...\nCELEBI?\rDet forklarer det! \nCELEBI må ha forårsaket alt dette!\rBestefaren min fortalte meg en gang at\nCELEBI kan reise gjennom tiden ved hjelp av\fsin mystiske kraft kalt {COLOR 1}Tidsreise{COLOR 0}!\rCELEBI må ha tatt oss tilbake i tid!\nBokstavelig talt!\rDet forklarer alt dette!\rCELEBI må ha forårsaket alt dette!</language></row>
 	<row id="msg_0360_R22_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is that...am I looking at...\nCELEBI?\rThat explains it!\nCELEBI must have caused all this!\rMy grandpa once told me that\nCELEBI can travel through time using\fits mystic power called {COLOR 1}Time Travel{COLOR 0}!\rCELEBI must have taken us back in time!\nLiterally!\r</language>
-	</row>
+	<language name="Norwegian">Er det...ser jeg på...\nCELEBI?\rDet forklarer det! \nCELEBI må ha forårsaket alt dette!\rBestefaren min fortalte meg en gang at\nCELEBI kan reise gjennom tiden ved hjelp av\fsin mystiske kraft kalt {COLOR 1}Tidsreise{COLOR 0}!\rCELEBI må ha tatt oss tilbake i tid!\nBokstavelig talt!\rDet forklarer alt dette!\rCELEBI må ha forårsaket alt dette!</language></row>
 	<row id="msg_0360_R22_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, there is someone else\nhere besides us! Let’s go find out who!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0}, det er noen andre\n her i tillegg til oss! La oss’gå og finne ut hvem!</language></row>
 	<row id="msg_0360_R22_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, there is someone else\nhere besides us! Let’s go find out who!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0}, det er noen andre\n her i tillegg til oss! La oss’gå og finne ut hvem!</language></row>
 	<row id="msg_0360_R22_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ethan: Who does he think he is?\nThat was unnecessary!\rBut what were they talking about?\nThe revival of {COLOR 1}Team Rocket{COLOR 0}...?\rThey say that Team Rocket was\nremoved from the Kanto region\fby a child three years ago.\rSo this really is three years ago!\r</language>
-	</row>
+	<language name="Norwegian">Ethan: Hvem tror han at han er?\nDet var unødvendig!\rMen hva var det de snakket om?\nVekkelsen av {FARGE 1}Team Rocket{FARGE 0}...?\rDe sier at Team Rocket ble\nfjernet fra Kanto-regionen\fav et barn for tre år siden.\rSå dette er virkelig for tre år siden!\r...</language></row>
 	<row id="msg_0360_R22_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lyra: Who does he think he is?\nThat was unnecessary!\rBut what were they talking about?\nThe revival of {COLOR 1}Team Rocket{COLOR 0}...?\rThey say that Team Rocket was\nremoved from the Kanto region\fby a child three years ago.\rSo this really is three years ago!\r</language>
-	</row>
+	<language name="Norwegian">Lyra: Hvem tror han at han er?\nDet var unødvendig!\rMen hva snakket de om?\nVekkelsen av {FARGE 1}Team Rocket{FARGE 0}...?\rDe sier at Team Rocket ble\nfjernet fra Kanto-regionen\fav et barn for tre år siden.\rSå dette er virkelig for tre år siden!\rSå dette er tre år siden!\r</language></row>
 	<row id="msg_0360_R22_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh no! It’s happening again...!\rIt’s CELEBI’s {COLOR 1}Time Travel{COLOR 0}!\r</language>
-	</row>
+	<language name="Norwegian">Å nei! Det’skjer igjen...!\rDet’er CELEBI’er {FARGE 1}Tidsreise{FARGE 0}!\rDet\rer CELEBI’er {FARGE 1}Tidsreise{FARGE 0}!</language></row>
 	<row id="msg_0360_R22_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh no! It’s happening again...!\rIt’s CELEBI’s {COLOR 1}Time Travel{COLOR 0}!\r</language>
-	</row>
+	<language name="Norwegian">Å nei! Det’skjer igjen...!\rDet’er CELEBI’er {FARGE 1}Tidsreise{FARGE 0}!\rDet\rer CELEBI’er {FARGE 1}Tidsreise{FARGE 0}!</language></row>
 </body>

@@ -1,71 +1,71 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0388_R35R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Excuse me, kid!\nI received this letter the other day\ffrom a friend of mine.\rHere’s the reply that I wrote.\rI am stuck here and was wondering\nif you could deliver it...\rHe’s on Route 31.\fCan you help a guy out? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Unnskyld meg, gutt!\nJeg fikk dette brevet her om dagen\ffra en venn av meg.\rHer’er svaret jeg skrev.\rJeg sitter fast her og lurte på\nom du kunne levere det...\rHan’ligger på Route 31.\fKan du hjelpe en fyr ut? {YESNO 0}</language></row>
 	<row id="msg_0388_R35R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh... Never mind, then...\nYou must be busy, too.</language>
-	</row>
+	<language name="Norwegian">Å... Glem det, da... \nDu må også være opptatt.</language></row>
 	<row id="msg_0388_R35R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh?\nYour party is full!</language>
-	</row>
+	<language name="Norwegian">Festen din er full!</language></row>
 	<row id="msg_0388_R35R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow, thanks!\r</language>
-	</row>
+	<language name="Norwegian">Jøss, takk!</language></row>
 	<row id="msg_0388_R35R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received the\nSPEAROW with Mail!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} mottok\nSPEAROW med Mail!</language></row>
 	<row id="msg_0388_R35R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My friend is on Route 31.\rHe looks obviously eager to read\nletters, so you’ll know who he is\fright away!</language>
-	</row>
+	<language name="Norwegian">Min venn er på Route 31. Han ser tydeligvis ivrig ut etter å lese\nbrev, så du’vil vite hvem han er\fmed en gang!</language></row>
 	<row id="msg_0388_R35R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My friend is on Route 31.\rOh, yeah.\nThere was a weird tree\fblocking the road.\fI wonder if it’s been cleared?</language>
-	</row>
+	<language name="Norwegian">Vennen min bor på Route 31. \rJa. \nDet var et merkelig tre\fsom blokkerte veien. \fLurer på om det’har blitt ryddet?</language></row>
 	<row id="msg_0388_R35R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thank you for making the delivery!\r...What about a cave exploration?\nAh, you can go right through here.\rI want you to have this for\nyour kindness!\r</language>
-	</row>
+	<language name="Norwegian">Takk for at du leverte! \r...Hva med en huleutforskning? \nAh, du kan gå rett gjennom her.\rJeg vil at du skal ha denne for\ndin vennlighet! \r</language></row>
 	<row id="msg_0388_R35R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My pal was snoozing, right?\nHeh, he’s always sleeping.</language>
-	</row>
+	<language name="Norwegian">Kompisen min sov, ikke sant? \nHan’sover alltid.</language></row>
 	<row id="msg_0388_R35R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What?!\nYou lost the Mail?\fOh, well. That’s OK.\fDon’t worry about it.</language>
-	</row>
+	<language name="Norwegian">Hva?! Har du mistet posten? Det’er OK.\fIkke tenk på det.</language></row>
 	<row id="msg_0388_R35R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everything is fine!</language>
-	</row>
+	<language name="Norwegian">Alt er i orden!</language></row>
 	<row id="msg_0388_R35R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A strange tree is blocking the road.\nIt wriggles around if you talk to it.\rI heard it became wild when someone\nwatered it with a SquirtBottle.</language>
-	</row>
+	<language name="Norwegian">Et merkelig tre blokkerer veien.\nDet vrir seg rundt hvis du snakker til det.\rJeg har hørt at det ble vilt da noen\nvannet det med en vannflaske.</language></row>
 	<row id="msg_0388_R35R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I like the Pokémon Lullaby they play\non the radio.</language>
-	</row>
+	<language name="Norwegian">Jeg liker Pokémon Lullaby som de spiller på radioen.</language></row>
 	<row id="msg_0388_R35R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I can’t believe such a tiny change\nturns the Pokégear into a radio!\rOh, your Pokégear doesn’t have\nthat feature yet?\rIt’s a shame!\rThey happen to give quizzes at the\nRadio Tower reception on the\ffirst floor.\rIf you can answer them correctly,\nthey’ll give you the Radio Card!\rYou better try it while they\nhave some left!</language>
-	</row>
+	<language name="Norwegian">Jeg kan’ikke tro at en så liten endring\nforvandler Pokégear til en radio!\rÅh, din Pokégear har’ikke\nden funksjonen ennå?\rDet’er synd!\rDe gir tilfeldigvis ut spørrekonkurranser i\nRadiotårnets resepsjon i\fførste etasje.\rHvis du kan svare riktig på dem,\nfår du radiokortet!\rBest du prøver mens de\nhar noen igjen!</language></row>
 	<row id="msg_0388_R35R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I may not look it, but I’m pretty good\nat mechanics.\rDo you want to know how to\nlisten to the radio? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg ser kanskje ikke slik ut, men jeg er ganske god’på mekanikk.\rVil du vite hvordan du\nlytter til radio? {YESNO 0}</language></row>
 	<row id="msg_0388_R35R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You open your Pokégear and press the\nradio button. Then you see the screen\ffor tuning in a signal.\rThe middle of the screen is the\nradio-reception map.\rYou can move the blinking mark on the\nmap around to tune in to different\fradio shows.\rFor those who think this is a pain,\nthere are four channels, two on each\fside, for easy tuning.</language>
-	</row>
+	<language name="Norwegian">Du åpner Pokégear og trykker på\nradioknappen. Da ser du skjermen\ffor å stille inn et signal.\rMidt på skjermen er\nradiomottakskartet.\rDu kan flytte det blinkende merket på\nkartet rundt for å stille inn på forskjellige\fradioprogrammer.\rFor de som synes dette er vanskelig, \ner det fire kanaler, to på hver\fside, for enkel innstilling.</language></row>
 	<row id="msg_0388_R35R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Was I being a backseat driver?</language>
-	</row>
+	<language name="Norwegian">Var jeg en baksetesjåfør?</language></row>
 </body>

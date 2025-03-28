@@ -1,27 +1,27 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0355_R16R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you cruise down the Cycling Road,\nyou will end up in Fuchsia City.</language>
-	</row>
+	<language name="Norwegian">Hvis du kjører nedover Sykkelveien, \nkommer du til Fuchsia City.</language></row>
 	<row id="msg_0355_R16R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello, hello. Would you like to hear\na trendy saying? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hallo, hallo, hallo. Vil du høre et trendy ordtak? {YESNO 0}</language></row>
 	<row id="msg_0355_R16R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Very well...\rThe trendy thing for you to say\nwould be...\r{STRVAR_1 28, 0, 0}!\rThat’s a trendy sort of thing\nto say.</language>
-	</row>
+	<language name="Norwegian">Veldig bra...\rDet trendy for deg å si\nville være...\r{STRVAR_1 28, 0, 0}!\rDet’er en trendy ting\nå si.</language></row>
 	<row id="msg_0355_R16R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, come on now! With an attitude\nlike that, you’ll fall behind the times!</language>
-	</row>
+	<language name="Norwegian">Å, kom igjen nå! Med en slik holdning\nkommer du’til å sakke akterut!</language></row>
 	<row id="msg_0355_R16R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I hope you’ll use trendy sayings\nin trendy ways.</language>
-	</row>
+	<language name="Norwegian">Jeg håper du’vil bruke trendy ordtak\npå trendy måter.</language></row>
 	<row id="msg_0355_R16R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello, hello. Are you using\ntrendy sayings?</language>
-	</row>
+	<language name="Norwegian">Hallo, hallo, hallo. Bruker du\ntrendy ordtak?</language></row>
 </body>

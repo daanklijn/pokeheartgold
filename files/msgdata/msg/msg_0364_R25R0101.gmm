@@ -1,79 +1,79 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0364_R25R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmm? You are here for my grandson?\nHis name is Bill.\rHe’s in Johto.\nHe does something with PCs,\fso I’m house-sitting.\r</language>
-	</row>
+	<language name="Norwegian">Hmm? Er du her for barnebarnet mitt? Han heter Bill.\rHan er i Johto.\nHan gjør noe med PC-er,\fså jeg er husvakt.\r</language></row>
 	<row id="msg_0364_R25R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ah, my grandson mentioned a round,\nblue Pokémon that has leaves\fgrowing on its head.\r</language>
-	</row>
+	<language name="Norwegian">Ah, barnebarnet mitt nevnte en rund, \nblå Pokémon som har blader\fvoksende på hodet.\r</language></row>
 	<row id="msg_0364_R25R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bill told me about a Pokémon that is\nvery loyal to its Trainer.\fIt’s a Fire-type Pokémon that’s\fsupposed to Roar well.\r</language>
-	</row>
+	<language name="Norwegian">Bill fortalte meg om en Pokémon som er\nsvært lojal mot treneren sin.\fDet’er en Ild-type Pokémon som’s\fskal\fvære god til å brøle.\r</language></row>
 	<row id="msg_0364_R25R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know that Pokémon with large,\nround eyes.\rThe one that sings a lullaby with\nits cute voice!\r</language>
-	</row>
+	<language name="Norwegian">Kjenner du den Pokémon med store, \nrunde øyne.\rDen som synger en vuggesang med\nsin søte stemme!\r</language></row>
 	<row id="msg_0364_R25R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know that hugely popular\nPokémon?\rThe Pokémon that has a yellow body\nand bright red cheeks...\rI would love to see what it looks\nlike before it evolves.\r</language>
-	</row>
+	<language name="Norwegian">Kjenner du til den enormt populære\nPokémonen? \rPokémonen som har en gul kropp\nog knallrøde kinn...\rJeg vil gjerne se hvordan den ser\nut før den utvikler seg.\r</language></row>
 	<row id="msg_0364_R25R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I heard that there is a blue and round\nPokémon in Johto.\rBill told me that the end of its tail\nworks like a float.\rIts belly is white. Just the belly.\nI would love to see what it looks like.\r</language>
-	</row>
+	<language name="Norwegian">Jeg har hørt at det finnes en blå og rund\nPokémon i Johto.\rBill fortalte meg at enden av halen\nfungerer som en flottør.\rMagen er hvit. Bare magen.\nJeg vil gjerne se hvordan den ser ut.\r</language></row>
 	<row id="msg_0364_R25R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My grandson Bill told me about a\nPokémon that has a long tongue.\rIt has ringlike marks on the front\nof its legs, he said!\r</language>
-	</row>
+	<language name="Norwegian">Barnebarnet mitt Bill fortalte meg om en\nPokémon som har en lang tunge.\rDen har ringlignende merker på forsiden\nav beina, sa han!\r</language></row>
 	<row id="msg_0364_R25R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ah, my grandson mentioned a round,\nblue Pokémon that has leaves\fgrowing on its head.\r</language>
-	</row>
+	<language name="Norwegian">Ah, barnebarnet mitt nevnte en rund, \nblå Pokémon som har blader\fvoksende på hodet.\r</language></row>
 	<row id="msg_0364_R25R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know of a sea Pokémon that\nhas a red sphere in its body?\fYou know, the one that’s shaped like\fa star?\rI heard that it appears at night.\nI would surely like to see it.\r</language>
-	</row>
+	<language name="Norwegian">Kjenner du til en sjø-Pokémon som\nhar en rød kule i kroppen?\fDu vet, den som’er formet som\fen stjerne?\rJeg har hørt at den kommer til syne om natten.\nJeg vil gjerne se den.\r</language></row>
 	<row id="msg_0364_R25R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I heard about a cute Pokémon that\nhas six tails.\rI would love to hug a cute Pokémon\nlike that.\r</language>
-	</row>
+	<language name="Norwegian">Jeg har hørt om en søt Pokémon som\nhar seks haler.\rJeg vil gjerne klemme en slik søt Pokémon\nsom den.\r</language></row>
 	<row id="msg_0364_R25R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you know that hugely popular\nPokémon?\rThe Pokémon that has a yellow body\nand bright red cheeks...\rI would love to see what it looks\nlike before it evolves.\r</language>
-	</row>
+	<language name="Norwegian">Kjenner du til den enormt populære\nPokémonen? \rPokémonen som har en gul kropp\nog knallrøde kinn...\rJeg vil gjerne se hvordan den ser\nut før den utvikler seg.\r</language></row>
 	<row id="msg_0364_R25R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you have that Pokémon,\nmay I see it, please? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hvis du har den Pokémonen, kan jeg få se den? {YESNO 0}</language></row>
 	<row id="msg_0364_R25R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You will show me?\nHow good of you!\r</language>
-	</row>
+	<language name="Norwegian">Vil du vise meg det? Så snilt av deg!</language></row>
 	<row id="msg_0364_R25R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You don’t have it?\nThat’s too bad...</language>
-	</row>
+	<language name="Norwegian">Du har ikke’det? \nDet’er synd...</language></row>
 	<row id="msg_0364_R25R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hm?\rThat’s not the Pokémon that I was\ntold about...</language>
-	</row>
+	<language name="Norwegian">Hm? \rDet’er ikke den Pokémon som jeg ble\nfortalt om...</language></row>
 	<row id="msg_0364_R25R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow!\nThat Pokémon is called {STRVAR_1 0, 0, 0}!\rIt’s a wonderful Pokémon!\nAs a token of my appreciation,\fI would like to give this to you!\r</language>
-	</row>
+	<language name="Norwegian">Jøss!\nDen Pokémon heter {STRVAR_1 0, 0, 0}!\rDen’er en fantastisk Pokémon!\nSom et tegn på min takknemlighet,\fvil jeg gjerne gi deg denne!\r</language></row>
 	<row id="msg_0364_R25R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Come visit again\nsometime.</language>
-	</row>
+	<language name="Norwegian">Kom på besøk igjen\nnoen gang.</language></row>
 	<row id="msg_0364_R25R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Thanks for showing me so many\ncute Pokémon.\fI really enjoyed myself.\rI’m glad I’ve lived such a long life.</language>
-	</row>
+	<language name="Norwegian">Takk for at du viste meg så mange\nsøte Pokémon.\fJeg koste meg virkelig.\rJeg’er glad for at jeg’har levd et så langt liv.</language></row>
 	<row id="msg_0364_R25R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is a dusty machine under\nthe cloth cover...\fIt has not been used for some time.</language>
-	</row>
+	<language name="Norwegian">Det er en støvete maskin under\nklutdekselet...\fDen har ikke vært i bruk på en stund.</language></row>
 </body>

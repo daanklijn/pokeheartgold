@@ -1,1258 +1,1258 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0309_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to the Pokéathlon!\rToday’s event--\nthe {STRVAR_4 1, 0, 0}!\rWho will shine brightest today?\nLet’s meet the competitors!\r</language>
-	</row>
+	<language name="Norwegian">Velkommen til Pokéathlon!\rDagens’begivenhet--\n {STRVAR_4 1, 0, 0}!\rHvem vil skinne klarest i dag?\nLa’konkurrentene møtes!\r</language></row>
 	<row id="msg_0309_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team {STRVAR_1 3, 0, 0}: {STRVAR_1 1, 1, 0},\n{STRVAR_1 1, 2, 0}, and {STRVAR_1 1, 3, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Team {STRVAR_1 3, 0, 0}: {STRVAR_1 1, 1, 0},\n{STRVAR_1 1, 2, 0}, og {STRVAR_1 1, 3, 0}!\r.</language></row>
 	<row id="msg_0309_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right, we’re ready!\nAim for the top! Let’s\r{ALN_CENTER}{SIZE 200}POKéATHLON!\r</language>
-	</row>
+	<language name="Norwegian">Greit, vi er klare! ’Sikt mot toppen! La’s\r{ALN_CENTER}{SIZE 200}POKéATHLON!\r</language></row>
 	<row id="msg_0309_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Great job, athletes!\rWhich team fought the hardest?\nWe’ve got the results!\rBut first...\nwho’s overflowing with fighting spirit?\r</language>
-	</row>
+	<language name="Norwegian">Bra jobbet, idrettsutøvere!\rHvilket lag kjempet hardest?\nVi’har fått resultatene!\rMen først...\nhvem’er overfylt av kampvilje?\r</language></row>
 	<row id="msg_0309_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Challenge Bonus for\nPokémon and Team!\r</language>
-	</row>
+	<language name="Norwegian">En utfordringsbonus for \nPokémon og Team!\r</language></row>
 	<row id="msg_0309_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 52, 1, 0} points for Team {STRVAR_1 3, 0, 0}!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 52, 1, 0} poeng for lag {STRVAR_1 3, 0, 0}!\r</language></row>
 	<row id="msg_0309_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Continuing on, the individual prizes...\r</language>
-	</row>
+	<language name="Norwegian">Vi fortsetter med de individuelle prisene ...\r</language></row>
 	<row id="msg_0309_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The No-Miss Bonus!\r</language>
-	</row>
+	<language name="Norwegian">Bonusen du ikke kan gå glipp av!\r</language></row>
 	<row id="msg_0309_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team {STRVAR_1 3, 0, 0}’s {STRVAR_1 0, 1, 0}!</language>
-	</row>
+	<language name="Norwegian">Team {STRVAR_1 3, 0, 0}’s {STRVAR_1 0, 1, 0}!</language></row>
 	<row id="msg_0309_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There wasn’t one this time.\r</language>
-	</row>
+	<language name="Norwegian">Det var’ikke en denne gangen.\r</language></row>
 	<row id="msg_0309_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s all!\r</language>
-	</row>
+	<language name="Norwegian">Det’er alt!\r</language></row>
 	<row id="msg_0309_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Moving on...\nthe points leader!\r</language>
-	</row>
+	<language name="Norwegian">Vi går videre...\npoengsjefen!\r</language></row>
 	<row id="msg_0309_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team {STRVAR_1 3, 0, 0}’s {STRVAR_1 0, 1, 0}!</language>
-	</row>
+	<language name="Norwegian">Team {STRVAR_1 3, 0, 0}’s {STRVAR_1 0, 1, 0}!</language></row>
 	<row id="msg_0309_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s all!\r</language>
-	</row>
+	<language name="Norwegian">Det’er alt!\r</language></row>
 	<row id="msg_0309_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Next up...\nthe prize for effort!\r</language>
-	</row>
+	<language name="Norwegian">Neste...\nprisen for innsats!\r</language></row>
 	<row id="msg_0309_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Pokémon that jumped the most...\r</language>
-	</row>
+	<language name="Norwegian">Pokémon som hoppet mest...\r</language></row>
 	<row id="msg_0309_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Pokémon that hit the most...\r</language>
-	</row>
+	<language name="Norwegian">Pokémon som traff mest...\r</language></row>
 	<row id="msg_0309_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Pokémon that failed the most...\r</language>
-	</row>
+	<language name="Norwegian">Pokémon som mislyktes mest...\r</language></row>
 	<row id="msg_0309_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Pokémon that dashed the most...\r</language>
-	</row>
+	<language name="Norwegian">Pokémon som stakk mest...\r</language></row>
 	<row id="msg_0309_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Pokémon that missed collecting\nthe most points...\r</language>
-	</row>
+	<language name="Norwegian">Pokémon som ikke klarte å samle\nflest poeng...\r</language></row>
 	<row id="msg_0309_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team {STRVAR_1 3, 0, 0}’s {STRVAR_1 0, 1, 0}!</language>
-	</row>
+	<language name="Norwegian">Team {STRVAR_1 3, 0, 0}’s {STRVAR_1 0, 1, 0}!</language></row>
 	<row id="msg_0309_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s all!\r</language>
-	</row>
+	<language name="Norwegian">Det’er alt!\r</language></row>
 	<row id="msg_0309_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Finally...\nwe’ll add up the event points!\r</language>
-	</row>
+	<language name="Norwegian">Til slutt...\nvi’summerer opp hendelsespoengene!</language></row>
 	<row id="msg_0309_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Event {STRVAR_1 50, 0, 0}!</language>
-	</row>
+	<language name="Norwegian">Hendelse {STRVAR_1 50, 0, 0}!</language></row>
 	<row id="msg_0309_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What? We have a tie!?\nWell, we settle ties by a drawing!\rNo, no, hmm...\n...\r...\nGot it!\r</language>
-	</row>
+	<language name="Norwegian">Hva er det? Vi har uavgjort! Vel, vi avgjør uavgjort ved å tegne! Nei, nei, hmm...\n...\r...\n...\n...\n...\nFikk det! \r</language></row>
 	<row id="msg_0309_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The overall winner, with {STRVAR_1 52, 0, 0} points...\r</language>
-	</row>
+	<language name="Norwegian">Sammenlagtvinneren, med {STRVAR_1 52, 0, 0} poeng ...\r.</language></row>
 	<row id="msg_0309_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Team {STRVAR_1 3, 0, 0}!\r</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Team {STRVAR_1 3, 0, 0}!\r</language></row>
 	<row id="msg_0309_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team {STRVAR_1 3, 0, 0} was awarded\nthe {STRVAR_4 3, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Lag {STRVAR_1 3, 0, 0} ble tildelt\nlaget {STRVAR_4 3, 1, 0}!\r.</language></row>
 	<row id="msg_0309_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team {STRVAR_1 3, 0, 0} was awarded\n{STRVAR_4 3, 1, 0} and {STRVAR_4 3, 2, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Lag {STRVAR_1 3, 0, 0} ble tildelt\n{STRVAR_4 3, 1, 0} og {STRVAR_4 3, 2, 0}!\r.</language></row>
 	<row id="msg_0309_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Team {STRVAR_1 3, 0, 0} beat its personal\nbest at the {STRVAR_4 1, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Lag {STRVAR_1 3, 0, 0} slo sitt personlig\n beste på {STRVAR_4 1, 1, 0}!\r .</language></row>
 	<row id="msg_0309_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You did well on the\n{STRVAR_4 1, 0, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Du gjorde det bra på\n{STRVAR_4 1, 0, 0}!\r.</language></row>
 	<row id="msg_0309_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Congratulations!\nThat was a wonderful Performance!\rKeep aiming to be the top Pokéathlete!\rThat is...\nPokéathlon\r{ALN_CENTER}{SIZE 200}FOREVER!\r</language>
-	</row>
+	<language name="Norwegian">Gratulerer!\nDet var en fantastisk prestasjon!\rFortsett å sikte på å være den beste Pokéathlete!\rDet er ...\nPokéathlon\r{ALN_CENTER}{SIZE 200}FOREVER!\r</language></row>
 	<row id="msg_0309_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Joined {STRVAR_1 55, 1, 0} times!\nA new name in Pokéathletes!\r</language>
-	</row>
+	<language name="Norwegian">Ble med {STRVAR_1 55, 1, 0} ganger!\nEt nytt navn i Pokéathletes!\r</language></row>
 	<row id="msg_0309_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Joined {STRVAR_1 55, 1, 0} times!\nA Pokéathlete shooting star!\r</language>
-	</row>
+	<language name="Norwegian">Ble med {STRVAR_1 55, 1, 0} ganger!\nEn Pokéathlete stjerneskudd!\r</language></row>
 	<row id="msg_0309_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Joined {STRVAR_1 55, 1, 0} times!\nA Pokéathlete supernova!\r</language>
-	</row>
+	<language name="Norwegian">Ble med {STRVAR_1 55, 1, 0} ganger!\nEn Pokéathlete-supernova!\r</language></row>
 	<row id="msg_0309_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Joined {STRVAR_1 55, 1, 0} times!\nA Pokéathlete galaxy-sized explosion!\r</language>
-	</row>
+	<language name="Norwegian">Ble med {STRVAR_1 55, 1, 0} ganger!\nEn Pokéathlete galakse-størrelse eksplosjon!\r</language></row>
 	<row id="msg_0309_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aim for the championship!\nOn a Pokéathlon shooting star!\r</language>
-	</row>
+	<language name="Norwegian">Sikt mot mesterskapet!\nPå et Pokéathlon-stjerneskudd!\r</language></row>
 	<row id="msg_0309_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Overall victory, {STRVAR_1 55, 1, 0} times!\nThe Pokéathlon is yours!\r</language>
-	</row>
+	<language name="Norwegian">Sammenlagt seier, {STRVAR_1 55, 1, 0} ganger!\n Pokéathlon er din!\r</language></row>
 	<row id="msg_0309_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Overall victory, {STRVAR_1 55, 1, 0} times!\nTomorrow, seize the Pokéathlon!\r</language>
-	</row>
+	<language name="Norwegian">Sammenlagt seier, {STRVAR_1 55, 1, 0} ganger!\nI morgen, ta Pokéathlon!\r</language></row>
 	<row id="msg_0309_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Overall victory, {STRVAR_1 55, 1, 0} times!\nThe Pokéathlon is mine!\r</language>
-	</row>
+	<language name="Norwegian">Sammenlagt seier, {STRVAR_1 55, 1, 0} ganger!\n Pokéathlon er min!\r</language></row>
 	<row id="msg_0309_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you try your best and don’t fail...\nyou’re sure to do better!\r</language>
-	</row>
+	<language name="Norwegian">Hvis du gjør ditt beste og ikke mislykkes ... ’er du’ sikker på å gjøre det bedre!</language></row>
 	<row id="msg_0309_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThat’s all right. I’ll keep trying!\r</language>
-	</row>
+	<language name="Norwegian">Siste plass, {STRVAR_1 55, 1, 0} ganger!\nDet’er helt greit. Jeg’vil fortsette å prøve!\r</language></row>
 	<row id="msg_0309_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThat doesn’t matter at all!\r</language>
-	</row>
+	<language name="Norwegian">Siste plass, {STRVAR_1 55, 1, 0} ganger!\nDet spiller’ingen rolle i det hele tatt!\r</language></row>
 	<row id="msg_0309_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nNobody’s seen my back yet!\r</language>
-	</row>
+	<language name="Norwegian">Siste plass, {STRVAR_1 55, 1, 0} ganger!\nIngen’har sett ryggen min ennå!\r</language></row>
 	<row id="msg_0309_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aim for number one!\nIt starts today!\r</language>
-	</row>
+	<language name="Norwegian">Sikt mot førsteplassen!\nDet begynner i dag!\r</language></row>
 	<row id="msg_0309_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">First Place, {STRVAR_1 55, 1, 0} times!\nAll right! Will you come with me?\r</language>
-	</row>
+	<language name="Norwegian">Førsteplass, {STRVAR_1 55, 1, 0} ganger! \nAll right! Vil du bli med meg?</language></row>
 	<row id="msg_0309_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">First Place, {STRVAR_1 55, 1, 0} times!\nWere you still really counting this time?\r</language>
-	</row>
+	<language name="Norwegian">Førsteplass, {STRVAR_1 55, 1, 0} ganger!\nTalte du virkelig med denne gangen? \r</language></row>
 	<row id="msg_0309_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">First Place, {STRVAR_1 55, 1, 0} times!\nDon’t tell me, another First Place?!\r</language>
-	</row>
+	<language name="Norwegian">Førsteplass, {STRVAR_1 55, 1, 0} ganger!\nIkke si meg, enda en førsteplass?!\r</language></row>
 	<row id="msg_0309_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Don’t worry about failure!\nFalling down is not the end!\r</language>
-	</row>
+	<language name="Norwegian">Ikke bekymre deg for å mislykkes!’Det er ikke slutten å falle ned!\r</language></row>
 	<row id="msg_0309_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nFall down seven times. Get up eight!\r</language>
-	</row>
+	<language name="Norwegian">Siste plass, {STRVAR_1 55, 1, 0} ganger!\nFall ned syv ganger. Reis deg opp åtte ganger!\r</language></row>
 	<row id="msg_0309_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThat’s my distinguishing feature!\r</language>
-	</row>
+	<language name="Norwegian">Siste plass, {STRVAR_1 55, 1, 0} ganger!\nDet’er det som kjennetegner meg!\r</language></row>
 	<row id="msg_0309_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Last Place, {STRVAR_1 55, 1, 0} times!\nThis record is what I’m famous for!\r</language>
-	</row>
+	<language name="Norwegian">Last Place, {STRVAR_1 55, 1, 0} ganger!\nDenne posten er jeg’m kjent for!\r</language></row>
 	<row id="msg_0309_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Winning with true strength?\nOr just winning with luck?!\r</language>
-	</row>
+	<language name="Norwegian">Vinner du med ekte styrke?! \nEller bare med flaks?! \r</language></row>
 	<row id="msg_0309_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Closing-ceremony bonus awards.\nLucky {STRVAR_1 55, 1, 0} times?!\r</language>
-	</row>
+	<language name="Norwegian">Bonusutdelinger ved avslutningsseremonien \nLucky {STRVAR_1 55, 1, 0} ganger?!\r</language></row>
 	<row id="msg_0309_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Closing-ceremony bonus awards.\n{STRVAR_1 55, 1, 0} times. That’s true strength!\r</language>
-	</row>
+	<language name="Norwegian">Bonusutdelinger ved avslutningsseremonien.\n{STRVAR_1 55, 1, 0} ganger. Det’er sann styrke!\r</language></row>
 	<row id="msg_0309_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Closing-ceremony bonus awards.\n{STRVAR_1 55, 1, 0} times. Luck and true strength!\r</language>
-	</row>
+	<language name="Norwegian">Bonusutdeling ved avslutningsseremonien.\n{STRVAR_1 55, 1, 0} ganger. Flaks og ekte styrke!\r{STRVAR_1</language></row>
 	<row id="msg_0309_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Always giving instructions to Pokémon!\nHowl for heaps of championships!\r</language>
-	</row>
+	<language name="Norwegian">Gir alltid instruksjoner til Pokémon!\nHowl for massevis av mesterskap!\r</language></row>
 	<row id="msg_0309_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Will that teamwork be enough to\nchange history?\r</language>
-	</row>
+	<language name="Norwegian">Vil dette samarbeidet være nok til å\nendre historien?</language></row>
 	<row id="msg_0309_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Look at this! This teamwork! It’s\namazing! You can feel the friendship!\r</language>
-	</row>
+	<language name="Norwegian">Se på dette! Dette lagarbeidet! Det er fantastisk! Du kan føle vennskapet!</language></row>
 	<row id="msg_0309_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s right. We can read\neach other’s minds!\r</language>
-	</row>
+	<language name="Norwegian">Det stemmer. Vi kan lese\nhverandres’sinn!</language></row>
 	<row id="msg_0309_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It doesn’t end when you fall! As long\nas there’s a championship!\r</language>
-	</row>
+	<language name="Norwegian">Det slutter ikke når du faller! Så lenge det finnes et mesterskap!</language></row>
 	<row id="msg_0309_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Failed {STRVAR_1 55, 1, 0} times! Only the number\nof times you’ve fainted has increased!\r</language>
-	</row>
+	<language name="Norwegian">Sviktet {STRVAR_1 55, 1, 0} ganger! Bare antallet\n ganger du’har besvimt har økt!\r</language></row>
 	<row id="msg_0309_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Failed {STRVAR_1 55, 1, 0} times!\nFailure is just a shortcut to success!\r</language>
-	</row>
+	<language name="Norwegian">Mislyktes {STRVAR_1 55, 1, 0} ganger!\nMislykket er bare en snarvei til suksess!\r</language></row>
 	<row id="msg_0309_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Failed {STRVAR_1 55, 1, 0} times!\nFailure is the source of success!\r</language>
-	</row>
+	<language name="Norwegian">Mislyktes {STRVAR_1 55, 1, 0} ganger!\nMislykket er kilden til suksess!\r</language></row>
 	<row id="msg_0309_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Always aim sky high!\nAim for anything in the sky!\r</language>
-	</row>
+	<language name="Norwegian">Sikt alltid høyt! \nSikt etter alt som er på himmelen! \r</language></row>
 	<row id="msg_0309_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fly high!\nYou can fly anywhere!\r</language>
-	</row>
+	<language name="Norwegian">Fly høyt!\nDu kan fly hvor som helst!\r</language></row>
 	<row id="msg_0309_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s a tomorrow only you can see.\nLeap for it!\r</language>
-	</row>
+	<language name="Norwegian">Det’er en morgendag bare du kan se.\nLøp etter den!\r</language></row>
 	<row id="msg_0309_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The other side of the sky is a glittery\ntomorrow! You were born to catch it!\r</language>
-	</row>
+	<language name="Norwegian">På den andre siden av himmelen er det en glitrende\nmorgen! Du ble født til å fange den!</language></row>
 	<row id="msg_0309_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Those points and these points--let’s go\nget ’em!\r</language>
-	</row>
+	<language name="Norwegian">Disse punktene og disse punktene - la’s gå\nhent ’em!\r</language></row>
 	<row id="msg_0309_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">One point isn’t useless! It’s the\nshortcut to success!\r</language>
-	</row>
+	<language name="Norwegian">Ett poeng er ikke’nytteløst! Det er’nøkkelen til suksess!\r</language></row>
 	<row id="msg_0309_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Don’t overlook one point! Always be\nlooking one step ahead!\r</language>
-	</row>
+	<language name="Norwegian">Ikke overse ett eneste punkt! Vær alltid\nett skritt foran!</language></row>
 	<row id="msg_0309_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right! The Pokéathlon Point King!\nAll points are mine!\r</language>
-	</row>
+	<language name="Norwegian">Greit! Pokéathlon-poengkongen!\nAlle poengene er mine!\r</language></row>
 	<row id="msg_0309_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Take that! And that! I’ll tackle\nanything that comes my way!\r</language>
-	</row>
+	<language name="Norwegian">Ta den! Og den! Jeg’takler\nalt som kommer i min vei!\r</language></row>
 	<row id="msg_0309_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right all right! The tackle fiend!\nThe number of times: {STRVAR_1 55, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Greit, greit, greit! Taklingen fiend!\nAntall ganger: {STRVAR_1 55, 1, 0}!\r</language></row>
 	<row id="msg_0309_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Strike for victory!\n{STRVAR_1 55, 1, 0} times, that is!\r</language>
-	</row>
+	<language name="Norwegian">Slå for seier!\n{STRVAR_1 55, 1, 0} ganger, det vil si!\r</language></row>
 	<row id="msg_0309_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nothing can stand in my way!\nTackled {STRVAR_1 55, 1, 0} times!\r</language>
-	</row>
+	<language name="Norwegian">Ingenting kan stå i veien for meg!\nTacklet {STRVAR_1 55, 1, 0} ganger!\r</language></row>
 	<row id="msg_0309_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Why did you fall down so far?! Is there\na hole over there or something?\r</language>
-	</row>
+	<language name="Norwegian">Hvorfor falt du så langt ned?! Er det et hull der borte eller noe?</language></row>
 	<row id="msg_0309_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">To fall from such heights!\nThat thrilling feeling has got me!\r</language>
-	</row>
+	<language name="Norwegian">Å falle fra slike høyder!\nDen spennende følelsen har tatt meg!\r</language></row>
 	<row id="msg_0309_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Pokéathlete that fights even on the\nedge of the ring! Truly serious!\r</language>
-	</row>
+	<language name="Norwegian">En Pokéatlet som kjemper selv på\nkanten av ringen! Virkelig seriøs!\r</language></row>
 	<row id="msg_0309_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s always a last stand!\nThat’s why I’m always serious!\r</language>
-	</row>
+	<language name="Norwegian">Det’er alltid siste utvei!\nDerfor’er jeg’alltid alvorlig!\r</language></row>
 	<row id="msg_0309_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Such running ability! Dash around the\nPokéathlon!\r</language>
-	</row>
+	<language name="Norwegian">For en løpeevne! Løp rundt i\nPokéathlon!\r</language></row>
 	<row id="msg_0309_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Run! Seize victory!\nGo for it! Seize tomorrow!\r</language>
-	</row>
+	<language name="Norwegian">Løp! Grip seieren! \nGrip den! Grip morgendagen!\r</language></row>
 	<row id="msg_0309_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Think you can keep up?\nFast...faster...the fastest!\r</language>
-	</row>
+	<language name="Norwegian">Tror du at du kan holde følge? \nFast...raskere...den raskeste!\r</language></row>
 	<row id="msg_0309_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Running as fast as lightning!\nCan your eyes keep up?!\r</language>
-	</row>
+	<language name="Norwegian">Løper lynraskt!\nKan øynene dine følge med?!\r</language></row>
 	<row id="msg_0309_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Strength isn’t everything! Strategy is\nanother important factor to success!\r</language>
-	</row>
+	<language name="Norwegian">Styrke er’ikke alt! Strategi er\nen annen viktig faktor for å lykkes!</language></row>
 	<row id="msg_0309_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everything comes down to brains!\nYou can manipulate the world!\r</language>
-	</row>
+	<language name="Norwegian">Alt handler om hjerne!\nDu kan manipulere verden!\r</language></row>
 	<row id="msg_0309_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Always be prepared! That strategy\ncan be overturned!\r</language>
-	</row>
+	<language name="Norwegian">Vær alltid forberedt! Denne strategien\nkan bli omgjort!</language></row>
 	<row id="msg_0309_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you know everything about Pokémon,\nyou can get the best Performance!\r</language>
-	</row>
+	<language name="Norwegian">Hvis du vet alt om Pokémon,\nkan du få den beste ytelsen!\r</language></row>
 	<row id="msg_0309_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re not alone!\nEveryone is here competing against you!\r</language>
-	</row>
+	<language name="Norwegian">Du’er ikke alene!\nAlle er her og konkurrerer mot deg!\r</language></row>
 	<row id="msg_0309_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re always competing against\neveryone! That’s true strength!\r</language>
-	</row>
+	<language name="Norwegian">Du konkurrerer alltid mot’alle! Det er din sanne styrke!</language></row>
 	<row id="msg_0309_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ll get stronger by fighting others,\nso use their strength to fight!\r</language>
-	</row>
+	<language name="Norwegian">Du’blir sterkere av å kjempe mot andre,\nså bruk styrken deres til å kjempe!</language></row>
 	<row id="msg_0309_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Within you are many friends, and\nmany Pokémon!\r</language>
-	</row>
+	<language name="Norwegian">I deg er det mange venner, og\nmange Pokémon!\r</language></row>
 	<row id="msg_0309_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When you fight a true warrior, victory\nis within your grasp!\r</language>
-	</row>
+	<language name="Norwegian">Når du kjemper mot en ekte kriger, er seieren\ninnenfor rekkevidde!</language></row>
 	<row id="msg_0309_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Outside are many strong Pokémon!\nThey’ve come to compete!\r</language>
-	</row>
+	<language name="Norwegian">Utenfor er det mange sterke Pokémon!\nDe’er kommet for å konkurrere!\r</language></row>
 	<row id="msg_0309_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can’t lose to them! You’ve won too\nmany times!\r</language>
-	</row>
+	<language name="Norwegian">Du kan ikke tape mot dem! Du har vunnet for mange ganger!</language></row>
 	<row id="msg_0309_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aim to be a stronger Pokéathlete!\nThen you’ll win more!\r</language>
-	</row>
+	<language name="Norwegian">Sikt på å bli en sterkere Pokéathlete!\nDa vil du’vinne mer!\r</language></row>
 	<row id="msg_0309_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your total losses prove your strength!\nThey show when you’ve faced a warrior!\r</language>
-	</row>
+	<language name="Norwegian">Dine totale tap beviser din styrke!\nDe viser når du’har møtt en kriger!\r</language></row>
 	<row id="msg_0309_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There are many strong people out\nthere. You know that more than anyone!\r</language>
-	</row>
+	<language name="Norwegian">Det finnes mange sterke mennesker der ute. Det vet du bedre enn noen annen!</language></row>
 	<row id="msg_0309_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Always compete with someone!\nAnd share in that competition!\r</language>
-	</row>
+	<language name="Norwegian">Konkurrer alltid med noen!\nOg ta del i den konkurransen!\r</language></row>
 	<row id="msg_0309_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I don’t worry about winning or losing,\njust that I compete against the best!\r</language>
-	</row>
+	<language name="Norwegian">Jeg bryr meg ikke om å vinne eller tape,’bare om å konkurrere mot de beste!</language></row>
 	<row id="msg_0309_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Leave Hurdles to me! I’m a Pokéathlete\nthat loves Hurdles more than anything!\r</language>
-	</row>
+	<language name="Norwegian">Overlat Hurdles til meg! Jeg’er en Pokéathlete\nsom elsker Hurdles mer enn noe annet!\r</language></row>
 	<row id="msg_0309_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s no Hurdle I can’t jump! Watch\nmy beautiful footwork!\r</language>
-	</row>
+	<language name="Norwegian">Det finnes ikke et hinder jeg ikke kan hoppe over! Se på mitt vakre fotarbeid!</language></row>
 	<row id="msg_0309_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I can climb over any obstacle, I can\njump any Hurdle!\r</language>
-	</row>
+	<language name="Norwegian">Jeg kan klatre over ethvert hinder, jeg kan\nhoppe over ethvert hinder!</language></row>
 	<row id="msg_0309_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hurdles are not obstacles! You can\njust run around them!\r</language>
-	</row>
+	<language name="Norwegian">Hinder er ikke hindringer! Du kan\n bare løpe rundt dem!</language></row>
 	<row id="msg_0309_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I was born to snatch Pennants! I am\nthe ruler of this beach!\r</language>
-	</row>
+	<language name="Norwegian">Jeg ble født til å ta vimpler! Jeg er herskeren over denne stranden!</language></row>
 	<row id="msg_0309_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When you see Pennants, you think of me!\nI am a Pennant-capturing hero!\r</language>
-	</row>
+	<language name="Norwegian">Når du ser vimpler, tenker du på meg!\nJeg er en helt som fanger vimpler!\r</language></row>
 	<row id="msg_0309_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The sandy beach is my field!\nI run about it freely!\r</language>
-	</row>
+	<language name="Norwegian">Sandstranden er min mark!\nJeg løper fritt rundt på den!\r</language></row>
 	<row id="msg_0309_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s no Pennant I can’t capture!\nI’ll even capture the championship!\r</language>
-	</row>
+	<language name="Norwegian">Det finnes ingen vimpel jeg ikke kan’ta! ’Jeg’kan til og med ta mesterskapet! \r</language></row>
 	<row id="msg_0309_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Push! Push! Push!\nPush it aside!\r</language>
-	</row>
+	<language name="Norwegian">Dytt! Dytt! Dytt! \nDytt den til side! \r</language></row>
 	<row id="msg_0309_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s nothing I can’t push! I’ll push\nyou out of the Circle to be alone!\r</language>
-	</row>
+	<language name="Norwegian">Det er ingenting jeg ikke kan dytte! Jeg’skubber\ndeg ut av sirkelen for å være alene!</language></row>
 	<row id="msg_0309_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m in a whole new dimension when it\ncomes to pushing! I was born to push!\r</language>
-	</row>
+	<language name="Norwegian">Jeg’er i en helt ny dimensjon når det\nkommer til å presse! Jeg ble født til å presse!</language></row>
 	<row id="msg_0309_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s with the intimidation you might\nfeel? I can push without touching!\r</language>
-	</row>
+	<language name="Norwegian">Hva’er det med skremselen du kanskje\nføler? Jeg kan dytte uten å røre!</language></row>
 	<row id="msg_0309_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Smash! Crash! Shatter!\nI was born to smash Blocks!\r</language>
-	</row>
+	<language name="Norwegian">Smash! Krasj! Knuse!\nJeg ble født til å knuse blokker!\r</language></row>
 	<row id="msg_0309_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s nothing I can’t smash! I am the\nPokéathlon Destruction King!\r</language>
-	</row>
+	<language name="Norwegian">Det er ingenting jeg ikke kan knuse! Jeg er\nPokéathlon Destruction King!\r</language></row>
 	<row id="msg_0309_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s a huge wall over there I’m\nsure! It’s just there for me to smash!\r</language>
-	</row>
+	<language name="Norwegian">Det er en enorm vegg der borte, det er jeg’sikker på! Den er bare der for meg å knuse!</language></row>
 	<row id="msg_0309_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Keep breaking Blocks...and you’ll\nnotice the mountain over there.\r</language>
-	</row>
+	<language name="Norwegian">Fortsett å knuse blokker ... og du’vil\nbemerke fjellet der borte.\r</language></row>
 	<row id="msg_0309_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My body just automatically catches any\nDiscs that come my way!\r</language>
-	</row>
+	<language name="Norwegian">Kroppen min fanger automatisk opp alle\ndisker som kommer i min vei!\r</language></row>
 	<row id="msg_0309_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve come to catch Discs and catch the\nPokéathlon!\r</language>
-	</row>
+	<language name="Norwegian">Jeg’har kommet for å fange Discs og ta\nPokéathlon!\r</language></row>
 	<row id="msg_0309_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Disc you caught is tomorrow’s\nshooting star!\r</language>
-	</row>
+	<language name="Norwegian">Skiven du fanget er i morgen’s\nshooting star!\r</language></row>
 	<row id="msg_0309_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bring it on. I’ll catch it! I’ll catch\nany Disc that comes my way!\r</language>
-	</row>
+	<language name="Norwegian">Kom igjen. Jeg’fanger den! Jeg’fanger\nalle Disc som kommer min vei!\r</language></row>
 	<row id="msg_0309_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The jump was like the wind!\nThe form was like a cloud!\r</language>
-	</row>
+	<language name="Norwegian">Hoppet var som vinden!\n Formen var som en sky!\r</language></row>
 	<row id="msg_0309_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jump high to the sky!\nThe form is weightless!\r</language>
-	</row>
+	<language name="Norwegian">Hopp høyt til himmelen!\nSkjemaet er vektløst!\r</language></row>
 	<row id="msg_0309_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Pokéathlete that can read the\nflow of the wind and control the air.\r</language>
-	</row>
+	<language name="Norwegian">En Pokéatlet som kan lese\nvindens strømning og kontrollere luften.\r</language></row>
 	<row id="msg_0309_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s no border between the ground\nand the sky within me!\r</language>
-	</row>
+	<language name="Norwegian">Det’er ingen grense mellom jorden\nog himmelen i meg!\r</language></row>
 	<row id="msg_0309_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s no one who can stop me!\nI was born to run!\r</language>
-	</row>
+	<language name="Norwegian">Det er ingen som kan stoppe meg!’Jeg er født til å løpe!\r</language></row>
 	<row id="msg_0309_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve never seen strength like this!\nJust running all day long!\r</language>
-	</row>
+	<language name="Norwegian">Jeg har aldri sett maken til styrke!’Jeg bare løper hele dagen lang!\r</language></row>
 	<row id="msg_0309_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Once I get moving, I can’t stop!\nI’m in a perpetual Pokéathlon!\r</language>
-	</row>
+	<language name="Norwegian">Når jeg først er i gang, kan jeg ikke’stoppe!\nJeg’er i en evigvarende pokéathlon!\r</language></row>
 	<row id="msg_0309_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My engine is friendship, and my motor\nis victory!\r</language>
-	</row>
+	<language name="Norwegian">Motoren min er vennskap, og motoren min\ner seier!\r</language></row>
 	<row id="msg_0309_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s no chance! I’ll knock down all\nPokémon competition!\r</language>
-	</row>
+	<language name="Norwegian">Det er ikke en sjanse! Jeg’vil slå ned alle\nPokémon-konkurrenter!\r</language></row>
 	<row id="msg_0309_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Getting in the Ring is the end! Fight to\nbe the last Pokémon standing!\r</language>
-	</row>
+	<language name="Norwegian">Å komme inn i ringen er slutten! Kjemp for å\nbli den siste Pokémon som står igjen!\r</language></row>
 	<row id="msg_0309_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ruler of the Ring!\nEnter another’s Ring at your own risk!\r</language>
-	</row>
+	<language name="Norwegian">Ringens hersker!\nÅ gå inn i en annen’s Ring på egen risiko!\r</language></row>
 	<row id="msg_0309_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What exactly are you anyway?\nThat’s what the Ring will tell you!\r</language>
-	</row>
+	<language name="Norwegian">Hva er du egentlig? \nDet’er hva Ringen vil fortelle deg!\r</language></row>
 	<row id="msg_0309_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Throwing Snow is the best in the world!\nWith that kind of accuracy, you can win!\r</language>
-	</row>
+	<language name="Norwegian">Kaste snø er best i verden!\nMed den slags nøyaktighet kan du vinne!\r</language></row>
 	<row id="msg_0309_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Snowballs we’re throwing are\nrolled-up balls of friendship!\r</language>
-	</row>
+	<language name="Norwegian">Snøballene vi’kaster er\n sammenrullede baller av vennskap!</language></row>
 	<row id="msg_0309_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Such rapid-fire throwing! Who’s that\nSnowball for?!\r</language>
-	</row>
+	<language name="Norwegian">For et raskt kast! Hvem er den’snøballen til?!</language></row>
 	<row id="msg_0309_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I don’t know where it will leap from\nnext! The Snowballs seem to split!\r</language>
-	</row>
+	<language name="Norwegian">Jeg vet ikke hvor den vil hoppe fra\nneste gang! Snøballene ser ut til å dele seg!</language></row>
 	<row id="msg_0309_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No one can stop this ball! It will hit\nany Goal I aim for!\r</language>
-	</row>
+	<language name="Norwegian">Ingen kan stoppe denne ballen! Den vil treffe\nalle mål jeg sikter mot!\r</language></row>
 	<row id="msg_0309_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Use that wonderful teamwork and make\nthe Goal!\r</language>
-	</row>
+	<language name="Norwegian">Bruk det fantastiske lagarbeidet og gjør\nmålet!</language></row>
 	<row id="msg_0309_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Such splendid footwork!\nAim for success!\r</language>
-	</row>
+	<language name="Norwegian">For et fantastisk fotarbeid!\nSikt mot suksess!\r</language></row>
 	<row id="msg_0309_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Live with the ball.\nLive inside the ball!\r</language>
-	</row>
+	<language name="Norwegian">Lev med ballen.\nLiv inne i ballen!\r</language></row>
 	<row id="msg_0309_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Give the points as a gift to them. It’s\nthe embodiment of fair play.\r</language>
-	</row>
+	<language name="Norwegian">Gi poengene som en gave til dem. Det’er\ninnbegrepet av fair play.\r</language></row>
 	<row id="msg_0309_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Smile even when you miss! The\nPokéathlon isn’t just about winning!\r</language>
-	</row>
+	<language name="Norwegian">Smil selv når du bommer! Pokéathlon handler ikke bare om å vinne!</language></row>
 	<row id="msg_0309_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You don’t hesitate to aim for your\nown Goal!\r</language>
-	</row>
+	<language name="Norwegian">Ikke nøl med å sikte mot ditt\neget mål!</language></row>
 	<row id="msg_0309_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Don’t fight over who rolled the ball\ninto your Goal! It’s your friendship!\r</language>
-	</row>
+	<language name="Norwegian">Ikke krangle om hvem som trillet ballen’inn i målet ditt! Det’er ditt vennskap!</language></row>
 	<row id="msg_0309_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Why do you stand out like that? Winning\nis not the only thing in the Pokéathlon.\r</language>
-	</row>
+	<language name="Norwegian">Hvorfor skiller du deg ut på den måten? Å vinne\ner ikke det eneste som teller i Pokéathlon.\r</language></row>
 	<row id="msg_0309_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Here it is! What you’ve all been waiting\nfor! Autographs after the competition!\r</language>
-	</row>
+	<language name="Norwegian">Her er det! Det dere’har ventet\npå! Autografer etter konkurransen!</language></row>
 	<row id="msg_0309_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you want to see me win, I’ll show you\njust how I win!\r</language>
-	</row>
+	<language name="Norwegian">Hvis du vil se meg vinne, skal jeg vise deg hvordan jeg vinner!</language></row>
 	<row id="msg_0309_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When I do my best and win, I make\neveryone happy!\r</language>
-	</row>
+	<language name="Norwegian">Når jeg gjør mitt beste og vinner, gjør jeg\nalle glade!\r.</language></row>
 	<row id="msg_0309_00148" index="148">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0309_00149" index="149">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0309_00150" index="150">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0309_00151" index="151">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0309_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 50, 0, 0}/6 Rounds</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 50, 0, 0}/6 runder</language></row>
 	<row id="msg_0309_00153" index="153">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0309_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English"> Next {STRVAR_1 1, 0, 0}</language>
-	</row>
+	<language name="Norwegian"> Neste {STRVAR_1 1, 0, 0}</language></row>
 	<row id="msg_0309_00155" index="155">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0309_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}.{STRVAR_1 51, 1, 0} Seconds</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0, 0}.{STRVAR_1 51, 1, 0} Sekunder</language></row>
 	<row id="msg_0309_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}</language></row>
 	<row id="msg_0309_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Pieces</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Brikker</language></row>
 	<row id="msg_0309_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 51, 0, 0}.{STRVAR_1 50, 1, 0} Laps</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 51, 0, 0, 0}.{STRVAR_1 50, 1, 0} Runder</language></row>
 	<row id="msg_0309_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}</language></row>
 	<row id="msg_0309_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Hurdle Dash</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Hurdle Dash</language></row>
 	<row id="msg_0309_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Pennant Capture</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Vimpelfangst</language></row>
 	<row id="msg_0309_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Circle Push</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Sirkeltrykk</language></row>
 	<row id="msg_0309_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Block Smash</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Block Smash</language></row>
 	<row id="msg_0309_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Disc Catch</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Disc Catch</language></row>
 	<row id="msg_0309_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Lamp Jump</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Lampehopp</language></row>
 	<row id="msg_0309_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Relay Run</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Relay Run</language></row>
 	<row id="msg_0309_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Ring Drop</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Ring Drop</language></row>
 	<row id="msg_0309_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Snow Throw</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Snøkast</language></row>
 	<row id="msg_0309_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{SIZE 200}Goal Roll</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{SIZE 200}Målrull</language></row>
 	<row id="msg_0309_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Best Record</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Beste rekord</language></row>
 	<row id="msg_0309_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}.{STRVAR_1 51, 1, 0} Seconds</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0, 0}.{STRVAR_1 51, 1, 0} Sekunder</language></row>
 	<row id="msg_0309_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}</language></row>
 	<row id="msg_0309_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Pieces</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Brikker</language></row>
 	<row id="msg_0309_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 51, 0, 0}.{STRVAR_1 50, 1, 0} Laps</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 51, 0, 0, 0}.{STRVAR_1 50, 1, 0} Runder</language></row>
 	<row id="msg_0309_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0}</language></row>
 	<row id="msg_0309_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Pokémon Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Pokémon Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Track Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Track Dome</language></row>
 	<row id="msg_0309_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Beach Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Beach Dome</language></row>
 	<row id="msg_0309_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Fight Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Fight Dome</language></row>
 	<row id="msg_0309_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Fight Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Fight Dome</language></row>
 	<row id="msg_0309_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Beach Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Beach Dome</language></row>
 	<row id="msg_0309_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Jump Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Jump Dome</language></row>
 	<row id="msg_0309_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Clay Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Clay Dome</language></row>
 	<row id="msg_0309_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Fight Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Fight Dome</language></row>
 	<row id="msg_0309_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Snow Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Snow Dome</language></row>
 	<row id="msg_0309_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Place: Field Dome</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Sted: Field Dome</language></row>
 	<row id="msg_0309_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Event Rules</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Hendelsesregler</language></row>
 	<row id="msg_0309_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aim for the Goal and jump! Run!</language>
-	</row>
+	<language name="Norwegian">Sikt mot målet og hopp! Løp!</language></row>
 	<row id="msg_0309_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Run, collect Pennants, and return!</language>
-	</row>
+	<language name="Norwegian">Løp, samle vimpler og returner!</language></row>
 	<row id="msg_0309_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Get in the Circle!</language>
-	</row>
+	<language name="Norwegian">Kom deg inn i sirkelen!</language></row>
 	<row id="msg_0309_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Break lots of Blocks!</language>
-	</row>
+	<language name="Norwegian">Bryt mange blokker!</language></row>
 	<row id="msg_0309_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Catch the flying Discs!</language>
-	</row>
+	<language name="Norwegian">Fang de flygende skivene!</language></row>
 	<row id="msg_0309_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jump and aim for the lit Lamps!</language>
-	</row>
+	<language name="Norwegian">Hopp og sikt mot de tente lampene!</language></row>
 	<row id="msg_0309_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Run a Relay with Pokémon! Run!</language>
-	</row>
+	<language name="Norwegian">Løp en stafett med Pokémon! Løp!</language></row>
 	<row id="msg_0309_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Push your rivals out of the Ring!</language>
-	</row>
+	<language name="Norwegian">Dytt rivalene dine ut av Ringen!</language></row>
 	<row id="msg_0309_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hit as many Pokémon as you can!</language>
-	</row>
+	<language name="Norwegian">Treff så mange Pokémon du kan!</language></row>
 	<row id="msg_0309_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Get the ball in an opponent’s Goal!</language>
-	</row>
+	<language name="Norwegian">Få ballen i motstanderens’mål!</language></row>
 	<row id="msg_0309_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Controls</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Kontroller</language></row>
 	<row id="msg_0309_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Touch the Pokémon to jump!\nControl three Pokémon at the\nsame time. Jump the Hurdles!</language>
-	</row>
+	<language name="Norwegian">Berør Pokémon for å hoppe!\nKontroller tre Pokémon samtidig\n. Hopp over hindrene!</language></row>
 	<row id="msg_0309_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In Hurdle Dash, you race against time to\nthe finish line. Jump over the Hurdles\nand be first to finish. Points are given\nbased on how many seconds it took all\nthree Pokémon to reach the finish line.\n\nSpeed: Running Speed\nJump: Jump Length</language>
-	</row>
+	<language name="Norwegian">I Hurdle Dash er det kappløp mot tiden frem til målstreken. Hopp over hindrene\nog kom først i mål. Du får poeng basert på hvor mange sekunder det tok alle\ntre Pokémon å nå mållinjen.\n\nHastighet: Løpehastighet\nHopp: Hopplengde</language></row>
 	<row id="msg_0309_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Touch the Pokémon to jump!\nJump to clear the Hurdles!\n\nControl three Pokémon at the same\ntime and finish before\neveryone else!</language>
-	</row>
+	<language name="Norwegian">Berør Pokémon for å hoppe!\nHopp for å klare hindrene!\n\nKontroller tre Pokémon samtidig\nog kom i mål før\nalle andre!</language></row>
 	<row id="msg_0309_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Slide the stylus over a\nPokémon to move it! Hit others\nfrom behind to take Pennants!</language>
-	</row>
+	<language name="Norwegian">Skyv pennen over en\nPokémon for å flytte den! Slå andre\n bakfra for å ta vimpler!</language></row>
 	<row id="msg_0309_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In Pennant Capture, your three Pokémon\nrun in turns to bring back Pennants.\nUp to nine Pennants can be held at\none time. Strike your opponents from\nbehind to steal their Pennants.\n\nSkill: Ease of Movement\nSpeed: Running Speed</language>
-	</row>
+	<language name="Norwegian">I Pennant Capture løper dine tre Pokémon i tur og orden for å hente tilbake vimpler.\nOpp til ni vimpler kan holdes på\n en gang. Slå motstanderne dine bakfra for å stjele deres vimpler.\n\nFerdigheter: Enkel bevegelse\nHastighet: Løpehastighet</language></row>
 	<row id="msg_0309_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Slide your stylus over your Pokémon\nquickly to move it!\nThe farther you slide, the more it moves!\n\nBe quicker than anyone else to\ngather as many Pennants as you\ncan and bring them back!</language>
-	</row>
+	<language name="Norwegian">Skyv pennen over Pokémon\nraskt for å flytte den!\nJo lenger du skyver, desto mer beveger den seg!\n\nVær raskere enn alle andre til å\nsamle så mange Pennants som du\nkan og ta dem med tilbake!</language></row>
 	<row id="msg_0309_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Use the stylus to move your\nPokémon around! Control\nthree Pokémon at once!</language>
-	</row>
+	<language name="Norwegian">Bruk pennen til å flytte rundt på dine\nPokémon! Kontroller\ntre Pokémon samtidig!</language></row>
 	<row id="msg_0309_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Circle Push is an event where you push\nyour opponent. If you are inside a Circle\nafter the timer has counted down,\nyou are awarded points. The number\nwritten in the Circle is the number of\npoints you will receive.\n\nPower: Push Power\nStamina: Ability to Keep Pushing</language>
-	</row>
+	<language name="Norwegian">Circle Push er en øvelse der du dytter\nmotstanderen din. Hvis du er inne i en sirkel\netter at tidtakeren har talt ned, \nfår du poeng. Tallet\nsom står skrevet i sirkelen, er antallet\npoeng du vil motta.\n\nKraft: Skyvekraft\nStamina: Evne til å fortsette å skyve</language></row>
 	<row id="msg_0309_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Use the stylus to move your\nPokémon around!\n\nControl three Pokémon at once and\naim for the Circle with the\nmost points!</language>
-	</row>
+	<language name="Norwegian">Bruk pennen til å flytte rundt på\nPokémonene dine!\n\nKontroller tre Pokémon samtidig og\nsikt etter sirkelen med\nflest poeng!</language></row>
 	<row id="msg_0309_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Touch the Blocks to strike!\nTouch the Switch button to\nswitch to the next Pokémon!</language>
-	</row>
+	<language name="Norwegian">Trykk på blokkene for å slå til!\nTrykk på Switch-knappen for å\nbytte til neste Pokémon!</language></row>
 	<row id="msg_0309_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Block Smash is simply an event where you\nsmash Blocks. Switch out your Pokémon\nas each becomes tired. You receive\npoints according to how many Blocks\nyou smash.\n\nPower: Destructive Power\nStamina: Ability to Keep Going</language>
-	</row>
+	<language name="Norwegian">Block Smash er rett og slett et event der du\nknuser blokker. Bytt ut Pokémon etter hvert som de blir slitne. Du får\npoeng i henhold til hvor mange blokker\ndu knuser.\n\nKraft: Destruktiv kraft\nStamina: Evne til å holde det gående</language></row>
 	<row id="msg_0309_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Touch the Blocks to smash them!\nThere’s a barrage of Blocks. Smash as\nmany as you can!\n\nTouch the Switch button to switch\nto the next Pokémon!</language>
-	</row>
+	<language name="Norwegian">Trykk på blokkene for å knuse dem!\nDet’er en strøm av blokker. Knus så\nmange du kan!\n\nTrykk på Switch-knappen for å bytte\ntil neste Pokémon!</language></row>
 	<row id="msg_0309_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1) Use the stylus to move\nthree Pokémon around.\n2) Touch to jump and catch!</language>
-	</row>
+	<language name="Norwegian">1) Bruk pennen til å flytte\ntre Pokémon rundt.\n2) Trykk for å hoppe og fange!</language></row>
 	<row id="msg_0309_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Disc Catch is an event where you control\nyour three Pokémon at the same time and\njump to catch Discs that come flying\nfrom the sea. The farther back in the\nstage that you catch the Discs, the\nmore points you get.\n\nJump: Jump Height\nPower: Push Power</language>
-	</row>
+	<language name="Norwegian">Skivefangst er en begivenhet der du kontrollerer\ndine tre Pokémon samtidig og\nhopper for å fange skiver som kommer flyvende\nopp fra havet. Jo lenger bak i\nstadiet du fanger diskene, jo\nmer poeng får du.\n\nHopp: Hopphøyde\nKraft: Skyvekraft</language></row>
 	<row id="msg_0309_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1) Use the stylus to move your Pokémon\naround. Control three Pokémon at once.\nPush your opponents out of the way to\ncatch the Discs!\n\n2) Touch your Pokémon lightly to\njump! Catch as many Discs\nas you can!</language>
-	</row>
+	<language name="Norwegian">1) Bruk pennen til å flytte Pokémon\nrundt. Du kan styre tre Pokémon samtidig.\nDytt motstanderne dine ut av veien for å\nfange Discs!\n\n2) Berør Pokémon lett for å\nhoppe! Fang så mange Discs\nsom du kan!</language></row>
 	<row id="msg_0309_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Quickly pull the Pokémon\ndown to jump!</language>
-	</row>
+	<language name="Norwegian">Trekk Pokémon\nsnart ned for å hoppe!</language></row>
 	<row id="msg_0309_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In Lamp Jump, you control your three\nPokémon as they try to jump and touch\nthe Lamps as they light. Try to touch as\nmany Lamps as you can in one jump.\n\nJump: Jump Height\nSkill: Ability to Jump Sideways</language>
-	</row>
+	<language name="Norwegian">I Lamp Jump styrer du dine tre\nPokémon mens de prøver å hoppe og berøre\nlampene når de tennes. Prøv å berøre så\nmange lamper som mulig i ett hopp.\n\nHopp: Hopphøyde\nFerdighet: Evne til å hoppe sidelengs</language></row>
 	<row id="msg_0309_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Quickly pull the three Pokémon down and\nwatch them jump!\n\nPull them diagonally to have them\njump to the side!</language>
-	</row>
+	<language name="Norwegian">Trekk de tre Pokémon raskt ned og\nse dem hoppe!\n\nTrekk dem diagonalt for å få dem til å\nhoppe til siden!</language></row>
 	<row id="msg_0309_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Quickly flick to dash! Flick as\nfast as you can to go faster!\nSwitch when you’re tired!</language>
-	</row>
+	<language name="Norwegian">Flikk raskt for å sprette! Snipp så\nhurtig du kan for å gå raskere!\nBytt når du’er sliten!</language></row>
 	<row id="msg_0309_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Relay Run is an event where you move from\nPokémon to Pokémon, trying to run\nas far as you can. Switch your Pokémon\nwhen they’re tired. Points will be\nawarded based only on the distance run.\n\nStamina: Endurance\nSpeed: Running Speed</language>
-	</row>
+	<language name="Norwegian">Stafettløp er et arrangement der du beveger deg fra\nPokémon til Pokémon, og prøver å løpe\nså langt du kan. Bytt Pokémon\nnår de’er slitne. Poeng vil bli\ntildelt kun basert på distansen du har løpt.\n\nStamina: Utholdenhet\nHastighet: Løpehastighet</language></row>
 	<row id="msg_0309_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Quickly flick the stylus to the right to\nget your Pokémon to dash!\n\nThe more you flick to the right, the\nfaster your Pokémon will go!\n\nTouch the Switch button to\nswitch to the next Pokémon!</language>
-	</row>
+	<language name="Norwegian">Snipp pennen raskt til høyre for å\nfå Pokémon til å løpe!\n\nJo mer du snurrer til høyre, jo\nraskere går Pokémonen din!\n\nTrykk på Switch-knappen for å\nbytte til neste Pokémon!</language></row>
 	<row id="msg_0309_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1) Use the stylus to move.\n2) Quickly flick to tackle!\n3) Lightly touch to jump!</language>
-	</row>
+	<language name="Norwegian">1) Bruk pennen til å bevege deg.\n2) Snu raskt for å takle!\n3) Trykk lett for å hoppe!</language></row>
 	<row id="msg_0309_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ring Drop is an event where you push\nyour opponent. You get points each time\nyou push your opponent out of the Ring.\nIf you push the Switch button in your\ncorner, you can switch Pokémon.\n\nStamina: Ability to Resist Pushing\nPower: Tackle Strength</language>
-	</row>
+	<language name="Norwegian">Ring Drop er en hendelse der du dytter\nmotstanderen din. Du får poeng hver gang\ndu dytter motstanderen din ut av ringen.\nHvis du trykker på Switch-knappen i ditt\nhjørne, kan du bytte Pokémon.\n\nStamina: Evne til å motstå dytting\nKraft: Tackle Strength</language></row>
 	<row id="msg_0309_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1) Use the stylus to move your Pokémon!\n\n2) Quickly flick the stylus to tackle!\nBlow your opponent away!\n\n3) Lightly touch your\nPokémon to get them to jump!\nYour Pokémon can stomp on others!</language>
-	</row>
+	<language name="Norwegian">1) Bruk pennen til å bevege Pokémon!\n\n2) Bruk pennen til å takle!\nSlå bort motstanderen!\n\n3) Ta lett på din\nPokémon for å få dem til å hoppe!\nDin Pokémon kan trampe på andre!</language></row>
 	<row id="msg_0309_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1) Quickly flick upward on\nyour Pokémon to throw Snow!\n2) Touch to hoard more Snow!</language>
-	</row>
+	<language name="Norwegian">1) Snipp raskt oppover på\n Pokémon-en din for å kaste snø!\n2) Berør for å hamstre mer snø!</language></row>
 	<row id="msg_0309_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In Snow Throw, you control three of your\nPokémon at the same time and hit your\nopponents with Snowballs. You’ll receive\npoints no matter who you hit on your\nopponent’s team.\n\nSkill: Throwing Accuracy\nPower: Snowball Strength</language>
-	</row>
+	<language name="Norwegian">I Snøkast kontrollerer du tre av dine\nPokémon samtidig og treffer dine\nmotstandere med snøballer. Du’får\npoeng uansett hvem du treffer på motstanderens\nlag.\n\nFerdighet: Kastepresisjon\nKraft: Snøballstyrke</language></row>
 	<row id="msg_0309_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1) Flick upward on your Pokémon to\nthrow a Snowball!\n\n2) When holding a Snowball, touch the\nPokémon to make the Snowball bigger!\n\nBigger Snowballs can make your\nopponent faint on impact!</language>
-	</row>
+	<language name="Norwegian">1) Sving oppover på Pokémonen din for å\nkaste en snøball!\n\n2) Når du holder en snøball, berør\nPokémonen for å gjøre snøballen større!\n\nStørre snøballer kan få\nmotstanderen til å besvime ved nedslaget!</language></row>
 	<row id="msg_0309_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1) Control three Pokémon! Use\nthe stylus to move around!\n2) Flick quickly to dash!</language>
-	</row>
+	<language name="Norwegian">1) Kontroller tre Pokémon! Bruk\npennen til å bevege deg rundt!\n2) Flikk raskt for å sprette!</language></row>
 	<row id="msg_0309_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In Goal Roll, you try to get the ball into\nyour opponent’s Goal. It doesn’t matter\nwhich of their Goals--you’ll earn points.\nBut if the ball ends up in your own Goal,\nyou’ll lose points.\n\nSkill: Rolling Length\nPower: Rolling Strength</language>
-	</row>
+	<language name="Norwegian">I Goal Roll prøver du å få ballen inn i\nmotstanderens’mål. Det spiller ingen rolle’hvilket av målene deres - du’får poeng.\nMen hvis ballen havner i ditt eget mål,\ntaper du’poeng.\n\nFerdighet: Rullelengde\nKraft: Rullestyrke</language></row>
 	<row id="msg_0309_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1) Control three Pokémon at once. Use\nthe stylus to move your Pokémon!\n\n2) Flick quickly with the stylus to\ndash! If you’re dashing, then\nyou can shoot for the Goal!</language>
-	</row>
+	<language name="Norwegian">1) Kontroller tre Pokémon samtidig. Bruk\npennen til å bevege Pokémon! 2) Flikk raskt med pennen for å\ndash! Hvis du’skynder deg, kan\ndu skyte mot målet!</language></row>
 	<row id="msg_0309_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Event {STRVAR_1 50, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Event {STRVAR_1 50, 0, 0}</language></row>
 	<row id="msg_0309_00240" index="240">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Details</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Detaljer</language></row>
 	<row id="msg_0309_00241" index="241">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Rules</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Regler</language></row>
 	<row id="msg_0309_00242" index="242">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}More</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Mer</language></row>
 	<row id="msg_0309_00243" index="243">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Back</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Tilbake</language></row>
 	<row id="msg_0309_00244" index="244">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}About Rules</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Om regler</language></row>
 	<row id="msg_0309_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}About Controls</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Om kontroller</language></row>
 	<row id="msg_0309_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right! Results of the first event!?\r</language>
-	</row>
+	<language name="Norwegian">Nå er det nok! Resultater fra den første øvelsen!?\r</language></row>
 	<row id="msg_0309_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So exciting! How was the second event?!\r</language>
-	</row>
+	<language name="Norwegian">Så spennende! Hvordan var det andre arrangementet?!</language></row>
 	<row id="msg_0309_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The end! How was the third event?!\r</language>
-	</row>
+	<language name="Norwegian">Slutt! Hvordan var det tredje arrangementet?!</language></row>
 	<row id="msg_0309_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right! Results of the first event!?\r</language>
-	</row>
+	<language name="Norwegian">Nå er det nok! Resultater fra den første øvelsen!?\r</language></row>
 	<row id="msg_0309_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So exciting! How was the second event?!\r</language>
-	</row>
+	<language name="Norwegian">Så spennende! Hvordan var det andre arrangementet?!</language></row>
 	<row id="msg_0309_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s not over yet! The third event!?\r</language>
-	</row>
+	<language name="Norwegian">Det’er ikke over ennå! Den tredje begivenheten!</language></row>
 	<row id="msg_0309_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The end! How was the fourth event?!\r</language>
-	</row>
+	<language name="Norwegian">Slutt! Hvordan var det fjerde arrangementet?!</language></row>
 	<row id="msg_0309_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}Team {STRVAR_1 3, 0, 0}!{SIZE 100}\rCongratulations on First Place!\r</language>
-	</row>
+	<language name="Norwegian">{SIZE 200}Lag {STRVAR_1 3, 0, 0}!{SIZE 100}\rGratulerer med førsteplassen!\r</language></row>
 	<row id="msg_0309_00254" index="254">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This...\nwas a very close competition!\r</language>
-	</row>
+	<language name="Norwegian">Dette...\nvar en svært jevn konkurranse!\r</language></row>
 	<row id="msg_0309_00255" index="255">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This event’s results will be determined\nby points!\r</language>
-	</row>
+	<language name="Norwegian">Resultatet av dette arrangementet’avgjøres\nav poeng!</language></row>
 	<row id="msg_0309_00256" index="256">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aim to score the most points in the next\ncompetition as well!\r</language>
-	</row>
+	<language name="Norwegian">Målet er å få flest poeng i neste\nkonkurranse også!</language></row>
 	<row id="msg_0309_00257" index="257">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s only just begun!\nGet ready for the next competition!\r</language>
-	</row>
+	<language name="Norwegian">Det’har bare så vidt begynt!\nGjør deg klar for neste konkurranse!\r</language></row>
 	<row id="msg_0309_00258" index="258">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What kind of competition will we see in\nthe next event?!\r</language>
-	</row>
+	<language name="Norwegian">Hva slags konkurranse vil vi se i neste arrangement?</language></row>
 	<row id="msg_0309_00259" index="259">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are they still trying to judge others’\npotential? Can’t wait for the next one!\r</language>
-	</row>
+	<language name="Norwegian">Prøver de fortsatt å bedømme andres’\npotensial? Gleder meg til neste gang!</language></row>
 	<row id="msg_0309_00260" index="260">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The first event is finished!\nFrom here on out, it’s for real!\r</language>
-	</row>
+	<language name="Norwegian">Det første arrangementet er over!\nFra og med nå er det’på ordentlig!\r</language></row>
 	<row id="msg_0309_00261" index="261">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Suddenly, it’s the final event! Will the\ntables be turned this time?!\r</language>
-	</row>
+	<language name="Norwegian">Plutselig er det’finalen! Vil\nbordene bli snudd denne gangen?!</language></row>
 	<row id="msg_0309_00262" index="262">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Next is the final event!\nDo your best!\r</language>
-	</row>
+	<language name="Norwegian">Nå er det tid for finalen!\nGjør ditt beste!\r</language></row>
 	<row id="msg_0309_00263" index="263">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Suddenly, we’re at the final event!\nVictory could be in anyone’s grasp!\r</language>
-	</row>
+	<language name="Norwegian">Plutselig er vi’ved finalen!\nSeieren kan være innen rekkevidde for hvem som helst’!\r</language></row>
 	<row id="msg_0309_00264" index="264">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everything comes down to the final\nevent! Give it all you’ve got!\r</language>
-	</row>
+	<language name="Norwegian">Alt kommer ned til den siste\nbegivenheten! Gi alt du’har!</language></row>
 	<row id="msg_0309_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everyone in the stadium’s excited! This\nis the final event!\r</language>
-	</row>
+	<language name="Norwegian">Alle på stadion’er spente! Dette\ner den siste begivenheten!\r</language></row>
 	<row id="msg_0309_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right!\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Greit!\nJeg’vil kunngjøre de endelige resultatene!\r</language></row>
 	<row id="msg_0309_00267" index="267">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Will it be what we expect?!\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Blir det som vi forventer?!\nJeg’kommer til å offentliggjøre de endelige resultatene!\r</language></row>
 	<row id="msg_0309_00268" index="268">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everyone gave it their best!\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Alle gjorde sitt beste!\nJeg’vil kunngjøre de endelige resultatene!\r</language></row>
 	<row id="msg_0309_00269" index="269">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which team is number one?!\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Hvilket lag er nummer én!!!\nJeg’vil kunngjøre de endelige resultatene!!! \r</language></row>
 	<row id="msg_0309_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which team will take the championship?!\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Hvilket lag vil ta mesterskapet!!!\nJeg’vil kunngjøre de endelige resultatene!\r</language></row>
 	<row id="msg_0309_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aim for the highest point total in the\nnext event!\r</language>
-	</row>
+	<language name="Norwegian">Sikt mot høyest poengsum i neste konkurranse!</language></row>
 	<row id="msg_0309_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s only just begun!\nGet ready for the next competition!\r</language>
-	</row>
+	<language name="Norwegian">Det’har bare så vidt begynt!\nGjør deg klar for neste konkurranse!\r</language></row>
 	<row id="msg_0309_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What kind of competition will we see in\nthe next event?!\r</language>
-	</row>
+	<language name="Norwegian">Hva slags konkurranse vil vi se i neste arrangement?</language></row>
 	<row id="msg_0309_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are they still trying to judge others’\npotential? Can’t wait for the next one!\r</language>
-	</row>
+	<language name="Norwegian">Prøver de fortsatt å bedømme andres’\npotensial? Gleder meg til neste gang!</language></row>
 	<row id="msg_0309_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The first event is finished!\nFrom here on out, it’s for real!\r</language>
-	</row>
+	<language name="Norwegian">Det første arrangementet er over!\nFra og med nå er det’på ordentlig!\r</language></row>
 	<row id="msg_0309_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s just the second event!\nWhat kind of drama awaits?\r</language>
-	</row>
+	<language name="Norwegian">Det’er bare den andre hendelsen!\nHva slags drama venter?</language></row>
 	<row id="msg_0309_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you have any strength left?\nThe third event is about to start!\r</language>
-	</row>
+	<language name="Norwegian">Har du noen krefter igjen?\nDen tredje hendelsen er i ferd med å starte!\r</language></row>
 	<row id="msg_0309_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We haven’t seen competition yet!\nNext is the third event!\r</language>
-	</row>
+	<language name="Norwegian">Vi har’ikke sett konkurransen ennå!\nNeste begivenhet er den tredje!\r</language></row>
 	<row id="msg_0309_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The last-place team still has a chance!\nThis is the third event!\r</language>
-	</row>
+	<language name="Norwegian">Laget på sisteplass har fortsatt en sjanse!\nDette er den tredje øvelsen!\r</language></row>
 	<row id="msg_0309_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The stadium is full of suspense! Here\ncomes the third event!\r</language>
-	</row>
+	<language name="Norwegian">Stadion er full av spenning! Her\nkommer den tredje begivenheten!\r</language></row>
 	<row id="msg_0309_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Suddenly, it’s the final event! Will the\ntables be turned this time?!\r</language>
-	</row>
+	<language name="Norwegian">Plutselig er det’finalen! Vil\nbordene bli snudd denne gangen?!</language></row>
 	<row id="msg_0309_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Next is the final event!\nDo your best!\r</language>
-	</row>
+	<language name="Norwegian">Nå er det tid for finalen!\nGjør ditt beste!\r</language></row>
 	<row id="msg_0309_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Suddenly, we’re at the final event!\nVictory could be in anyone’s hands!\r</language>
-	</row>
+	<language name="Norwegian">Plutselig er vi’ved finalen!\nSeieren kan være i hvem som helst’s hender!\r</language></row>
 	<row id="msg_0309_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everything comes down to the final\nevent! Give it all you’ve got!\r</language>
-	</row>
+	<language name="Norwegian">Alt kommer ned til den siste\nbegivenheten! Gi alt du’har!</language></row>
 	<row id="msg_0309_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everyone in the stadium’s excited! This\nis the final event!\r</language>
-	</row>
+	<language name="Norwegian">Alle på stadion’er spente! Dette\ner den siste begivenheten!\r</language></row>
 	<row id="msg_0309_00286" index="286">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right!\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Greit!\nJeg’vil kunngjøre de endelige resultatene!\r</language></row>
 	<row id="msg_0309_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Will it be what we expect?!\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Blir det som vi forventer?!\nJeg’kommer til å offentliggjøre de endelige resultatene!\r</language></row>
 	<row id="msg_0309_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everyone gave it their best!\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Alle gjorde sitt beste!\nJeg’vil kunngjøre de endelige resultatene!\r</language></row>
 	<row id="msg_0309_00289" index="289">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which team is number one?!\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Hvilket lag er nummer én!!!\nJeg’vil kunngjøre de endelige resultatene!!! \r</language></row>
 	<row id="msg_0309_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which team will take the championship?\nI’ll announce the final results!\r</language>
-	</row>
+	<language name="Norwegian">Hvilket lag vil ta mesterskapet?\nJeg’vil kunngjøre de endelige resultatene!\r</language></row>
 	<row id="msg_0309_00291" index="291">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total Time: {STRVAR_1 52, 0, 0}.{STRVAR_1 51, 1, 0} Seconds</language>
-	</row>
+	<language name="Norwegian">Total tid: {STRVAR_1 52, 0, 0}.{STRVAR_1 51, 1, 0} Sekunder</language></row>
 	<row id="msg_0309_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total: {STRVAR_1 52, 0, 0}</language>
-	</row>
+	<language name="Norwegian">Totalt: {STRVAR_1 52, 0, 0}</language></row>
 	<row id="msg_0309_00293" index="293">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00294" index="294">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total Pieces: {STRVAR_1 52, 0, 0}</language>
-	</row>
+	<language name="Norwegian">Totalt antall stykker: {STRVAR_1 52, 0, 0}</language></row>
 	<row id="msg_0309_00295" index="295">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total Distance: {STRVAR_1 51, 0, 0}.{STRVAR_1 50, 1, 0} Laps</language>
-	</row>
+	<language name="Norwegian">Total distanse: {STRVAR_1 51, 0, 0}.{STRVAR_1 50, 1, 0} Runder</language></row>
 	<row id="msg_0309_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total: {STRVAR_1 52, 0, 0}</language>
-	</row>
+	<language name="Norwegian">Totalt: {STRVAR_1 52, 0, 0}</language></row>
 	<row id="msg_0309_00300" index="300">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Total: {STRVAR_1 52, 0, 0} Points</language>
-	</row>
+	<language name="Norwegian">Totalt: {STRVAR_1 52, 0, 0} Poeng</language></row>
 	<row id="msg_0309_00301" index="301">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pcs.</language>
-	</row>
+	<language name="Norwegian">Pcs.</language></row>
 	<row id="msg_0309_00302" index="302">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0309_00303" index="303">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Results Announcement</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Resultat kunngjøring</language></row>
 	<row id="msg_0309_00304" index="304">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Points</language>
-	</row>
+	<language name="Norwegian">Poeng</language></row>
 	<row id="msg_0309_00305" index="305">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Laps</language>
-	</row>
+	<language name="Norwegian">Runder</language></row>
 	<row id="msg_0309_00306" index="306">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}{STRVAR_1 3, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}{STRVAR_1 3, 0, 0}</language></row>
 	<row id="msg_0309_00307" index="307">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}+1</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}+1</language></row>
 	<row id="msg_0309_00308" index="308">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}+2</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}+2</language></row>
 	<row id="msg_0309_00309" index="309">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}-1</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}-1</language></row>
 	<row id="msg_0309_00310" index="310">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Waiting for everyone’s selection...</language>
-	</row>
+	<language name="Norwegian">Venter på at alle skal velge...</language></row>
 	<row id="msg_0309_00311" index="311">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}Second\n{ALN_CENTER}Wind!</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Second\n{ALN_CENTER}Wind!</language></row>
 </body>

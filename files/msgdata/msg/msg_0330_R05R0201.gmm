@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0330_R05R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Many cities in Johto have long\nhistories. I’d love to visit!</language>
-	</row>
+	<language name="Norwegian">Mange byer i Johto har lange\nhistorier. Jeg’vil gjerne besøke dem!</language></row>
 </body>

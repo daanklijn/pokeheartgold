@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0383_R33_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pant, pant...\nI finally got through that cave.\rIt was much bigger than I’d expected.\nI got too tired to explore the whole\fthing, so I came outside.</language>
-	</row>
+	<language name="Norwegian">Pust, pust ...\nJeg kom meg endelig gjennom hulen.\rDen var mye større enn jeg’hadde forventet.\nJeg ble for trøtt til å utforske hele\fgreia, så jeg gikk ut.</language></row>
 	<row id="msg_0383_R33_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rt. 33\nWest to Azalea Town</language>
-	</row>
+	<language name="Norwegian">Rt. 33\nVestover til Azalea Town</language></row>
 </body>

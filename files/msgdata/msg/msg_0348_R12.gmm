@@ -1,19 +1,19 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0348_R12_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rt. 12\nNorth to Lavender Town</language>
-	</row>
+	<language name="Norwegian">Rt. 12\nNord til Lavender Town</language></row>
 	<row id="msg_0348_R12_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fishing Spot\rIt’s called the Silence Bridge, because\neveryone walks on tiptoe to avoid\fscaring the Water-type Pokémon.\n\n</language>
-	</row>
+	<language name="Norwegian">Fiskeplass\rDen’kalles Stillhetsbroen, fordi\nalle går på tå for å unngå\få skremme Pokémon av vanntypen.\n\n.</language></row>
 	<row id="msg_0348_R12_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is a large Pokémon sleeping\npeacefully.\fIt looks so content!</language>
-	</row>
+	<language name="Norwegian">En stor Pokémon sover\nfredelig.\fDen ser så fornøyd ut!</language></row>
 	<row id="msg_0348_R12_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...!\rThe SNORLAX opened its eyes wide!\r</language>
-	</row>
+	<language name="Norwegian">...!\rSnorlaxen åpnet øynene på vidt gap!\r</language></row>
 </body>

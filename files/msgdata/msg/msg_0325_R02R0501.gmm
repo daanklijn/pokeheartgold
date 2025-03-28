@@ -1,7 +1,7 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0325_R02R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Viridian Forest not only has trees\nstanding like a maze but also has many\fups and downs.\rThat’s why people get lost easily here.</language>
-	</row>
+	<language name="Norwegian">Viridian Forest har ikke bare trær\nsom står som en labyrint, men har også mange\fopp- og nedturer, og det er derfor folk lett går seg vill her.</language></row>
 </body>

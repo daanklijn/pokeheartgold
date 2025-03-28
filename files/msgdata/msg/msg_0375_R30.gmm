@@ -1,60 +1,60 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0375_R30_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Go, RATTATA!\rTackle!\r</language>
-	</row>
+	<language name="Norwegian">Gå, RATTATA!\rTackle!\r</language></row>
 	<row id="msg_0375_R30_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What? This is a big battle!\fLeave me alone!\r</language>
-	</row>
+	<language name="Norwegian">Hva er det? Dette er en stor kamp! La meg være i fred!</language></row>
 	<row id="msg_0375_R30_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Pokémon can use its moves as long\nas the moves still have PP.\rWhen a move has no PP remaining, that\nPokémon cannot use that move.\rThen you should take your Pokémon to\nthe Pokémon Center.</language>
-	</row>
+	<language name="Norwegian">En Pokémon kan bruke trekkene sine så lenge\nde fortsatt har PP.\rNår et trekk ikke har PP igjen, kan ikke\nPokémonen bruke det trekket.\rDa bør du ta med Pokémonen din til\nPokémonsenteret.</language></row>
 	<row id="msg_0375_R30_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Pokémon can use its moves as long\nas the moves still have PP.\rWhen a move has no PP remaining, that\nPokémon cannot use that move.\rThen you should take your Pokémon to\nthe Pokémon Center.</language>
-	</row>
+	<language name="Norwegian">En Pokémon kan bruke trekkene sine så lenge\nde fortsatt har PP.\rNår et trekk ikke har PP igjen, kan ikke\nPokémonen bruke det trekket.\rDa bør du ta med Pokémonen din til\nPokémonsenteret.</language></row>
 	<row id="msg_0375_R30_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m not a Trainer.\rBut if you look one in the eyes,\nprepare to battle.</language>
-	</row>
+	<language name="Norwegian">Jeg’er ikke en trener, \rmen hvis du ser en i øynene, \ner du klar til kamp.</language></row>
 	<row id="msg_0375_R30_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, kiddo!\rHow in the world can you be so\noblivious to my eye-catching house?\fHold it right there!\r</language>
-	</row>
+	<language name="Norwegian">Hei, gutt! \rHvordan i all verden kan du være så\nglemsom overfor mitt iøynefallende hus?\fStopp der! \r</language></row>
 	<row id="msg_0375_R30_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When you follow that path up north,\nyou will see Mr. Pokémon’s house.\rBut before you go, let me finish what\nI have to say.\rDo you...have any Apricorns?\fApricorn trees bear fruit once a day.\fI have one of those trees, too!\rApricorns are really something.\nYou can make Poké Balls and\fother things.\rThey are quite useful.\rI have a feeling this is meant to be,\nbecause I have something for you!\r</language>
-	</row>
+	<language name="Norwegian">Når du følger stien nordover, \nvil du se Mr. Pokémon’s hus.\rMen før du går, la meg fullføre det\njeg har å si.\rHar du... noen aprikorner?\fAprikorntrær bærer frukt en gang om dagen.\fJeg har også et slikt tre!\rAprikorn er virkelig noe for seg selv.\nDu kan lage Pokéballer og\fandre ting.\rDe er ganske nyttige.\rJeg har en følelse av at dette er ment å være,\nfor jeg har noe til deg!\r</language></row>
 	<row id="msg_0375_R30_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0375_R30_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">With that Apricorn Box, you can carry\nso many Apricorns.\rYou’ll be a decent Apricorn collector!\r</language>
-	</row>
+	<language name="Norwegian">Med denne aprikornboksen kan du bære\nså mange aprikorn.\rDu’kommer til å bli en skikkelig aprikornsamler!\r</language></row>
 	<row id="msg_0375_R30_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rt. 30\nSouth to Cherrygrove City</language>
-	</row>
+	<language name="Norwegian">Rt. 30\nSør til Cherrygrove City</language></row>
 	<row id="msg_0375_R30_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mr. Pokémon’s House\nStraight Ahead!</language>
-	</row>
+	<language name="Norwegian">Mr. Pokémon’s hus\nRett frem!</language></row>
 	<row id="msg_0375_R30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mr. Pokémon’s House</language>
-	</row>
+	<language name="Norwegian">Mr. Pokémon’s hus</language></row>
 	<row id="msg_0375_R30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Trainer Tips\rNo stealing other people’s Pokémon!\rPoké Balls are to be thrown only at\nwild Pokémon!</language>
-	</row>
+	<language name="Norwegian">Trenertips\rIngen stjeling av andres’ Pokémon! \rPokéballer skal bare kastes på\nville Pokémon!</language></row>
 	<row id="msg_0375_R30_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh! You’re wearing the Running Shoes.\rThey make you feel like you are flying,\ndon’t they?\rBut beware of wild Pokémon and\nTrainers!\rWhen you run, the noise will\nattract them.</language>
-	</row>
+	<language name="Norwegian">Åh! Du’har på deg løpeskoene.\rDe får deg til å føle at du flyr,\nikke sant? \rMen pass deg for ville Pokémon og\nTrenere!\rNår du løper, vil støyen\nlokke dem til seg.</language></row>
 </body>

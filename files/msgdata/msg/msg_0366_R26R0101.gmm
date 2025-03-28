@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0366_R26R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you think you were lucky to find\na place to rest right where you\fneeded it?\rDon’t be reserved!\nI look forward to people’s smiles.\fLet your Pokémon rest here!\r</language>
-	</row>
+	<language name="Norwegian">Trodde du at du var heldig som fant\net sted å hvile akkurat der du\ftrengte det?\rIkke vær’reservert!\nJeg gleder meg til folks’smil.\fLa din Pokémon hvile her!\rJeg gleder meg til folks’smil.</language></row>
 	<row id="msg_0366_R26R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There!\nYour Pokémon are looking good!\fKeep at it!</language>
-	</row>
+	<language name="Norwegian">Sånn! \nDine Pokémon ser bra ut! \fFortsett med det!</language></row>
 	<row id="msg_0366_R26R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CHANSEY: Ch-Chansey!</language>
-	</row>
+	<language name="Norwegian">Ch-Chansey!</language></row>
 </body>

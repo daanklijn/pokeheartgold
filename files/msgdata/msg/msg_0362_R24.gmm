@@ -1,44 +1,44 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0362_R24_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh no!\rHiding I was, but you did\nme found in no time!\r...\nMe only one from another country.\rYet! No big business, OK?\rThink I did, if stop the energy,\nbe big panic and unlucky\ffor here people!\rSecret it is my mission,\nso tell you I not!\rBut! If win you do versus me,\na man I be and mine secret\fto you tell. You understand?\fBattle begin we do!\r</language>
-	</row>
+	<language name="Norwegian">Å nei! Jeg gjemte meg, men du fant meg på null komma niks! Ingen store forretninger, OK? \rTenk jeg gjorde, hvis stoppe energien,\nvære stor panikk og uheldig\ffor her folk!\rHemmelig det er mitt oppdrag,\nså fortelle deg jeg ikke!\rMen! Hvis vinne du gjør mot meg,\nen mann jeg være og min hemmelighet\ftil deg fortelle. Forstår du? \fKampen begynner, det gjør vi! \r</language></row>
 	<row id="msg_0362_R24_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0362_R24_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK. Tell you mine secret will I.\rMachine Part steal by me. Hide it\nI did in Gym of the Cerulean.\rNear inflatable tube put it I did.\nLook for Gym at.\rBut you forget me not!\nBeat you for sure will Team Rocket.\rCome from Johto will they, mine\nallies, yes. Will revenge they are.\r</language>
-	</row>
+	<language name="Norwegian">OK. Fortell deg min hemmelighet vil jeg.\rMaskin Del stjele av meg. Gjem den\nJeg gjorde det i Gym of the Cerulean.\rNær oppblåsbare rør sette det jeg gjorde.\nSe etter Gym på.\rMen du glemmer meg ikke!\nSlå deg helt sikkert vil Team Rocket.\rKommer fra Johto vil de, mine\nallierte, ja. De vil hevne seg.\r</language></row>
 	<row id="msg_0362_R24_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\rYou say what? Team Rocket bye-bye\na go-go? Broken up it is says you?\rOh, no! Should I do what now on\nfrom, me?\r...OK.\rI my country go home.\rMake Team Rocket I will.\nGood-bye! So long!\r</language>
-	</row>
+	<language name="Norwegian">...\rDu sier hva? Team Rocket bye-bye\na go-go? Brukket opp det er sier du?\rÅh, nei! Skal jeg gjøre hva nå påm id = 0 /fra, meg?m id = 1 /...OK.m id = 1 /Jeg mitt land gå hjem.m id = 1 /Make Team Rocket jeg vil.m id = 0 /God-bye! Ha det bra!\r</language></row>
 	<row id="msg_0362_R24_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Who is this guy in black?\nComing between me and my girlfriend...!</language>
-	</row>
+	<language name="Norwegian">Hvem er denne fyren i svart? Kommer mellom meg og kjæresten min...!</language></row>
 	<row id="msg_0362_R24_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We are finally alone.\nYou will not bother us, right?</language>
-	</row>
+	<language name="Norwegian">Endelig er vi alene. Du vil ikke forstyrre oss, ikke sant?</language></row>
 	<row id="msg_0362_R24_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Can you leave us alone?\rI am building a chemistry between us,\nand it’s finally working.</language>
-	</row>
+	<language name="Norwegian">Kan du la oss være i fred? Jeg bygger opp en kjemi mellom oss, og det fungerer endelig.</language></row>
 	<row id="msg_0362_R24_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wh...who are you?</language>
-	</row>
+	<language name="Norwegian">Hvem er du?</language></row>
 	<row id="msg_0362_R24_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s wrong with that guy?\n“Cerulean...near inflatable tube”\fis the “Machine Part”?\fWhat was he talking about?</language>
-	</row>
+	<language name="Norwegian">Hva er galt med den fyren? ’Cerulean...nær oppblåsbare rør”\fer “Maskindelen”?\fHva var det han snakket om?</language></row>
 	<row id="msg_0362_R24_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Just keep on going. Thank you.\nNo need to spoil this chemistry.</language>
-	</row>
+	<language name="Norwegian">Bare fortsett. Takk. Ingen grunn til å ødelegge kjemien.</language></row>
 </body>
