@@ -3,7 +3,7 @@
 	<row id="msg_0018_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which facility would you\nlike to challenge? {YESNO 0}</language>
-	<language name="Norwegian">Hvilket anlegg vil du\nutfordre? &lt;m id=4</language></row>
+	<language name="Norwegian">Hvilket anlegg vil du\nutfordre? {YESNO 0}</language></row>
 	<row id="msg_0018_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} has dropped out.\r</language>
@@ -62,7 +62,7 @@
 	<row id="msg_0018_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which would you like to challenge,\nLevel 50 cap or Open Level? {YESNO 0}</language>
-	<language name="Norwegian">Hva vil du utfordre, \n Nivå 50 eller åpent nivå? &lt;m id=4</language></row>
+	<language name="Norwegian">Hva vil du utfordre, \n Nivå 50 eller åpent nivå? {YESNO 0}</language></row>
 	<row id="msg_0018_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is already an ongoing winning\nstreak by {STRVAR_1 0, 0, 0}.\rWould you like to delete that record\nand start a new challenge\fwith {STRVAR_1 0, 1, 0}? {YESNO 0}</language>

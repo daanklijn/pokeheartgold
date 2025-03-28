@@ -3,7 +3,7 @@
 	<row id="msg_0019_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Which record would you like to see? {YESNO 0}</language>
-	<language name="Norwegian">Hvilken plate ønsker du å se? &lt;m id=4</language></row>
+	<language name="Norwegian">Hvilken plate ønsker du å se? {YESNO 0}</language></row>
 	<row id="msg_0019_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SINGLE</language>

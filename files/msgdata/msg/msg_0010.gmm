@@ -440,7 +440,7 @@
 	<row id="msg_0010_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Accessories: {STRVAR_1 52, 0, 0}\nBackdrops: {STRVAR_1 51, 1, 0}</language>
-	<language name="Norwegian">Tilbehør: {STRVAR_1 52, 0, 0}&lt;m id=0 {STRVAR_1 52, 0, 0}\nBakdrops: {STRVAR_1 51, 1, 0}</language></row>
+	<language name="Norwegian">Tilbehør: {STRVAR_1 52, 0, 0} \n {STRVAR_1 52, 0, 0}\nBakdrops: {STRVAR_1 51, 1, 0}</language></row>
 	<row id="msg_0010_00097" index="97">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />

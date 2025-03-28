@@ -111,7 +111,7 @@
 	<row id="msg_0219_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{YESNO 0}</language>
-	<language name="Norwegian">&lt;m id=4</language></row>
+	<language name="Norwegian">{YESNO 0}</language></row>
 	<row id="msg_0219_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you understand everything\nso far? {YESNO 0}</language>
