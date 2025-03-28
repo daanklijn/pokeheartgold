@@ -322,7 +322,7 @@
 	<row id="msg_0246_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Don</language>
-	<language name="Norwegian">{Don</language></row>
+		<language name="Norwegian">{TRNAME}Don</language></row>
 	<row id="msg_0246_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Ed</language>
@@ -330,33 +330,33 @@
 	<row id="msg_0246_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Abby</language>
-	<language name="Norwegian">{Abby</language></row>
+	<language name="Norwegian">{TRNAME}Abby</language></row>
 	<row id="msg_0246_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}William</language>
-	<language name="Norwegian">{William</language></row>
+	<language name="Norwegian">{TRNAME}William</language></row>
 	<row id="msg_0246_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Benny</language>
-	<language name="Norwegian">{Benny</language></row>
+	<language name="Norwegian">{TRNAME}Benny</language></row>
 	<row id="msg_0246_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Barry</language>
-	<language name="Norwegian">{Barry</language></row>
+	<language name="Norwegian">{TRNAME}Barry</language></row>
 	<row id="msg_0246_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Cindy</language>
-	<language name="Norwegian">{Cindy</language></row>
+	<language name="Norwegian">{TRNAME}Cindy</language></row>
 	<row id="msg_0246_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Josh</language>
-	<language name="Norwegian">{Josh</language></row>
+	<language name="Norwegian">{TRNAME}Josh</language></row>
 	<row id="msg_0246_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Samuel</language>
-	<language name="Norwegian">{Samuel</language></row>
+	<language name="Norwegian">{TRNAME}Samuel</language></row>
 	<row id="msg_0246_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Kipp</language>
-	<language name="Norwegian">{Kipp</language></row>
+	<language name="Norwegian">{TRNAME}Kipp</language></row>
 </body>
