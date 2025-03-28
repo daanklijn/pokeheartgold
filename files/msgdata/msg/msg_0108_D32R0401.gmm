@@ -179,19 +179,19 @@
 	<row id="msg_0108_D32R0401_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0}, and\f{STRVAR_1 0, 7, 0} are not allowed to enter.\r</language>
-	<language name="Norwegian">Egg, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0}, og\f{STRVAR_1 0, 7, 0} er ikke tillatt å legge inn.\r{STRVAR_1 0, 7, 0}</language></row>
+</row>
 	<row id="msg_0108_D32R0401_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, and {STRVAR_1 0, 8, 0}\fare not allowed to enter.\r</language>
-	<language name="Norwegian">Egg, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, og {STRVAR_1 0, 8, 0}\fer ikke tillatt å angi.\r.</language></row>
+</row>
 	<row id="msg_0108_D32R0401_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, and\f{STRVAR_1 0, 9, 0} are not allowed to enter.\r</language>
-	<language name="Norwegian">Egg, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0} og\f{STRVAR_1 0, 9, 0} er ikke tillatt å angi.\r {STRVAR_1</language></row>
+</row>
 	<row id="msg_0108_D32R0401_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, and {STRVAR_1 0, 10, 0}\fare not allowed to enter.\r</language>
-	<language name="Norwegian">Egg, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, og {STRVAR_1 0, 9, 0}, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, og {STRVAR_1 0, 10, 0}\fer ikke tillatt å angi.\r.</language></row>
+</row>
 	<row id="msg_0108_D32R0401_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0}, and\f{STRVAR_1 0, 11, 0} are not allowed to enter.\r</language></row>
@@ -206,23 +206,23 @@
 	<row id="msg_0108_D32R0401_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, and {STRVAR_1 0, 14, 0}\fare not allowed to enter.\r</language>
-	<language name="Norwegian">Egg, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0} og {STRVAR_1 0, 14, 0}\fer ikke tillatt å angi.\r.</language></row>
+</row>
 	<row id="msg_0108_D32R0401_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0}, and\f{STRVAR_1 0, 15, 0} are not allowed to enter.\r</language>
-	<language name="Norwegian">Egg, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0} og\f{STRVAR_1 0, 15, 0} er ikke tillatt å angi.\r</language></row>
+</row>
 	<row id="msg_0108_D32R0401_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, and {STRVAR_1 0, 16, 0}\fare not allowed to enter.\r</language>
-	<language name="Norwegian">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0} og {STRVAR_1 0, 16, 0}\fer ikke tillatt å angi.\r.</language></row>
+</row>
 	<row id="msg_0108_D32R0401_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0}, and\f{STRVAR_1 0, 17, 0} are not allowed to enter.\r</language>
-	<language name="Norwegian">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0} og\f{STRVAR_1 0, 17, 0} er ikke tillatt å angi.\r</language></row>
+</row>
 	<row id="msg_0108_D32R0401_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f{STRVAR_1 0, 17, 0}, and {STRVAR_1 0, 18, 0}\fare not allowed to enter.\r</language>
-	<language name="Norwegian">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 15, 0}, {STRVAR_1 0, 15, 0}, {STRVAR_1 0, 15, 0}, {STRVAR_1 0, 15, 0}, {STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f{STRVAR_1 0, 17, 0} og {STRVAR_1 0, 18, 0}\fer ikke tillatt å angi.\r.</language></row>
+</row>
 	<row id="msg_0108_D32R0401_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please come see me when you are ready.\r</language>
