@@ -1,55 +1,55 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0094_D27R0107_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: ...This Pokémon always kept\nthe sea lit at night.\r...But it suddenly got sick...\nIt’s gasping for air...\r...I understand that there is a\nwonderful Pharmacy in Cianwood...\rBut that’s across the sea...\nAnd I can’t leave Amphy unattended...\r</language>
-	</row>
+	<language name="Norwegian">Jasmine: ...Denne Pokémonen holdt alltid\nhavet opplyst om natten.\r...Men plutselig ble den syk...\nDen’kaster etter luft...\r...Jeg forstår at det finnes et vidunderlig apotek i Cianwood...\rMen det’ligger på den andre siden av havet...\nOg jeg kan’ikke la Amphy være uten tilsyn...\r...\r...\r...\r...</language></row>
 	<row id="msg_0094_D27R0107_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...May I ask you to get some medicine\nfor me? Please?\r</language>
-	</row>
+	<language name="Norwegian">...Kan jeg be deg om å hente litt medisin til meg? Vær så snill?\r</language></row>
 	<row id="msg_0094_D27R0107_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: ...Will that medicine cure\nAmphy? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jasmine: ...Vil den medisinen kurere\nAmphy? {YESNO 0}</language></row>
 	<row id="msg_0094_D27R0107_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} handed the SecretPotion\nto Jasmine.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} overrakte SecretPotion\n til Jasmine.</language></row>
 	<row id="msg_0094_D27R0107_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: ...Um, please don’t be\noffended...\rAmphy will not take anything from\nanyone but me...\r</language>
-	</row>
+	<language name="Norwegian">Sjasmin: ...Um, vær så snill å ikke bli’fornærmet...\rAmphy vil ikke ta noe fra\nnoen andre enn meg...\r</language></row>
 	<row id="msg_0094_D27R0107_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: ...\rAmphy, how are you feeling?\r</language>
-	</row>
+	<language name="Norwegian">Jasmine: ...\rAmphy, hvordan føler du deg?</language></row>
 	<row id="msg_0094_D27R0107_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Amphy: Palu!\nPalulu!\r</language>
-	</row>
+	<language name="Norwegian">Amphy: Palu!\nPalulu!\r</language></row>
 	<row id="msg_0094_D27R0107_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: ...Oh, I’m so relieved...\nThis is just so wonderful...\rThank you so very, very much.\n...I will return to the Gym...\r</language>
-	</row>
+	<language name="Norwegian">Jasmine: ...Å, jeg’er så lettet...\nDette er bare så fantastisk...\rTusen takk...\n...Jeg skal tilbake til treningsstudioet...\r...\r...\n...\r...\n..</language></row>
 	<row id="msg_0094_D27R0107_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine: ...I see...\r</language>
-	</row>
+	<language name="Norwegian">Jasmine: ...jeg forstår...\r</language></row>
 	<row id="msg_0094_D27R0107_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Amphy, hang on!\r</language>
-	</row>
+	<language name="Norwegian">...Amphy, vent litt!</language></row>
 	<row id="msg_0094_D27R0107_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Amphy: ...\n...Pa...paloo...\r</language>
-	</row>
+	<language name="Norwegian">Amfibie: ...\n ...Pa...paloo...\r</language></row>
 	<row id="msg_0094_D27R0107_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Its breathing is slight...</language>
-	</row>
+	<language name="Norwegian">Den puster svakt...</language></row>
 	<row id="msg_0094_D27R0107_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Amphy: Palu!\nPalulu!</language>
-	</row>
+	<language name="Norwegian">Amphy: Palu!</language></row>
 </body>

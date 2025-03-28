@@ -1,39 +1,39 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0058_D17R0110_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Zuki: Yes, this is where we welcome\nHO-OH.\rWhen the dance we practiced for many\ndays becomes one with the sound of the\fClear Bell we entrusted to you,\rthen HO-OH shall come down from the\ngreat arch of the sky once again!\r</language>
-	</row>
+	<language name="Norwegian">Zuki: Ja, det er her vi ønsker velkommen\nHO-OH.\rNår dansen vi har øvd på i mange\ndager blir ett med lyden av den\fklare klokken vi har betrodd deg,\rså skal HO-OH komme ned fra den\nstore himmelbuen igjen!\r</language></row>
 	<row id="msg_0058_D17R0110_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is all we can do for you...\nWhat you do now is entirely up to you...</language>
-	</row>
+	<language name="Norwegian">Dette er alt vi kan gjøre for deg ... \nHva du gjør nå, er helt opp til deg ...</language></row>
 	<row id="msg_0058_D17R0110_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That IS indeed HO-OH...\nThe guardian of the sky around here\ffrom ancient times...\rSo many have tried and tried, only\nto fail...\r{STRVAR_1 3, 0, 0}, your heart and the Clear\nBell in harmony have finally made\fit appear...\r</language>
-	</row>
+	<language name="Norwegian">Det ER virkelig HO-OH...\nHimmelens vokter her omkring\ffra eldgamle tider...\rSå mange har prøvd og prøvd, bare\nfor å mislykkes...\r{STRVAR_1 3, 0, 0}, ditt hjerte og den klare\nklokken i harmoni har endelig fått\fden til å komme til syne...\r.</language></row>
 	<row id="msg_0058_D17R0110_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, don’t you see?\rHO-OH must have been waiting for\nsomeone like you all this time.\fWouldn’t you agree...?\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, skjønner du ikke det? \rHO-OH må ha ventet på\nen som deg hele denne tiden.\fEr du ikke enig...?\r</language></row>
 	<row id="msg_0058_D17R0110_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">HO-OH: Shaoooh!\r</language>
-	</row>
+	<language name="Norwegian">HO-OH: Shaoooh!</language></row>
 	<row id="msg_0058_D17R0110_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have done a great job.\nSay hello to Professor Elm for us.</language>
-	</row>
+	<language name="Norwegian">Du har gjort en flott jobb. \nHils professor Elm fra oss.</language></row>
 	<row id="msg_0058_D17R0110_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have not only made HO-OH appear,\nbut you have also caught it...\rYou are so wonderful.\nThere is nothing more for us to say.\rTake good care of yourself in\nyour journey...</language>
-	</row>
+	<language name="Norwegian">Du har ikke bare fått HO-OH til å dukke opp,\nmen du har også fanget det...\rDu er så fantastisk.\nDet er ikke noe mer for oss å si.\rPass godt på deg selv på\nreisen din...</language></row>
 	<row id="msg_0058_D17R0110_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If that is what you believe, we will not\ntry to convince you otherwise.\rStill, if you want to see HO-OH once\nmore, perhaps you can come back here\fafter everything has been settled...</language>
-	</row>
+	<language name="Norwegian">Hvis det er det du tror, vil vi ikke\nforsøke å overbevise deg om noe annet.\rHvis du likevel vil se HO-OH en gang\ntil, kan du kanskje komme tilbake hit\fetter at alt har blitt avgjort...</language></row>
 	<row id="msg_0058_D17R0110_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I think when you turn your back to it,\nHO-OH will not come back for\fsome time...\rIf you want to see HO-OH, perhaps you\ncan come back here after everything\fhas been settled...</language>
-	</row>
+	<language name="Norwegian">Jeg tror at når du snur ryggen til, \nkommer ikke HO-OH tilbake på\fen stund...\rHvis du vil se HO-OH, kanskje du\nkan komme tilbake hit etter at alt\fer ordnet opp...</language></row>
 </body>

@@ -1,187 +1,187 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0065_D23R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to Goldenrod’s Radio Tower!</language>
-	</row>
+	<language name="Norwegian">Velkommen til Goldenrod’s radiotårn!</language></row>
 	<row id="msg_0065_D23R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to Goldenrod’s Radio Tower!\r...Or, maybe not.\nI am sorry to tell you this, but no one\fcan visit the tower now.</language>
-	</row>
+	<language name="Norwegian">Velkommen til Goldenrod’s radiotårn!\r...Eller, kanskje ikke.\nJeg beklager å måtte si dette, men ingen\fkan besøke tårnet nå.</language></row>
 	<row id="msg_0065_D23R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Um, yes. I have been telling visitors\nto go home as you instructed...</language>
-	</row>
+	<language name="Norwegian">Ja. Jeg har bedt besøkende om å gå hjem slik du ba meg om...</language></row>
 	<row id="msg_0065_D23R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We have a special Quiz campaign!\rAnswer five questions correctly in a\nrow to win a Radio Card!\rWhen you load it into the Pokégear, you\nwill be able to listen to the radio...\fanytime, anywhere!\rWould you like to try our Quiz? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Vi har en spesiell Quiz-kampanje!\rSvar riktig på fem spørsmål i en\nrad for å vinne et radiokort!\rNår du laster det inn i Pokégear, vil du\nkunne lytte til radio...\fnår som helst, hvor som helst!\rVil du prøve vår Quiz? {YESNO 0}</language></row>
 	<row id="msg_0065_D23R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The first question!\rCan you check the Town Map with\nyour Pokégear? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Det første spørsmålet!\rKan du sjekke bykartet med\npokégearet ditt? {YESNO 0}</language></row>
 	<row id="msg_0065_D23R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are correct.\nThe second question!\rNIDORINA can only be female.\nTrue? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du har rett.\nDet andre spørsmålet!\rNIDORINA kan bare være en kvinne.\nSant? {YESNO 0}</language></row>
 	<row id="msg_0065_D23R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are correct.\nThe third question!\rKurt, the Poké Ball creator, uses\napricots as ingredients? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du har rett.\nDet tredje spørsmålet!\rKurt, Poké Ball-skaperen, bruker\naprikoser som ingredienser? {YESNO 0}</language></row>
 	<row id="msg_0065_D23R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are correct again.\nThe fourth question!\rIt’s impossible to use a TM on\nMAGIKARP. True? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du har rett igjen.\nDet fjerde spørsmålet!\rDet’er umulig å bruke en TM på\nMAGIKARP. Er det sant? {YESNO 0}</language></row>
 	<row id="msg_0065_D23R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow!\nI have only one more question to go.\rIn Professor Oak’s popular show,\nPokémon Talk, is he on with Marie? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jøss! \nJeg har bare ett spørsmål igjen.\rI professor Oak’s populære program,\nPokémon Talk, er han på med Marie? {YESNO 0}</language></row>
 	<row id="msg_0065_D23R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bingo! You got it!\nCongratulations!\fHere’s your prize, a Radio Card!\r</language>
-	</row>
+	<language name="Norwegian">Bingo! Du fikk det!\nGratulerer!\fHer’er premien din, et radiokort!\r</language></row>
 	<row id="msg_0065_D23R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} can now listen to the\nradio with the Pokégear!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} kan nå lytte til\nradioen med Pokégear!</language></row>
 	<row id="msg_0065_D23R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please tune in to our radio shows!</language>
-	</row>
+	<language name="Norwegian">Vennligst følg med på radioprogrammene våre!</language></row>
 	<row id="msg_0065_D23R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, dear.\nSorry, but you got it wrong.\fPlease try again!</language>
-	</row>
+	<language name="Norwegian">Å, kjære vene.\nUnskyld, men du har misforstått.\fVær så snill å prøve igjen!</language></row>
 	<row id="msg_0065_D23R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh. I see.\nPlease see me if you change your mind.</language>
-	</row>
+	<language name="Norwegian">Jeg forstår. Jeg skjønner. Kom til meg hvis du ombestemmer deg.</language></row>
 	<row id="msg_0065_D23R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whitney: Hi!\nMy name is Whitney!\rI heard about the Quiz to win a Radio\nCard, so I came here to get one...\rBut this Quiz is so hard!\r</language>
-	</row>
+	<language name="Norwegian">Whitney: Hei!\nMitt navn er Whitney!\rJeg hørte om quizen for å vinne et radiokort, så jeg kom hit for å få et...\rMen denne quizen er så vanskelig!\r</language></row>
 	<row id="msg_0065_D23R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whitney: Wow, you did it!\nI thought the answer to the third\fquestion was surely apricots!\rOops!\nIt’s time to go back to the Gym!\r</language>
-	</row>
+	<language name="Norwegian">Whitney: Jøss, du klarte det!\nJeg trodde svaret på det tredje\fspørsmålet var aprikoser!\rOops!\nDet’er på tide å gå tilbake til treningsstudioet!\r</language></row>
 	<row id="msg_0065_D23R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ben is a fabulous DJ!\nHis sweet voice just makes me melt!</language>
-	</row>
+	<language name="Norwegian">Ben er en fabelaktig DJ! Hans søte stemme får meg til å smelte!</language></row>
 	<row id="msg_0065_D23R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I love Mary from Pokémon Talk.\rI only know what she sounds like,\nthough!</language>
-	</row>
+	<language name="Norwegian">Jeg elsker Mary fra Pokémon Talk, men jeg vet bare hvordan hun høres ut!</language></row>
 	<row id="msg_0065_D23R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Who are you?\nWe have some business going on.\rI was told not to let anyone pass but\nTeam Rocket!\rDo you understand?\rYou are only allowed to come through\nwhen you are wearing the cool black\funiform for Team Rocket!</language>
-	</row>
+	<language name="Norwegian">Hvem er du?\nVi har noen forretninger på gang.\rJeg fikk beskjed om å ikke slippe noen andre forbi enn\nTeam Rocket!\rForstår du? \rDu får bare komme gjennom\nnår du har på deg den kule svarte\funiformen til Team Rocket!</language></row>
 	<row id="msg_0065_D23R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ha! You must be new!\nYou look pretty good in the Team Rocket\funiform!\rGo on ahead!\r</language>
-	</row>
+	<language name="Norwegian">Ha! Du må være ny!\nDu ser ganske bra ut i Team Rocket\funiformen!\rGå videre!\r</language></row>
 	<row id="msg_0065_D23R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What are you doing?\nGo upstairs and take your position!</language>
-	</row>
+	<language name="Norwegian">Hva gjør du? Gå opp og innta posisjonen din!</language></row>
 	<row id="msg_0065_D23R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: Hey, Team Rocket!\rStop going around in groups and\ntroubling people. You cowards!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 1, 0}: Hei, Team Rocket! Slutt å gå rundt i grupper og\ntrubbere folk. Feiginger!\r</language></row>
 	<row id="msg_0065_D23R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: ...Huh?\nAre you {STRVAR_1 3, 0, 0}?\fWhat are you doing here?\rNo way... You think you’re strong now\nthat you look like them?\rThat’s foolish!\nYou shouldn’t wear those things!\r</language>
-	</row>
+	<language name="Norwegian">{...3, 1, 0..:} ...Huh?\nEr du {STRVAR_1 3, 0, 0}?\fHva gjør du her?\rIkke tale om... Tror du at du er så sterk nå’at du ser ut som dem?\rDet’er tåpelig!\nDu burde’ikke ha på deg sånne ting!\r</language></row>
 	<row id="msg_0065_D23R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What? You!\nYou’re not a newcomer?\fThen battle with me!\r</language>
-	</row>
+	<language name="Norwegian">Hva? Du! \nDu’er ikke en nykommer? \fSå kjemp med meg! \r</language></row>
 	<row id="msg_0065_D23R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are too powerful.\rYou could spoil our plan.\nI have to inform the others...\r</language>
-	</row>
+	<language name="Norwegian">Du er for mektig...\rDu kan ødelegge planen vår...\nJeg må informere de andre...\r</language></row>
 	<row id="msg_0065_D23R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: I see.\nYou were trying to be sneaky...\rHuh!\nA typical idea of the meek!\rNo matter.\nI’ll let you handle this.\rI have to defeat the Dragon Tamer...\nWhat’s his name...? Lance!\rAfter that...it will be your turn.\nBe ready for it!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 1, 0}: Jeg skjønner.\nDu prøvde å være sleip...\rHa!\nTypisk for de saktmodige!\rDet spiller ingen rolle.\nJeg’later deg ta deg av dette.\rJeg må beseire Dragetemmeren...\nHva’er det han heter...’? Lance!\rEtter det...blir det din tur.\nVær klar for det!\r</language></row>
 	<row id="msg_0065_D23R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">1F Reception\n2F Sales\f3F Personnel\f4F Production\f5F Director’s Office\f6F Observation Deck</language>
-	</row>
+	<language name="Norwegian">1F Resepsjon\n2F Salg\f3F Personal\f4F Produksjon\f5F Direktør’s kontor\f6F Observasjonsdekk</language></row>
 	<row id="msg_0065_D23R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lucky Channel!\nWin with Pokémon ID numbers!\rTrade your Pokémon to collect different\nID numbers!</language>
-	</row>
+	<language name="Norwegian">Lucky Channel!\nGevinst med Pokémon ID-tall!\rBytt Pokémon for å samle forskjellige\nID-tall!</language></row>
 	<row id="msg_0065_D23R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the Pokémon Lottery Corner.\nI’m Felicity, your attendant today.\rIf the drawn number matches the ID No.\nof any of your Pokémon, you could win\ffabulous gifts.\rWould you like to check today’s\nlucky number? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Dette er Pokémon Lottery Corner.\nJeg’er Felicity, din ledsager i dag.\rHvis det trukkede nummeret samsvarer med ID-nummeret\ntil noen av dine Pokémon, kan du vinne\ffabelaktige gaver.\rVil du sjekke dagens’s\nlykketall? {YESNO 0}</language></row>
 	<row id="msg_0065_D23R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ve already drawn a Loto Ticket\ntoday. Please come back tomorrow.</language>
-	</row>
+	<language name="Norwegian">Du’har allerede trukket et lodd\ni dag. Vennligst kom tilbake i morgen.</language></row>
 	<row id="msg_0065_D23R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh. I see.\nPlease do visit us again.</language>
-	</row>
+	<language name="Norwegian">Jeg forstår. Jeg skjønner. Besøk oss gjerne igjen.</language></row>
 	<row id="msg_0065_D23R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">First, I’ll look up today’s Pokémon\nLottery Corner lucky number.\r...\r</language>
-	</row>
+	<language name="Norwegian">Først skal jeg’slå opp dagens’s Pokémon\nLotterihjørnets lykketall.\r...\r...\r</language></row>
 	<row id="msg_0065_D23R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your Loto Ticket number is {STRVAR_1 54, 0, 0}.\rNow, let’s see if it matches the\nID No. of any of your Pokémon.\r</language>
-	</row>
+	<language name="Norwegian">Ditt loddnummer er {STRVAR_1 54, 0, 0, 0}.\rNå, la oss’se om det samsvarer med\nID-nummeret til noen av dine Pokémon.\r</language></row>
 	<row id="msg_0065_D23R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Congratulations!\rThe ID No. of your team’s\n{STRVAR_1 1, 0, 0} matches your Loto\fTicket number!\r</language>
-	</row>
+	<language name="Norwegian">Gratulerer!\rId-nummeret til laget ditt’s\n{STRVAR_1 1, 0, 0} samsvarer med ditt Loto\fBillettnummer!\r</language></row>
 	<row id="msg_0065_D23R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Congratulations!\rThe ID No. of your PC-boxed\n{STRVAR_1 1, 0, 0} matches your Loto\fTicket number!\r</language>
-	</row>
+	<language name="Norwegian">Gratulerer!\rID-nummeret til din PC-boxed\n{STRVAR_1 1, 0, 0, 0} samsvarer med ditt Loto\fBillettnummer!\r</language></row>
 	<row id="msg_0065_D23R0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m sorry.\nYou didn’t get a match...</language>
-	</row>
+	<language name="Norwegian">Jeg’beklager, men du fikk ikke noe treff...</language></row>
 	<row id="msg_0065_D23R0101_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The last digit matched, so you\nwin the fourth prize!\r</language>
-	</row>
+	<language name="Norwegian">Det siste sifferet stemte, så du\nvinner fjerdepremien!\r</language></row>
 	<row id="msg_0065_D23R0101_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You gained a new Backdrop for use\nin Fitting Rooms.</language>
-	</row>
+	<language name="Norwegian">Du har fått et nytt bakteppe til bruk i innredningsrom.</language></row>
 	<row id="msg_0065_D23R0101_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The last two digits matched, so you\nwin the third prize!\r</language>
-	</row>
+	<language name="Norwegian">De to siste sifrene stemte overens, så du\nvinner tredjepremien!\r</language></row>
 	<row id="msg_0065_D23R0101_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The last three digits matched, so you\nwin the second prize!\r</language>
-	</row>
+	<language name="Norwegian">De tre siste sifrene stemte overens, så du\nvinner andrepremien!\r</language></row>
 	<row id="msg_0065_D23R0101_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The last four digits matched, so you\nwin the first prize!\r</language>
-	</row>
+	<language name="Norwegian">De fire siste sifrene stemte overens, så du\nvinner førstepremien!\r</language></row>
 	<row id="msg_0065_D23R0101_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, my goodness, all five digits\nmatched!\rYou’ve won the jackpot prize!\nThis is just so incredible!\r...Oh, I’m sorry! Your prize!\nI got carried away there.\rHere you go!\r</language>
-	</row>
+	<language name="Norwegian">Å, herregud, alle fem sifrene\nsamsvarte!\rDu’har vunnet jackpotpremien!\nDette er bare så utrolig!\r...Å, jeg’beklager! Premien din!\nJeg lot meg rive med der.\rHer har du den!\r</language></row>
 	<row id="msg_0065_D23R0101_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...Oh?\nYou seem to have no room for this.\rPlease make room in your Bag and\nthen let me know.</language>
-	</row>
+	<language name="Norwegian">...Oh?\nDu ser ikke ut til å ha plass til dette.\rGjør plass i vesken din og\nså gi meg beskjed.</language></row>
 	<row id="msg_0065_D23R0101_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}?\nYes, I’ve been expecting you.\rThis is the prize we’ve been holding\nfor you. Here you go!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}?\nJa, jeg’har ventet på deg.\rDette er premien vi’har holdt\nfor deg. Vær så god!\r</language></row>
 	<row id="msg_0065_D23R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please do visit again!\nGood-bye from Felicity, your attendant!</language>
-	</row>
+	<language name="Norwegian">Besøk oss gjerne igjen!\nGod dag fra Felicity, din ledsager!</language></row>
 	<row id="msg_0065_D23R0101_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the Pokémon Lottery Corner.\rWould you like to check today’s\nlucky number again? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Dette er Pokémon Lottery Corner.\rVil du sjekke dagens’s\nlykketall igjen? {YESNO 0}</language></row>
 </body>

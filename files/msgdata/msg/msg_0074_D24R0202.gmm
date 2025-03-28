@@ -1,20 +1,20 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0074_D24R0202_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to this chamber!\rWe are reconstructing ancient Pokémon\nstone panels.\rYou can rotate stone-panel pieces by\ntouching them for a short time.\rIf you touch a piece and slide it,\nyou can move it around.\rWe think we should be able to put them\nback to where they were...</language>
-	</row>
+	<language name="Norwegian">Velkommen til dette kammeret!\rVi rekonstruerer gamle Pokémon\nsteinpaneler.\rDu kan rotere steinpanelbiter ved å\nberøre dem en kort stund.\rHvis du berører en bit og skyver den,\nkan du flytte den rundt.\rVi tror vi skal kunne sette dem\ntilbake til der de var....</language></row>
 	<row id="msg_0074_D24R0202_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You reconstructed the stone panel?\rThat’s great!\nWe have an archaeology genius here!</language>
-	</row>
+	<language name="Norwegian">Har du rekonstruert steinpanelet? Det er flott! Vi har et arkeologisk geni her!</language></row>
 	<row id="msg_0074_D24R0202_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0074_D24R0202_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nothing happened...</language>
-	</row>
+	<language name="Norwegian">Ingenting skjedde...</language></row>
 </body>

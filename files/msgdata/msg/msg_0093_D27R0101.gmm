@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0093_D27R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">People train at this Lighthouse.\rIt’s not easy to climb because of\nall the Trainers.</language>
-	</row>
+	<language name="Norwegian">Folk trener på dette fyret, men det er ikke lett å klatre opp på grunn av alle trenerne.</language></row>
 	<row id="msg_0093_D27R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In the past, Pokémon used to light\nthe sea around Olivine at night.\rThe Lighthouse was made to pay tribute\nto those Pokémon.</language>
-	</row>
+	<language name="Norwegian">Før i tiden pleide Pokémon å lyse opp\nhavet rundt Olivine om natten.\rFyrtårnet ble laget for å hylle\nde Pokémon.</language></row>
 </body>

@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0049_D02R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: Hey, {STRVAR_1 3, 0, 0}!\nYou’re here in Kanto, too?\rSome of the Trainers here are tough,\nwhich makes it easy to train\fmy Pokémon!\r{STRVAR_1 3, 0, 0}!\nI know that you are strong...\rBut...\nI can’t help but challenge you!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 1, 0}: Hei, {STRVAR_1 3, 0, 0, 0}!\nDu’er også her i Kanto? \rNoen av trenerne her er tøffe,\nhvilket gjør det lett å trene\fmine Pokémon!\r{STRVAR_1 3, 0, 0}!\nJeg vet at du er sterk...\rMen...\nJeg kan’ikke annet enn å utfordre deg!\r</language></row>
 	<row id="msg_0049_D02R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: My training’s still not\ngood enough...?\rMy Pokémon are so weak, it makes me\nfrustrated...\rBut I can feel that they are getting\nbetter after each battle...\r..................\nTch!\rThey’re still too weak!\nI need to give them more training...\rI know!\nI should take them to Dragon’s Den!\fSee ya, {STRVAR_1 3, 0, 0}!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 1, 0}: Min trening’er fortsatt ikke\ngod nok...\rMine Pokémon er så svake, det gjør meg\nfrustrert...\rMen jeg kan føle at de blir\nbedre etter hver kamp...\r..................\nTch!\rDe’er fortsatt for svake!\nJeg må gi dem mer trening...\rJeg vet det!\nJeg burde ta dem med til Dragon’s Den!\fSees, {STRVAR_1 3, 0, 0}!\r...\r...\r...\r...</language></row>
 </body>

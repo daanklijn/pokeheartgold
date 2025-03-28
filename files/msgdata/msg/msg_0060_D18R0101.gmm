@@ -1,23 +1,23 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0060_D18R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: ..................\r......Oh, it’s you.\rYou must be here to catch the\nlegendary Pokémon to make yourself\flook strong.\rThat is only a dream.\rYou see, the legendary Pokémon suits a\nTrainer like me who has sworn to become\fthe strongest Trainer.\rA battle with Team Rocket Grunts\nis just right for you!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: ..................\r......Åh, det’er deg.\rDu må være her for å fange den\nlegendariske Pokémon for å få deg selv\ftil å se sterk ut.\rDet er bare en drøm.\rDu skjønner, den legendariske Pokémon passer en\ntrener som meg, som har sverget på å bli\fden sterkeste treneren.\rEn kamp med Team Rocket Grunts\ner midt i blinken for deg!\rEn kamp med Team Rocket Grunts\ner akkurat det rette for deg!\r</language></row>
 	<row id="msg_0060_D18R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}: ...Aw, whatever.\rYou would never be able to catch a\nlegendary Pokémon anyway.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}: ... Aw, uansett.\rDu ville aldri være i stand til å fange en\nlegendary Pokémon uansett.\r</language></row>
 	<row id="msg_0060_D18R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eusine: My name is Eusine.\rI’m on the trail of a Pokémon named\nSUICUNE.\rAnd you are...?\n{STRVAR_1 3, 0, 0}? Glad to meet you.\rI heard rumors that SUICUNE is here,\nso I came to look.\rTake a look at the basement through\nthe hole in the floor.\rThere. SUICUNE is down there.\rI could go downstairs, but I know it\nwould run away in no time.\rI know.\nI have tried it many times...</language>
-	</row>
+	<language name="Norwegian">Eusine: Mitt navn er Eusine.\rJeg’er på sporet av en Pokémon ved navn\nSUICUNE.\rOg du er...?\n{STRVAR_1 3, 0, 0}? Hyggelig å treffe deg.\rJeg hørte rykter om at SUICUNE er her,\nså jeg kom for å se.\rTa en titt i kjelleren gjennom\nhullet i gulvet.\rDer. SUICUNE er der nede.\rJeg kunne gå ned, men jeg vet at den\nvil stikke av på null komma niks.\rJeg vet det.\nJeg har prøvd det mange ganger...</language></row>
 	<row id="msg_0060_D18R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Eusine: There seems to be more than\nmeets the eye with you...</language>
-	</row>
+	<language name="Norwegian">Eusine: Det ser ut til å være mer enn det som møter øyet med deg...</language></row>
 	<row id="msg_0060_D18R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Morty: My name is Morty.\nI am Ecruteak’s Gym Leader.\rBecause my old friend Eusine is here\non the trail of SUICUNE, I decided to\finvestigate the Burned Tower.\rEcruteak has a legend about these\nlegendary Pokémon:\fSUICUNE, ENTEI, and RAIKOU.\rAs the Gym Leader of Ecruteak, I must\nhave a proper understanding of it.</language>
-	</row>
+	<language name="Norwegian">Morty: Mitt navn er Morty.\nJeg er Ecruteak’s Gymleder.\rSiden min gamle venn Eusine er her\npå sporet av SUICUNE, bestemte jeg meg for å\fundersøke det brente tårnet.\rEcruteak har en legende om disse\nlegendariske Pokémon: \fSUICUNE, ENTEI og RAIKOU.\rSom Gymleder i Ecruteak må jeg\nha en skikkelig forståelse av den.</language></row>
 </body>

@@ -1,107 +1,107 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0053_D11R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blaine: Hey, you!\rMy Gym on Cinnabar Island was burned\ndown by the eruption!\rBut I will not give up!\nTake a look at this cave.\rWe have turned it into a Gym, and I am\nstill acting as a Gym Leader!\rI will give you the Gym Badge\nif you manage to defeat me!\rAre you ready? Here we go!\r</language>
-	</row>
+	<language name="Norwegian">Blaine: Hei, du! Gym'et mitt på Cinnabarøya ble brent\nned av utbruddet! \rMen jeg gir ikke opp! \nTa en titt på denne hulen.\rVi har gjort den om til et Gym, og jeg er\nfortsatt Gym-leder!\rJeg skal gi deg Gym-merket\nhvis du klarer å beseire meg!\rEr du klar? Da setter vi i gang!\r</language></row>
 	<row id="msg_0053_D11R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blaine: Awesome. I have burned out...\fTake this Volcano Badge!\r</language>
-	</row>
+	<language name="Norwegian">Blaine: Fantastisk. Jeg har brent ut...\fTa dette vulkanmerket!\r</language></row>
 	<row id="msg_0053_D11R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Volcano Badge from Blaine!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0, 0} mottatt\nvulkanmerket fra Blaine!</language></row>
 	<row id="msg_0053_D11R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blaine: Here, I will give you this, too.\nIt’s called Overheat!\rIt has a slight drawback, but it’s\npowerful and well worth it!\r</language>
-	</row>
+	<language name="Norwegian">Blaine: Her, jeg skal gi deg denne også.\nDen’kalles Overheat!\rDen har en liten ulempe, men den’er\nkraftig og vel verdt det!\r</language></row>
 	<row id="msg_0053_D11R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blaine: I did lose this time, but I’m\ngoing to win next time.\rWhen I rebuild my Cinnabar Gym,\nwe have to hold a rematch.</language>
-	</row>
+	<language name="Norwegian">Blaine: Jeg tapte denne gangen, men jeg’m\nkommer til å vinne neste gang.\rNår jeg bygger opp igjen mitt Cinnabar Gym,\nmå vi ha en omkamp.</language></row>
 	<row id="msg_0053_D11R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blaine: My Fire-type Pokémon will be\neven stronger! Just you watch!</language>
-	</row>
+	<language name="Norwegian">Blaine: Min Ild-type Pokémon vil bli\nenda sterkere! Bare vent og se!</language></row>
 	<row id="msg_0053_D11R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow, to see a Gym in a cave like this?\nI’d love to explore it.\r</language>
-	</row>
+	<language name="Norwegian">Jøss, å se et treningsstudio i en hule som denne... \nJeg’vil gjerne utforske det... \r</language></row>
 	<row id="msg_0053_D11R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bitterness leads to improvement\ntomorrow.</language>
-	</row>
+	<language name="Norwegian">Bitterhet fører til forbedring\ni morgen.</language></row>
 	<row id="msg_0053_D11R0106_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bitterness leads to improvement\ntomorrow.\r</language>
-	</row>
+	<language name="Norwegian">Bitterhet fører til forbedring\ni morgen.\r</language></row>
 	<row id="msg_0053_D11R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I am in the middle of collecting\nbattle records.\rCan you help me?\r</language>
-	</row>
+	<language name="Norwegian">Jeg er midt i arbeidet med å samle\nkamprekorder.\rKan du hjelpe meg?\r</language></row>
 	<row id="msg_0053_D11R0106_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I didn’t expect you to be so good!\nWho in the world are you?</language>
-	</row>
+	<language name="Norwegian">Jeg forventet ikke at du skulle være så god! Hvem i all verden er du?</language></row>
 	<row id="msg_0053_D11R0106_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I didn’t expect you to be so good!\nWho in the world are you?\r</language>
-	</row>
+	<language name="Norwegian">Jeg hadde ikke forventet at du skulle være så god! Hvem i all verden er du?</language></row>
 	<row id="msg_0053_D11R0106_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ooh!\nYou look easily defeated!\r</language>
-	</row>
+	<language name="Norwegian">Du ser lett beseiret ut!</language></row>
 	<row id="msg_0053_D11R0106_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pardon me!\nI failed to sense how strong you are.</language>
-	</row>
+	<language name="Norwegian">Unnskyld meg! Jeg oppfattet ikke hvor sterk du er.</language></row>
 	<row id="msg_0053_D11R0106_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pardon me!\nI failed to sense how strong you are.\r</language>
-	</row>
+	<language name="Norwegian">Unnskyld meg! Jeg oppfattet ikke hvor sterk du er.</language></row>
 	<row id="msg_0053_D11R0106_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A white lab coat is a researcher’s life.\nWe may be living in a cave like this, but\fwe never forget to do the laundry.\r</language>
-	</row>
+	<language name="Norwegian">En hvit labfrakk er en forskers’liv.\nVi bor kanskje i en hule som dette, men\fvi glemmer aldri å ta klesvasken.\r</language></row>
 	<row id="msg_0053_D11R0106_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This white lab coat makes me feel like I\nhave become smarter for some reason.</language>
-	</row>
+	<language name="Norwegian">Denne hvite labfrakken får meg til å føle at jeg av en eller annen grunn er blitt smartere.</language></row>
 	<row id="msg_0053_D11R0106_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This white lab coat makes me feel like I\nhave become smarter for some reason.\r</language>
-	</row>
+	<language name="Norwegian">Denne hvite laboratoriefrakken får meg til å føle at jeg av en eller annen grunn er blitt smartere.</language></row>
 	<row id="msg_0053_D11R0106_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blaine may have lost his Gym, but he\nnever gives up. His perseverance\fis what motivates me!\r</language>
-	</row>
+	<language name="Norwegian">Blaine har kanskje mistet gymmen sin, men han\ngir aldri opp. Hans utholdenhet\fer det som motiverer meg!</language></row>
 	<row id="msg_0053_D11R0106_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Together with Blaine, we will rebuild\nour Gym!</language>
-	</row>
+	<language name="Norwegian">Sammen med Blaine skal vi gjenoppbygge\n vårt Gym!</language></row>
 	<row id="msg_0053_D11R0106_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Together with Blaine, we will rebuild\nour Gym!\r</language>
-	</row>
+	<language name="Norwegian">Sammen med Blaine skal vi gjenoppbygge\n vårt Gym!\r</language></row>
 	<row id="msg_0053_D11R0106_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We lost the Gym on Cinnabar Island and\nfelt lost before we came here.\r</language>
-	</row>
+	<language name="Norwegian">Vi mistet gymmet på Cinnabar Island og følte oss fortapt før vi kom hit.</language></row>
 	<row id="msg_0053_D11R0106_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We take a step back when we are\ndefeated...\rDon’t you think we are downright\nhonest?\rNever put us in the same category as\nScientists who help bad guys.</language>
-	</row>
+	<language name="Norwegian">Vi tar et skritt tilbake når vi blir\nbeseiret...\rSynes du ikke’at vi er rett og slett\nhelt ærlige?\rSett oss aldri i samme kategori som\nforskere som hjelper skurker.</language></row>
 	<row id="msg_0053_D11R0106_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We take a step back when we are\ndefeated...\rDon’t you think we are downright\nhonest?\rNever put us in the same category as\nScientists who help bad guys.\r</language>
-	</row>
+	<language name="Norwegian">Vi tar et skritt tilbake når vi blir\nnedkjempet...\rSynes du ikke at vi er rett og slett\nhelt ærlige?\rSett oss aldri i samme kategori som\nforskere som hjelper skurkene.\rVitenskapsmenn som hjelper skurkene.</language></row>
 	<row id="msg_0053_D11R0106_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yo! Legend in the making!\rThis Gym has many Trainers and rocks\nin the way from the rebuilding.\fIt sure won’t be easy to get to Blaine!\rBut keep your cool and defeat the\nTrainers one by one, and you will surely\ffind the path!</language>
-	</row>
+	<language name="Norwegian">Yo! En legende i emning!\rDenne gymmen har mange trenere og steiner\ni veien fra ombyggingen.\fDet blir’ikke lett å komme seg til Blaine!\rMen hold hodet kaldt og beseire\ntrenerne én etter én, så vil du helt sikkert\ffinne veien!</language></row>
 	<row id="msg_0053_D11R0106_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Gym Leader rebuilding his Gym and\nthe Trainer from Johto who has come to\fchallenge that Gym Leader...\rI have witnessed a hot battle!</language>
-	</row>
+	<language name="Norwegian">Gymlederen som gjenoppbygger sin Gym og\ntreneren fra Johto som har kommet for å\futfordre Gymlederen...\rJeg har vært vitne til en het kamp!</language></row>
 </body>

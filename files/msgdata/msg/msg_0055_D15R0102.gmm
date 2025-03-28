@@ -1,15 +1,15 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0055_D15R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">However hard we battle, the tower\nwill stand strong.</language>
-	</row>
+	<language name="Norwegian">Uansett hvor hardt vi kjemper, vil tårnet\nstå sterkt.</language></row>
 	<row id="msg_0055_D15R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I sway like leaves in the wind...</language>
-	</row>
+	<language name="Norwegian">Jeg svaier som løv i vinden...</language></row>
 	<row id="msg_0055_D15R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A Pokémon statue...\nIt looks very distinguished.</language>
-	</row>
+	<language name="Norwegian">En Pokémon-statue...\nDen ser veldig distingvert ut.</language></row>
 </body>
