@@ -1,155 +1,155 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0285_match_up" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MATCH UP</language>
-	</row>
+	<language name="Norwegian">MATCH UP</language></row>
 	<row id="msg_0285_no_1" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO. 1</language>
-	</row>
+	<language name="Norwegian">NO. 1</language></row>
 	<row id="msg_0285_preparation" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PREPARATION</language>
-	</row>
+	<language name="Norwegian">FORBEREDELSER</language></row>
 	<row id="msg_0285_wins" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">WINS</language>
-	</row>
+	<language name="Norwegian">VINNER</language></row>
 	<row id="msg_0285_no_match" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO MATCH</language>
-	</row>
+	<language name="Norwegian">INGEN MATCH</language></row>
 	<row id="msg_0285_spirit" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SPIRIT</language>
-	</row>
+	<language name="Norwegian">ÅND</language></row>
 	<row id="msg_0285_ace_card" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ACE CARD</language>
-	</row>
+	<language name="Norwegian">ACE CARD</language></row>
 	<row id="msg_0285_come_on" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">COME ON</language>
-	</row>
+	<language name="Norwegian">KOM IGJEN</language></row>
 	<row id="msg_0285_attack" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ATTACK</language>
-	</row>
+	<language name="Norwegian">ANGREP</language></row>
 	<row id="msg_0285_surrender" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SURRENDER</language>
-	</row>
+	<language name="Norwegian">OVERGIVELSE</language></row>
 	<row id="msg_0285_courage" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">COURAGE</language>
-	</row>
+	<language name="Norwegian">MOT</language></row>
 	<row id="msg_0285_talent" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">TALENT</language>
-	</row>
+	<language name="Norwegian">TALENT</language></row>
 	<row id="msg_0285_strategy" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">STRATEGY</language>
-	</row>
+	<language name="Norwegian">STRATEGI</language></row>
 	<row id="msg_0285_match" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MATCH</language>
-	</row>
+	<language name="Norwegian">MATCH</language></row>
 	<row id="msg_0285_victory" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VICTORY</language>
-	</row>
+	<language name="Norwegian">SEIER</language></row>
 	<row id="msg_0285_sense" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SENSE</language>
-	</row>
+	<language name="Norwegian">SENSE</language></row>
 	<row id="msg_0285_versus" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VERSUS</language>
-	</row>
+	<language name="Norwegian">VERSUS</language></row>
 	<row id="msg_0285_fights" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FIGHTS</language>
-	</row>
+	<language name="Norwegian">KAMP</language></row>
 	<row id="msg_0285_power" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">POWER</language>
-	</row>
+	<language name="Norwegian">POWER</language></row>
 	<row id="msg_0285_challenge" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CHALLENGE</language>
-	</row>
+	<language name="Norwegian">UTFORDRING</language></row>
 	<row id="msg_0285_strong" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">STRONG</language>
-	</row>
+	<language name="Norwegian">STERK</language></row>
 	<row id="msg_0285_take_it_easy" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">TAKE IT EASY</language>
-	</row>
+	<language name="Norwegian">TA DET LETT</language></row>
 	<row id="msg_0285_foe" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FOE</language>
-	</row>
+	<language name="Norwegian">FOE</language></row>
 	<row id="msg_0285_genius" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GENIUS</language>
-	</row>
+	<language name="Norwegian">GENIUS</language></row>
 	<row id="msg_0285_legend" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LEGEND</language>
-	</row>
+	<language name="Norwegian">LEGENDE</language></row>
 	<row id="msg_0285_battle" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BATTLE</language>
-	</row>
+	<language name="Norwegian">KAMP</language></row>
 	<row id="msg_0285_fight" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FIGHT</language>
-	</row>
+	<language name="Norwegian">KAMP</language></row>
 	<row id="msg_0285_revive" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">REVIVE</language>
-	</row>
+	<language name="Norwegian">REVIVE</language></row>
 	<row id="msg_0285_points" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">POINTS</language>
-	</row>
+	<language name="Norwegian">POENG</language></row>
 	<row id="msg_0285_serious" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SERIOUS</language>
-	</row>
+	<language name="Norwegian">ALVORLIG</language></row>
 	<row id="msg_0285_loss" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LOSS</language>
-	</row>
+	<language name="Norwegian">TAP</language></row>
 	<row id="msg_0285_partner" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PARTNER</language>
-	</row>
+	<language name="Norwegian">PARTNER</language></row>
 	<row id="msg_0285_invincible" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">INVINCIBLE</language>
-	</row>
+	<language name="Norwegian">UOPPNÅELIG</language></row>
 	<row id="msg_0285_easy" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EASY</language>
-	</row>
+	<language name="Norwegian">LETT</language></row>
 	<row id="msg_0285_weak" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">WEAK</language>
-	</row>
+	<language name="Norwegian">SVAK</language></row>
 	<row id="msg_0285_easy_win" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EASY WIN</language>
-	</row>
+	<language name="Norwegian">ENKEL VINNING</language></row>
 	<row id="msg_0285_move" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MOVE</language>
-	</row>
+	<language name="Norwegian">MOVE</language></row>
 	<row id="msg_0285_trainer" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">TRAINER</language>
-	</row>
+	<language name="Norwegian">TRENER</language></row>
 </body>

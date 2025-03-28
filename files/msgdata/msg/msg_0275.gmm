@@ -1,372 +1,372 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0275_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Went on a great adventure with\n{STRVAR_1 3, 2, 0}’s {STRVAR_1 1, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Dro på et stort eventyr med\n{STRVAR_1 3, 2, 0}’s {STRVAR_1 1, 3, 0}!</language></row>
 	<row id="msg_0275_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} did a great job! It looks\nvery proud!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} gjorde en god jobb! Den ser\nveldig stolt ut!</language></row>
 	<row id="msg_0275_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is very eager! It took\nthe lead!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} er veldig ivrig! Den tok\n ledelsen!</language></row>
 	<row id="msg_0275_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is very eager! It’s\nrunning in circles...</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} er veldig ivrig! Den’s\nløper i sirkler...</language></row>
 	<row id="msg_0275_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 3, 0} saved us from a tough\nsituation! It made us closer!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 3, 0} reddet oss fra en vanskelig\nsituasjon! Det gjorde oss nærmere hverandre!</language></row>
 	<row id="msg_0275_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Had a fun battle with {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Hadde en morsom kamp med {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language></row>
 	<row id="msg_0275_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} moves very quickly!\n{STRVAR_1 1, 3, 0} kept away!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} beveger seg veldig raskt!\n{STRVAR_1 1, 3, 0} holdes unna!</language></row>
 	<row id="msg_0275_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A big wrestling match!\n{STRVAR_1 1, 1, 0} barely won!</language>
-	</row>
+	<language name="Norwegian">En stor brytekamp!\n{STRVAR_1 1, 1, 0} så vidt vunnet!</language></row>
 	<row id="msg_0275_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A big wrestling match!\nThat last move was crucial...!</language>
-	</row>
+	<language name="Norwegian">En stor brytekamp! Det siste trekket var avgjørende!</language></row>
 	<row id="msg_0275_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is quite agile! Or so\nit seemed, but then it fell over!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} er ganske smidig! Det virket i hvert fall slik, men så falt den over ende!</language></row>
 	<row id="msg_0275_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ran around with {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Kjørte rundt med {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language></row>
 	<row id="msg_0275_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} was very fast! It shook\noff {STRVAR_1 1, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} var veldig rask! Det ristet\nav {STRVAR_1 1, 3, 0}!</language></row>
 	<row id="msg_0275_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} just hit its second wind!\nIt’s showing off its reserve strength!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} har akkurat fått ny vind i seilene!\nDen’viser frem sin reservestyrke!</language></row>
 	<row id="msg_0275_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} was exhausted\nin the last half.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} ble brukt opp\ni siste halvdel.</language></row>
 	<row id="msg_0275_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 3, 0} is too fast!\nNo one can catch it!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 3, 0} er for rask!\nIngen kan fange den!</language></row>
 	<row id="msg_0275_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Took a Stroll with {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Tok en spasertur med {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language></row>
 	<row id="msg_0275_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} pulled {STRVAR_1 1, 3, 0}\nalong.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} trakk {STRVAR_1 1, 3, 0}\nalong.</language></row>
 	<row id="msg_0275_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} cheerily walked ahead!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} gikk muntert fremover!</language></row>
 	<row id="msg_0275_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Walked together as good friends.</language>
-	</row>
+	<language name="Norwegian">Vi gikk sammen som gode venner.</language></row>
 	<row id="msg_0275_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} tripped and fell down!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} snublet og falt ned!</language></row>
 	<row id="msg_0275_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Played some with {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Lekte litt med {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language></row>
 	<row id="msg_0275_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is interfering with\n{STRVAR_1 1, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} forstyrrer\n{STRVAR_1 1, 3, 0}.</language></row>
 	<row id="msg_0275_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} smirked and taunted\n{STRVAR_1 1, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} smilte og hånte\n{STRVAR_1 1, 3, 0}!</language></row>
 	<row id="msg_0275_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems sleepy?</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} virker søvnig?</language></row>
 	<row id="msg_0275_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} fell asleep...!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} sovnet...!</language></row>
 	<row id="msg_0275_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Met {STRVAR_1 3, 2, 0}’s {STRVAR_1 1, 3, 0}\nthat came here from far away.\nIt was a rare Pokémon...but I can’t\nremember what it was!</language>
-	</row>
+	<language name="Norwegian">Møtte {STRVAR_1 3, 2, 0}’s {STRVAR_1 1, 3, 0}\nsom kom hit langveisfra.\nDet var en sjelden Pokémon...men jeg kan’ikke\nhuske hva det var!</language></row>
 	<row id="msg_0275_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Used the Dowsing Machine\nand found the {STRVAR_1 8, 4, 0}!</language>
-	</row>
+	<language name="Norwegian">Brukte Dowsing Machine\nog fant {STRVAR_1 8, 4, 0}!</language></row>
 	<row id="msg_0275_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Today, {STRVAR_1 1, 1, 0}’s perception is\nclear, and it’s very confident!</language>
-	</row>
+	<language name="Norwegian">I dag er {STRVAR_1 1, 1, 0}’s oppfatning\nklar, og den’er veldig selvsikker!</language></row>
 	<row id="msg_0275_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0}’s senses seem to\nbe honed!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0}’s sanser ser ut til å\nvære skjerpet!</language></row>
 	<row id="msg_0275_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is in a great mood and\nseems like it’s about to start dancing!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} er i strålende humør og\nser ut som om den’er i ferd med å begynne å danse!</language></row>
 	<row id="msg_0275_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} looks very happy and\nwants to play with the {STRVAR_1 8, 4, 0}.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} ser veldig glad ut og\nønsker å leke med {STRVAR_1 8, 4, 0}.</language></row>
 	<row id="msg_0275_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is looking this way and\nfocusing on the {STRVAR_1 8, 4, 0}.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} ser denne veien og\nfokuserer på {STRVAR_1 8, 4, 0}.</language></row>
 	<row id="msg_0275_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is feeling pretty proud.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} føler seg ganske stolt.</language></row>
 	<row id="msg_0275_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...What?\nThe {STRVAR_1 8, 4, 0} was dropped here!\n{STRVAR_1 1, 1, 0} is very excited to have\nfound such a rare item!</language>
-	</row>
+	<language name="Norwegian">...Hva? \n{STRVAR_1 8, 4, 0} ble sluppet her! \n{STRVAR_1 1, 1, 0} er veldig glad for å ha\nfunnet en så sjelden gjenstand!</language></row>
 	<row id="msg_0275_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...What?\nThe {STRVAR_1 8, 4, 0} was dropped here!\nSuch a strange coincidence!</language>
-	</row>
+	<language name="Norwegian">...Hva? \nDen {STRVAR_1 8, 4, 0} ble droppet her!\nSå rart sammentreff!</language></row>
 	<row id="msg_0275_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Found {STRVAR_1 0, 5, 0} with the\nPoké Radar! It was caught with skill!</language>
-	</row>
+	<language name="Norwegian">Fant {STRVAR_1 0, 5, 0} med\nPoké-radaren! Den ble fanget med dyktighet!</language></row>
 	<row id="msg_0275_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Today seems like a great day!\n{STRVAR_1 1, 1, 0} is full of confidence!</language>
-	</row>
+	<language name="Norwegian">I dag virker som en flott dag!\n{STRVAR_1 1, 1, 0} er full av selvtillit!</language></row>
 	<row id="msg_0275_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is full of vigor!\nIt walked so much, and it’s not tired!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} er full av energi!\nDen har gått så mye, og den’er ikke sliten!</language></row>
 	<row id="msg_0275_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The clever way that {STRVAR_1 1, 1, 0} moves\nis very graceful!</language>
-	</row>
+	<language name="Norwegian">Den smarte måten {STRVAR_1 1, 1, 0} beveger seg på\n er veldig elegant!</language></row>
 	<row id="msg_0275_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} has such beautiful steps!\nIs it predicting its opponent’s moves?</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} har så vakre trinn!\nForutser den motstanderens’trekk?</language></row>
 	<row id="msg_0275_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s not the slightest hint of\nhesitation in {STRVAR_1 1, 1, 0}’s moves!</language>
-	</row>
+	<language name="Norwegian">Det’er ikke den minste antydning til\nhissighet i {STRVAR_1 1, 1, 0}’s trekk!</language></row>
 	<row id="msg_0275_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is composed and\ncontinues to try its hardest!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} er satt sammen og\nfortsetter å gjøre sitt beste!</language></row>
 	<row id="msg_0275_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Met {STRVAR_1 0, 5, 0}!\n{STRVAR_1 1, 1, 0} is so startled, all it can\ndo is stare blankly at {STRVAR_1 0, 5, 0}.</language>
-	</row>
+	<language name="Norwegian">Met {STRVAR_1 0, 5, 0}!\n{STRVAR_1 1, 1, 0} er så forskrekket at det eneste den kan\n gjøre, er å stirre tomt på {STRVAR_1 0, 5, 0}.</language></row>
 	<row id="msg_0275_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Met {STRVAR_1 0, 5, 0}!\n{STRVAR_1 0, 5, 0} is staring blankly at\n{STRVAR_1 3, 0, 0}.</language>
-	</row>
+	<language name="Norwegian">Met {STRVAR_1 0, 5, 0}!\n{STRVAR_1 0, 5, 0} stirrer tomt på\n{STRVAR_1 3, 0, 0}.</language></row>
 	<row id="msg_0275_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Found {STRVAR_1 0, 5, 0} with the\nPoké Radar! Unfortunately, it ran away.</language>
-	</row>
+	<language name="Norwegian">Fant {STRVAR_1 0, 5, 0} med\nPoké-radaren! Dessverre løp den sin vei.</language></row>
 	<row id="msg_0275_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Found {STRVAR_1 0, 5, 0} with the\nPoké Radar! What a tough opponent!\nUnfortunately, {STRVAR_1 1, 1, 0} lost...</language>
-	</row>
+	<language name="Norwegian">Fant {STRVAR_1 0, 5, 0} med\nPoké-radaren! For en tøff motstander!\nUheldigvis tapte {STRVAR_1 1, 1, 0} ...</language></row>
 	<row id="msg_0275_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} found the\n{STRVAR_1 8, 4, 0}!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} fant\n{STRVAR_1 8, 4, 0}!</language></row>
 	<row id="msg_0275_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Seems to have wanted to give\n{STRVAR_1 3, 0, 0} a present...</language>
-	</row>
+	<language name="Norwegian">Ser ut til å ha ønsket å gi\n{STRVAR_1 3, 0, 0} en gave...</language></row>
 	<row id="msg_0275_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems to want\n{STRVAR_1 3, 0, 0} to use the item.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} ser ut til å ønske\n{STRVAR_1 3, 0, 0} for å bruke elementet.</language></row>
 	<row id="msg_0275_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} proudly handed over\nthe item.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} stolt overlevert\ngjenstanden.</language></row>
 	<row id="msg_0275_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It threw it at you briskly!\n...Is it giving it to you?</language>
-	</row>
+	<language name="Norwegian">Den kastet den raskt mot deg... Gir den den til deg?</language></row>
 	<row id="msg_0275_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems so very happy!\nIt’s even skipping along!\nIt seems so happy to be with\n{STRVAR_1 3, 0, 0}!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} virker så veldig glad!\nDen’hopper til og med av gårde!\nDen virker så glad for å være sammen med\n{STRVAR_1 3, 0, 0}!</language></row>
 	<row id="msg_0275_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems so very happy!\nIt’s even skipping along!\nIt’s doing everything it can to get\n{STRVAR_1 3, 0, 0}’s attention!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} virker så veldig glad!\nDen’hopper til og med av gårde!\nDen’gjør alt den kan for å få\n{STRVAR_1 3, 0, 0}’s oppmerksomhet!</language></row>
 	<row id="msg_0275_00053" index="53">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
-	</row>
+		<language name="English" />
+		<language name="日本語" />
+	<language name="Norwegian" /></row>
 	<row id="msg_0275_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is very happy!\nIt’s running circles around and around\nand around {STRVAR_1 3, 0, 0}!\nWon’t it get tired?</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} er veldig glad!\nDen’løper i sirkler rundt og rundt\nog rundt {STRVAR_1 3, 0, 0}!\nVil’den ikke bli sliten?</language></row>
 	<row id="msg_0275_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is so very happy!\nIt ran way ahead of {STRVAR_1 3, 0, 0} and\nsuddenly noticed the distance and\nthen came running back confused!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} er så glad! \nDen løp langt foran {STRVAR_1 3, 0, 0} og\nbemerket plutselig avstanden og\nkom så løpende tilbake forvirret!</language></row>
 	<row id="msg_0275_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is very happy!\nIt’s running around in circles in a\ndaze! It doesn’t seem to hear you...</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} er veldig glad!\nDen’løper rundt i sirkler i en\ndøs! Den ser ikke ut til å høre deg...</language></row>
 	<row id="msg_0275_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is walking silently next\nto {STRVAR_1 3, 0, 0}. What could it possibly\nbe thinking about?</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} går lydløst ved siden av {STRVAR_1 3, 0, 0}. Hva kan den muligens\ntenke på?</language></row>
 	<row id="msg_0275_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} looked this way.\nIt’s looking all around as it’s walking.\nDid it find something?</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} så denne veien.\nDen’ser seg rundt mens den’går.\nHar den funnet noe?</language></row>
 	<row id="msg_0275_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} looked this way.\nWell, so it seemed, but its eyes\nturned in another direction...!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} så denne veien.\nDet virket slik, men øynene\nvendte seg i en annen retning...!</language></row>
 	<row id="msg_0275_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems a little bored.\nIt seems to be expecting something.\nIt’s facing this way and staring...</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} virker litt lei.\nDet ser ut som om den venter på noe.\nDen’er vendt denne veien og stirrer...</language></row>
 	<row id="msg_0275_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems a little bored.\nIt’s looking at you and staring.\nThere’s a sense of eagerness to play.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} virker litt lei.\nDen’ser på deg og stirrer.\nDet’er en følelse av iver etter å leke.</language></row>
 	<row id="msg_0275_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems a little bored...\nMaybe it’s angry...?</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} virker litt lei...\nMåskje den’er sint...?</language></row>
 	<row id="msg_0275_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems to want to go\nhome... Maybe it’s played so much it\nwants to go home and rest...</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} ser ut til å ville gå\nhjem... Kanskje den’har spilt så mye at den\nvil hjem og hvile...</language></row>
 	<row id="msg_0275_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems to want to go\nhome... Maybe it’s played so much it\nwants to go home and rest...</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} ser ut til å ville gå\nhjem... Kanskje den’har spilt så mye at den\nvil hjem og hvile...</language></row>
 	<row id="msg_0275_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems to want to go\nhome... Maybe it’s played so much it\nwants to go home and rest...</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} ser ut til å ville gå\nhjem... Kanskje den’har spilt så mye at den\nvil hjem og hvile...</language></row>
 	<row id="msg_0275_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Before you knew it, {STRVAR_1 1, 1, 0}\njoined you! It seems to want to walk\nwith you.</language>
-	</row>
+	<language name="Norwegian">Før du visste ordet av det, ble {STRVAR_1 1, 1, 0}\nmed deg! Det ser ut til å ville gå\nmed deg.</language></row>
 	<row id="msg_0275_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} went home already.\nIt’s too tired...</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} har allerede gått hjem.\nDet’er for trøtt...</language></row>
 	<row id="msg_0275_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 9, 0}/{STRVAR_1 51, 10, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 51, 9, 0}/{STRVAR_1 51, 10, 0}</language></row>
 	<row id="msg_0275_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} set out on a Stroll\nthrough {STRVAR_34 19, 8, 0}.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} legger ut på en spasertur\ngjennom {STRVAR_34 19, 8, 0}.</language></row>
 	<row id="msg_0275_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Set out on {STRVAR_34 19, 8, 0}!</language>
-	</row>
+	<language name="Norwegian">Sett ut på {STRVAR_34 19, 8, 0}!</language></row>
 	<row id="msg_0275_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Returned at {STRVAR_1 33, 6, 0} AM.</language>
-	</row>
+	<language name="Norwegian">Returneres ved {STRVAR_1 33, 6, 0} AM.</language></row>
 	<row id="msg_0275_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems so very content!\nThis is a day it will never ever forget!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} virker så veldig fornøyd!\nDette er en dag den aldri noensinne vil glemme!</language></row>
 	<row id="msg_0275_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} played a lot and is feeling\nvery content!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} har spilt mye og føler seg\nsvært fornøyd!</language></row>
 	<row id="msg_0275_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems very happy!\nIt’s written all over its face!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} virker veldig fornøyd!\nDet’står skrevet i hele ansiktet!</language></row>
 	<row id="msg_0275_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seemed to really enjoy\nplaying along with you!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} så ut til å like\n å spille sammen med deg!</language></row>
 	<row id="msg_0275_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems very happy.\nIt’s grown to enjoy these Strolls.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} virker veldig glad.\nDet’har vokst til å nyte disse spaserturene.</language></row>
 	<row id="msg_0275_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is pulling at your clothes.\nIt seems to want to play more.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} trekker i klærne dine.\nDet ser ut til at den vil leke mer.</language></row>
 	<row id="msg_0275_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is sulking for\nsome reason...</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} surmuler av\nen eller annen grunn...</language></row>
 	<row id="msg_0275_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Walked {STRVAR_1 54, 7, 0} steps!\n{STRVAR_1 1, 1, 0} is very happy to have\nwalked so much with {STRVAR_1 3, 0, 0}!\nIt’s got a pleased look on its face.</language>
-	</row>
+	<language name="Norwegian">Gikk {STRVAR_1 54, 7, 0} skritt!\n{STRVAR_1 1, 1, 0} er veldig glad for å ha\ngått så mye med {STRVAR_1 3, 0, 0}!\nDen’har fått et fornøyd uttrykk i ansiktet.</language></row>
 	<row id="msg_0275_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Walked {STRVAR_1 54, 7, 0} steps!\n{STRVAR_1 1, 1, 0} is so very happy, it’s\nfrolicking around! It seems like it will\njump on your back.</language>
-	</row>
+	<language name="Norwegian">Gikk {STRVAR_1 54, 7, 0} skritt!\n{STRVAR_1 1, 1, 0} er så veldig glad, den’s\nflirter rundt! Det virker som om den vil\nhoppe opp på ryggen din.</language></row>
 	<row id="msg_0275_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Walked {STRVAR_1 54, 7, 0} steps.\n{STRVAR_1 1, 1, 0} looks lively and\nenergetic! It’s sticking right nearby.</language>
-	</row>
+	<language name="Norwegian">Gikk {STRVAR_1 54, 7, 0} skritt.\n{STRVAR_1 1, 1, 0} ser livlig og\nenergisk ut! Den’stikker rett i nærheten.</language></row>
 	<row id="msg_0275_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Walked {STRVAR_1 54, 7, 0} steps.\n{STRVAR_1 1, 1, 0} is leisurely strolling\nalong behind you.</language>
-	</row>
+	<language name="Norwegian">Gikk {STRVAR_1 54, 7, 0} skritt.\n{STRVAR_1 1, 1, 0} spaserer rolig\n bak deg.</language></row>
 	<row id="msg_0275_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} fell soundly asleep.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} sovnet godt.</language></row>
 	<row id="msg_0275_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} seems to be enjoying an\nafternoon nap.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} ser ut til å nyte en\nettermiddagslur.</language></row>
 	<row id="msg_0275_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 1, 0} is taking a bit of a nap.\nIt must be a little tired.</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 1, 1, 0} tar seg en liten lur.\nDen må være litt trøtt.</language></row>
 	<row id="msg_0275_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 9, 0}/{STRVAR_1 51, 10, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 51, 9, 0}/{STRVAR_1 51, 10, 0}</language></row>
 	<row id="msg_0275_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 33, 6, 0} AM</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 33, 6, 0} AM</language></row>
 	<row id="msg_0275_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 33, 6, 0} PM</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 33, 6, 0} PM</language></row>
 	<row id="msg_0275_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Quit</language>
-	</row>
+	<language name="Norwegian">Slutt</language></row>
 	<row id="msg_0275_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Returned at {STRVAR_1 33, 6, 0} PM.</language>
-	</row>
+	<language name="Norwegian">Returneres ved {STRVAR_1 33, 6, 0} PM.</language></row>
 	<row id="msg_0275_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 11, 0}:{STRVAR_1 0, 12, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 11, 0}:{STRVAR_1 0, 12, 0}</language></row>
 </body>

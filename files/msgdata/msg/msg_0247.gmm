@@ -1,346 +1,346 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0247_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to Mystery Gift!</language>
-	</row>
+	<language name="Norwegian">Velkommen til Mystery Gift!</language></row>
 	<row id="msg_0247_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please choose how you want to\nreceive your gift.</language>
-	</row>
+	<language name="Norwegian">Vennligst velg hvordan du ønsker å motta gaven din.</language></row>
 	<row id="msg_0247_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DS Wireless Communications will\nbe launched.</language>
-	</row>
+	<language name="Norwegian">DS Wireless Communications vil\nbli lansert.</language></row>
 	<row id="msg_0247_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Searching for a gift.\nPlease wait...</language>
-	</row>
+	<language name="Norwegian">Leter etter en gave \nVent litt...</language></row>
 	<row id="msg_0247_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Receive this gift?</language>
-	</row>
+	<language name="Norwegian">Mottar du denne gaven?</language></row>
 	<row id="msg_0247_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Search for a different gift?</language>
-	</row>
+	<language name="Norwegian">Leter du etter en annen gave?</language></row>
 	<row id="msg_0247_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your request has been sent.\nPlease wait a moment...</language>
-	</row>
+	<language name="Norwegian">Forespørselen din er sendt.\nVent et øyeblikk...</language></row>
 	<row id="msg_0247_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Receiving your gift.\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Mottar gaven din.\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0247_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The gift has been received!\rPlease pick up your gift from the\ndeliveryman in any Poké Mart.</language>
-	</row>
+	<language name="Norwegian">Gaven er mottatt!\rHent gaven din hos\nleverandøren i et hvilket som helst Poké Mart.</language></row>
 	<row id="msg_0247_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This gift is being shared by\nanother person.\rYou may accept this gift, but you\nwill not be able to distribute it\fto your friends.\rWill you accept this gift?</language>
-	</row>
+	<language name="Norwegian">Denne gaven deles av\nen annen person.\rDu kan ta imot denne gaven, men du\nvil ikke kunne dele den\fmed dine venner.\rVil du ta imot denne gaven?</language></row>
 	<row id="msg_0247_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokémon Ranger\nMANAPHY Egg Transfer</language>
-	</row>
+	<language name="Norwegian">Pokémon Ranger\nMANAPHY Egg Transfer</language></row>
 	<row id="msg_0247_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">RECEIVE GIFT</language>
-	</row>
+	<language name="Norwegian">MOTTA GAVE</language></row>
 	<row id="msg_0247_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CHECK CARD</language>
-	</row>
+	<language name="Norwegian">SJEKKKORT</language></row>
 	<row id="msg_0247_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EXIT</language>
-	</row>
+	<language name="Norwegian">EXIT</language></row>
 	<row id="msg_0247_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GET FROM A FRIEND</language>
-	</row>
+	<language name="Norwegian">FÅ FRA EN VENN</language></row>
 	<row id="msg_0247_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GET VIA NINTENDO WFC</language>
-	</row>
+	<language name="Norwegian">FÅ VIA NINTENDO WFC</language></row>
 	<row id="msg_0247_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
-	</row>
+	<language name="Norwegian">AVBRYT</language></row>
 	<row id="msg_0247_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">YES</language>
-	</row>
+	<language name="Norwegian">JA</language></row>
 	<row id="msg_0247_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO</language>
-	</row>
+	<language name="Norwegian">NEI</language></row>
 	<row id="msg_0247_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GET VIA WIRELESS</language>
-	</row>
+	<language name="Norwegian">FÅ VIA TRÅDLØS</language></row>
 	<row id="msg_0247_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VIEW LOCK CAPSULE CARD</language>
-	</row>
+	<language name="Norwegian">SE LÅSKAPSELKORT</language></row>
 	<row id="msg_0247_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Our deliveryman is overloaded with\ngifts for you!\rPlease see him at any Poké Mart and\npick up some of your gifts.</language>
-	</row>
+	<language name="Norwegian">Vår budbringer er overlesset med\ngaver til deg! \rTreff ham på et hvilket som helst Poké Mart og\nhent noen av gavene dine.</language></row>
 	<row id="msg_0247_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ve already received this gift.\nYou may not get another one.</language>
-	</row>
+	<language name="Norwegian">Du’har allerede fått denne gaven, og du får kanskje ikke en ny.</language></row>
 	<row id="msg_0247_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There were no gifts to be found.</language>
-	</row>
+	<language name="Norwegian">Det var ingen gaver å finne.</language></row>
 	<row id="msg_0247_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your request was turned down.</language>
-	</row>
+	<language name="Norwegian">Forespørselen din ble avslått.</language></row>
 	<row id="msg_0247_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You are out of room for\nWonder Cards.\rYou may not accept another gift.</language>
-	</row>
+	<language name="Norwegian">Du har ikke plass til flere\nWonder Cards.\rDu kan ikke ta imot flere gaver.</language></row>
 	<row id="msg_0247_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There was a problem with\nreceiving the gift.\rPress the A Button to return to\nthe title screen.</language>
-	</row>
+	<language name="Norwegian">Det oppstod et problem med å\nta imot gaven.\rTrykk på A-knappen for å gå tilbake til\ntittelskjermen.</language></row>
 	<row id="msg_0247_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A gift has been found, but it cannot\nbe received using this version.\rPress the A Button to return to\nthe menu.</language>
-	</row>
+	<language name="Norwegian">En gave er funnet, men den kan ikke\nmottas med denne versjonen.\rTrykk på A-knappen for å gå tilbake til\nmenyen.</language></row>
 	<row id="msg_0247_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The person sharing has\nbeen disconnected...</language>
-	</row>
+	<language name="Norwegian">Personen som deler har\nblitt frakoblet...</language></row>
 	<row id="msg_0247_00030" index="30">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Press the A Button.</language>
-	</row>
+	<language name="Norwegian">Trykk på A-knappen.</language></row>
 	<row id="msg_0247_00032" index="32">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00033" index="33">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00034" index="34">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please touch Pokémon Ranger’s\ngame screen.</language>
-	</row>
+	<language name="Norwegian">Trykk på Pokémon Ranger’s\nspillskjermen.</language></row>
 	<row id="msg_0247_00036" index="36">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wonder Card</language>
-	</row>
+	<language name="Norwegian">Wonder Card</language></row>
 	<row id="msg_0247_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please pick up your gift from the\ndeliveryman in any Poké Mart.</language>
-	</row>
+	<language name="Norwegian">Vennligst hent gaven din hos\nleverandøren på et hvilket som helst Poké Mart.</language></row>
 	<row id="msg_0247_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You have already received\nthis gift before.</language>
-	</row>
+	<language name="Norwegian">Du har allerede mottatt\ndenne gaven før.</language></row>
 	<row id="msg_0247_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This card does not have\na gift attached.</language>
-	</row>
+	<language name="Norwegian">Dette kortet har ikke\nen gave vedlagt.</language></row>
 	<row id="msg_0247_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Date received</language>
-	</row>
+	<language name="Norwegian">Dato mottatt</language></row>
 	<row id="msg_0247_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This gift can be distributed {STRVAR_1 52, 0, 0} time(s).</language>
-	</row>
+	<language name="Norwegian">Denne gaven kan deles ut {STRVAR_1 52, 0, 0, 0} gang(er).</language></row>
 	<row id="msg_0247_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">INFO</language>
-	</row>
+	<language name="Norwegian">INFO</language></row>
 	<row id="msg_0247_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SHARE</language>
-	</row>
+	<language name="Norwegian">DEL</language></row>
 	<row id="msg_0247_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">TRASH</language>
-	</row>
+	<language name="Norwegian">TRASH</language></row>
 	<row id="msg_0247_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EXIT</language>
-	</row>
+	<language name="Norwegian">EXIT</language></row>
 	<row id="msg_0247_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to share this gift?</language>
-	</row>
+	<language name="Norwegian">Har du lyst til å dele denne gaven?</language></row>
 	<row id="msg_0247_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">YES</language>
-	</row>
+	<language name="Norwegian">JA</language></row>
 	<row id="msg_0247_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO</language>
-	</row>
+	<language name="Norwegian">NEI</language></row>
 	<row id="msg_0247_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}</language></row>
 	<row id="msg_0247_00051" index="51">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This gift can be shared with as\nmany friends as you like.</language>
-	</row>
+	<language name="Norwegian">Denne gaven kan deles med så\nmange venner som du vil.</language></row>
 	<row id="msg_0247_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pal Distribution Registration</language>
-	</row>
+	<language name="Norwegian">Registrering av Pal Distribution</language></row>
 	<row id="msg_0247_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}</language></row>
 	<row id="msg_0247_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ID No.{STRVAR_1 54, 0, 0}</language>
-	</row>
+	<language name="Norwegian">ID No.{STRVAR_1 54, 0, 0, 0}</language></row>
 	<row id="msg_0247_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Current\nentries</language>
-	</row>
+	<language name="Norwegian">Gjeldende\noppføringer</language></row>
 	<row id="msg_0247_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 1}{STRVAR_1 50, 0, 0}{COLOR 0}/4</language>
-	</row>
+	<language name="Norwegian">{FARGE 1}{STRVAR_1 50, 0, 0}{FARGE 0}/4</language></row>
 	<row id="msg_0247_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SEND</language>
-	</row>
+	<language name="Norwegian">SEND</language></row>
 	<row id="msg_0247_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
-	</row>
+	<language name="Norwegian">AVBRYT</language></row>
 	<row id="msg_0247_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Gift distribution under way...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Gaveutdeling pågår...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0247_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your gift distribution\nwas successful.</language>
-	</row>
+	<language name="Norwegian">Gaveutdelingen din\nvar vellykket.</language></row>
 	<row id="msg_0247_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Throw this card away?</language>
-	</row>
+	<language name="Norwegian">Kaste dette kortet?</language></row>
 	<row id="msg_0247_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You haven’t received your gift yet.\nDo you want to discard this card?</language>
-	</row>
+	<language name="Norwegian">Du har’ikke fått gaven din ennå.\nVil du kaste dette kortet?</language></row>
 	<row id="msg_0247_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Discarding...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Kasser...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0247_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">YES</language>
-	</row>
+	<language name="Norwegian">JA</language></row>
 	<row id="msg_0247_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO</language>
-	</row>
+	<language name="Norwegian">NEI</language></row>
 	<row id="msg_0247_00067" index="67">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 3}{STRVAR_1 3, 0, 0}{COLOR 2} {COLOR 0}ID No.{STRVAR_1 54, 1, 0}</language>
-	</row>
+	<language name="Norwegian">{COLOR 3}{STRVAR_1 3, 0, 0}{COLOR 2} {COLOR 0}ID No.{STRVAR_1 54, 1, 0}</language></row>
 	<row id="msg_0247_00069" index="69">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Application No.:</language>
-	</row>
+	<language name="Norwegian">Søknadsnr:</language></row>
 	<row id="msg_0247_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 53, 0, 0}-{STRVAR_1 53, 1, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 53, 0, 0}-{STRVAR_1 53, 1, 0}</language></row>
 	<row id="msg_0247_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Receiving a Recruitment Message\nfrom a Pokémon Ranger.</language>
-	</row>
+	<language name="Norwegian">Mottar en rekrutteringsmelding\nfra en Pokémon Ranger.</language></row>
 	<row id="msg_0247_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Awaiting transfer from Pokémon\nRanger.</language>
-	</row>
+	<language name="Norwegian">Venter på overføring fra Pokémon\nRanger.</language></row>
 	<row id="msg_0247_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Receiving the MANAPHY Egg...\nDon’t turn off the power.</language>
-	</row>
+	<language name="Norwegian">Mottar MANAPHY Egg...\nIkke’slå av strømmen.</language></row>
 	<row id="msg_0247_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The transfer has been completed.\nA Button: title screen.</language>
-	</row>
+	<language name="Norwegian">Overføringen er fullført.\nA Knapp: tittelskjerm.</language></row>
 	<row id="msg_0247_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The connection with Pokémon Ranger\nhas been lost... Press the A Button.</language>
-	</row>
+	<language name="Norwegian">Forbindelsen med Pokémon Ranger\nhar blitt brutt... Trykk på A-knappen.</language></row>
 	<row id="msg_0247_00077" index="77">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00078" index="78">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0247_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DS Wireless Communications\nwill be launched.</language>
-	</row>
+	<language name="Norwegian">DS Wireless Communications\nvil bli lansert.</language></row>
 	<row id="msg_0247_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Connect to Nintendo Wi-Fi Connection?</language>
-	</row>
+	<language name="Norwegian">Koble til Nintendo Wi-Fi-tilkobling?</language></row>
 	<row id="msg_0247_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Lock Capsule is held in the\nstrictest safekeeping.</language>
-	</row>
+	<language name="Norwegian">Låsekapselen oppbevares i\nstrikteste forvaring.</language></row>
 	<row id="msg_0247_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Lock Capsule was delivered safely!</language>
-	</row>
+	<language name="Norwegian">Låskapselen ble levert i god behold!</language></row>
 </body>

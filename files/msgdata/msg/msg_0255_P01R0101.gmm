@@ -1,67 +1,67 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0255_P01R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to Fast Ship S.S. Aqua.\r...Except that the engine-maintenance\nteam is taking some time off, and we\fdon’t know when we can depart...</language>
-	</row>
+	<language name="Norwegian">Velkommen til Fast Ship S.S. Aqua.\r...Bortsett fra at motorvedlikeholdsteamet\ntar litt fri, og vi\fvet’ikke’når vi kan reise...</language></row>
 	<row id="msg_0255_P01R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to Fast Ship S.S. Aqua.\nMay I see your S.S. Ticket?\r</language>
-	</row>
+	<language name="Norwegian">Velkommen til Fast Ship S.S. Aqua.\nKan jeg få se din S.S.-billett?\r</language></row>
 	<row id="msg_0255_P01R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} tried to show the\nS.S. Ticket...\r...But no Ticket here!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} prøvde å vise\nS.S. Ticket...\r...Men ingen billett her!\r</language></row>
 	<row id="msg_0255_P01R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m sorry...\rAnother person without a Ticket\nwouldn’t make much of a difference,\fI think.\rBut a rule is a rule.\nSorry, kiddo.</language>
-	</row>
+	<language name="Norwegian">Jeg beklager...’en annen person uten billett\nvil ikke gjøre’stor forskjell,\ftror jeg.\rMen en regel er en regel.\nUnskyld, gutten min.</language></row>
 	<row id="msg_0255_P01R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0} flashed the S.S. Ticket.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0} blinket S.S.-billetten.\r.</language></row>
 	<row id="msg_0255_P01R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK, you have a Ticket!\rWe’re departing soon.\nGet on board quick!\r</language>
-	</row>
+	<language name="Norwegian">OK, du har en billett! \rVi’avgår snart.\nSkynd deg om bord! \r</language></row>
 	<row id="msg_0255_P01R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What?\nYou already showed me the Ticket.</language>
-	</row>
+	<language name="Norwegian">Hva? Du har allerede vist meg billetten.</language></row>
 	<row id="msg_0255_P01R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Welcome to the S.S. Aqua!\rYour Ticket is...right there.\nPlease come through.\r</language>
-	</row>
+	<language name="Norwegian">Velkommen til S.S. Aqua! \rBilletten din er ... der. \nVær så snill å komme gjennom. \r</language></row>
 	<row id="msg_0255_P01R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Operating a ship every day can wear\nyou out!\fIt’s not running today.\rIt leaves for Vermilion City on Mondays\nand Fridays!</language>
-	</row>
+	<language name="Norwegian">Å drive et skip hver dag kan slite\ndeg ut! \fDet’går ikke i dag. \rDet drar til Vermilion City på mandager\nog fredager!</language></row>
 	<row id="msg_0255_P01R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Professor Oak: Hello!\nYou are starting to have the\fattitude of a Champion, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
-	</row>
+	<language name="Norwegian">Professor Oak: Hallo!\nDu begynner å få en mesters\fattitude, {STRVAR_1 3, 0, 0}!\rDet’er på tide at Pokédexen din stemmer overens med\nden du er.\fLa meg se Pokédexen din et øyeblikk.\rJeg’oppgraderer Pokédexen din med\nden nasjonale modusen.\r</language></row>
 	<row id="msg_0255_P01R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Professor Oak: Hello!\nYou are starting to have the...\fattitude of a Champion, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
-	</row>
+	<language name="Norwegian">Professor Oak: Hallo!\nDu begynner å få ...\fattityden til en mester, {STRVAR_1 3, 0, 0}!\rDet’er på tide at Pokédexen din stemmer overens med\nden du er.\fLa meg se Pokédexen din et øyeblikk.\rJeg’oppgraderer Pokédexen din med\nden nasjonale modusen.\r</language></row>
 	<row id="msg_0255_P01R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}’s Pokédex was upgraded\nwith the National Mode!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}’s Pokédex ble oppgradert\nmed National Mode!</language></row>
 	<row id="msg_0255_P01R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Professor Oak: It won’t be easy to\ncomplete the National Pokédex...\rHowever, I’m sure you will make an\nhonest attempt on our behalf!\r</language>
-	</row>
+	<language name="Norwegian">Professor Oak: Det blir’ikke lett å\nfullføre den nasjonale Pokédexen...\rmen jeg’er sikker på at du vil gjøre et\nærlig forsøk på våre vegne!\r</language></row>
 	<row id="msg_0255_P01R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, time flies!\rI have a radio show to record\nat Goldenrod Radio Tower.\rYou must be heading for Kanto.\rIf you come near Pallet Town, do drop\nby my Pokémon Research Lab!\r</language>
-	</row>
+	<language name="Norwegian">Å, tiden flyr! \rJeg har et radioprogram å spille inn\ni Goldenrod Radio Tower.\rDu må være på vei til Kanto.\rHvis du kommer i nærheten av Pallet Town, kan du stikke innom\nmit Pokémon Research Lab! \r</language></row>
 	<row id="msg_0255_P01R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The S.S. Aqua uses jets to travel.\nIt skims over water!</language>
-	</row>
+	<language name="Norwegian">S.S. Aqua bruker jetstråler for å bevege seg. \nDen sklir over vannet!</language></row>
 	<row id="msg_0255_P01R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ve been to Kanto already?\rI hear many rare Pokémon live\nover there.\rSounds exciting.\nI’d love to visit!</language>
-	</row>
+	<language name="Norwegian">Har du’vært i Kanto allerede? \rJeg har hørt at mange sjeldne Pokémon lever\nder.\rLåter spennende.\nJeg’vil gjerne komme på besøk!</language></row>
 </body>

@@ -1,107 +1,107 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0200_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rocky</language>
-	</row>
+	<language name="Norwegian">Rocky</language></row>
 	<row id="msg_0200_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Muscle</language>
-	</row>
+	<language name="Norwegian">Muskel</language></row>
 	<row id="msg_0200_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Billy</language>
-	</row>
+	<language name="Norwegian">Billy</language></row>
 	<row id="msg_0200_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Doris</language>
-	</row>
+	<language name="Norwegian">Doris</language></row>
 	<row id="msg_0200_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sprints</language>
-	</row>
+	<language name="Norwegian">Sprint</language></row>
 	<row id="msg_0200_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rusty</language>
-	</row>
+	<language name="Norwegian">Rusten</language></row>
 	<row id="msg_0200_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Shuckie</language>
-	</row>
+	<language name="Norwegian">Shuckie</language></row>
 	<row id="msg_0200_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kenya</language>
-	</row>
+	<language name="Norwegian">Kenya</language></row>
 	<row id="msg_0200_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Maggie</language>
-	</row>
+	<language name="Norwegian">Maggie</language></row>
 	<row id="msg_0200_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Paul</language>
-	</row>
+	<language name="Norwegian">Paul</language></row>
 	<row id="msg_0200_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Volty</language>
-	</row>
+	<language name="Norwegian">Volty</language></row>
 	<row id="msg_0200_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hornlette</language>
-	</row>
+	<language name="Norwegian">Hornlette</language></row>
 	<row id="msg_0200_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Iron</language>
-	</row>
+	<language name="Norwegian">Jern</language></row>
 	<row id="msg_0200_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rudy</language>
-	</row>
+	<language name="Norwegian">Rudy</language></row>
 	<row id="msg_0200_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jose</language>
-	</row>
+	<language name="Norwegian">Jose</language></row>
 	<row id="msg_0200_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Richard</language>
-	</row>
+	<language name="Norwegian">Richard</language></row>
 	<row id="msg_0200_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ayana</language>
-	</row>
+	<language name="Norwegian">Ayana</language></row>
 	<row id="msg_0200_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Stuart</language>
-	</row>
+	<language name="Norwegian">Stuart</language></row>
 	<row id="msg_0200_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jasmine</language>
-	</row>
+	<language name="Norwegian">Sjasmin</language></row>
 	<row id="msg_0200_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kirk</language>
-	</row>
+	<language name="Norwegian">Kirk</language></row>
 	<row id="msg_0200_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Webster</language>
-	</row>
+	<language name="Norwegian">Webster</language></row>
 	<row id="msg_0200_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lorenzo</language>
-	</row>
+	<language name="Norwegian">Lorenzo</language></row>
 	<row id="msg_0200_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mondo</language>
-	</row>
+	<language name="Norwegian">Mondo</language></row>
 	<row id="msg_0200_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Surge</language>
-	</row>
+	<language name="Norwegian">Overspenning</language></row>
 	<row id="msg_0200_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Brock</language>
-	</row>
+	<language name="Norwegian">Brock</language></row>
 	<row id="msg_0200_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Steven</language>
-	</row>
+	<language name="Norwegian">Steven</language></row>
 </body>

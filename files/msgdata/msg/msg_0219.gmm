@@ -8,7 +8,7 @@
 	<row id="msg_0219_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\n...\rYaaaaaaawn...\n...\rHuh? It’s already become so\nbright outside!\r</language>
-	<language name="Norwegian">...\n...\rJaaaaaaawn...\n...\rHva? Det er allerede blitt så\n lyst ute!\r...\r.</language></row>
+	<language name="Norwegian">...\n...\rYaaaaaaawn...\n...\rHva? Det’er allerede blitt så\nlyst ute!\r</language></row>
 	<row id="msg_0219_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\n...\rYaaaaawn...\n...\rHuh? What?! Is it already that late?!\nOh no! I overslept!\r</language>
@@ -16,7 +16,7 @@
 	<row id="msg_0219_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\n...\rHmm. Looks like the sun is descending\nin the sky...\r...So this would be what is called\n“twilight,” wouldn’t it?\r</language>
-	<language name="Norwegian">...\n...\rHmm. Det ser ut som om solen er på vei ned\npå himmelen...\r...\r...Så dette er det som kalles\n"skumring", ikke sant?\r...\r...</language></row>
+	<language name="Norwegian">...\n...\rHmm. Det ser ut som om solen er på vei ned\npå himmelen...\r...Så dette er det som kalles\n“skumring,” ikke sant’?\r...\r...\r...\r...</language></row>
 	<row id="msg_0219_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">...\n...\rHmm... Interesting...\n...\rHuh? Oh! Excuse me, sorry!\nI was just reading this book here.\r</language>
@@ -28,11 +28,11 @@
 	<row id="msg_0219_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sorry to keep you waiting!\rWelcome to the world of Pokémon!\rMy name is Professor Oak.\rBut everyone calls me the\nPokémon Professor.\rBefore we go any further, I’d like to\ntell you a few things you should\fknow about this world!\r</language>
-	<language name="Norwegian">Beklager at du måtte vente!\rVelkommen til Pokémon-verdenen!\rMitt navn er professor Oak.\rMen alle kaller meg\nPokémon-professoren.\rFør vi går videre, vil jeg gjerne\nfortelle deg et par ting du bør\fvite om denne verdenen!\rFør vi går videre, vil jeg gjerne\nfortelle deg et par ting du bør\fvite om denne verdenen!</language></row>
+	<language name="Norwegian">Beklager at du måtte vente!\rVelkommen til Pokémon-verdenen!\rMitt navn er professor Oak.\rMen alle kaller meg\nPokémon-professoren.\rFør vi går videre, vil jeg gjerne’fortelle deg et par ting du bør\fvite om denne verdenen!\r</language></row>
 	<row id="msg_0219_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I will first tell you important\nthings about this game.\n\nPlease touch any topic you’d like\nto know more about on the\nlower screen.</language>
-	<language name="Norwegian">Jeg vil først fortelle deg viktige\nting om dette spillet.\n\nTrykk på et hvilket som helst emne du vil\n vite mer om på\nden\nnederste skjermen.</language></row>
+	<language name="Norwegian">Jeg vil først fortelle deg viktige\nting om dette spillet.\n\nTrykk på et emne du’ønsker\nå vite mer om på\nden\nnederste skjermen.</language></row>
 	<row id="msg_0219_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
@@ -41,7 +41,7 @@
 	<row id="msg_0219_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ll explain this game’s controls.\n\nYou can control this game by\ntouching the lower screen, also\ncalled the Touch Screen.\n\nPlease touch the panel in the\nbottom right of the Touch Screen.</language>
-	<language name="Norwegian">Jeg skal forklare spillets kontroller.\n\nDu kan styre dette spillet ved å\nberøre den nedre skjermen, også\nkalt berøringsskjermen.\n\nBerør panelet nederst til høyre på berøringsskjermen.</language></row>
+	<language name="Norwegian">Jeg’vil forklare dette spillets’kontroller.\n\nDu kan kontrollere dette spillet ved å\nberøre den nedre skjermen, også\nkalt berøringsskjermen.\n\nBerør panelet i\nnederst til høyre på berøringsskjermen.</language></row>
 	<row id="msg_0219_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">By touching the Touch Screen\nlike this, you can confirm\nselections and advance\nconversations.</language>
@@ -57,11 +57,11 @@
 	<row id="msg_0219_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Next, I’ll explain the button\noperations.\n\nYou can move the main character\naround on the screen using the\n+Control Pad.</language>
-	<language name="Norwegian">Nå skal jeg forklare hvordan knappene\nfungerer.\n\nDu kan flytte hovedpersonen\n rundt på skjermen ved hjelp av\n+Control Pad.</language></row>
+	<language name="Norwegian">Nå skal jeg’forklare hvordan knappene\nfungerer.\n\nDu kan flytte hovedpersonen\nrundt på skjermen ved hjelp av\n+Control Pad.</language></row>
 	<row id="msg_0219_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Next, I’ll explain about buttons.\n\nUse the +Control Pad to move\nthe main character.\n\nYou can also use the +Control\nPad to select entries.</language>
-	<language name="Norwegian">Nå skal jeg forklare om knapper.\n\nBruk +Control Pad til å flytte\nhovedpersonen.\n\nDu kan også bruke +Control\nPad til å velge oppføringer.</language></row>
+	<language name="Norwegian">Nå skal jeg’forklare litt om knapper.\n\nBruk +Control Pad til å flytte\nhovedpersonen.\n\nDu kan også bruke +Control\nPad til å velge oppføringer.</language></row>
 	<row id="msg_0219_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can operate the screens using\nbuttons instead of touching the\nTouch Screen.</language>
@@ -156,7 +156,7 @@
 	<row id="msg_0219_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Now, why don’t you tell me a little bit\nabout yourself?\r</language>
-	<language name="Norwegian">Fortell meg litt om deg selv...\n.</language></row>
+	<language name="Norwegian">Fortell meg litt om deg selv’.</language></row>
 	<row id="msg_0219_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Are you a boy?\nOr are you a girl?\fWon’t you please tell me? {YESNO 0}</language>
@@ -184,7 +184,7 @@
 	<row id="msg_0219_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}!\nAre you ready?\rYour very own tale of grand adventure\nis about to unfold.\rFun experiences, difficult experiences,\nthere’s so much waiting for you!\rDreams! Adventure!\nLet’s go to the world of Pokémon!\rI’ll see you later!\r</language>
-	<language name="Norwegian">{STRVAR_1 3, 0, 0}!\nEr du klar? \rDin helt egen eventyrfortelling\ner i ferd med å utfolde seg.\rGøyelige opplevelser, vanskelige opplevelser,\ndet er så mye som venter på deg!\rDrømmer! Eventyr!\nLa oss dra til Pokémon-verdenen!\rVi ses senere!\r</language></row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}!\nEr du klar? \rDin helt egen eventyrfortelling\ner i ferd med å utfolde seg.\rGøye opplevelser, vanskelige opplevelser,\ndet’er så mye som venter på deg!\rDrømmer! Eventyr!\nLa oss dra til Pokémon-verdenen!\rVi ses senere!\rLa oss dra til Pokémon-verdenen!\rVi ses senere!\r</language></row>
 	<row id="msg_0219_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CONTROL INFO</language>

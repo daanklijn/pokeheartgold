@@ -1,95 +1,95 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0291_single" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SINGLE</language>
-	</row>
+	<language name="Norwegian">SINGLE</language></row>
 	<row id="msg_0291_double" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DOUBLE</language>
-	</row>
+	<language name="Norwegian">DOBBELT</language></row>
 	<row id="msg_0291_mix_battle" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MIX BATTLE</language>
-	</row>
+	<language name="Norwegian">MIX BATTLE</language></row>
 	<row id="msg_0291_multi_battle" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MULTI BATTLE</language>
-	</row>
+	<language name="Norwegian">MULTI BATTLE</language></row>
 	<row id="msg_0291_level_50" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LEVEL 50</language>
-	</row>
+	<language name="Norwegian">NIVEAU 50</language></row>
 	<row id="msg_0291_level_100" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">LEVEL 100</language>
-	</row>
+	<language name="Norwegian">NIVEAU 100</language></row>
 	<row id="msg_0291_colosseum" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">COLOSSEUM</language>
-	</row>
+	<language name="Norwegian">COLOSSEUM</language></row>
 	<row id="msg_0291_pokemon" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">POKéMON</language>
-	</row>
+	<language name="Norwegian">POKéMON</language></row>
 	<row id="msg_0291_drawing" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DRAWING</language>
-	</row>
+	<language name="Norwegian">TEGNING</language></row>
 	<row id="msg_0291_record" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">RECORD</language>
-	</row>
+	<language name="Norwegian">REKORD</language></row>
 	<row id="msg_0291_gotcha" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GOTCHA</language>
-	</row>
+	<language name="Norwegian">GOTCHA</language></row>
 	<row id="msg_0291_chat" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CHAT</language>
-	</row>
+	<language name="Norwegian">CHAT</language></row>
 	<row id="msg_0291_friend_code" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FRIEND CODE</language>
-	</row>
+	<language name="Norwegian">VENNEKODE</language></row>
 	<row id="msg_0291_connection" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CONNECTION</language>
-	</row>
+	<language name="Norwegian">TILKOBLING</language></row>
 	<row id="msg_0291_voice_chat" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">VOICE CHAT</language>
-	</row>
+	<language name="Norwegian">STEMMEPRAT</language></row>
 	<row id="msg_0291_wi_fi" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">WI-FI</language>
-	</row>
+	<language name="Norwegian">WI-FI</language></row>
 	<row id="msg_0291_underground" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">UNDERGROUND</language>
-	</row>
+	<language name="Norwegian">UNDERGRUNNEN</language></row>
 	<row id="msg_0291_union" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">UNION</language>
-	</row>
+	<language name="Norwegian">UNION</language></row>
 	<row id="msg_0291_poffin" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">POFFIN</language>
-	</row>
+	<language name="Norwegian">POFFIN</language></row>
 	<row id="msg_0291_contest" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CONTEST</language>
-	</row>
+	<language name="Norwegian">KONKURRANSE</language></row>
 	<row id="msg_0291_battle_tower" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BATTLE TOWER</language>
-	</row>
+	<language name="Norwegian">KAMPTÅRNET</language></row>
 	<row id="msg_0291_gts" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GTS</language>
-	</row>
+	<language name="Norwegian">GTS</language></row>
 	<row id="msg_0291_secret_base" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SECRET BASE</language>
-	</row>
+	<language name="Norwegian">HEMMELIG BASE</language></row>
 </body>

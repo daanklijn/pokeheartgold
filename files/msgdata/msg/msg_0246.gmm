@@ -1,362 +1,362 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0246_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ding-ding! Time’s up!\nThe Bug-Catching Contest is over.\r</language>
-	</row>
+	<language name="Norwegian">Ding-ding! Tiden’er ute!\nInsektfangerkonkurransen er over.\r</language></row>
 	<row id="msg_0246_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ding-ding! You’ve run out of Poké\nBalls. The Bug-Catching Contest’s over.\r</language>
-	</row>
+	<language name="Norwegian">Ding-ding! Du’har gått tom for Poké\nballer. Insektfangstkonkurransen’er over.\r</language></row>
 	<row id="msg_0246_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0246_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You still have {STRVAR_1 51, 0, 0} minute(s) left.\nDo you want to finish now?{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du har fortsatt {STRVAR_1 51, 0, 0, 0} minutt(er) igjen.\nVil du avslutte nå?{YESNO 0}</language></row>
 	<row id="msg_0246_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Today’s Tuesday.\rThat means the Bug-Catching Contest is\non today.\rThe rules are simple.\rUsing one of your Pokémon, catch a\nBug-type Pokémon to be judged.\rWould you like to give it a try?{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">I dag’er det tirsdag.\rDet betyr at insektfangstkonkurransen er\ni dag.\rReglene er enkle.\rBruk en av dine Pokémon og fang en Pokémon av typen\ninsekt for å bli bedømt.\rVil du prøve?</language></row>
 	<row id="msg_0246_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Today’s Thursday.\rThat means the Bug-Catching Contest is\non today.\rThe rules are simple.\rUsing one of your Pokémon, catch a\nBug-type Pokémon to be judged.\rWould you like to give it a try?{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">I dag’er det torsdag.\rDet betyr at insektfangstkonkurransen er\ni dag.\rReglene er enkle.\rBruk en av dine Pokémon og fang en Pokémon av typen\ninsekt for å bli bedømt.\rVil du prøve?</language></row>
 	<row id="msg_0246_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Today’s Saturday.\rThat means the Bug-Catching Contest is\non today.\rThe rules are simple.\rUsing one of your Pokémon, catch a\nBug-type Pokémon to be judged.\rWould you like to give it a try?{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">I dag’er det lørdag.\rDet betyr at insektfangstkonkurransen er\ni dag.\rReglene er enkle.\rBruk en av dine Pokémon og fang en Pokémon av typen\ninsekt for å bli bedømt.\rVil du prøve?</language></row>
 	<row id="msg_0246_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Bug-Catching Contest is held on\nTuesday, Thursday, and Saturday.\rNot only do you earn a prize just for\nparticipating, you also get to keep the\flast bug Pokémon you caught.</language>
-	</row>
+	<language name="Norwegian">Insektfangstkonkurransen arrangeres på\ntirsdag, torsdag og lørdag.\rI tillegg til at du får en premie bare for å\ndelta, får du også beholde den\fsin siste insekt-Pokémon du fanget.</language></row>
 	<row id="msg_0246_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0246_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0246_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Uh-oh...\nYou have more than one Pokémon.\rYou’ll have to use {STRVAR_1 1, 0, 0}, the\nfirst Pokémon in your party.\rIs that OK with you? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Uh-oh...\nDu har mer enn én Pokémon.\rDu’må bruke {STRVAR_1 1, 0, 0, 0}, den\nførste Pokémonen i gruppen din.\rEr det greit for deg? {YESNO 0}</language></row>
 	<row id="msg_0246_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0246_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0246_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fine, we’ll hold your other Pokémon\nwhile you compete.\r{STRVAR_1 3, 0, 0}’s Pokémon were left with\nthe Contest Helper.\r</language>
-	</row>
+	<language name="Norwegian">Greit, vi’holder de andre Pokémon\n mens du konkurrerer.\r{STRVAR_1 3, 0, 0}’s Pokémon ble igjen med\nkonkurransehjelperen.\r.</language></row>
 	<row id="msg_0246_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Here are the Sport Balls for the\nContest.\r{STRVAR_1 3, 0, 0} received 20 Sport Balls.\r</language>
-	</row>
+	<language name="Norwegian">Her er sportsballene for\nkonkurransen.\r{STRVAR_1 3, 0, 0} mottok 20 sportsballer.\r.</language></row>
 	<row id="msg_0246_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The person who gets the strongest bug\nPokémon is the winner.\rYou have 20 minutes.\rIf you run out of Sport Balls, you’re\ndone.\rYou can keep the last Pokémon you\ncatch as your own.\rGo out and catch the strongest\nBug-type Pokémon you can find!\r</language>
-	</row>
+	<language name="Norwegian">Den personen som får den sterkeste insekt-Pokémonen er vinneren.\rDu har 20 minutter på deg.\rHvis du går tom for sportsballer, er du’ferdig.\rDu kan beholde den siste Pokémon du\nfanger som din egen.\rGå ut og fang den sterkeste\nBug-type Pokémon du kan finne!\r</language></row>
 	<row id="msg_0246_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh no!\rI’m sorry, you don’t have enough\nroom to catch any more Pokémon.</language>
-	</row>
+	<language name="Norwegian">Å nei! \rJeg’beklager, du har’ikke nok\nplass til å fange flere Pokémon.</language></row>
 	<row id="msg_0246_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK. We hope you’ll take part in the\nfuture.</language>
-	</row>
+	<language name="Norwegian">OK. Vi håper du’vil delta i\nfremtiden.</language></row>
 	<row id="msg_0246_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Today’s Bug-Catching Contest is over.\rWe hope you will participate again in\nthe future.</language>
-	</row>
+	<language name="Norwegian">Dagens’insektfangerkonkurranse er over, og vi håper du vil delta igjen i\nfremtiden.</language></row>
 	<row id="msg_0246_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Some Pokémon can only be seen in\nthe Park.</language>
-	</row>
+	<language name="Norwegian">Noen Pokémon kan bare sees i\nparken.</language></row>
 	<row id="msg_0246_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}?\rHere’s the prize we were holding\nfor you.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}?\rHer’er premien vi holdt\nfor deg.\r</language></row>
 	<row id="msg_0246_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Uh-oh...\nYour Bag is full, {STRVAR_1 3, 0, 0}.\rWe’ll hold on to your prize.\nPlease make room, then come see me.</language>
-	</row>
+	<language name="Norwegian">Uh-oh...\nPosen din er full, {STRVAR_1 3, 0, 0, 0}.\rVi’holder på premien din.\nVær så snill å gjøre plass, og kom og besøk meg.</language></row>
 	<row id="msg_0246_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We hope you’ll take part in a\nBug-Catching Contest in the future!</language>
-	</row>
+	<language name="Norwegian">Vi håper du’vil delta i en\ninsektfangerkonkurranse i fremtiden!</language></row>
 	<row id="msg_0246_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You still have {STRVAR_1 51, 0, 0} minute(s) left.\nDo you want to finish now? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du har fortsatt {STRVAR_1 51, 0, 0, 0} minutt(er) igjen.\nVil du avslutte nå? {YESNO 0}</language></row>
 	<row id="msg_0246_00024" index="24">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0246_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0246_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK. Please go back outside and\nfinish up.\r</language>
-	</row>
+	<language name="Norwegian">OK. Vennligst gå ut igjen og gjør deg ferdig.</language></row>
 	<row id="msg_0246_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">OK. Please wait in the National Park for\nthe announcement of the winners.\r</language>
-	</row>
+	<language name="Norwegian">OK. Vennligst vent i nasjonalparken på kunngjøringen av vinnerne.\n /</language></row>
 	<row id="msg_0246_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Please reorder your Pokémon,\nthen come see me.</language>
-	</row>
+	<language name="Norwegian">Vennligst bestill dine Pokémon på nytt, \nså kom til meg.</language></row>
 	<row id="msg_0246_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We will now judge the Pokémon you’ve\ncaught.\r......\n......\rWe have chosen the winners!\nAre you ready for this?\r</language>
-	</row>
+	<language name="Norwegian">Vi skal nå bedømme Pokémonene du’har\nfanget.\r......\n......\rVi har kåret vinnerne!\nEr du klar for dette?\r</language></row>
 	<row id="msg_0246_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Placing third is {STRVAR_1 3, 0, 0}, who\ncaught a writhing {STRVAR_1 0, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">På tredjeplass kommer {STRVAR_1 3, 0, 0}, som\nfanget en vridende {STRVAR_1 0, 1, 0}!\r.</language></row>
 	<row id="msg_0246_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Placing third is the {STRVAR_1 14, 2, 0}\n{STRVAR_1 3, 0, 0}, who caught a writhing\f{STRVAR_1 0, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">På tredjeplass kommer {STRVAR_1 14, 2, 0}\n{STRVAR_1 3, 0, 0}, som fanget en vridende\f{STRVAR_1 0, 1, 0}!\r</language></row>
 	<row id="msg_0246_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The score was {STRVAR_1 52, 3, 0} points!\r</language>
-	</row>
+	<language name="Norwegian">Poengsummen var {STRVAR_1 52, 3, 0} poeng!\r</language></row>
 	<row id="msg_0246_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Placing second is {STRVAR_1 3, 0, 0}, who\ncaught a wriggling {STRVAR_1 0, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">På andreplass kommer {STRVAR_1 3, 0, 0}, som\nfanget en vrikkende {STRVAR_1 0, 1, 0}!\r.</language></row>
 	<row id="msg_0246_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Placing second is the {STRVAR_1 14, 2, 0}\n{STRVAR_1 3, 0, 0}, who caught a\fwriggling {STRVAR_1 0, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">På andreplass kommer {STRVAR_1 14, 2, 0}\n{STRVAR_1 3, 0, 0}, som fanget en\fvridende {STRVAR_1 0, 1, 0}!\r.</language></row>
 	<row id="msg_0246_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This Bug-Catching Contest winner is...\r{STRVAR_1 3, 0, 0}, who caught a whopping\n{STRVAR_1 0, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Vinneren av denne insektfangstkonkurransen er ...\r{STRVAR_1 3, 0, 0}, som fanget hele\n{STRVAR_1 0, 1, 0}!\r.</language></row>
 	<row id="msg_0246_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This Bug-Catching Contest winner is...\rThe {STRVAR_1 14, 2, 0} {STRVAR_1 3, 0, 0}, who\ncaught a whopping {STRVAR_1 0, 1, 0}!\r</language>
-	</row>
+	<language name="Norwegian">Vinneren av denne insektfangstkonkurransen er ...\rVinneren av {STRVAR_1 14, 2, 0} {STRVAR_1 3, 0, 0}, som\nfanget hele {STRVAR_1 0, 1, 0}!\r</language></row>
 	<row id="msg_0246_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, the First Place\nfinisher, wins the {STRVAR_1 8, 3, 0}!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, førsteplassen\nvinner {STRVAR_1 8, 3, 0}!\r.</language></row>
 	<row id="msg_0246_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, the Second Place\nfinisher, wins the {STRVAR_1 8, 3, 0}!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, andreplassen\nvinner {STRVAR_1 8, 3, 0}!\r.</language></row>
 	<row id="msg_0246_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, the Third Place\nfinisher, wins the {STRVAR_1 8, 3, 0}!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, tredjeplassen\nvinner {STRVAR_1 8, 3, 0}!\r</language></row>
 	<row id="msg_0246_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Everyone else gets a {STRVAR_1 8, 3, 0} as\na consolation prize!\r</language>
-	</row>
+	<language name="Norwegian">Alle andre får en {STRVAR_1 8, 3, 0} som\ntrøstepremie!</language></row>
 	<row id="msg_0246_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Uh-oh...\nYour Bag is full, {STRVAR_1 3, 0, 0}.\rWe’ll hold on to your prize.\nPlease make room, then come see me.\r</language>
-	</row>
+	<language name="Norwegian">Uh-oh...\nBagen din er full, {STRVAR_1 3, 0, 0, 0}.\rVi’holder på premien din.\nVær så snill å gjøre plass, og kom og besøk meg.\r</language></row>
 	<row id="msg_0246_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We hope you’ll take part in a\nBug-Catching Contest in the future!\r</language>
-	</row>
+	<language name="Norwegian">Vi håper du’vil delta i en\ninsektfangerkonkurranse i fremtiden!\r</language></row>
 	<row id="msg_0246_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Give a nickname to the\n{STRVAR_1 0, 1, 0} you caught? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Gi et kallenavn til\n{STRVAR_1 0, 1, 0} du fanget? {YESNO 0}</language></row>
 	<row id="msg_0246_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}?\rHere’s the prize we were holding\nfor you.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}?\rHer’er premien vi holdt\nfor deg.\r</language></row>
 	<row id="msg_0246_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Uh-oh...\nYour Bag is full, {STRVAR_1 3, 0, 0}.\rWe’ll hold on to your prize.\nPlease make room, then come see me.\r</language>
-	</row>
+	<language name="Norwegian">Uh-oh...\nBagen din er full, {STRVAR_1 3, 0, 0, 0}.\rVi’holder på premien din.\nVær så snill å gjøre plass, og kom og besøk meg.\r</language></row>
 	<row id="msg_0246_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Your party’s full, so {STRVAR_1 1, 5, 0} was\nsent to your Box in Bill’s PC.\r</language>
-	</row>
+	<language name="Norwegian">Partiet ditt’er fullt, så {STRVAR_1 1, 5, 0} ble\nsendt til boksen din i Bill’s PC.\r.</language></row>
 	<row id="msg_0246_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We’ll return the Pokémon we kept for\nyou. Here you go!\r</language>
-	</row>
+	<language name="Norwegian">Vi’vil returnere Pokémon vi beholdt for\n deg. Vær så god!</language></row>
 	<row id="msg_0246_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Don: Got it? I’m going to win! Don’t\nbother me.</language>
-	</row>
+	<language name="Norwegian">Skjønner du? Jeg kommer til å vinne! Ikke plag meg.</language></row>
 	<row id="msg_0246_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Don: Luck plays a big part in this.\rYou never know if Pokémon will\nappear.</language>
-	</row>
+	<language name="Norwegian">Don: Flaks spiller en stor rolle i dette. \rDu vet aldri om Pokémon vil\ndukke opp.</language></row>
 	<row id="msg_0246_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Don: You won? The winner is you!?\rI’m so jealous... It’d be fantastic\nto be the winner...</language>
-	</row>
+	<language name="Norwegian">Don: Du vant? Vinneren er deg! Jeg er så sjalu ... Det hadde vært fantastisk å være vinneren...</language></row>
 	<row id="msg_0246_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ed: My PARASECT makes Pokémon fall\nasleep with Spore.</language>
-	</row>
+	<language name="Norwegian">Ed: Min PARASECT får Pokémon til å falle\ni søvn med Spore.</language></row>
 	<row id="msg_0246_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ed: You can’t win with Pokémon that are\nrun down or low on HP.</language>
-	</row>
+	<language name="Norwegian">Ed: Du kan’ikke vinne med Pokémon som er\nkjørt ned eller har lite HP.</language></row>
 	<row id="msg_0246_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ed: I envy you. I just couldn’t do it\nthis time.</language>
-	</row>
+	<language name="Norwegian">Ed: Jeg misunner deg. Jeg klarte det bare ikke’denne gangen.</language></row>
 	<row id="msg_0246_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Abby: I’ve been training Pokémon that\ninflict status problems for\fthis contest.</language>
-	</row>
+	<language name="Norwegian">Abby: Jeg’har trent Pokémon som\nhar statusproblemer i forbindelse med\fdenne konkurransen.</language></row>
 	<row id="msg_0246_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Abby: I heard that using Pokémon with\nbeautiful colors makes it easier to win.\fI wonder if that’s true?</language>
-	</row>
+	<language name="Norwegian">Abby: Jeg har hørt at det er lettere å vinne ved å bruke Pokémon med\nskjønne farger.\fJeg lurer på om det’er sant?</language></row>
 	<row id="msg_0246_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Abby: Wonderful! You sparkle and gleam\nright now. You really do!</language>
-	</row>
+	<language name="Norwegian">Abby: Fantastisk! Du glitrer og skinner\n akkurat nå. Det gjør du virkelig!</language></row>
 	<row id="msg_0246_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">William: Winning? I’m more interested in\nfinding rare Pokémon.</language>
-	</row>
+	<language name="Norwegian">William: Vinne? Jeg’er mer interessert i å\nfinne sjeldne Pokémon.</language></row>
 	<row id="msg_0246_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">William: Well, I’m satisfied because\nI caught a Pokémon I wanted.</language>
-	</row>
+	<language name="Norwegian">William: Vel, jeg’er fornøyd fordi\njeg fanget en Pokémon jeg ønsket meg.</language></row>
 	<row id="msg_0246_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">William: You’re the winner? What did you\ncatch? Show me, show me!</language>
-	</row>
+	<language name="Norwegian">William: Du’er vinneren? Hva har du\nfanget? Vis meg, vis meg!</language></row>
 	<row id="msg_0246_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Benny: ...... ...... ......\n...... ...... Ssssh!\rYou’ll scare off SCYTHER.\nI’ll talk to you later.</language>
-	</row>
+	<language name="Norwegian">Benny: ...... ...... ...... ......\n...... ...... Ssssh!\rDu’skremmer bort SCYTHER.\nJeg’snakker med deg senere.</language></row>
 	<row id="msg_0246_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Benny: Listen, I caught a SCYTHER\nbefore, but I didn’t win.</language>
-	</row>
+	<language name="Norwegian">Benny: Hør her, jeg har fanget en SCYTHER\nfør, men jeg vant’ikke.</language></row>
 	<row id="msg_0246_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Benny: I just came to see how things\nwere going today, you know?\rI’ll really try my best next time!</language>
-	</row>
+	<language name="Norwegian">Benny: Jeg kom bare for å se hvordan det\ngikk i dag, skjønner du?</language></row>
 	<row id="msg_0246_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Barry: You should weaken bug Pokémon\nfirst, then throw a Poké Ball.</language>
-	</row>
+	<language name="Norwegian">Barry: Du bør først svekke bug Pokémon\nførst, og så kaste en Poké Ball.</language></row>
 	<row id="msg_0246_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Barry: It’s easier to win if you get a\nhigh-level bug Pokémon. But I think\fthey also consider some other points.</language>
-	</row>
+	<language name="Norwegian">Barry: Det’er lettere å vinne hvis du får en\nhøyt nivå bug Pokémon. Men jeg tror\fde også vurdere noen andre punkter.</language></row>
 	<row id="msg_0246_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Barry: That Pokémon you caught...\nIt’s awesome!</language>
-	</row>
+	<language name="Norwegian">Barry: Den Pokémonen du fanget ... \nDen’er fantastisk!</language></row>
 	<row id="msg_0246_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cindy: I really love bug Pokémon!</language>
-	</row>
+	<language name="Norwegian">Cindy: Jeg elsker virkelig insekt-Pokémon!</language></row>
 	<row id="msg_0246_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cindy: I really love bug Pokémon!\rDid I already say that?</language>
-	</row>
+	<language name="Norwegian">Cindy: Jeg elsker virkelig insekt-Pokémon! \rHar jeg allerede sagt det?</language></row>
 	<row id="msg_0246_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cindy: Congratulations on winning!\nBy the way...\rDid I mention that I really love bug\nPokémon?</language>
-	</row>
+	<language name="Norwegian">Cindy: Gratulerer med seieren!\nForresten...\rFikk jeg nevnt at jeg virkelig elsker bug\nPokémon?</language></row>
 	<row id="msg_0246_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Josh: I’ve been collecting bug Pokémon\nsince I was just a baby.\rThere’s no way I’m going to lose!</language>
-	</row>
+	<language name="Norwegian">Josh: Jeg’har samlet på insekt-Pokémon\nsiden jeg var helt liten.\rDet’er ingen sjanse for at jeg’kommer til å tape!</language></row>
 	<row id="msg_0246_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Josh: I heard that somebody won with a\nCATERPIE!</language>
-	</row>
+	<language name="Norwegian">Josh: Jeg hørte at noen vant med en\nCATERPIE!</language></row>
 	<row id="msg_0246_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Josh: It’s called a Bug-Catching\nContest, not a Bird-Catching Contest!\rYou, of all people, should know that.\nAfter all, you won!</language>
-	</row>
+	<language name="Norwegian">Josh: Det’kalles en insektfangstkonkurranse, ikke en fuglefangstkonkurranse!\rDu, av alle, burde vite det.\nDu vant tross alt!</language></row>
 	<row id="msg_0246_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Samuel: What?\nIf you’ve got the time to chat, go find\fsome bug Pokémon.</language>
-	</row>
+	<language name="Norwegian">Samuel: Hva? \nHvis du’har tid til å prate, kan du gå og finne\fnoen insekt-Pokémon.</language></row>
 	<row id="msg_0246_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Samuel: So... I thought I would\nscore higher...</language>
-	</row>
+	<language name="Norwegian">Samuel..: Jeg trodde jeg ville få høyere poengsum...</language></row>
 	<row id="msg_0246_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Samuel: It’s so disappointing...\nI won’t forget this defeat, and...</language>
-	</row>
+	<language name="Norwegian">Samuel: Det er så skuffende...’Jeg kommer’ikke til å glemme dette nederlaget, og...</language></row>
 	<row id="msg_0246_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kipp: I’ve studied bug Pokémon a lot.\nI’m going to win for sure.</language>
-	</row>
+	<language name="Norwegian">Kipp: Jeg’har studert insekt-Pokémon mye.\nJeg’kommer helt sikkert til å vinne.</language></row>
 	<row id="msg_0246_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kipp: I study a lot, but that’s not\nenough to win.</language>
-	</row>
+	<language name="Norwegian">Kipp: Jeg studerer mye, men det er ikke nok til å vinne.</language></row>
 	<row id="msg_0246_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kipp: Could you give me some tips?\nI want to win!</language>
-	</row>
+	<language name="Norwegian">Kipp: Kan du gi meg noen tips?</language></row>
 	<row id="msg_0246_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Don</language>
-	</row>
+	<language name="Norwegian">{Don</language></row>
 	<row id="msg_0246_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Ed</language>
-	</row>
+	<language name="Norwegian">{TRNAME}Ed</language></row>
 	<row id="msg_0246_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Abby</language>
-	</row>
+	<language name="Norwegian">{Abby</language></row>
 	<row id="msg_0246_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}William</language>
-	</row>
+	<language name="Norwegian">{William</language></row>
 	<row id="msg_0246_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Benny</language>
-	</row>
+	<language name="Norwegian">{Benny</language></row>
 	<row id="msg_0246_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Barry</language>
-	</row>
+	<language name="Norwegian">{Barry</language></row>
 	<row id="msg_0246_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Cindy</language>
-	</row>
+	<language name="Norwegian">{Cindy</language></row>
 	<row id="msg_0246_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Josh</language>
-	</row>
+	<language name="Norwegian">{Josh</language></row>
 	<row id="msg_0246_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Samuel</language>
-	</row>
+	<language name="Norwegian">{Samuel</language></row>
 	<row id="msg_0246_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{TRNAME}Kipp</language>
-	</row>
+	<language name="Norwegian">{Kipp</language></row>
 </body>
