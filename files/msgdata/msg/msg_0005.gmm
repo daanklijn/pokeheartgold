@@ -142,7 +142,7 @@
 	<row id="msg_0005_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It won’t do any good to use that!</language>
-	<language name="Norwegian">Det nytter ikke å bruke den!</language></row>
+	<language name="Norwegian">Det hjelper ikke å bruke den!</language></row>
 	<row id="msg_0005_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
@@ -155,27 +155,27 @@
 	<row id="msg_0005_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}’s Attack\nrose!</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0, 0}'s Attack\nrose!</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0}’s Attack\nrose!</language></row>
 	<row id="msg_0005_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}’s Special Attack\nrose!</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0, 0}s spesialangrep\nrose!</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0}’s Spesialangrep\nrose!</language></row>
 	<row id="msg_0005_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}’s Speed\nrose!</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0, 0}s hastighet\nrose!</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0}’s Hastighet\nrose!</language></row>
 	<row id="msg_0005_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}’s Special Defense\nrose!</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0, 0}s spesialforsvar\nrose!</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0}’s Spesialforsvar\nrose!</language></row>
 	<row id="msg_0005_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}’s Defense\nrose!</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0, 0}s forsvar\nrose!</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0}’s Forsvar\nrose!</language></row>
 	<row id="msg_0005_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}’s accuracy\nrose!</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0, 0}s nøyaktighet\nrose!</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0}’s nøyaktighet\nrose!</language></row>
 	<row id="msg_0005_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The {STRVAR_1 8, 0, 0} was used!</language>
@@ -183,7 +183,7 @@
 	<row id="msg_0005_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s no good! It’s impossible to aim\nwhen there are two Pokémon!</language>
-	<language name="Norwegian">Det går ikke! Det er umulig å sikte\nnår det er to Pokémon!</language></row>
+	<language name="Norwegian">Det’er ikke bra! Det’er umulig å sikte\nnår det er to Pokémon!</language></row>
 	<row id="msg_0005_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There is no room left in the PC!</language>
@@ -191,13 +191,13 @@
 	<row id="msg_0005_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 6, 1, 0}’s effect prevents\nthe item’s use on {STRVAR_1 1, 0, 0}!</language>
-	<language name="Norwegian">{STRVAR_1 6, 1, 0}s effekt forhindrer\ngjenstandens bruk på {STRVAR_1 1, 0, 0}!</language></row>
+	<language name="Norwegian">{STRVAR_1 6, 1, 0}’s effekt forhindrer\nobjektet’s bruk på {STRVAR_1 1, 0, 0}!</language></row>
 	<row id="msg_0005_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s no good! It’s impossible to aim\nat a Pokémon that’s not in sight!</language>
-	<language name="Norwegian">Det nytter ikke! Det er umulig å sikte\npå en Pokémon som ikke er i sikte!</language></row>
+	<language name="Norwegian">Det’er ikke bra! Det’er umulig å sikte\npå en Pokémon som’ikke er i sikte!</language></row>
 	<row id="msg_0005_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It’s no good! It’s impossible to aim\nat a Pokémon that’s not in sight!</language>
-	<language name="Norwegian">Det nytter ikke! Det er umulig å sikte\npå en Pokémon som ikke er i sikte!</language></row>
+	<language name="Norwegian">Det’er ikke bra! Det’er umulig å sikte\npå en Pokémon som’ikke er i sikte!</language></row>
 </body>

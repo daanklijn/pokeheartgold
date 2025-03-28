@@ -11,5 +11,5 @@
 	<row id="msg_0007_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Deleting all data.\nDon’t turn off the power.</language>
-	<language name="Norwegian">Slette alle data.\nIkke slå av strømmen.</language></row>
+	<language name="Norwegian">Slette alle data.\nIkke’slå av strømmen.</language></row>
 </body>

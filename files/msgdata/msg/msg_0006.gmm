@@ -249,7 +249,7 @@
 	<row id="msg_0006_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">HM moves can’t be\nforgotten now.</language>
-	<language name="Norwegian">HM-bevegelser kan ikke\nglemmes nå.</language></row>
+	<language name="Norwegian">HM-bevegelser kan’ikke\nglemmes nå.</language></row>
 	<row id="msg_0006_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 6, 0, 0}</language>
@@ -321,7 +321,7 @@
 	<row id="msg_0006_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} can’t be switched\nout!</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0} kan ikke byttes\nut!</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0} kan’ikke byttes\nut!</language></row>
 	<row id="msg_0006_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">An Egg can’t battle!</language>
@@ -329,7 +329,7 @@
 	<row id="msg_0006_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can’t switch {STRVAR_1 3, 0, 0}’s\nPokémon with one of yours!</language>
-	<language name="Norwegian">Du kan ikke bytte {STRVAR_1 3, 0, 0, 0}s\nPokémon med en av dine egne!</language></row>
+	<language name="Norwegian">Du kan’bytte {STRVAR_1 3, 0, 0}’s\nPokémon med en av dine!</language></row>
 	<row id="msg_0006_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">It won’t have any effect.</language>
@@ -337,7 +337,7 @@
 	<row id="msg_0006_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}’s HP was restored\nby {STRVAR_1 52, 1, 0} point(s).</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0, 0}s HP ble gjenopprettet\nmed {STRVAR_1 52, 1, 0} punkt(er).</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0}’s HP ble gjenopprettet\nved {STRVAR_1 52, 1, 0} punkt(er).</language></row>
 	<row id="msg_0006_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} was cured of its\npoisoning.</language>
@@ -349,7 +349,7 @@
 	<row id="msg_0006_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0}’s burn was healed.</language>
-	<language name="Norwegian">{STRVAR_1 1, 0, 0}s brannsår ble leget.</language></row>
+	<language name="Norwegian">{STRVAR_1 1, 0, 0}’s brannsår ble leget.</language></row>
 	<row id="msg_0006_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 1, 0, 0} was thawed out.</language>
@@ -389,5 +389,5 @@
 	<row id="msg_0006_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 6, 1, 0}’s effect prevents\nthe item’s use on {STRVAR_1 1, 0, 0}!</language>
-	<language name="Norwegian">{STRVAR_1 6, 1, 0}s effekt forhindrer\ngjenstandens bruk på {STRVAR_1 1, 0, 0}!</language></row>
+	<language name="Norwegian">{STRVAR_1 6, 1, 0}’s effekt forhindrer\nobjektet’s bruk på {STRVAR_1 1, 0, 0}!</language></row>
 </body>
