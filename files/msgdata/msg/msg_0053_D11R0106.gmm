@@ -3,7 +3,7 @@
 	<row id="msg_0053_D11R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blaine: Hey, you!\rMy Gym on Cinnabar Island was burned\ndown by the eruption!\rBut I will not give up!\nTake a look at this cave.\rWe have turned it into a Gym, and I am\nstill acting as a Gym Leader!\rI will give you the Gym Badge\nif you manage to defeat me!\rAre you ready? Here we go!\r</language>
-	<language name="Norwegian">Blaine: Hei, du! Gym'et mitt på Cinnabarøya ble brent\nned av utbruddet! \rMen jeg gir ikke opp! \nTa en titt på denne hulen.\rVi har gjort den om til et Gym, og jeg er\nfortsatt Gym-leder!\rJeg skal gi deg Gym-merket\nhvis du klarer å beseire meg!\rEr du klar? Da setter vi i gang!\r</language></row>
+	<language name="Norwegian">Blaine: Hei, du! Gymmet mitt på Cinnabarøya ble brent\nned av utbruddet! \rMen jeg gir ikke opp! \nTa en titt på denne hulen.\rVi har gjort den om til et Gym, og jeg er\nfortsatt Gym-leder!\rJeg skal gi deg Gym-merket\nhvis du klarer å beseire meg!\rEr du klar? Da setter vi i gang!\r</language></row>
 	<row id="msg_0053_D11R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Blaine: Awesome. I have burned out...\fTake this Volcano Badge!\r</language>
