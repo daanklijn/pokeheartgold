@@ -88,7 +88,7 @@
 	<row id="msg_0757_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 1}A very special visitor{COLOR 0} has apparently visited...</language>
-	<language name="Norwegian">{En meget spesiell gjest har tydeligvis besøkt...</language></row>
+	<language name="Norwegian">En meget spesiell gjest har tydeligvis besøkt...</language></row>
 	<row id="msg_0757_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{COLOR 1}{STRVAR_3 0, 0, 0}{COLOR 0}: {COLOR 2}{STRVAR_1 3, 1, 0}{COLOR 0} has won...</language>
