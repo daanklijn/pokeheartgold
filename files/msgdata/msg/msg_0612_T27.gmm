@@ -67,7 +67,7 @@
 	<row id="msg_0612_T27_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{SIZE 200}Thud!!</language>
-	<language name="Norwegian">{Dunk!</language></row>
+	<language name="Norwegian">{SIZE 200}Dunk!</language></row>
 	<row id="msg_0612_T27_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0}: How...? How is this\npossible? How can I lose to\fmere Kimono Girls...?\r</language>
