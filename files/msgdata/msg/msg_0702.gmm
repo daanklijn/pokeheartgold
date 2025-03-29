@@ -3,49 +3,49 @@
 	<row id="msg_0702_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tim &amp; Sue</language>
-	</row>
+	<language name="Norwegian">Tim og Sue</language></row>
 	<row id="msg_0702_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So, how about we exchange phone\nnumbers?{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Så hva med å utveksle telefonnumre?</language></row>
 	<row id="msg_0702_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Give me a call if you think of anything!</language>
-	</row>
+	<language name="Norwegian">Ring meg hvis du kommer på noe!</language></row>
 	<row id="msg_0702_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Uh, OK. That’s too bad...</language>
-	</row>
+	<language name="Norwegian">Ok. Det var synd...</language></row>
 	<row id="msg_0702_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you decide you wanted to\nexchange phone numbers? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Har du bestemt deg for å\nutveksle telefonnumre? {YESNO 0}</language></row>
 	<row id="msg_0702_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Uh-huh? Where are you calling from?\rIf you’re nearby, you might as well\ncome over and talk in person, you know?</language>
-	</row>
+	<language name="Norwegian">Hvor ringer du fra? Hvor ringer du fra? Hvis du er i nærheten, kan du like gjerne komme bort og snakke med meg personlig.</language></row>
 	<row id="msg_0702_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is Sue!\rHow have you been since we last talked?\fAre you doing a good job training your\nPokémon? We’re doing great!\r{STRVAR_1 0, 10, 0} is working hard.\rYou have a good Pokémon, too. After a\nwhile, you’ll find it will become a\fsensational partner! Hee hee!</language>
-	</row>
+	<language name="Norwegian">Dette er Sue!\rHvordan har du hatt det siden sist vi snakket sammen?\fEr du flink til å trene din\nPokémon? Vi’gjør det bra!\r{STRVAR_1 0, 10, 0} jobber hardt.\rDu har også en god Pokémon. Etter en\nen stund vil du’oppdage at den vil bli en\fsensitiv partner! Hee hee!</language></row>
 	<row id="msg_0702_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is Sue!\rHow have you been since we spoke last?\nAre your Pokémon winning their battles?\rWe’re doing great!\nWe even beat a wild {STRVAR_1 0, 11, 0}.\rYou have a good Pokémon, also.\nAll you need now is a great partner...\fKnow what I mean? Hee hee!</language>
-	</row>
+	<language name="Norwegian">Dette er Sue!\rHvordan har du hatt det siden sist vi snakket sammen?\nVinner dine Pokémon kampene?\rVi’har det kjempebra!\nVi slo til og med en vill {STRVAR_1 0, 11, 0}.\rDu har også en god Pokémon.\nAlt du trenger nå er en god partner...\fFatter du hva jeg mener? Hee hee!</language></row>
 	<row id="msg_0702_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is Sue!\rHow have you been feeling since our\nlast talk? I’ve got many Pokémon... Ah!\rHello? This is Tim!\nLet me talk on the phone... Wah!\rAnyway, he let a wild {STRVAR_1 0, 11, 0}\nget away recently!\rHe sometimes says the strangest\nthings. He said he couldn’t compare\fPokémon with me, but... Ah!\rHello! This is Tim!\nShe is really... Wah!\rYeah, that’s just how it is, isn’t it!\nI’ll leave it at that. We’ll call you\fagain later. Bye-bye!</language>
-	</row>
+	<language name="Norwegian">Dette er Sue! Hvordan har du hatt det siden sist vi snakket sammen? Jeg har mange Pokémon... Hallo? Dette er Tim! La meg snakke i telefonen... Han lot en vill {STRVAR_1 0, 11, 0}\nslippe unna nylig! \rHan sier noen ganger de merkeligste\nting. Han sa at han ikke kunne’sammenligne\fPokémon med meg, men... Hallo! Dette er Tim! Hun er virkelig... Ja, det er sånn det er, ikke sant? Jeg skal la det være med det. Vi ringer deg senere. Ha det!</language></row>
 	<row id="msg_0702_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, would you like to battle us again?\rSound good?\rWe’re waiting on {STRVAR_1 4, 3, 0}.\nSee you there!</language>
-	</row>
+	<language name="Norwegian">Hei, har du lyst til å kjempe mot oss igjen? \rLåter det bra? \rVi’venter på {STRVAR_1 4, 3, 0}.\nVi ses der!</language></row>
 	<row id="msg_0702_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, did you forget our promise?\rI’m here with Tim, so I’m not getting\ntoo bored, but still...\rWe’re waiting on {STRVAR_1 4, 3, 0},\nso please hurry.</language>
-	</row>
+	<language name="Norwegian">Hei, glemte du løftet vårt? \rJeg’er her med Tim, så jeg’kjeder meg ikke\nfor mye, men likevel...\rVi’venter på {STRVAR_1 4, 3, 0},\nså vær så snill og skynd deg.</language></row>
 	<row id="msg_0702_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, this is Sue!\nI’m so, so, so bored right now.\rTim stepped out, but I expect\nhim to be back soon. That reminds me!\rWe recently saw a really amazing guy.\rHe was wearing a purple tuxedo and a\nred bowtie. It looked great on him.\rOh--my boyfriend’s back!\nTalk to you later!</language>
-	</row>
+	<language name="Norwegian">Hei, dette er Sue! \nJeg’kjeder meg så, så, så kjedelig akkurat nå.\rTim gikk ut, men jeg regner med at\nhan kommer tilbake snart. Det minner meg på noe! \rVi så nylig en helt fantastisk fyr.\rHan hadde på seg en lilla smoking og en\nrød sløyfe. Det kledde ham veldig godt.\rÅh - kjæresten min’er tilbake!\nSnakkes senere!</language></row>
 </body>

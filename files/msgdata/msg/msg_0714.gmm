@@ -3,45 +3,45 @@
 	<row id="msg_0714_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Arnie</language>
-	</row>
+	<language name="Norwegian">Arnie</language></row>
 	<row id="msg_0714_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ll trade phone numbers\nwith me... Won’t you? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du vil vel bytte telefonnummer med meg? Vil du ikke? {YESNO 0}</language></row>
 	<row id="msg_0714_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If I feel like battling again, I’ll be\nsure to give you a call!</language>
-	</row>
+	<language name="Norwegian">Hvis jeg får lyst til å kjempe igjen, skal jeg’være\n sikker på å ringe deg!</language></row>
 	<row id="msg_0714_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I see... That’s too bad.\nWell, if you decide you’d like to battle\fme again, just give me a shout!</language>
-	</row>
+	<language name="Norwegian">Jeg skjønner... Det’er for dårlig.\nVel, hvis du bestemmer deg for at du’har lyst til å kjempe\fmot meg igjen, bare gi meg et rop!</language></row>
 	<row id="msg_0714_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you decide that you want to\ntrade phone numbers after all? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Har du bestemt deg for at du vil\nhandle telefonnumre likevel? {YESNO 0}</language></row>
 	<row id="msg_0714_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yep, I can really hear you!\nThis area is open to the sky, so you can\fget a great signal here!</language>
-	</row>
+	<language name="Norwegian">Jepp, jeg kan virkelig høre deg!\nDette området er åpent mot himmelen, så du kan\ffå et godt signal her!</language></row>
 	<row id="msg_0714_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m always with my {STRVAR_1 0, 10, 0}!\nIt’s so cute! I just love it!\rChanging the topic here, I saw this\n{STRVAR_1 0, 11, 0} for the first time.\fIt was easy to beat, actually.\rLet’s talk again, huh?</language>
-	</row>
+	<language name="Norwegian">Jeg’er alltid med min {STRVAR_1 0, 10, 0}!\nDen’er så søt! Jeg bare elsker det!\rFor å skifte tema her, så jeg dette\n{STRVAR_1 0, 11, 0} for første gang.\fDet var lett å slå, faktisk.\rLa oss snakke igjen, hva?</language></row>
 	<row id="msg_0714_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m always with my {STRVAR_1 0, 10, 0}!\nIt’s so cute! I just love it!\rI was wondering, do you happen to\nhave {STRVAR_1 0, 11, 0}?\rI can’t seem to catch one. What is\nits weakness, I wonder.\rLet’s talk again, huh?</language>
-	</row>
+	<language name="Norwegian">Jeg’har alltid med meg {STRVAR_1 0, 10, 0}!\nDen’er så søt! Jeg bare elsker den!\rJeg lurte på om du tilfeldigvis\nhar {STRVAR_1 0, 11, 0}?\rJeg kan’ikke se ut til å fange en. Hva er\n dens svakhet, lurer jeg på.\rLa oss snakke igjen, hva?</language></row>
 	<row id="msg_0714_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, let’s battle our Pokémon!\rI’m on {STRVAR_1 4, 3, 0}, so let me\nknow when you get here!\rIf you check the Town Map on your\nPokégear, you can touch\f{STRVAR_1 4, 3, 0} and a “!” will appear\fso you won’t forget the location!</language>
-	</row>
+	<language name="Norwegian">Hei, la oss’kjempe mot våre Pokémon!\rJeg’er på {STRVAR_1 4, 3, 0}, så gi meg\nsignal når du kommer hit!\rHvis du sjekker bykartet på din\nPokégear, kan du berøre\f{STRVAR_1 4, 3, 0} og en “!”vil dukke opp\fså du ikke’ glemmer hvor vi befinner oss!</language></row>
 	<row id="msg_0714_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Let’s battle. I’ll be waiting for you on\n{STRVAR_1 4, 3, 0}!\rIf you don’t know where I am, just\ncheck it on the Town Map on\fyour Pokégear!</language>
-	</row>
+	<language name="Norwegian">La oss slåss. Jeg’venter på deg på\n{STRVAR_1 4, 3, 0}!\rHvis du ikke’vet hvor jeg er, kan du bare\nsjekke det på bykartet på\fpokégearet ditt!</language></row>
 	<row id="msg_0714_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If it’s for Bug-type Pokémon, I’ll go\nanywhere!\rWell, I say that, but I’m always on\nRoute 35.\rBut there’s a pond near here, and\nthere’s a lot of grass, and best of all,\fit’s only 28 steps to the National Park.\fThis is such a great spot!</language>
-	</row>
+	<language name="Norwegian">Hvis det er’for Pokémon av insekttypen, kan jeg’gå\noveralt!\rJeg sier det, men jeg’er alltid på\nRute 35.\rMen det’er et tjern i nærheten, og\ndet’er mye gress, og det beste av alt,\fdet’er bare 28 skritt til nasjonalparken.\fDette er et så flott sted!</language></row>
 </body>

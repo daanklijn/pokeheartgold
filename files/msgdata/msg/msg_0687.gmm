@@ -3,49 +3,49 @@
 	<row id="msg_0687_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kyler</language>
-	</row>
+	<language name="Norwegian">Kyler</language></row>
 	<row id="msg_0687_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’d like to have another Pokémon battle\nwith you sometime. Can we trade\fphone numbers? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jegm id = 8 /d lyst til å ha en annen Pokémon kampm id = 0 /med deg en gang. Kan vi utveksle telefonnumre? {YESNO 0}</language></row>
 	<row id="msg_0687_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey! Thanks!</language>
-	</row>
+	<language name="Norwegian">Hei! Takk!</language></row>
 	<row id="msg_0687_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey! Oh well!</language>
-	</row>
+	<language name="Norwegian">Hei! Å, vel!</language></row>
 	<row id="msg_0687_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’d like to have another Pokémon battle\nwith you sometime. Can we trade\fphone numbers? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jegm id = 8 /d lyst til å ha en annen Pokémon kampm id = 0 /med deg en gang. Kan vi utveksle telefonnumre? {YESNO 0}</language></row>
 	<row id="msg_0687_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Even though you’re nearby, talking on\nthe phone makes you seem far away.\rDon’t be shy. Why not come talk\nto me in person?</language>
-	</row>
+	<language name="Norwegian">Selv om du’er i nærheten, virker du langt unna når du snakker i\ntelefonen.\rIkke vær’sjenert. Hvorfor ikke komme og snakke\nmed meg ansikt til ansikt?</language></row>
 	<row id="msg_0687_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There are some people out there who\nsay, “You don’t need to give Bait to\fyour caught Pokémon,” but\fI’m different.\rMy {STRVAR_1 0, 10, 0} does a great job.\rSo I feed it delicious things, brush it,\npet it, show it affection, and just\fcherish it!</language>
-	</row>
+	<language name="Norwegian">Det er noen mennesker der ute som\nsiger, “Du trenger’ikke å gi Bait til\fdin fangede Pokémon,”men\fjeg’er annerledes.\rMin {STRVAR_1 0, 10, 0} gjør en god jobb.\rSå jeg mater den med deilige ting, pusser den,\ntepper den, viser den hengivenhet og bare\felsker den!</language></row>
 	<row id="msg_0687_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yesterday I went fishing and knocked\nout a {STRVAR_1 0, 11, 0}!\rI know that if I go to the mountains, or\nthe forest, or the grassland, or the\fcaves, or any place like that,\fI could find all kinds of Pokémon.\rBut I just really like Pokémon like\n{STRVAR_1 0, 11, 0}, you know...</language>
-	</row>
+	<language name="Norwegian">I går dro jeg på fisketur og slo\nut en {STRVAR_1 0, 11, 0}!\rJeg vet at hvis jeg drar til fjells, eller\nskogen, eller gressletten, eller\fgrottene, eller et hvilket som helst sted som det,\fså kan jeg finne alle slags Pokémon.\rMen jeg liker egentlig bare Pokémon som\n{STRVAR_1 0, 11, 0}, du vet...</language></row>
 	<row id="msg_0687_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The biggest Pokémon is always the one\nyou almost caught, you know?\rJust the other day, I had almost\ncaught a {STRVAR_1 0, 11, 0} when it\fran away! I was so disappointed!\rWhen you’re fishing, don’t have any\nregrets! Fish with all your might!\fHey! Fight!</language>
-	</row>
+	<language name="Norwegian">Den største Pokémon er alltid den\ndu nesten fikk, vet du? \rHer om dagen hadde jeg nesten\nfanget en {STRVAR_1 0, 11, 0} da den\fløp sin vei! Jeg ble så skuffet!\rNår du’fisker, må du ikke’beklage noe! Fisk med all din kraft!\fHey! Kjemp!</language></row>
 	<row id="msg_0687_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m getting sick of fishing. I’d rather\nhave a Pokémon battle with you!\rHey! I’m waiting on {STRVAR_1 4, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Jeg’er lei av å fiske. Jeg’vil heller\nha en Pokémon-kamp med deg!\rHei! Jeg’venter på {STRVAR_1 4, 3, 0}.</language></row>
 	<row id="msg_0687_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello? We made plans to meet on\n{STRVAR_1 4, 3, 0} for a battle, right?\fHey! Hurry up and get here.</language>
-	</row>
+	<language name="Norwegian">Hallo? Vi skulle møtes på\n{STRVAR_1 4, 3, 0} for å slåss, ikke sant? \fHei! Skynd deg og kom hit.</language></row>
 	<row id="msg_0687_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The real draw of fishing is that you\nnever know what you’ll catch until you\factually pull it up out of the water.\rSomeday maybe I’ll pull up on the\nfishing Rod and there will be a\flegendary Pokémon on the other end of\fmy line...\rYeah, right. The chances of that\nhappening are basically zero.\rFor example, RAIKOU and the others, as\nthey’re skipping around all over the\fplace, maybe their feet would slip and\fthey’d land in the sea...\rWhat do you think, could I accidentally\ncatch RAIKOU while fishing?\r...How silly, right?</language>
-	</row>
+	<language name="Norwegian">Den virkelige attraksjonen ved fiske er at du\naldri vet hva du’fanger før du\ffaktisk drar den opp av vannet.\rEn dag drar jeg kanskje opp’fiskestanga og det vil være en\flegendarisk Pokémon i den andre enden av\fsnøret mitt...\rJa, akkurat. Sjansene for at det\nskal skje er i utgangspunktet lik null.\rFor eksempel, RAIKOU og de andre, når\nde’hopper rundt over hele\fplassen, kan det hende at føttene deres sklir og\fde’lander i havet...\rHva tror du, kan jeg ved et uhell\nfange RAIKOU mens jeg fisker?\r...Så dumt, ikke sant?</language></row>
 </body>

@@ -3,57 +3,57 @@
 	<row id="msg_0689_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Alan</language>
-	</row>
+	<language name="Norwegian">Alan</language></row>
 	<row id="msg_0689_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When I’m reading textbooks and walking,\nI have to look down, so I notice items\fon the ground.\rNext time I find something, I’ll give it\nto you.\rMay I have your phone number? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Når jeg’leser lærebøker og går,\nmå jeg se ned, så jeg legger merke til ting\fpå bakken.\rNeste gang jeg finner noe, skal jeg’gi det\ntil deg.\rKan jeg få telefonnummeret ditt? {YESNO 0}</language></row>
 	<row id="msg_0689_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ll call you as soon as I find\nsomething. You can count on it!</language>
-	</row>
+	<language name="Norwegian">Jeg ringer deg så snart jeg finner’noe. Det kan du stole på!</language></row>
 	<row id="msg_0689_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh... I thought it would be a good\nbreak to call you when I’m studying...</language>
-	</row>
+	<language name="Norwegian">Jeg tenkte at det ville være en god pause å ringe deg når jeg studerer...</language></row>
 	<row id="msg_0689_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If I find something, it’s yours.\nSo may I have your phone number? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hvis jeg finner noe, er det ditt. {YESNO 0}</language></row>
 	<row id="msg_0689_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This, this! This is yours! Ta-da!\r</language>
-	</row>
+	<language name="Norwegian">Dette, dette! Denne er din! Ta-da!</language></row>
 	<row id="msg_0689_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh?\nWait. Don’t tell me you’re nearby?\rDid you not notice because you were\ntoo busy looking at the ground, too?</language>
-	</row>
+	<language name="Norwegian">Vent. Ikke si at du er i nærheten... la du ikke merke til det fordi du var for opptatt med å se på bakken også?</language></row>
 	<row id="msg_0689_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My {STRVAR_1 0, 10, 0}’s getting stronger,\nexactly as I calculated!\rBy the way, we knocked out a wild\n{STRVAR_1 0, 11, 0} just the other day.\rStudying up in advance worked!\rSee you later!</language>
-	</row>
+	<language name="Norwegian">Min {STRVAR_1 0, 10, 0}’blir sterkere,\nnøyaktig som jeg kalkulerte!\rVi slo forresten ut en vill\n{STRVAR_1 0, 11, 0} her om dagen.\rÅ lese seg opp på forhånd fungerte!\rVi ses senere!</language></row>
 	<row id="msg_0689_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My {STRVAR_1 0, 10, 0}’s getting stronger,\nexactly as I calculated!\rBy the way, a wild {STRVAR_1 0, 11, 0} escaped\non me yesterday.\rA computational error on my part...\rSee you later!</language>
-	</row>
+	<language name="Norwegian">Min {STRVAR_1 0, 10, 0}’blir sterkere,\nnøyaktig som jeg beregnet!\rForresten, en vill {STRVAR_1 0, 11, 0} rømte\npå meg i går.\rEn regnefeil fra min side...\rSes senere!</language></row>
 	<row id="msg_0689_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve studied quite a bit since then, and\nI’ve gotten a lot better!\rI’m hanging out on {STRVAR_1 4, 3, 0}.\nCan you come down for a battle?</language>
-	</row>
+	<language name="Norwegian">Jeg’har studert en del siden da, og\njeg’har blitt mye bedre!\rJeg’henger på {STRVAR_1 4, 3, 0}.\nKan du komme ned for en kamp?</language></row>
 	<row id="msg_0689_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If we don’t battle soon, I’ll forget my\nstrategy!\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Hvis vi ikke’kjemper snart, glemmer jeg’min\nstrategi!\rJeg’venter på {STRVAR_1 4, 3, 0}!</language></row>
 	<row id="msg_0689_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I haven’t picked up anything yet.\nI’ll call you if I find something.</language>
-	</row>
+	<language name="Norwegian">Jeg har ikke funnet noe ennå. Jeg ringer deg hvis jeg finner noe.</language></row>
 	<row id="msg_0689_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Heh heh. I found something really\nawesome earlier!\rI’ll give it to you. Can you come to\n{STRVAR_1 4, 3, 0} and pick it up?</language>
-	</row>
+	<language name="Norwegian">He he. Jeg fant noe veldig\nfantastisk tidligere! \rJeg’vil gi det til deg. Kan du komme til\n{STRVAR_1 4, 3, 0} og hente den?</language></row>
 	<row id="msg_0689_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I have to do my homework, so can you\ncome get your gift right away?\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Jeg må gjøre leksene mine, så kan du\nkomme og hente gaven din med en gang? \rJeg’venter på {STRVAR_1 4, 3, 0}!</language></row>
 </body>

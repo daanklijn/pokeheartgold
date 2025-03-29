@@ -3,57 +3,57 @@
 	<row id="msg_0694_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tully</language>
-	</row>
+	<language name="Norwegian">Tully</language></row>
 	<row id="msg_0694_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, you’re trying to be the ultimate\nTrainer, too? That makes us comrades!\rIf I find any more items by the water,\nI’ll give you some.\rJust give me your phone number. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei, prøver du også å bli den ultimate treneren? Det gjør oss til kamerater! \rHvis jeg finner flere gjenstander ved vannet, \nskal jeg’gi deg noen.\rBare gi meg telefonnummeret ditt. {YESNO 0}</language></row>
 	<row id="msg_0694_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ll be hearing from me if I find\nsomething good.</language>
-	</row>
+	<language name="Norwegian">Du’kommer til å høre fra meg hvis jeg finner\nnoe bra.</language></row>
 	<row id="msg_0694_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Is that so? Then I’ll just have to use\nthem myself.</language>
-	</row>
+	<language name="Norwegian">Er det slik? Da må jeg bare bruke dem selv.</language></row>
 	<row id="msg_0694_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If I find any more items by the water,\nI’ll give you some.\rJust give me your phone number.{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hvis jeg finner flere gjenstander ved vannet, \nskal jeg’gi deg noen.\rGi meg bare telefonnummeret ditt.{YESNO 0}</language></row>
 	<row id="msg_0694_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, there you are!\nHere’s a gift, as promised!\r</language>
-	</row>
+	<language name="Norwegian">Hei, der er du jo! \nHer’er en gave, som lovet! \r</language></row>
 	<row id="msg_0694_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, if you’re nearby, come and chat\nwith me in person!</language>
-	</row>
+	<language name="Norwegian">Hei, hvis du er i nærheten, kom og prat\nmed meg personlig!</language></row>
 	<row id="msg_0694_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My {STRVAR_1 0, 10, 0} has grown again.\rIt was only about so big when I caught\nit, but now it’s way bigger.\rOh yeah, I KO’d a wild {STRVAR_1 0, 11, 0}.\nIt was huge--like THIS big, even.\rHeh, I guess you can’t tell over\nthe phone...\rWell, I’ll be seeing you.</language>
-	</row>
+	<language name="Norwegian">Min {STRVAR_1 0, 10, 0} har vokst igjen.\rDen var bare omtrent så stor da jeg fanget den, men nå er den mye større.\rJa, jeg slo ut en vill {STRVAR_1 0, 11, 0}.\nDen var enorm - til og med SÅ stor.\rHeh, jeg antar at du ikke kan’se det over\ntelefonen...\rJa, vi ses’.</language></row>
 	<row id="msg_0694_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My {STRVAR_1 0, 10, 0} has grown again.\rIt was only about so big when I caught\nit, but now it’s way bigger.\rOh yeah, I lost a wild {STRVAR_1 0, 11, 0}.\nIt was huge--like THIS big, even.\rHeh, I guess you can’t tell over\nthe phone...\rWell, I’ll be seeing you.</language>
-	</row>
+	<language name="Norwegian">Min {STRVAR_1 0, 10, 0} har vokst igjen.\rDen var bare omtrent så stor da jeg fanget den, men nå er den mye større.\rJa, jeg mistet en vill {STRVAR_1 0, 11, 0}.\nDen var enorm - til og med SÅ stor.\rHeh, jeg antar at du ikke kan’se det over\ntelefonen...\rJa, jeg’kommer til å se deg.</language></row>
 	<row id="msg_0694_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">We should get a battle going!\rI’ll be fishing on {STRVAR_1 4, 3, 0}.\nSwing by if you have time.</language>
-	</row>
+	<language name="Norwegian">Vi bør få i gang en kamp! \rJeg’vil fiske på {STRVAR_1 4, 3, 0}.\nSving innom hvis du har tid.</language></row>
 	<row id="msg_0694_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What? Are you lost or something?\nOur battle will be on {STRVAR_1 4, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Hva er det? Har du gått deg vill eller noe? Vår kamp vil være på {STRVAR_1 4, 3, 0}!</language></row>
 	<row id="msg_0694_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Have I found anything good?\nNope, not yet.\rIt’s like fishing--you need patience.</language>
-	</row>
+	<language name="Norwegian">Har jeg funnet noe bra?\nNei, ikke ennå.\rDet’er som å fiske - du trenger tålmodighet.</language></row>
 	<row id="msg_0694_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I picked up a cool little thing at the\nwater’s edge. As promised, it’s yours.\fI’ll be waiting on {STRVAR_1 4, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Jeg plukket opp en kul liten ting ved vannkanten. Som lovet, den’er din.\fJeg’vil vente på {STRVAR_1 4, 3, 0}.</language></row>
 	<row id="msg_0694_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ve got something good for you.\nHurry over to {STRVAR_1 4, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Jeg’har noe godt til deg.\nHurtig over til {STRVAR_1 4, 3, 0}.</language></row>
 </body>

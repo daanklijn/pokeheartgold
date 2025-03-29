@@ -3,5 +3,5 @@
 	<row id="msg_0719_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{ALN_CENTER}TOUCH TO START</language>
-	</row>
+	<language name="Norwegian">{ALN_CENTER}Trykk for å starte</language></row>
 </body>

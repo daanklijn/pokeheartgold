@@ -3,73 +3,73 @@
 	<row id="msg_0735_normal" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NORMAL</language>
-	</row>
+	<language name="Norwegian">NORMAL</language></row>
 	<row id="msg_0735_fighting" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FIGHTING</language>
-	</row>
+	<language name="Norwegian">KAMP</language></row>
 	<row id="msg_0735_flying" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FLYING</language>
-	</row>
+	<language name="Norwegian">FLYVENDE</language></row>
 	<row id="msg_0735_poison" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">POISON</language>
-	</row>
+	<language name="Norwegian">GIFT</language></row>
 	<row id="msg_0735_ground" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GROUND</language>
-	</row>
+	<language name="Norwegian">GRUNN</language></row>
 	<row id="msg_0735_rock" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ROCK</language>
-	</row>
+	<language name="Norwegian">ROCK</language></row>
 	<row id="msg_0735_bug" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">BUG</language>
-	</row>
+	<language name="Norwegian">BUG</language></row>
 	<row id="msg_0735_ghost" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GHOST</language>
-	</row>
+	<language name="Norwegian">GHOST</language></row>
 	<row id="msg_0735_steel" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">STEEL</language>
-	</row>
+	<language name="Norwegian">STÅL</language></row>
 	<row id="msg_0735_mystery" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">???</language>
-	</row>
+	<language name="Norwegian">???</language></row>
 	<row id="msg_0735_fire" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">FIRE</language>
-	</row>
+	<language name="Norwegian">BRANN</language></row>
 	<row id="msg_0735_water" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">WATER</language>
-	</row>
+	<language name="Norwegian">VANN</language></row>
 	<row id="msg_0735_grass" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">GRASS</language>
-	</row>
+	<language name="Norwegian">GRESS</language></row>
 	<row id="msg_0735_electric" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ELECTRIC</language>
-	</row>
+	<language name="Norwegian">ELEKTRISK</language></row>
 	<row id="msg_0735_psychic" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">PSYCHIC</language>
-	</row>
+	<language name="Norwegian">PSYKISK</language></row>
 	<row id="msg_0735_ice" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">ICE</language>
-	</row>
+	<language name="Norwegian">ICE</language></row>
 	<row id="msg_0735_dragon" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DRAGON</language>
-	</row>
+	<language name="Norwegian">DRAGON</language></row>
 	<row id="msg_0735_dark" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">DARK</language>
-	</row>
+	<language name="Norwegian">MØRKT</language></row>
 </body>

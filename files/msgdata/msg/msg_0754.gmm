@@ -3,17 +3,17 @@
 	<row id="msg_0754_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}</language></row>
 	<row id="msg_0754_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">EXIT</language>
-	</row>
+	<language name="Norwegian">EXIT</language></row>
 	<row id="msg_0754_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you want to stop playing with the\nFootprint Stamp?</language>
-	</row>
+	<language name="Norwegian">Vil du slutte å leke med\nFotavtrykksstempelet?</language></row>
 	<row id="msg_0754_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Footprint Stamp is now closed.</language>
-	</row>
+	<language name="Norwegian">Fotavtrykksstempelet er nå stengt.</language></row>
 </body>

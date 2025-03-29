@@ -3,225 +3,225 @@
 	<row id="msg_0752_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Monica: Glad to meet you. I’m Monica\nof Monday.\rAs a token of our friendship, I have a\ngift for you!\r</language>
-	</row>
+	<language name="Norwegian">Monica: Hyggelig å treffe deg. Jeg’er Monica\nfra Monday.\rSom et tegn på vårt vennskap, har jeg en\ngave til deg!\r</language></row>
 	<row id="msg_0752_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Monica: It’s an item that raises the\npower of Flying-type moves.\rYou should equip a bird Pokémon with\nthat item.</language>
-	</row>
+	<language name="Norwegian">Monica: Det’er en gjenstand som øker\nkraften til bevegelser av flytypen.\rDu bør utstyre en fugle-Pokémon med\ndenne gjenstanden.</language></row>
 	<row id="msg_0752_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Monica: My brothers and sisters are all\nover the place.\rSee if you could find them all!</language>
-	</row>
+	<language name="Norwegian">Monica: Mine brødre og søstre er overalt\nOveralt.\rSe om du kan finne dem alle!</language></row>
 	<row id="msg_0752_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Monica: Oh no! Today isn’t Monday.\nSee you another time!</language>
-	</row>
+	<language name="Norwegian">Monica: Å nei! Det er ikke mandag i dag. Vi ses en annen gang!</language></row>
 	<row id="msg_0752_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tuscany: Please allow me to introduce\nmyself. I am Tuscany of Tuesday.\rBy way of introduction, please accept\nthis gift, a TwistedSpoon.\r</language>
-	</row>
+	<language name="Norwegian">Toscana: Tillat meg å introdusere\nmeg selv. Jeg er Tuscany fra tirsdag.\rVed introduksjonen, vennligst ta imot\ndenne gaven, en TwistedSpoon.\r</language></row>
 	<row id="msg_0752_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tuscany: Wouldn’t you agree that it is\nmost adorable?\rIt strengthens Psychic-type moves.\rI am certain it will be of use.</language>
-	</row>
+	<language name="Norwegian">Toscana: Er du ikke enig i at den er\nmest bedårende?\rDen styrker bevegelser av den psykiske typen.\rJeg er sikker på at den vil være til nytte.</language></row>
 	<row id="msg_0752_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tuscany: Have you met Monica, my older\nsister?\rOr my younger brother, Wesley?\rI am the second of seven children.</language>
-	</row>
+	<language name="Norwegian">Toscana: Har du møtt Monica, min eldre\nsøster?\reller min yngre bror, Wesley?\rJeg er det andre av syv barn.</language></row>
 	<row id="msg_0752_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tuscany: Tuesday was over before I\neven noticed...\rI’ll see you again next Tuesday...</language>
-	</row>
+	<language name="Norwegian">Toscana: Tirsdagen var over før jeg\nmerket det...\rJeg’ser deg igjen neste tirsdag...</language></row>
 	<row id="msg_0752_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wesley: I’m Wesley of Wednesday.\rPleased to meet you. Please take a\nsouvenir.\r</language>
-	</row>
+	<language name="Norwegian">Wesley: Jeg er Wesley fra Wednesday. Vennligst ta en\nsouvenir.\r</language></row>
 	<row id="msg_0752_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wesley: Black Belt beefs up the power\nof Fighting-type moves.</language>
-	</row>
+	<language name="Norwegian">Wesley: Black Belt øker kraften\ni bevegelser av Fighting-typen.</language></row>
 	<row id="msg_0752_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wesley: Since you found me, you must\nhave met my brothers and sisters.\rOr did you just get lucky?</language>
-	</row>
+	<language name="Norwegian">Wesley: Siden du fant meg, må du\nha møtt brødrene og søstrene mine.\rEller var du bare heldig?</language></row>
 	<row id="msg_0752_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wesley: No way!\nWednesday’s already over!\fSee you next week!</language>
-	</row>
+	<language name="Norwegian">Wesley: Aldri i livet!\nOnsdag’er allerede over!\fVi ses neste uke!</language></row>
 	<row id="msg_0752_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Arthur: Who are you?\rI’m Arthur of Thursday.\rHere, take this!\r</language>
-	</row>
+	<language name="Norwegian">Arthur: Hvem er du?\rJeg’er Arthur fra torsdag.\rHer, ta denne!\r</language></row>
 	<row id="msg_0752_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Arthur: If you use Rock-type moves,\nyou should give that to your Pokémon.\rIt raises the strength of\nRock-type moves.</language>
-	</row>
+	<language name="Norwegian">Arthur: Hvis du bruker bevegelser av steintypen, \nbør du gi den til din Pokémon.\rDen øker styrken til\nbevegelser av steintypen.</language></row>
 	<row id="msg_0752_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Arthur: I’m Arthur of Thursday!\nI’m the second son in a line of seven\fsiblings!</language>
-	</row>
+	<language name="Norwegian">Arthur: Jeg’er Arthur av Torsdag! \nJeg’er den andre sønnen i en søskenflokk på syv\fsøsken!</language></row>
 	<row id="msg_0752_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Arthur: Do you think that the middle of\nthe week is Wednesday?\fOr do you think it’s Thursday?\rGo decide, and I’ll see you\nnext Thursday!</language>
-	</row>
+	<language name="Norwegian">Arthur: Tror du at midten av\nuken er onsdag?\fEller tror du at det’er torsdag?\rBestem deg, så ses vi\nneste torsdag!</language></row>
 	<row id="msg_0752_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Frieda: Yahoo! It’s Friday!\rI’m Frieda of Friday!\nNice to meet you!\rHere’s a Poison Barb for you!\r</language>
-	</row>
+	<language name="Norwegian">Frieda: Yahoo! Det’er fredag!\rJeg’er Frieda fra Fredag!\nHyggelig å treffe deg!\rHer’er en Poison Barb til deg!\r</language></row>
 	<row id="msg_0752_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Frieda: Give it to a Pokémon that has\nPoison-type moves.\rOh! It’s wicked!\rYou’ll be shocked how good it makes\nPoison-type moves!</language>
-	</row>
+	<language name="Norwegian">Frieda: Gi den til en Pokémon som har\nGift-type bevegelser.\rÅh! Den’er ond!\rDu’vil bli sjokkert over hvor bra den gjør\nGift-type bevegelser!</language></row>
 	<row id="msg_0752_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Frieda: Hiya! What day do you like?\rI love Friday. No doubt about it!\rDon’t you think it’s great too?</language>
-	</row>
+	<language name="Norwegian">Frieda: Hei! Hvilken dag liker du?\rJeg elsker fredag. Ingen tvil om det!\rSynes ikke du også at den’er flott?</language></row>
 	<row id="msg_0752_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Frieda: Oh, today’s not Friday?\rMan... I wish every day were Friday,\nthat’d be so much fun!</language>
-	</row>
+	<language name="Norwegian">Frieda: Å, er det ikke fredag i dag? Jeg skulle ønske alle dager var fredager, det hadde vært så gøy!</language></row>
 	<row id="msg_0752_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Santos: ...It’s Saturday...\rI’m Santos of Saturday...\rTake this...\r</language>
-	</row>
+	<language name="Norwegian">Santos: ...Det’er lørdag...\rJeg’er Santos på lørdag...\rTa denne...\r</language></row>
 	<row id="msg_0752_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Santos: ...\rSoft Sand...\rGround-type moves get stronger...\nIt will startle you...</language>
-	</row>
+	<language name="Norwegian">Santos: ...\rMyk sand...\rGrunnbevegelser blir sterkere...\nDet vil skremme deg...</language></row>
 	<row id="msg_0752_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Santos: ...\rSee you again on another Saturday...</language>
-	</row>
+	<language name="Norwegian">Santos: ...\rVi ses igjen på en annen lørdag...</language></row>
 	<row id="msg_0752_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Santos: Today’s Saturday...\nNo... Wait... Huh?\rI’ll see you next Saturday then...</language>
-	</row>
+	<language name="Norwegian">Santos: I dag er det lørdag... Nei... Vent... Hva? \rJeg’vil se deg neste lørdag da...</language></row>
 	<row id="msg_0752_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sunny: Hi! I’m Sunny of Sunday, meaning\nit’s Sunday today!\rI was told to give you this if I saw you!\r</language>
-	</row>
+	<language name="Norwegian">Sunny: Hei! Jeg’er Sunny fra Sunday, som betyr\nat’det’er søndag i dag!\rJeg ble bedt om å gi deg dette hvis jeg så deg!\r</language></row>
 	<row id="msg_0752_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sunny: That thing...\rUm...\r...What was it now...\r...\rOh! I remember now!\rA Pokémon that knows Electric-type\nmoves should hold it.\rMy sis Monica said it powers up\nElectric-type moves!</language>
-	</row>
+	<language name="Norwegian">Sunny: Den tingen...\rUm...\r...Hva var det nå...\r...\rÅh! Nå husker jeg! \rEn Pokémon som kan bevegelser av elektrisk type\nbør holde den.\rSøster Monica sa at den kan gjøre bevegelser av\nelektrisk type!</language></row>
 	<row id="msg_0752_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sunny: My sister Monica...\nMy sister Tuscany...\fMy brother Wesley...\fMy brother Arthur...\fMy sister Frieda...\fAnd my brother Santos.\rThey’re all older than me!</language>
-	</row>
+	<language name="Norwegian">Sunny: Min søster Monica...\nMin søster Toscana...\fMin bror Wesley...\fMin bror Arthur...\fMin søster Frieda...\fOg min bror Santos...\rDe’er alle eldre enn meg!</language></row>
 	<row id="msg_0752_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sunny: Huh? Isn’t today Sunday?\nUm... I forgot!</language>
-	</row>
+	<language name="Norwegian">Sunny: Hæ? Er det ikke søndag i dag? ’Jeg glemte det!</language></row>
 	<row id="msg_0752_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Monica: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Alert Ribbon!\r</language>
-	</row>
+	<language name="Norwegian">Monica: Hei, du! \nDen som fant alle søsknene mine! \fJa, du! \rVi’er ganske gode venner nå, er du ikke enig? \rSiden vi’er så gode venner, vil jeg’gi\ndeg dette varselbåndet! \r</language></row>
 	<row id="msg_0752_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Monica: That Alert Ribbon looks great\non your Pokémon...</language>
-	</row>
+	<language name="Norwegian">Monica: Det Alert Ribbon ser flott ut\npå din Pokémon ...</language></row>
 	<row id="msg_0752_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} put on the Alert Ribbon!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0, 0} satt på varselbåndet!</language></row>
 	<row id="msg_0752_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
-	</row>
+	<language name="Norwegian">Du kan bare få ett bånd per uke...\rHvis du vil ha et bånd til, så kom og finn\nmeg igjen neste uke!</language></row>
 	<row id="msg_0752_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tuscany: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Shock Ribbon!\r</language>
-	</row>
+	<language name="Norwegian">Toscana: Hei, du! Den som fant alle søsknene mine! Ja, du! Vi er ganske gode venner nå, ikke sant? Siden vi er så gode venner, vil jeg gi deg dette sjokkbåndet!</language></row>
 	<row id="msg_0752_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tuscany: That Shock Ribbon looks great\non your Pokémon...</language>
-	</row>
+	<language name="Norwegian">Toscana: At Shock Ribbon ser flott\npå din Pokémon ...</language></row>
 	<row id="msg_0752_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} put on the Shock Ribbon!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0, 0} Sett på sjokkbåndet!</language></row>
 	<row id="msg_0752_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
-	</row>
+	<language name="Norwegian">Du kan bare få ett bånd per uke...\rHvis du vil ha et bånd til, så kom og finn\nmeg igjen neste uke!</language></row>
 	<row id="msg_0752_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wesley: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Downcast Ribbon!\r</language>
-	</row>
+	<language name="Norwegian">Wesley: Hei, du!\nDen som fant alle søsknene mine!\fJa, du!\rVi’er ganske gode venner nå, er du ikke enig? \rSiden vi’er så gode venner, vil jeg’gi\ndette nedstemt-båndet til deg!\r.</language></row>
 	<row id="msg_0752_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wesley: That Downcast Ribbon looks\ngreat on your Pokémon...</language>
-	</row>
+	<language name="Norwegian">Wesley: Det Downcast Ribbon serm id = 0 /flott ut på Pokémonen din ...</language></row>
 	<row id="msg_0752_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} put on the\nDowncast Ribbon!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0, 0} satt på\nDowncast Ribbon!</language></row>
 	<row id="msg_0752_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
-	</row>
+	<language name="Norwegian">Du kan bare få ett bånd per uke...\rHvis du vil ha et bånd til, så kom og finn\nmeg igjen neste uke!</language></row>
 	<row id="msg_0752_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Arthur: Hey, you found all of my\nsiblings, didn’t you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Careless Ribbon!\r</language>
-	</row>
+	<language name="Norwegian">Arthur: Hei, du fant alle mine\nsøsken, ikke sant!\rVi’er ganske gode venner nå, ikke sant? \rSiden vi’er så gode venner, vil jeg’gi\ndette Careless Ribbon til deg!\r.</language></row>
 	<row id="msg_0752_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Arthur: That Careless Ribbon looks\ngreat on your Pokémon...</language>
-	</row>
+	<language name="Norwegian">Arthur..: Det Careless Ribbon ser\nflott ut på din Pokémon...</language></row>
 	<row id="msg_0752_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} put on the\nCareless Ribbon!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0, 0} satt på\nCareless Ribbon!</language></row>
 	<row id="msg_0752_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
-	</row>
+	<language name="Norwegian">Du kan bare få ett bånd per uke...\rHvis du vil ha et bånd til, så kom og finn\nmeg igjen neste uke!</language></row>
 	<row id="msg_0752_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Frieda: Hey, you’re the one who found\nall of my siblings, aren’t you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Relax Ribbon!\r</language>
-	</row>
+	<language name="Norwegian">Frieda: Hei, det var du som fant alle søsknene mine, ikke sant?! Vi er ganske gode venner nå, ikke sant?! Er du enig?! Siden vi er så gode venner, vil jeg gi deg dette Relax Ribbon!</language></row>
 	<row id="msg_0752_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Frieda: That Relax Ribbon looks great\non your Pokémon...</language>
-	</row>
+	<language name="Norwegian">Frieda: Det Relax Ribbon ser flott ut\npå Pokémonen din...</language></row>
 	<row id="msg_0752_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} put on the Relax Ribbon!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0, 0} sett på Relax Ribbon!</language></row>
 	<row id="msg_0752_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
-	</row>
+	<language name="Norwegian">Du kan bare få ett bånd per uke...\rHvis du vil ha et bånd til, så kom og finn\nmeg igjen neste uke!</language></row>
 	<row id="msg_0752_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Santos: ...\nYou found all of my siblings...\rWe’re pretty good friends...\n...Right?\rHere... Have this Snooze Ribbon...\r</language>
-	</row>
+	<language name="Norwegian">Santos: ...\nDu fant alle søsknene mine...\rVi’er ganske gode venner...\n...Ikke sant? \rHer... ...har du dette slumrebåndet...\r</language></row>
 	<row id="msg_0752_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Santos: That Snooze Ribbon looks good\non your Pokémon...</language>
-	</row>
+	<language name="Norwegian">Santos: Det Snooze Ribbon ser bra ut\npå din Pokémon...</language></row>
 	<row id="msg_0752_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} put on the Snooze Ribbon!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0, 0} Ta på deg slumrebåndet!</language></row>
 	<row id="msg_0752_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
-	</row>
+	<language name="Norwegian">Du kan bare få ett bånd per uke...\rHvis du vil ha et bånd til, så kom og finn\nmeg igjen neste uke!</language></row>
 	<row id="msg_0752_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sunny: Hey, you found all of my siblings!\rWe’re pretty good friends now, right?\rSince we’re such good friends, I’ll give\nyou this Smile Ribbon!\r</language>
-	</row>
+	<language name="Norwegian">Sunny: Hei, du fant alle søsknene mine! \rVi’er ganske gode venner nå, ikke sant? \rSiden vi’er så gode venner, skal jeg’gi\ndette smilebåndet til deg! \r</language></row>
 	<row id="msg_0752_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sunny: That Smile Ribbon looks great\non your Pokémon...</language>
-	</row>
+	<language name="Norwegian">Sunny: Smilebåndet ser flott ut på Pokémonen din...</language></row>
 	<row id="msg_0752_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} put on the Smile Ribbon!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0, 0} Ta på deg smilebåndet!</language></row>
 	<row id="msg_0752_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
-	</row>
+	<language name="Norwegian">Du kan bare få ett bånd per uke...\rHvis du vil ha et bånd til, så kom og finn\nmeg igjen neste uke!</language></row>
 </body>

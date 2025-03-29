@@ -4,25 +4,25 @@
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0718_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0718_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0718_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0718_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 </body>

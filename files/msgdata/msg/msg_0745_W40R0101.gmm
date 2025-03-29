@@ -3,21 +3,21 @@
 	<row id="msg_0745_W40R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What? I’m the first to arrive!\rThere will soon be a Battle Frontier\npast here.\rI’m in line to be the first one there.\nI haven’t slept for days.\rGet in line if you want to be the second\none in!\r</language>
-	</row>
+	<language name="Norwegian">Hva? Jeg’er den første som kommer!\rDet vil snart være en Battle Frontier\nforbi her.\rJeg’står i kø for å være den første der.\nJeg har’ikke sovet på flere dager.\rStell deg i kø hvis du vil være den andre\nsom kommer inn!\r</language></row>
 	<row id="msg_0745_W40R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Zzz...\n...\rHe is standing...but asleep!\r</language>
-	</row>
+	<language name="Norwegian">Zzz...\n...\rHan står...men sover!\r</language></row>
 	<row id="msg_0745_W40R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Zzz... Zzz...\n...\rHe doesn’t seem like he’ll wake up\nanytime soon!</language>
-	</row>
+	<language name="Norwegian">Zzz... Zzz...\n...\rHan virker ikke som om han’vil våkne\nnoen gang snart!</language></row>
 	<row id="msg_0745_W40R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the entrance to the\nBattle Frontier.\fYou shouldn’t make a line here.</language>
-	</row>
+	<language name="Norwegian">Dette er inngangen til\nKampgrensen.\fDu bør’ikke lage en linje her.</language></row>
 	<row id="msg_0745_W40R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Battle Frontier is open!\rPlease go ahead.</language>
-	</row>
+	<language name="Norwegian">Kampgrensen er åpen! Vær så god.</language></row>
 </body>

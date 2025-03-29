@@ -3,165 +3,165 @@
 	<row id="msg_0691_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Irwin</language>
-	</row>
+	<language name="Norwegian">Irwin</language></row>
 	<row id="msg_0691_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re the best I’ve ever battled!\rHuh? You’re the one who saved all\nthe SLOWPOKE?\rWell, no wonder I couldn’t beat you!\nWould it be OK to get your number?\rI don’t want to miss anything you\ndo from now on! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du er den beste jeg noensinne har kjempet mot! Du’er den som reddet alle\nSLOWPOKE?\rJa, ikke rart jeg ikke kunne’slå deg!\nEr det greit å få nummeret ditt?\rJeg vil’ikke gå glipp av noe du\ngjør heretter! {YESNO 0}</language></row>
 	<row id="msg_0691_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wow! Gee, thanks!\rNow I can call you anytime, whether\nanything’s up or not.\rYou know, just to chat!</language>
-	</row>
+	<language name="Norwegian">Jøss! Jøss, takk!\rNå kan jeg ringe deg når som helst, uansett om\ndet er noe’på gang eller ikke.\rDu vet, bare for å prate!</language></row>
 	<row id="msg_0691_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, but...\nI’m not dangerous!\rI just want to call and chat about\neverything and nothing!</language>
-	</row>
+	<language name="Norwegian">Å, men ... \nJeg’er ikke farlig!\rJeg vil bare ringe og prate om\nalt og ingenting!</language></row>
 	<row id="msg_0691_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You will tell me your phone number?{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Kan du fortelle meg telefonnummeret ditt?</language></row>
 	<row id="msg_0691_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh? Wait, aren’t you nearby?</language>
-	</row>
+	<language name="Norwegian">Hva? Vent, er ikke du i nærheten?</language></row>
 	<row id="msg_0691_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, have you heard?\rGoldenrod’s Radio Tower has been taken\nover by Team Rocket!\r...Um... What’s Team Rocket?</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, har du hørt det? \rGoldenrod’s radiotårn har blitt tatt\nover av Team Rocket!\r...Øh... Hva’er Team Rocket?</language></row>
 	<row id="msg_0691_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, have you heard?\rGoldenrod’s Radio Tower has been taken\nover by Team Rocket!\r...Um... What’s Team Rocket?</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, har du hørt det? \rGoldenrod’s radiotårn har blitt tatt\nover av Team Rocket!\r...Øh... Hva’er Team Rocket?</language></row>
 	<row id="msg_0691_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\nYou defeated Whitney?\rIt makes me proud to be your friend!\nCall you later!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, jeg hørte det!\nDu beseiret Whitney?\rDet gjør meg stolt over å være din venn!\nRinger deg senere!</language></row>
 	<row id="msg_0691_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\nYou defeated Whitney?\rIt makes me proud to be your friend!\nCall you later!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, jeg hørte det!\nDu beseiret Whitney?\rDet gjør meg stolt over å være din venn!\nRinger deg senere!</language></row>
 	<row id="msg_0691_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I saw, I heard!\rYou beat Morty of Ecruteak Gym!\nTh-that’s just incredible!\rI actually went to the Gym’s entrance\nto cheer you on.\rDid you know that?\nBut everyone had these candles on\ftheir heads, it was kinda creepy...\rSo I chickened out and took off for\nhome...\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg så, jeg hørte!\rDu slo Morty fra Ecruteak Gym!\nDet’er helt utrolig!\rJeg gikk faktisk til Gym’s inngang\nfor å heie på deg.\rVisste du det? \nMen alle hadde stearinlys på\fhodene sine, det var litt skummelt...\rSå jeg feiget ut og dro hjem...\rRinger deg senere!</language></row>
 	<row id="msg_0691_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I saw, I heard!\rYou beat Morty of Ecruteak Gym!\nTh-that’s just incredible!\rI actually went to the Gym’s entrance\nto cheer you on.\rDid you know that?\nBut everyone had these candles on\ftheir heads, it was kinda creepy...\rSo I chickened out and took off for\nhome...\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg så, jeg hørte!\rDu slo Morty fra Ecruteak Gym!\nDet’er helt utrolig!\rJeg gikk faktisk til Gym’s inngang\nfor å heie på deg.\rVisste du det? \nMen alle hadde stearinlys på\fhodene sine, det var litt skummelt...\rSå jeg feiget ut og dro hjem...\rRinger deg senere!</language></row>
 	<row id="msg_0691_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, I heard about you!\rYou saved that Pokémon at the\nLighthouse, didn’t you?\r{STRVAR_1 3, 0, 0}, I wish you’d come see me\nwhen I’m sick in bed with a cold!\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Hei, jeg har hørt om deg!\rDu reddet den Pokémonen på\nfyrtårnet, ikke sant?\r{STRVAR_1 3, 0, 0}, jeg skulle ønske du’ville komme og besøke meg\nnår jeg’ligger syk i sengen med forkjølelse!\rRinger deg senere!</language></row>
 	<row id="msg_0691_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, I heard about you!\rYou saved that Pokémon at the\nLighthouse, didn’t you?\r{STRVAR_1 3, 0, 0}, I wish you’d come see me\nwhen I’m sick in bed with a cold!\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Hei, jeg har hørt om deg!\rDu reddet den Pokémonen på\nfyrtårnet, ikke sant?\r{STRVAR_1 3, 0, 0}, jeg skulle ønske du’ville komme og besøke meg\nnår jeg’ligger syk i sengen med forkjølelse!\rRinger deg senere!</language></row>
 	<row id="msg_0691_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I heard, I heard, I heard!\rYou smashed Team Rocket’s hideout!\nYou’re like a movie hero, even!\rBut, um... What was Team Rocket?\rI’m totally out of the loop, aren’t I?</language>
-	</row>
+	<language name="Norwegian">Jeg hørte, jeg hørte, jeg hørte! Du knuste Team Rockets skjulested! Du er som en filmhelt, til og med! Hva var Team Rocket? Jeg er helt ute av loopen, er jeg ikke?</language></row>
 	<row id="msg_0691_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I heard, I heard, I heard!\rYou smashed Team Rocket’s hideout!\nYou’re like a movie hero, even!\rBut, um... What was Team Rocket?\rI’m totally out of the loop, aren’t I?</language>
-	</row>
+	<language name="Norwegian">Jeg hørte, jeg hørte, jeg hørte! Du knuste Team Rockets skjulested! Du er som en filmhelt, til og med! Hva var Team Rocket? Jeg er helt ute av loopen, er jeg ikke?</language></row>
 	<row id="msg_0691_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I heard, I heard, I heard!\rAbout your heroic liberation of the\nRadio Tower! You rock so hard!\rI just wanted to make sure you knew\nthat you’re awesome!\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg hørte, jeg hørte, jeg hørte! \rOm din heroiske frigjøring av radiotårnet! Du rocker så hardt! \rJeg ville bare forsikre meg om at du visste\nat du’er fantastisk! \rRinger deg senere!</language></row>
 	<row id="msg_0691_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I heard, I heard, I heard!\rAbout your heroic liberation of the\nRadio Tower! You rock so hard!\rI just wanted to make sure you knew\nthat you’re awesome!\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg hørte, jeg hørte, jeg hørte! \rOm din heroiske frigjøring av radiotårnet! Du rocker så hardt! \rJeg ville bare forsikre meg om at du visste\nat du’er fantastisk! \rRinger deg senere!</language></row>
 	<row id="msg_0691_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I saw, I saw, I saw you, {STRVAR_1 3, 0, 0}!\nI saw you go into the Dragon’s Den!\rI’m certain you passed! Aww, no need to\nbe modest! You can’t fail!\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg så, jeg så, jeg så deg, {STRVAR_1 3, 0, 0}!\nJeg så deg gå inn i dragens’hule!\rJeg’er sikker på at du passerte! Du trenger ikke å være beskjeden! Du kan ikke’ikke stryke!\rRinger deg senere!</language></row>
 	<row id="msg_0691_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I saw, I saw, I saw you, {STRVAR_1 3, 0, 0}!\nI saw you go into the Dragon’s Den!\rI’m certain you passed! Aww, no need to\nbe modest! You can’t fail!\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg så, jeg så, jeg så deg, {STRVAR_1 3, 0, 0}!\nJeg så deg gå inn i dragens’hule!\rJeg’er sikker på at du passerte! Du trenger ikke å være beskjeden! Du kan ikke’ikke stryke!\rRinger deg senere!</language></row>
 	<row id="msg_0691_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yesterday, I went out to New Bark\nTown. There was a lady who looked a lot\flike you, {STRVAR_1 3, 0, 0}.\rWhat? That lady was your mom?\nAww, I should’ve introduced myself!\rI bet your mom’s really proud of all\nthat you’ve accomplished.\rCall you later!</language>
-	</row>
+	<language name="Norwegian">I går gikk jeg ut til New Bark\nTown. Der var det en dame som lignet veldig\fpå deg, {STRVAR_1 3, 0, 0}.\rHva? Den damen var moren din? \nJeg burde’ha presentert meg! \rJeg vedder på at moren din’er veldig stolt av alt\ndu’har utrettet.\rRinger deg senere!</language></row>
 	<row id="msg_0691_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yesterday, I went out to New Bark\nTown. There was a lady who looked a lot\flike you, {STRVAR_1 3, 0, 0}.\rWhat? That lady was your mom?\nAww, I should’ve introduced myself!\rI bet your mom’s really proud of all\nthat you’ve accomplished.\rCall you later!</language>
-	</row>
+	<language name="Norwegian">I går gikk jeg ut til New Bark\nTown. Der var det en dame som lignet veldig\fpå deg, {STRVAR_1 3, 0, 0}.\rHva? Den damen var moren din? \nJeg burde’ha presentert meg! \rJeg vedder på at moren din’er veldig stolt av alt\ndu’har utrettet.\rRinger deg senere!</language></row>
 	<row id="msg_0691_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I saw, I saw, I saw!\rYou striding onto a ship, {STRVAR_1 3, 0, 0}!\rI can’t get over how good you look with\nthe sea as your backdrop!\rI hate having to hang up on you!\nCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg så, jeg så, jeg så!\rDu går om bord på et skip, {STRVAR_1 3, 0, 0}!\rJeg kan’ikke komme over hvor flott du ser ut med\nhavet som bakteppe!\rJeg hater å måtte legge på!\nRinger deg senere!</language></row>
 	<row id="msg_0691_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I saw, I saw, I saw!\rYou striding onto a ship, {STRVAR_1 3, 0, 0}!\rI can’t get over how good you look with\nthe sea as your backdrop!\rI hate having to hang up on you!\nCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg så, jeg så, jeg så!\rDu går om bord på et skip, {STRVAR_1 3, 0, 0}!\rJeg kan’ikke komme over hvor flott du ser ut med\nhavet som bakteppe!\rJeg hater å måtte legge på!\nRinger deg senere!</language></row>
 	<row id="msg_0691_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I heard, I heard!\rYou got a Magnet Train Pass!\rWhen I saw you departing on the ship, I\nfelt sad that I wouldn’t be able to see\fyou for a while.\rBut since you have that Pass, you can\nzip back anytime!\fThat’s reassuring!\rWhat? You can Fly back anytime?\rWhat do you mean by Fly?\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg hørte det! \rDu har et magnettogpass! \rDa jeg så deg dra med skipet, ble jeg\ntrist over at jeg ikke skulle kunne se’deg på en stund.\rMen siden du har det passet, kan du\nfly tilbake når som helst!\fDet’er betryggende!\rHva? Kan du fly tilbake når som helst? \rHva mener du med fly? \rRinger deg senere!</language></row>
 	<row id="msg_0691_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I heard, I heard!\rYou got a Magnet Train Pass!\rWhen I saw you departing on the ship, I\nfelt sad that I wouldn’t be able to see\fyou for a while.\rBut since you have that Pass, you can\nzip back anytime!\fThat’s reassuring!\rWhat? You can Fly back anytime?\rWhat do you mean by Fly?\rCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg hørte det! \rDu har et magnettogpass! \rDa jeg så deg dra med skipet, ble jeg\ntrist over at jeg ikke skulle kunne se’deg på en stund.\rMen siden du har det passet, kan du\nfly tilbake når som helst!\fDet’er betryggende!\rHva? Kan du fly tilbake når som helst? \rHva mener du med fly? \rRinger deg senere!</language></row>
 	<row id="msg_0691_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I saw, I saw!\rYou waking up SNORLAX!\rI was watching you from afar, so I\ncouldn’t tell what you did exactly.\rDid you play a flute to wake it?\rWow! That’s like magic!\nCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg så, jeg så!\rDu vekker SNORLAX!\rJeg så på deg på avstand, så jeg\nkunne ikke’se hva du gjorde.\rSpillet du fløyte for å vekke den?\rWow! Det’er som magi!\nRinger deg senere!</language></row>
 	<row id="msg_0691_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I saw, I saw!\rYou waking up SNORLAX!\rI was watching you from afar, so I\ncouldn’t tell what you did exactly.\rDid you play a flute to wake it?\rWow! That’s like magic!\nCall you later!</language>
-	</row>
+	<language name="Norwegian">Jeg så, jeg så!\rDu vekker SNORLAX!\rJeg så på deg på avstand, så jeg\nkunne ikke’se hva du gjorde.\rSpillet du fløyte for å vekke den?\rWow! Det’er som magi!\nRinger deg senere!</language></row>
 	<row id="msg_0691_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\rYou’re kicking up a mighty ruckus over\nin Kanto!\rWhat a glorious rampage it must be!\nYou so rock!\rCall you later!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, hørte jeg!\rDu’er i full gang med å lage et mektig rabalder over\ni Kanto!\rFor et herlig herjingstokt det må være!\nDu er så rå!\rRinger deg senere!</language></row>
 	<row id="msg_0691_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\rYou’re kicking up a mighty ruckus over\nin Kanto!\rWhat a glorious rampage it must be!\nYou so rock!\rCall you later!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, hørte jeg!\rDu’er i full gang med å lage et mektig rabalder over\ni Kanto!\rFor et herlig herjingstokt det må være!\nDu er så rå!\rRinger deg senere!</language></row>
 	<row id="msg_0691_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I hear gossip about you all over\nthe place.\rIt just makes me sigh, {STRVAR_1 3, 0, 0}.\nHow did you get so strong?\rGo for the world championship now!\nI’ll always be cheering you on!\rCall you later!\f...Is that OK?</language>
-	</row>
+	<language name="Norwegian">Jeg hører sladder om deg overalt.\nDet får meg bare til å sukke, {STRVAR_1 3, 0, 0, 0}.\nHvordan ble du så sterk?\rGå for verdensmesterskapet nå!\nJeg’vil alltid heie på deg!\rRinger deg senere!\f...Er det OK?</language></row>
 	<row id="msg_0691_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I hear gossip about you all over\nthe place.\rIt just makes me sigh, {STRVAR_1 3, 0, 0}.\nHow did you get so strong?\rGo for the world championship now!\nI’ll always be cheering you on!\rCall you later!\f...Is that OK?</language>
-	</row>
+	<language name="Norwegian">Jeg hører sladder om deg overalt.\nDet får meg bare til å sukke, {STRVAR_1 3, 0, 0, 0}.\nHvordan ble du så sterk?\rGå for verdensmesterskapet nå!\nJeg’vil alltid heie på deg!\rRinger deg senere!\f...Er det OK?</language></row>
 	<row id="msg_0691_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m always looking forward to what\nyou’ll do next, {STRVAR_1 3, 0, 0}!</language>
-	</row>
+	<language name="Norwegian">Jeg’ser alltid frem til hva\ndu’vil gjøre neste gang, {STRVAR_1 3, 0, 0}!</language></row>
 	<row id="msg_0691_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m always looking forward to what\nyou’ll do next, {STRVAR_1 3, 0, 0}!</language>
-	</row>
+	<language name="Norwegian">Jeg’ser alltid frem til hva\ndu’vil gjøre neste gang, {STRVAR_1 3, 0, 0}!</language></row>
 	<row id="msg_0691_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hearing about your escapades rocks my\nsoul! It sure does!</language>
-	</row>
+	<language name="Norwegian">Å høre om dine eskapader rocker min\nsjel! Det gjør det virkelig!</language></row>
 	<row id="msg_0691_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hearing about your escapades rocks my\nsoul! It sure does!</language>
-	</row>
+	<language name="Norwegian">Å høre om dine eskapader rocker min\nsjel! Det gjør det virkelig!</language></row>
 	<row id="msg_0691_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You know, every time I recall your\nescapades, {STRVAR_1 3, 0, 0}, I am just so\fdeeply moved by them!</language>
-	</row>
+	<language name="Norwegian">Du vet, hver gang jeg minnes dine\neskapader, {STRVAR_1 3, 0, 0, 0}, blir jeg bare så\fdypt rørt av dem!</language></row>
 	<row id="msg_0691_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You know, every time I recall your\nescapades, {STRVAR_1 3, 0, 0}, I am just so\fdeeply moved by them!</language>
-	</row>
+	<language name="Norwegian">Du vet, hver gang jeg minnes dine\neskapader, {STRVAR_1 3, 0, 0, 0}, blir jeg bare så\fdypt rørt av dem!</language></row>
 	<row id="msg_0691_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hearing about your escapades rocks my\nsoul! It sure does!</language>
-	</row>
+	<language name="Norwegian">Å høre om dine eskapader rocker min\nsjel! Det gjør det virkelig!</language></row>
 	<row id="msg_0691_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m so glad you called!\rI was just about to call you, too!\nI guess we must be a good match!</language>
-	</row>
+	<language name="Norwegian">Jeg’er så glad for at du ringte!\rJeg skulle akkurat til å ringe deg også!\nJeg antar at vi må passe godt sammen!</language></row>
 	<row id="msg_0691_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">How are you?\rWhat are you doing?\rWhere are you?\rHow many Badges do you have now?\rHow much money have you saved?\rHow’s your mom?\rHave you got lots of Pokémon?\rIs it going to be sunny tomorrow?\rArrgh, there’s so much I want to\nchat about! This is going nowhere!</language>
-	</row>
+	<language name="Norwegian">Hvordan har du det?\rHva gjør du?\rHvor er du?\rHvor mange merker har du nå?\rHvor mye penger har du spart?\rHvordan’har moren din det?\rHar du mange Pokémon?\rBlir det sol i morgen?\rArrgh, det er’så mye jeg har lyst til å\nprate om! Dette fører ingen steder!</language></row>
 </body>

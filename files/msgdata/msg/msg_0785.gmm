@@ -3,69 +3,69 @@
 	<row id="msg_0785_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">None</language>
-	</row>
+	<language name="Norwegian">Ingen</language></row>
 	<row id="msg_0785_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Baden-Wurttemberg</language>
-	</row>
+	<language name="Norwegian">Baden-Wurttemberg</language></row>
 	<row id="msg_0785_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bayern</language>
-	</row>
+	<language name="Norwegian">Bayern</language></row>
 	<row id="msg_0785_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Berlin</language>
-	</row>
+	<language name="Norwegian">Berlin</language></row>
 	<row id="msg_0785_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Brandenburg</language>
-	</row>
+	<language name="Norwegian">Brandenburg</language></row>
 	<row id="msg_0785_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bremen</language>
-	</row>
+	<language name="Norwegian">Bremen</language></row>
 	<row id="msg_0785_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hamburg</language>
-	</row>
+	<language name="Norwegian">Hamburg</language></row>
 	<row id="msg_0785_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hessen</language>
-	</row>
+	<language name="Norwegian">Hessen</language></row>
 	<row id="msg_0785_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mecklenburg-Vorpommern</language>
-	</row>
+	<language name="Norwegian">Mecklenburg-Vorpommern</language></row>
 	<row id="msg_0785_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Niedersachsen</language>
-	</row>
+	<language name="Norwegian">Niedersachsen</language></row>
 	<row id="msg_0785_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nordrhein-Westfalen</language>
-	</row>
+	<language name="Norwegian">Nordrhein-Westfalen</language></row>
 	<row id="msg_0785_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Rheinland-Pfalz</language>
-	</row>
+	<language name="Norwegian">Rheinland-Pfalz</language></row>
 	<row id="msg_0785_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saarland</language>
-	</row>
+	<language name="Norwegian">Saarland</language></row>
 	<row id="msg_0785_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sachsen</language>
-	</row>
+	<language name="Norwegian">Sachsen</language></row>
 	<row id="msg_0785_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sachsen-Anhalt</language>
-	</row>
+	<language name="Norwegian">Sachsen-Anhalt</language></row>
 	<row id="msg_0785_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Schleswig-Holstein</language>
-	</row>
+	<language name="Norwegian">Schleswig-Holstein</language></row>
 	<row id="msg_0785_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Freistaat Thuringen</language>
-	</row>
+	<language name="Norwegian">Freistaat Thuringen</language></row>
 </body>

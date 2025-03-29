@@ -3,49 +3,49 @@
 	<row id="msg_0708_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Parry</language>
-	</row>
+	<language name="Norwegian">Parry</language></row>
 	<row id="msg_0708_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sheesh, the way you attacked! That was\nsomething else! We should meet again!\rHow about giving me your number?{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jøss, måten du angrep på! Det var\nnoe helt annet! Vi burde møtes igjen! Hva med å gi meg nummeret ditt?</language></row>
 	<row id="msg_0708_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ll call you when I feel like battling!</language>
-	</row>
+	<language name="Norwegian">Jeg ringer deg når jeg har lyst til å kjempe!</language></row>
 	<row id="msg_0708_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No? That’s fine.\nA definite no is easy to take!\rI’ll be right here when you’re ready for\na rematch.</language>
-	</row>
+	<language name="Norwegian">Nei? Et klart nei er lett å akseptere! Jeg er her når du er klar for en omkamp.</language></row>
 	<row id="msg_0708_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">So you want to register my phone\nnumber for a rematch, huh?{YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Så du vil registrere telefonnummeret mitt for en omkamp, hva?</language></row>
 	<row id="msg_0708_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Well, you are special, all right.\rIf only I’d begun training Pokémon when\nI was a tad younger...\rI want you to work hard and succeed\nfor both of us.\fSo, take this, OK?\r</language>
-	</row>
+	<language name="Norwegian">Vel, du er spesiell, ja.\rHvis jeg bare’hadde begynt å trene Pokémon da\njeg var litt yngre...\rJeg vil at du skal jobbe hardt og lykkes\nfor oss begge.\fSå, ta denne, OK?\r</language></row>
 	<row id="msg_0708_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Uh-huh?\nIs that a river I hear in the\fbackground? You’re nearby!</language>
-	</row>
+	<language name="Norwegian">Er det en elv jeg hører i bakgrunnen? Du’er i nærheten!</language></row>
 	<row id="msg_0708_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nothing can match my {STRVAR_1 0, 10, 0} now.\rYeah, we KO’d a wild {STRVAR_1 0, 11, 0}!\rThat was OK, but what I wanted was\nto catch it...\rOK, give me a call again!</language>
-	</row>
+	<language name="Norwegian">Ingenting kan matche min {STRVAR_1 0, 10, 0} nå.\rJa, vi KO’d en vill {STRVAR_1 0, 11, 0}!\rDet var OK, men det jeg ønsket var\nå fange den...\rOK, ring meg igjen!</language></row>
 	<row id="msg_0708_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nothing can match my {STRVAR_1 0, 10, 0} now.\rAnd, yesterday, we spotted a wild\n{STRVAR_1 0, 11, 0}.\rWe were debating whether to catch\nit or just gain experience battling it.\rThen, along came another guy,\nwho caught it! How about that!\rOK, give me a call again!</language>
-	</row>
+	<language name="Norwegian">Ingenting kan matche min {STRVAR_1 0, 10, 0} nå.\rOg i går fikk vi øye på en vill\n{STRVAR_1 0, 11, 0}.\rVi diskuterte om vi skulle fange\nden eller bare få erfaring med å slåss mot den.\rDa kom det en annen fyr,\nsom fanget den! Hva sier du til det!\rOK, ring meg igjen!</language></row>
 	<row id="msg_0708_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re thinking you’d like to battle me.\nAm I right or what?\rYep! We’ll meet on {STRVAR_1 4, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Du’tenker at du’vil kjempe mot meg.\nHar jeg rett eller hva?\rJa! Vi møtes på {STRVAR_1 4, 3, 0}!</language></row>
 	<row id="msg_0708_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Haven’t you gone as far as\n{STRVAR_1 4, 3, 0}?\rWaiting here is no problem,\nbut I’d sure like to battle!</language>
-	</row>
+	<language name="Norwegian">Har’du ikke gått så langt som\n{STRVAR_1 4, 3, 0}?\rDet er ikke noe problem å vente her,\nmen jeg’vil gjerne kjempe!</language></row>
 	<row id="msg_0708_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ll battle with me again, right?</language>
-	</row>
+	<language name="Norwegian">Du vil kjempe mot meg igjen, ikke sant?</language></row>
 </body>

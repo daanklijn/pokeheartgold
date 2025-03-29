@@ -3,154 +3,154 @@
 	<row id="msg_0776_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Would you like to play\n{STRVAR_3 0, 0, 0}?</language>
-	</row>
+	<language name="Norwegian">Har du lyst til å spille\n{STRVAR_3 0, 0, 0}?</language></row>
 	<row id="msg_0776_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">JOIN</language>
-	</row>
+	<language name="Norwegian">JOIN</language></row>
 	<row id="msg_0776_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">RULES</language>
-	</row>
+	<language name="Norwegian">REGLER</language></row>
 	<row id="msg_0776_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">CANCEL</language>
-	</row>
+	<language name="Norwegian">AVBRYT</language></row>
 	<row id="msg_0776_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You could not join the group playing\n{STRVAR_3 0, 0, 0}.\r</language>
-	</row>
+	<language name="Norwegian">Du kunne ikke bli med i gruppen som spiller\n{STRVAR_3 0, 0, 0}.\r.</language></row>
 	<row id="msg_0776_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A game is in session.\nYou can’t join until it’s over.\r</language>
-	</row>
+	<language name="Norwegian">Et spill er i gang.\nDu kan’ikke bli med før det’er over.\r</language></row>
 	<row id="msg_0776_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Registration for {STRVAR_3 0, 0, 0} \nis now closed.\r</language>
-	</row>
+	<language name="Norwegian">Registreringen for {STRVAR_3 0, 0, 0} \ner nå stengt.\r.</language></row>
 	<row id="msg_0776_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Readying the registration system.\nPlease wait.\r</language>
-	</row>
+	<language name="Norwegian">Klargjør registreringssystemet.\nVent litt.\rVennligst vent.\r</language></row>
 	<row id="msg_0776_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A member had to drop out.\rYour game of {STRVAR_3 0, 0, 0} has\nbeen canceled.\r</language>
-	</row>
+	<language name="Norwegian">Et medlem måtte trekke seg.\rDitt spill av {STRVAR_3 0, 0, 0} har\nblitt avbrutt.\r</language></row>
 	<row id="msg_0776_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0776_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Awaiting other members...\nB Button: Cancel</language>
-	</row>
+	<language name="Norwegian">Venter på andre medlemmer...\nB Knapp: Avbryt</language></row>
 	<row id="msg_0776_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The game will start soon!\nPlease wait.</language>
-	</row>
+	<language name="Norwegian">Spillet starter snart!\nVent litt.</language></row>
 	<row id="msg_0776_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0776_00013" index="13">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0776_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0776_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 51, 0, 0} seconds to go</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 51, 0, 0} sekunder igjen</language></row>
 	<row id="msg_0776_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Enough players have gathered.\nLet the game begin!</language>
-	</row>
+	<language name="Norwegian">Nok spillere har samlet seg. \nLa spillet begynne!</language></row>
 	<row id="msg_0776_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A member had to drop out.\nPlease register from the start again.\r</language>
-	</row>
+	<language name="Norwegian">Et medlem måtte melde seg ut.\nVennligst registrer deg fra starten av igjen.\r</language></row>
 	<row id="msg_0776_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The waiting time is up.\nLet the game begin!</language>
-	</row>
+	<language name="Norwegian">Ventetiden er over.\nLa spillet begynne!</language></row>
 	<row id="msg_0776_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No members joined during the\nregistration period.\rPlease register from the start again.\r</language>
-	</row>
+	<language name="Norwegian">Ingen medlemmer ble med i løpet av registreringsperioden.\nVennligst registrer deg fra starten av igjen.\r</language></row>
 	<row id="msg_0776_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Sorry, this service is too busy.\nYou may not participate now.\r</language>
-	</row>
+	<language name="Norwegian">Beklager, denne tjenesten er for opptatt.\nDu kan ikke delta nå.\r</language></row>
 	<row id="msg_0776_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The time limit is up.\nThe {STRVAR_3 0, 0, 0} will be closed.\r</language>
-	</row>
+	<language name="Norwegian">Tidsgrensen er utløpt.\n {STRVAR_3 0, 0, 0} vil bli stengt.\r</language></row>
 	<row id="msg_0776_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The {STRVAR_3 0, 0, 0} is now closed.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_3 0, 0, 0} er nå lukket.\r.</language></row>
 	<row id="msg_0776_00023" index="23">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXX</language>
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0776_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">YES</language>
-	</row>
+	<language name="Norwegian">JA</language></row>
 	<row id="msg_0776_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO</language>
-	</row>
+	<language name="Norwegian">NEI</language></row>
 	<row id="msg_0776_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You were the first player to join.\rIf you drop out, the group will be\ndisbanded. Is that OK?</language>
-	</row>
+	<language name="Norwegian">Du var den første spilleren som ble med. \rHvis du dropper ut, vil gruppen bli\noppløst. Er det i orden?</language></row>
 	<row id="msg_0776_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">YES</language>
-	</row>
+	<language name="Norwegian">JA</language></row>
 	<row id="msg_0776_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">NO</language>
-	</row>
+	<language name="Norwegian">NEI</language></row>
 	<row id="msg_0776_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You chose to drop out.\r</language>
-	</row>
+	<language name="Norwegian">Du valgte å hoppe av. \r</language></row>
 	<row id="msg_0776_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Parade will be on later.\nPlease wait for it!\r</language>
-	</row>
+	<language name="Norwegian">Paraden vil være på senere.\nVent på det!\r</language></row>
 	<row id="msg_0776_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Waiting for the Parade to come by...\nB Button: Cancel</language>
-	</row>
+	<language name="Norwegian">Venter på at paraden skal komme forbi...\nB-knappen: Avbryt</language></row>
 	<row id="msg_0776_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">There’s no more room on the Floats...\r</language>
-	</row>
+	<language name="Norwegian">Det er ikke mer plass på flottørene...’.</language></row>
 	<row id="msg_0776_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The Parade is over.\r</language>
-	</row>
+	<language name="Norwegian">Paraden er over.\r</language></row>
 	<row id="msg_0776_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_3 0, 0, 0}\rFlick Berries into the mouth of a\nrotating SWALOT.\rScore bonus points for getting Berries\nin consecutively.\rScore even more during Fever Time.\rTake deliberate aim or fire randomly--\nthe choice is yours!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_3 0, 0, 0}\rKlikk bær inn i munnen på en\nroterende SWALOT.\rSamle bonuspoeng for å få bær\ninn i rekkefølge.\rSamle enda flere poeng under Fever Time.\rSikt bevisst eller skyt tilfeldig - valget er ditt!\r</language></row>
 	<row id="msg_0776_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_3 0, 0, 0}\rRoll a ball while keeping a MIME JR.\nbalanced on top.\rIf the MIME JR. manages to stay on,\nlights flash and the applause begins.\rIf everyone manages to keep going,\nthe curtains will rise.\rTry to keep your MIME JR. balanced\nand on the ball!\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_3 0, 0, 0}\rRull en ball mens du holder en MIME JR.\nbalansert på toppen.\rHvis MIME JR. klarer å holde seg på, \nblinker lysene og applausen begynner.\rHvis alle klarer å holde seg i gang,\ngår gardinene opp.\rPrøv å holde din MIME JR. balansert\nog på ballen!\r</language></row>
 	<row id="msg_0776_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_3 0, 0, 0}\rPress down on the pump from\ndirectly above to pump maximum\fair into a balloon until it pops.\rPop balloons until time runs out.\rPressing the pump hard will make it\nturn red, increasing its capacity.\rThe circling WYNAUT can also help.\rLine a WYNAUT up with the pump to\nboost the air volume, but beware:\rlining up the pump with a skinny\nWYNAUT reduces the air volume.\r</language>
-	</row>
+	<language name="Norwegian">{STRVAR_3 0, 0, 0}\rTrykk ned på pumpen fra\ndirekte ovenfra for å pumpe maksimalt\fluft inn i en ballong til den sprekker.\rPump ballonger til tiden renner ut.\rTrykker du hardt på pumpen, blir den\nrød og øker kapasiteten.\rDen sirkulerende WYNAUTTEN kan også hjelpe.\rStill en WYNAUT sammen med pumpen for å\nøke luftvolumet, men pass på:\rStill pumpen sammen med en tynn\nWYNAUT for å redusere luftvolumet.\r</language></row>
 </body>

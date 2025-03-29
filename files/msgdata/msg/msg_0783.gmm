@@ -3,57 +3,57 @@
 	<row id="msg_0783_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">None</language>
-	</row>
+	<language name="Norwegian">Ingen</language></row>
 	<row id="msg_0783_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Alberta</language>
-	</row>
+	<language name="Norwegian">Alberta</language></row>
 	<row id="msg_0783_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">British Columbia</language>
-	</row>
+	<language name="Norwegian">British Columbia</language></row>
 	<row id="msg_0783_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Manitoba</language>
-	</row>
+	<language name="Norwegian">Manitoba</language></row>
 	<row id="msg_0783_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">New Brunswick</language>
-	</row>
+	<language name="Norwegian">New Brunswick</language></row>
 	<row id="msg_0783_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Newfoundland and Labrador</language>
-	</row>
+	<language name="Norwegian">Newfoundland og Labrador</language></row>
 	<row id="msg_0783_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Northwest Territories</language>
-	</row>
+	<language name="Norwegian">Nordvest-territoriene</language></row>
 	<row id="msg_0783_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nova Scotia</language>
-	</row>
+	<language name="Norwegian">Nova Scotia</language></row>
 	<row id="msg_0783_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nunavut</language>
-	</row>
+	<language name="Norwegian">Nunavut</language></row>
 	<row id="msg_0783_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Ontario</language>
-	</row>
+	<language name="Norwegian">Ontario</language></row>
 	<row id="msg_0783_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Prince Edward Island</language>
-	</row>
+	<language name="Norwegian">Prince Edward Island</language></row>
 	<row id="msg_0783_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Quebec</language>
-	</row>
+	<language name="Norwegian">Quebec</language></row>
 	<row id="msg_0783_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Saskatchewan</language>
-	</row>
+	<language name="Norwegian">Saskatchewan</language></row>
 	<row id="msg_0783_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yukon Territory</language>
-	</row>
+	<language name="Norwegian">Yukon-territoriet</language></row>
 </body>

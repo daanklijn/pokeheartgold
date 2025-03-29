@@ -3,41 +3,41 @@
 	<row id="msg_0764_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No, but want to</language>
-	</row>
+	<language name="Norwegian">Nei, men ønsker å</language></row>
 	<row id="msg_0764_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No, but want some</language>
-	</row>
+	<language name="Norwegian">Nei, men jeg vil ha noen</language></row>
 	<row id="msg_0764_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Its wittiness</language>
-	</row>
+	<language name="Norwegian">Dens vittighet</language></row>
 	<row id="msg_0764_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No, but gimme!</language>
-	</row>
+	<language name="Norwegian">Nei, men gi meg den!</language></row>
 	<row id="msg_0764_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">This is the first</language>
-	</row>
+	<language name="Norwegian">Dette er den første</language></row>
 	<row id="msg_0764_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">In between</language>
-	</row>
+	<language name="Norwegian">Innimellom</language></row>
 	<row id="msg_0764_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Water type</language>
-	</row>
+	<language name="Norwegian">Vanntype</language></row>
 	<row id="msg_0764_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Exploit abilities</language>
-	</row>
+	<language name="Norwegian">Utnytte evner</language></row>
 	<row id="msg_0764_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Siblings</language>
-	</row>
+	<language name="Norwegian">Søsken</language></row>
 	<row id="msg_0764_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">No, but want to</language>
-	</row>
+	<language name="Norwegian">Nei, men ønsker å</language></row>
 </body>

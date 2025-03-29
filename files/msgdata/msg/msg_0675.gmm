@@ -3,53 +3,53 @@
 	<row id="msg_0675_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Joey</language>
-	</row>
+	<language name="Norwegian">Joey</language></row>
 	<row id="msg_0675_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, can I get your number?\nI’ll ring you up to battle. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei, kan jeg få nummeret ditt? Jeg ringer deg for å kjempe. {YESNO 0}</language></row>
 	<row id="msg_0675_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ll ring you whenever I get the urge\nto battle!</language>
-	</row>
+	<language name="Norwegian">Jeg’ringer deg når jeg får lyst\ntil å kjempe!</language></row>
 	<row id="msg_0675_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh, all right...\nBut I won’t lose to you again!</language>
-	</row>
+	<language name="Norwegian">Å, greit...\nMen jeg vil’ikke tape mot deg igjen!</language></row>
 	<row id="msg_0675_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Can I get your phone number?\rI don’t want to lose against you!\nWe have to battle again, OK? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Kan jeg få telefonnummeret ditt? Jeg vil ikke tape mot deg! Vi må kjempe igjen, OK? {YESNO 0}</language></row>
 	<row id="msg_0675_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">And yet another loss...\nNo doubt about it--you’re tough.\rBeing beaten this often actually feels\ngood now!\rHere, take this.\nUse it to get even tougher. That will\ftoughen me up, too!\r</language>
-	</row>
+	<language name="Norwegian">Og enda et tap ...\nIngen tvil om det - du’er tøff.\rÅ bli slått så ofte føles faktisk\ngodt nå!\rHer, ta dette.\nBruk det til å bli enda tøffere. Det vil gjøre meg tøffere også!\f \r</language></row>
 	<row id="msg_0675_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, you’re nearby, aren’t you? What’s\nwith the phone call? Come talk to me!</language>
-	</row>
+	<language name="Norwegian">Hei, du er i nærheten, er du ikke? Hva er det med den telefonsamtalen? Kom og snakk med meg!</language></row>
 	<row id="msg_0675_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, do you remember my super-cool\n{STRVAR_1 0, 10, 0}?\rMy {STRVAR_1 0, 10, 0} is different from\nregular {STRVAR_1 0, 10, 0}.\rIt’s like my {STRVAR_1 0, 10, 0} is in the top\npercentage of {STRVAR_1 0, 10, 0}.\rDo you know what I’m saying?</language>
-	</row>
+	<language name="Norwegian">Hei, husker du min superkule\n{STRVAR_1 0, 10, 0}?\rMin {STRVAR_1 0, 10, 0} er forskjellig fra\nvanlig {STRVAR_1 0, 10, 0}.\rDet’er som om min {STRVAR_1 0, 10, 0} er i den øverste\nprosenten av {STRVAR_1 0, 10, 0}.\rForstår du hva jeg’siger?</language></row>
 	<row id="msg_0675_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh yeah, I took down a {STRVAR_1 0, 11, 0}\nin the wild the other day.\rIt was a cakewalk. Well, I guess it\ncan’t be helped, us being so tough.\rAll right. Later!</language>
-	</row>
+	<language name="Norwegian">Jeg tok en {STRVAR_1 0, 11, 0}\ni villmarken her om dagen. Det var en lek. Vel, jeg antar det\nkan’ikke gjøres noe med, siden vi er så tøffe.\rAlt i orden. Vi ses!</language></row>
 	<row id="msg_0675_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh yeah, I saw a wild {STRVAR_1 0, 11, 0}!\nI thought about going for it, but\fthen I failed!\rOh well. I guess that’s just the way\nit goes. I’m not very good at catching\fPokémon...</language>
-	</row>
+	<language name="Norwegian">Å ja, jeg så en vill {STRVAR_1 0, 11, 0}!\nJeg tenkte å gå for det, men\fså mislyktes jeg!\rÅh, vel. Jeg antar at’det bare er slik\ndet går. Jeg’er ikke særlig god til å fange\fPokémon...</language></row>
 	<row id="msg_0675_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Let’s get together and battle!\nI promise things will be different!\r{STRVAR_1 4, 3, 0}’s where I’ll be.\nGive me a shout when you come.\rAll right. Later!</language>
-	</row>
+	<language name="Norwegian">La oss’komme sammen og kjempe!\nJeg lover at ting vil bli annerledes!\r{STRVAR_1 4, 3, 0}’er der jeg’vil være.\nRop på meg når du kommer.\rAlt i orden. Vi ses senere!</language></row>
 	<row id="msg_0675_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s keeping you, {STRVAR_1 3, 0, 0}?\rLet’s get down and battle already!\nI’m waiting on {STRVAR_1 4, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Hva’oppholder deg, {STRVAR_1 3, 0, 0, 0}?\rLa’oss komme oss ned og kjempe! \nJeg’venter på {STRVAR_1 4, 3, 0}!</language></row>
 	<row id="msg_0675_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’m checking out {STRVAR_1 0, 10, 0}’s moves\nand devising some strategies.\rWhen I come up with a good one,\nlet’s battle!\rAll right. Later!</language>
-	</row>
+	<language name="Norwegian">Jeg’sjekker ut {STRVAR_1 0, 10, 0}’s trekk\nog tenker ut noen strategier.\rNår jeg kommer opp med en god en,\nla’s slåss!\rAlt i orden. Vi ses!</language></row>
 </body>

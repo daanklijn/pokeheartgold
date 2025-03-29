@@ -3,49 +3,49 @@
 	<row id="msg_0673_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Torin</language>
-	</row>
+	<language name="Norwegian">Torin</language></row>
 	<row id="msg_0673_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You know, I’m going to practice a whole\nbunch so we can battle again the next\ftime we meet.\rThat’s right! Give me your phone\nnumber so I can call you! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Du vet, jeg’skal øve en hel\nbunke så vi kan kjempe igjen neste\fgang vi møtes.\rDet’er riktig! Gi meg telefonnummeret ditt, så jeg kan ringe deg! {YESNO 0}</language></row>
 	<row id="msg_0673_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">All right, registration complete!\nLater!</language>
-	</row>
+	<language name="Norwegian">Registreringen er fullført!</language></row>
 	<row id="msg_0673_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">That’s too bad...</language>
-	</row>
+	<language name="Norwegian">Det er synd...</language></row>
 	<row id="msg_0673_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey! You really want to trade phone\nnumbers with me, don’t you? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Hei! Du har virkelig lyst til å bytte telefonnummer med meg, ikke sant? {YESNO 0}</language></row>
 	<row id="msg_0673_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh?\nI can hear the sound of a windmill...\rThat must mean that you’re nearby,\naren’t you?\rSo come have a proper conversation!</language>
-	</row>
+	<language name="Norwegian">Hva? \nJeg kan høre lyden av en vindmølle...\rDet må bety at du’er i nærheten,\nikke sant? \rSå kom og ha en ordentlig samtale!</language></row>
 	<row id="msg_0673_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My {STRVAR_1 0, 10, 0} works really hard!\rEverything I learn at school, it helps\nme repeat it right away.\rDo your Pokémon listen to what you say?</language>
-	</row>
+	<language name="Norwegian">Min {STRVAR_1 0, 10, 0} jobber veldig hardt!\rAlt jeg lærer på skolen, hjelper\nmeg med å gjenta det med en gang.\rHører Pokémonene dine etter hva du sier?</language></row>
 	<row id="msg_0673_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yesterday we battled a {STRVAR_1 0, 11, 0}!\rWe practiced all the stuff I learned\nin school!\rWhere do you go to school?\nSeriously, you don’t go to my school?\fThat can’t be true, can it?</language>
-	</row>
+	<language name="Norwegian">I går kjempet vi mot en {STRVAR_1 0, 11, 0}!\rVi øvde på alt det jeg lærte\npå skolen!\rHvor går du på skole?\nSeriøst, du går’ikke på min skole?\fDet kan’ikke være sant, kan det vel?</language></row>
 	<row id="msg_0673_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Recently I was trying to catch a\n{STRVAR_1 0, 11, 0}, but it ran away!\fSo disappointing!\rAnd so I don’t forget how disappointing\nit was, I’m writing down the name of the\fPokémon that got away on my notebook.\rThere’re Pokémon names all over\nmy notebook!</language>
-	</row>
+	<language name="Norwegian">Nylig prøvde jeg å fange en\n{STRVAR_1 0, 11, 0}, men den stakk av!\rOg for ikke å glemme hvor skuffende\ndet var, skrev jeg’ned navnet på\fPokémonen som stakk av i notatboken min.\rDer’er Pokémon-navn over hele\nnotatboken min!</language></row>
 	<row id="msg_0673_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, come battle me again.\nI’ll be waiting at {STRVAR_1 4, 3, 0}!</language>
-	</row>
+	<language name="Norwegian">Hei, kom og slåss mot meg igjen. \nJeg’vil vente på {STRVAR_1 4, 3, 0}!</language></row>
 	<row id="msg_0673_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hello? I’m at {STRVAR_1 4, 3, 0}. We\nwere going to battle, weren’t we?\fHurry on over!</language>
-	</row>
+	<language name="Norwegian">Hallo? Jeg er på {STRVAR_1 4, 3, 0}. Vi\nskulle til å kjempe, ikke sant?</language></row>
 	<row id="msg_0673_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh? The only time you ever see me is\nwhen I’m on my way home from school?\rI suppose you’re right...\rBut when I’m on my way to school, I’m\nalways in a rush so that I’m not late.\rI don’t have any time for Pokémon\nbattles then!</language>
-	</row>
+	<language name="Norwegian">Hva? Den eneste gangen du ser meg, er når jeg er på vei hjem fra skolen...\rJeg antar at du har rett...\rMen når jeg’er på vei til skolen, har jeg’alltid\net travelt slik at jeg’ikke kommer for sent.\rJeg har’ikke tid til Pokémon\nkamper da!</language></row>
 </body>

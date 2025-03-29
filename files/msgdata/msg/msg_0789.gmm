@@ -3,53 +3,53 @@
 	<row id="msg_0789_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">None</language>
-	</row>
+	<language name="Norwegian">Ingen</language></row>
 	<row id="msg_0789_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">East of England</language>
-	</row>
+	<language name="Norwegian">Øst-England</language></row>
 	<row id="msg_0789_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">East Midlands</language>
-	</row>
+	<language name="Norwegian">East Midlands</language></row>
 	<row id="msg_0789_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Greater London</language>
-	</row>
+	<language name="Norwegian">Stor-London</language></row>
 	<row id="msg_0789_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">North East England</language>
-	</row>
+	<language name="Norwegian">Nordøst-England</language></row>
 	<row id="msg_0789_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">North West England</language>
-	</row>
+	<language name="Norwegian">Nordvest-England</language></row>
 	<row id="msg_0789_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Northern Ireland</language>
-	</row>
+	<language name="Norwegian">Nord-Irland</language></row>
 	<row id="msg_0789_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Scotland</language>
-	</row>
+	<language name="Norwegian">Skottland</language></row>
 	<row id="msg_0789_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">South East England</language>
-	</row>
+	<language name="Norwegian">Sørøst-England</language></row>
 	<row id="msg_0789_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">South West England</language>
-	</row>
+	<language name="Norwegian">Sørvest-England</language></row>
 	<row id="msg_0789_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Wales</language>
-	</row>
+	<language name="Norwegian">Wales</language></row>
 	<row id="msg_0789_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">West Midlands</language>
-	</row>
+	<language name="Norwegian">West Midlands</language></row>
 	<row id="msg_0789_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Yorkshire and the Humber</language>
-	</row>
+	<language name="Norwegian">Yorkshire og Humber</language></row>
 </body>

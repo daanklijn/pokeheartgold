@@ -3,33 +3,33 @@
 	<row id="msg_0781_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">None</language>
-	</row>
+	<language name="Norwegian">Ingen</language></row>
 	<row id="msg_0781_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">New South Wales</language>
-	</row>
+	<language name="Norwegian">New South Wales</language></row>
 	<row id="msg_0781_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">North</language>
-	</row>
+	<language name="Norwegian">Nord</language></row>
 	<row id="msg_0781_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Queensland</language>
-	</row>
+	<language name="Norwegian">Queensland</language></row>
 	<row id="msg_0781_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">South Australia</language>
-	</row>
+	<language name="Norwegian">Sør-Australia</language></row>
 	<row id="msg_0781_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tasmania</language>
-	</row>
+	<language name="Norwegian">Tasmania</language></row>
 	<row id="msg_0781_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Victoria</language>
-	</row>
+	<language name="Norwegian">Victoria</language></row>
 	<row id="msg_0781_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Western Australia</language>
-	</row>
+	<language name="Norwegian">Vest-Australia</language></row>
 </body>

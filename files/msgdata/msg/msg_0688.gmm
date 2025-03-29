@@ -3,98 +3,98 @@
 	<row id="msg_0688_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Brent</language>
-	</row>
+	<language name="Norwegian">Brent</language></row>
 	<row id="msg_0688_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">By the way, you’re a Poké Maniac...\nI can tell. Yes, you are.\rBut your knowledge is shallow still!\rDo you know Bill?\nHe’s an incredible Poké Maniac.\fI revere him.\rI’ll teach you all I know about Bill,\nso leave me your phone number. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Forresten, du’er en Poké Maniac ...\nJeg kan fortelle. Ja, det er du.\rMen kunnskapen din er fortsatt overfladisk!\rKjenner du Bill?\nHan’er en utrolig Poké Maniac.\fJeg ærer ham.\rJeg’vil lære deg alt jeg vet om Bill,\nså gi meg telefonnummeret ditt. {YESNO 0}</language></row>
 	<row id="msg_0688_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bill--he’s more than amazing!\rTo be a Poké Maniac like him someday...\nThat’s my dream.</language>
-	</row>
+	<language name="Norwegian">Bill - han’er mer enn fantastisk!\rÅ bli en Poké Maniac som ham en dag...\nDet’er min drøm.</language></row>
 	<row id="msg_0688_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re definitely going to regret it...</language>
-	</row>
+	<language name="Norwegian">Du kommer definitivt til å angre på det...</language></row>
 	<row id="msg_0688_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ll teach you all I know about Bill,\nso leave me your phone number. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg skal lære deg alt jeg vet om Bill, så legg igjen telefonnummeret ditt. {YESNO 0}</language></row>
 	<row id="msg_0688_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English" />
 		<language name="日本語" />
-	</row>
+	<language name="Norwegian" /></row>
 	<row id="msg_0688_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Huh? Do you like to talk to\npeople nearby over the phone?\rYou know, this is how I talk to my\nmother when I’m home?</language>
-	</row>
+	<language name="Norwegian">Hva? Liker du å snakke med\nfolk i nærheten over telefonen?\rDu vet, det er slik jeg snakker med\nmoren min når jeg’er hjemme?</language></row>
 	<row id="msg_0688_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh yeah, I got an extremely rare\nPokémon in a trade a while back.\rDo you want to know what it is?\nHehe, I’m keeping it a secret!\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Å ja, jeg fikk en ekstremt sjelden Pokémon i en byttehandel for en stund siden.\rVil du vite hva det er?\nHehe, jeg’holder det hemmelig!\rSå det’er det, da.</language></row>
 	<row id="msg_0688_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh yeah, I took down this wild\n{STRVAR_1 0, 11, 0}.\rIt wasn’t rare enough to bother\ncatching.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Å ja, jeg tok ned denne ville\n{STRVAR_1 0, 11, 0}.\rDen var’ikke sjelden nok til å bry seg\nmed å fange.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Oh yeah, I saw a rare Pokémon about\nan hour ago.\rIt was my first sighting. But I\ndidn’t have any Poké Balls...\rWould Bill laugh at my mistakes?\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Å ja, jeg så en sjelden Pokémon for en time siden. Men jeg\nhadde ingen Pokéballer...\rVil Bill le av feilene mine?\rSå det’er det da.</language></row>
 	<row id="msg_0688_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nBill’s father is supposed to be a\fgreat Poké Maniac.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at...? \nBill’s far skal visstnok være en\fstor Poké Maniac.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nApparently Bill’s grandpa isn’t a\fPoké Maniac.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at...?\nBill’s bestefar er’ikke en\fPoké Maniac.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nBill’s originally from Goldenrod.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at...? Bill er opprinnelig fra Goldenrod.</language></row>
 	<row id="msg_0688_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nBill evidently lives on Route 25\fin Kanto.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at...?\nBill bor tydeligvis på Route 25\fi Kanto.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nABRA was the first Pokémon that Bill\fapparently caught.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at...?\nABRA var den første Pokémonen som Bill\f tilsynelatende fanget.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nBill’s younger sister apparently\fcan’t wink.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at\nBill’s lillesøster tydeligvis\fikke’kan blunke.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nBill supposedly hates milk and\fcan’t drink it.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at...?\nBill hater visstnok melk og\fkan’ikke drikke det.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nEvidently, Bill isn’t very good at\fbattling.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at...?\nBill er tydeligvis’ikke særlig god til\få slåss.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nBill appears to like the lady at the\fFlower Shop.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at...?\nBill ser ut til å like damen i blomsterbutikken\fSå det’er det da.</language></row>
 	<row id="msg_0688_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nBill’s mother is said to have been\fa Kimono Girl.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at\nBill’s mor sies å ha vært\fen Kimono-jente.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you know...?\nBill’s mother is said to have been\fa Kimono Girl.\rSo that’s it then.</language>
-	</row>
+	<language name="Norwegian">Visste du at\nBill’s mor sies å ha vært\fen Kimono-jente.\rSå det’er det da.</language></row>
 	<row id="msg_0688_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’ve got time like usual, right?\nFeel like having a battle?\rIt’ll be a chance to see my rare\nPokémon. It’ll be worth your time!\rYou know where--{STRVAR_1 4, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Du har tid som vanlig, ikke sant? \nHar du lyst på en kamp? \rDet’blir en sjanse til å se mine sjeldne\nPokémon. Det’vil være verdt tiden din!\rDu vet hvor--{STRVAR_1 4, 3, 0}.</language></row>
 	<row id="msg_0688_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You want to see my rare Pokémon?\nHurry over to {STRVAR_1 4, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Vil du se min sjeldne Pokémon? \nSkynd deg bort til {STRVAR_1 4, 3, 0}.</language></row>
 	<row id="msg_0688_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You wanted to hear about Bill?\rSorry, but I’m too busy for you.\rI’ll call when I have time.\nMuch thanks!</language>
-	</row>
+	<language name="Norwegian">Du ville høre om Bill? \rUnskyld, men jeg’er for opptatt for deg.\rJeg’ringer når jeg får tid.\nMye takk!</language></row>
 </body>

@@ -3,61 +3,61 @@
 	<row id="msg_0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Reese</language>
-	</row>
+	<language name="Norwegian">Reese</language></row>
 	<row id="msg_0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I wasn’t feeling my best today,\nthat’s all!\rWe should trade phone numbers,\nthen we can battle again! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg følte meg ikke’så bra i dag,\ndet’er alt! \rVi burde bytte telefonnummer,\nså kan vi kjempe igjen! {YESNO 0}</language></row>
 	<row id="msg_0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">The next time we meet, I’ll be much\nstronger, I promise!</language>
-	</row>
+	<language name="Norwegian">Neste gang vi møtes, skal jeg være mye’sterkere, det lover jeg!</language></row>
 	<row id="msg_0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You’re just gonna win and run off?\nThat’s pretty low!</language>
-	</row>
+	<language name="Norwegian">Skal du bare vinne og stikke av? Det er ganske lavt!</language></row>
 	<row id="msg_0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I wasn’t feeling my best today,\nthat’s all!\rWe should trade phone numbers,\nthen we can battle again! {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Jeg følte meg ikke’så bra i dag,\ndet’er alt! \rVi burde bytte telefonnummer,\nså kan vi kjempe igjen! {YESNO 0}</language></row>
 	<row id="msg_0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Did you come to pick up a Dusk Stone?\nThis is it...\rDon’t be shy! This is getting kind of\nawkward, so just take it already!\r</language>
-	</row>
+	<language name="Norwegian">Har du kommet for å hente en skumringsstein?\nDette er den...\rIkke vær sjenert! Dette begynner å bli litt\nvanskelig, så bare ta den!</language></row>
 	<row id="msg_0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey, now...\nAm I really that scary to you?\rYou know that I know you’re on\nCycling Road, right?\rIf you’re going to come all the way out\nhere, you might as well talk in person!</language>
-	</row>
+	<language name="Norwegian">Hei, nå...\nEr jeg virkelig så skummel for deg?\rDu vet at jeg vet at du’er på\nCycling Road, ikke sant?\rHvis du’skal komme helt ut\nher, kan du like gjerne snakke med meg ansikt til ansikt!</language></row>
 	<row id="msg_0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bwa ha ha ha!\nMy {STRVAR_1 0, 10, 0} has gotten so much\fstronger. You would be stunned to see\fit now!\rRecently, we were battling a\n{STRVAR_1 0, 11, 0} and knocked it flat--\fBOOM! Just like that!\rNothing scares us now...as long\nas they’re low-enough level!</language>
-	</row>
+	<language name="Norwegian">Bwa ha ha ha ha!\nMin {STRVAR_1 0, 10, 0} har blitt så mye\fsterkere. Du ville blitt forbløffet over å se\fden nå!\rNylig kjempet vi mot en\n{STRVAR_1 0, 11, 0} og slo den flat -\fBOOM! Bare sånn! \rIngenting skremmer oss nå ... så lenge\nde’er på et lavt nok nivå!</language></row>
 	<row id="msg_0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My {STRVAR_1 0, 10, 0} has gotten much\nstronger, but we still let a wild\f{STRVAR_1 0, 11, 0} we were battling\frun away!\rWhat, you think it got away on us?\nNo way, man! We LET it run away!</language>
-	</row>
+	<language name="Norwegian">Min {STRVAR_1 0, 10, 0} har blitt mye\nsterkere, men vi lot likevel en vill\f{STRVAR_1 0, 11, 0} som vi kjempet mot\fslippe unna!\rHva, tror du den slapp unna? Vi lot den stikke av!</language></row>
 	<row id="msg_0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Recently we found a wild {STRVAR_1 0, 11, 0}\nby the roadside!\rIt just leaped out suddenly and\nsurprised me so much that I fell over!\rDid I get hurt?\rNo--I landed on my Pokémon, and it\ncushioned my fall!</language>
-	</row>
+	<language name="Norwegian">Nylig fant vi en vill {STRVAR_1 0, 11, 0}\ni veikanten!\rDen bare hoppet ut plutselig og\noverrasket meg så mye at jeg falt overende!\rBle jeg skadet?\rNei - jeg landet på Pokémonen min, og den\ndempet fallet mitt!</language></row>
 	<row id="msg_0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whoa...\nI can’t believe how buffed up I am now.\rI’ll be showing off my moves on\n{STRVAR_1 4, 3, 0}, so come by and get\fstomped! I’ll be waiting to show you!</language>
-	</row>
+	<language name="Norwegian">Jøss...\nJeg kan’ikke fatte hvor oppjaget jeg er nå.\rJeg’vil vise frem mine moves på\n{STRVAR_1 4, 3, 0}, så kom innom og bli\fstompet! Jeg’vil vente på å vise deg!</language></row>
 	<row id="msg_0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s up with that?!\nDidn’t you say you were going to come\fout here and get schooled?!\rCome on! I’m waiting on\n{STRVAR_1 4, 3, 0}, so hurry up!</language>
-	</row>
+	<language name="Norwegian">Hva er det med det?!!!\nSa du ikke at du skulle komme\fut hit og bli opplært?!!! \rKom igjen! Jeg venter på’{STRVAR_1 4, 3, 0}, så skynd deg!</language></row>
 	<row id="msg_0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">After my Biker gang showed up on\nCycling Road, the atmosphere soured...\rAt least, that’s what some people\nhave been saying.\rWe’re not doing anything mean to\nanyone, though!\rAll we’re doing is challenging strong\nTrainers to Pokémon battles, that’s it!\rPeople like you, for example!</language>
-	</row>
+	<language name="Norwegian">Etter at MC-gjengen min dukket opp på\nSykkelveien, ble stemningen surere...\rDet er i hvert fall det’noen\nhar sagt.\rVi’gjør ikke noe slemt mot\nnoen! \rAlt vi’gjør er å utfordre sterke\ntrenere til Pokémon-kamper, det’er det! \rFolk som deg, for eksempel!</language></row>
 	<row id="msg_0701_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I was riding in the middle of the night,\nand I found this thing called a\fDusk Stone!\rYou seem like someone with a lot of\npromise, so I’d like to give it to you.\rIf you want it, I’ll be waiting on\n{STRVAR_1 4, 3, 0}.</language>
-	</row>
+	<language name="Norwegian">Jeg red midt på natten,\nog jeg fant noe som heter en\fDuskelstein!\rDu virker som en med mye\nløfter, så jeg’vil gjerne gi den til deg.\rHvis du vil ha den, venter jeg’på\n{STRVAR_1 4, 3, 0}.</language></row>
 	<row id="msg_0701_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You know, I went through a lot of\ntrouble saving you this Dusk Stone,\fand you don’t even want it!\rI’m on {STRVAR_1 4, 3, 0}, so come over\nwhenever. No... Come over now!</language>
-	</row>
+	<language name="Norwegian">Du vet, jeg har hatt mye\ntrøbbel med å redde denne skumringssteinen til deg,\fog du vil ikke’ha den engang!\rJeg’er på {STRVAR_1 4, 3, 0}, så kom over\nnår som helst. Nei... Kom over nå!</language></row>
 </body>

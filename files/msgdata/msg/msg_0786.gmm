@@ -3,73 +3,73 @@
 	<row id="msg_0786_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">None</language>
-	</row>
+	<language name="Norwegian">Ingen</language></row>
 	<row id="msg_0786_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Andalucia</language>
-	</row>
+	<language name="Norwegian">Andalucia</language></row>
 	<row id="msg_0786_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Aragon</language>
-	</row>
+	<language name="Norwegian">Aragon</language></row>
 	<row id="msg_0786_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Asturias </language>
-	</row>
+	<language name="Norwegian">Asturias</language></row>
 	<row id="msg_0786_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Islas Baleares</language>
-	</row>
+	<language name="Norwegian">Islas Baleares</language></row>
 	<row id="msg_0786_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pais Vasco</language>
-	</row>
+	<language name="Norwegian">Pais Vasco</language></row>
 	<row id="msg_0786_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Islas Canarias</language>
-	</row>
+	<language name="Norwegian">Islas Canarias</language></row>
 	<row id="msg_0786_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cantabria</language>
-	</row>
+	<language name="Norwegian">Kantabria</language></row>
 	<row id="msg_0786_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Castilla-La Mancha</language>
-	</row>
+	<language name="Norwegian">Castilla-La Mancha</language></row>
 	<row id="msg_0786_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Castilla Leon</language>
-	</row>
+	<language name="Norwegian">Castilla Leon</language></row>
 	<row id="msg_0786_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cataluna</language>
-	</row>
+	<language name="Norwegian">Cataluna</language></row>
 	<row id="msg_0786_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Extremadura</language>
-	</row>
+	<language name="Norwegian">Extremadura</language></row>
 	<row id="msg_0786_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Galicia</language>
-	</row>
+	<language name="Norwegian">Galicia</language></row>
 	<row id="msg_0786_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Madrid</language>
-	</row>
+	<language name="Norwegian">Madrid</language></row>
 	<row id="msg_0786_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Murcia</language>
-	</row>
+	<language name="Norwegian">Murcia</language></row>
 	<row id="msg_0786_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Navarra</language>
-	</row>
+	<language name="Norwegian">Navarra</language></row>
 	<row id="msg_0786_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">La Rioja</language>
-	</row>
+	<language name="Norwegian">La Rioja</language></row>
 	<row id="msg_0786_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Comunidad Valenciana </language>
-	</row>
+	<language name="Norwegian">Comunidad Valenciana</language></row>
 </body>

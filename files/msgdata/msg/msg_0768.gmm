@@ -3,13 +3,13 @@
 	<row id="msg_0768_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bonjour.</language>
-	</row>
+	<language name="Norwegian">Bonjour.</language></row>
 	<row id="msg_0768_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bonjour.</language>
-	</row>
+	<language name="Norwegian">Bonjour.</language></row>
 	<row id="msg_0768_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Bonsoir.</language>
-	</row>
+	<language name="Norwegian">Bonsoir.</language></row>
 </body>

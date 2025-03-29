@@ -3,13 +3,13 @@
 	<row id="msg_0753_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Lighting Event</language>
-	</row>
+	<language name="Norwegian">Belysningsarrangement</language></row>
 	<row id="msg_0753_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fireworks Event</language>
-	</row>
+	<language name="Norwegian">Fyrverkeriarrangement</language></row>
 	<row id="msg_0753_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Pokémon Parade</language>
-	</row>
+	<language name="Norwegian">Pokémon-parade</language></row>
 </body>

@@ -3,33 +3,33 @@
 	<row id="msg_0795_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">None</language>
-	</row>
+	<language name="Norwegian">Ingen</language></row>
 	<row id="msg_0795_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Central Federal District</language>
-	</row>
+	<language name="Norwegian">Det sentrale føderale distriktet</language></row>
 	<row id="msg_0795_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Far Eastern Federal District </language>
-	</row>
+	<language name="Norwegian">Det østlige føderale distriktet</language></row>
 	<row id="msg_0795_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Northwestern Federal District</language>
-	</row>
+	<language name="Norwegian">Nordvestlige føderale distrikt</language></row>
 	<row id="msg_0795_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Volga Federal District </language>
-	</row>
+	<language name="Norwegian">Volga føderale distrikt</language></row>
 	<row id="msg_0795_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Siberian Federal District</language>
-	</row>
+	<language name="Norwegian">Det sibirske føderale distriktet</language></row>
 	<row id="msg_0795_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Southern Federal District</language>
-	</row>
+	<language name="Norwegian">Sørlige føderale distrikt</language></row>
 	<row id="msg_0795_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Urals Federal District </language>
-	</row>
+	<language name="Norwegian">Urals føderale distrikt</language></row>
 </body>

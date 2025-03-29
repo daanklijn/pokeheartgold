@@ -3,45 +3,45 @@
 	<row id="msg_0755_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">SWALOT Plop</language>
-	</row>
+	<language name="Norwegian">SWALOT Plop</language></row>
 	<row id="msg_0755_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">MIME JR. Top</language>
-	</row>
+	<language name="Norwegian">MIME JR. Topp</language></row>
 	<row id="msg_0755_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">WOBBUFFET Pop</language>
-	</row>
+	<language name="Norwegian">WOBBUFFET Pop</language></row>
 	<row id="msg_0755_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Footprint Stamp Wht</language>
-	</row>
+	<language name="Norwegian">Fotavtrykk Stempel Wht</language></row>
 	<row id="msg_0755_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Footprint Stamp Blk</language>
-	</row>
+	<language name="Norwegian">Fotavtrykk Stempel Blk</language></row>
 	<row id="msg_0755_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Visitor Profiles</language>
-	</row>
+	<language name="Norwegian">Profiler for besøkende</language></row>
 	<row id="msg_0755_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Plaza News</language>
-	</row>
+	<language name="Norwegian">Plaza Nyheter</language></row>
 	<row id="msg_0755_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Chat</language>
-	</row>
+	<language name="Norwegian">Chat</language></row>
 	<row id="msg_0755_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tap Toys</language>
-	</row>
+	<language name="Norwegian">Tap Toys</language></row>
 	<row id="msg_0755_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tap Toy Trades</language>
-	</row>
+	<language name="Norwegian">Tap Toy Trades</language></row>
 	<row id="msg_0755_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">????</language>
-	</row>
+	<language name="Norwegian">????</language></row>
 </body>

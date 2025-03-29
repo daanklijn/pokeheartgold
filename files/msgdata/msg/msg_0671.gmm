@@ -3,65 +3,65 @@
 	<row id="msg_0671_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Jose</language>
-	</row>
+	<language name="Norwegian">Jose</language></row>
 	<row id="msg_0671_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tweet! Tweeeeeet!\rIf my FARFETCH’D sees anything pretty,\nit goes and gets it.\rDo you like pretty things?\nI could share if it gets some more.\rHow about we trade phone numbers?\nI’ll call if it finds anything. {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Tweet! Tweeeeeeeet!\rHvis min FARFETCH’D ser noe pent, \ngår den og henter det.\rLiker du pene ting?\nJeg kan dele hvis den finner noe mer.\rHva med å utveksle telefonnumre?\nJeg’ringer hvis den finner noe’. {YESNO 0}</language></row>
 	<row id="msg_0671_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I’ll call you as soon as I get\nsomething pretty.</language>
-	</row>
+	<language name="Norwegian">Jeg ringer deg så snart jeg har’noe pent.</language></row>
 	<row id="msg_0671_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You sure? Well, tell me if you change\nyour mind.</language>
-	</row>
+	<language name="Norwegian">Er du sikker? Si ifra hvis du ombestemmer deg.</language></row>
 	<row id="msg_0671_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tweet! Tweeeeeet!\nDo you like pretty things?\rI could share if FARFETCH’D goes\nand gets more.\rWill you give me your\nphone number? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Tweet! Tweeeeeet!\nLiker du pene ting?\rJeg kan dele hvis FARFETCH’D går\nog får flere.\rVil du gi meg ditt\ntelefonnummer? {YESNO 0}</language></row>
 	<row id="msg_0671_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tweet! Tweeeeeet!\rHuh?\r...Oh, I see.\nI thought you came over here because\fyou were enticed by my whistling.\rThat wasn’t it. You just came for the\nStar Piece, didn’t you? Here you go!\r</language>
-	</row>
+	<language name="Norwegian">Tweet! Tweeeeeeeet! \rHva? \r...Å, jeg skjønner.\nJeg trodde du kom hit fordi\fdu ble lokket av plystringen min.\rDet var’ikke det. Du kom bare for å få stjernestykket, ikke sant? Vær så god!</language></row>
 	<row id="msg_0671_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Tweet! Tweeeeeet!\r...Huh? Wait, don’t tell me that you’re\ncalling from nearby?\rWell, why not come a little closer and\ntalk in person!</language>
-	</row>
+	<language name="Norwegian">Tweet! Tweeeeeeeet!\r...Huh? Vent, ikke si at du’er’i nærheten? \rJa, hvorfor ikke komme litt nærmere og\nsnakke ansikt til ansikt!</language></row>
 	<row id="msg_0671_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hey listen, my {STRVAR_1 0, 10, 0}’s stalk\nhas this really delicious aroma.\rThat aroma gets my appetite going!\rBe seeing you!</language>
-	</row>
+	<language name="Norwegian">Hør her, min {STRVAR_1 0, 10, 0}’stilk\nhar en veldig deilig duft.\rDen duften får meg til å få appetitt!\rVi ses!</language></row>
 	<row id="msg_0671_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">A while ago, my FARFETCH’D knocked out\nthis {STRVAR_1 0, 11, 0}. You should have\fseen FARFETCH’D wield that stalk.\rAmazing stuff!\nBe seeing you!</language>
-	</row>
+	<language name="Norwegian">For en stund siden slo min FARFETCH’D ut\ndenne {STRVAR_1 0, 11, 0}. Du skulle ha\fsett FARFETCH’D svinge den stilken.\rFantastiske greier!\nVi ses!</language></row>
 	<row id="msg_0671_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I ran into a wild {STRVAR_1 0, 11, 0}...\rI was trying to catch it, but it took\noff faster than I thought it would.\fIt was a bit disappointing.\rBe seeing you!</language>
-	</row>
+	<language name="Norwegian">Jeg støtte på en vill {STRVAR_1 0, 11, 0}...\rJeg prøvde å fange den, men den tok\nav raskere enn jeg trodde den ville.\fDet var litt skuffende.\rVi ses!</language></row>
 	<row id="msg_0671_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Want to battle again?\rFor some reason, my FARFETCH’D is all\nworked up and raring to go.\r{STRVAR_1 4, 3, 0} is where I’m at.\nKeep an eye out for me, OK?</language>
-	</row>
+	<language name="Norwegian">Vil du slåss igjen? \rAv en eller annen grunn er min FARFETCH’D helt\noppgitt og klar til å gå.\r{STRVAR_1 4, 3, 0} er der jeg’er.\nHold utkikk etter meg, OK?</language></row>
 	<row id="msg_0671_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, could you hurry over?\nFARFETCH’D is agitated.\rIf you don’t come soon, it might smack\nme with its stalk!\r{STRVAR_1 4, 3, 0}!\nPlease come as soon as you can!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, kan du skynde deg hit?\nFARFETCH’D er urolig.\rHvis du ikke’kommer snart, kan den slå\nmeg med stilken sin!\r{STRVAR_1 4, 3, 0}!\nVær så snill å komme så fort du kan!</language></row>
 	<row id="msg_0671_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 0, 0}, could you hurry over?\nFARFETCH’D is agitated.\rIf you don’t come soon, it might smack\nme with its stalk!\r{STRVAR_1 4, 3, 0}!\nPlease come as soon as you can!</language>
-	</row>
+	<language name="Norwegian">{STRVAR_1 3, 0, 0}, kan du skynde deg hit?\nFARFETCH’D er urolig.\rHvis du ikke’kommer snart, kan den slå\nmeg med stilken sin!\r{STRVAR_1 4, 3, 0}!\nVær så snill å komme så fort du kan!</language></row>
 	<row id="msg_0671_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">I haven’t gotten what I promised\nyou yet.\rI’ll call you as soon as I get it, so\ncould you wait a little longer?</language>
-	</row>
+	<language name="Norwegian">Jeg har ikke fått det jeg lovte deg ennå, men jeg ringer deg så snart jeg har fått det, så kan du vente litt til?</language></row>
 	<row id="msg_0671_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">My FARFETCH’D had something pretty in\nits beak.\rLike I promised, you can have it.\rCatch up to me on {STRVAR_1 4, 3, 0},\nand I’ll let you have it.</language>
-	</row>
+	<language name="Norwegian">Min FARFETCH’D hadde noe pent i\nnebbet.\rSom jeg lovte, kan du få det.\rKontakt meg på {STRVAR_1 4, 3, 0},\nog jeg’skal la deg få det.</language></row>
 	<row id="msg_0671_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s wrong?\nDon’t you want this gift?\rCatch up to me on {STRVAR_1 4, 3, 0},\nand I’ll let you have it.</language>
-	</row>
+	<language name="Norwegian">Hva’er galt?\nVil du ikke ha denne gaven?\rKontakt meg på {STRVAR_1 4, 3, 0},\nog jeg’skal la deg få den.</language></row>
 </body>

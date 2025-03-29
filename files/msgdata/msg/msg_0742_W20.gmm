@@ -3,9 +3,9 @@
 	<row id="msg_0742_W20_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Seafoam Islands\r...Somebody put a notice\nunder the sign!\rThe Cinnabar Gym has moved here.\nLeader: Blaine</language>
-	</row>
+	<language name="Norwegian">Seafoam Islands\r...Noen har satt opp en beskjed\nunder skiltet!\rCinnabar Gym har flyttet hit.\nLeder: Blaine</language></row>
 	<row id="msg_0742_W20_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Seafoam Islands</language>
-	</row>
+	<language name="Norwegian">Seafoam Islands</language></row>
 </body>

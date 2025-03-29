@@ -3,17 +3,17 @@
 	<row id="msg_0726_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Battle? {YESNO 0}</language>
-	</row>
+	<language name="Norwegian">Kamp? {YESNO 0}</language></row>
 	<row id="msg_0726_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Fine--next time!</language>
-	</row>
+	<language name="Norwegian">Greit... neste gang!</language></row>
 	<row id="msg_0726_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">You got 1 Battle Point!</language>
-	</row>
+	<language name="Norwegian">Du fikk ett kamppoeng!</language></row>
 	<row id="msg_0726_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Cal</language>
-	</row>
+	<language name="Norwegian">Cal</language></row>
 </body>

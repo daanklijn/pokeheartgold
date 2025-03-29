@@ -3,41 +3,41 @@
 	<row id="msg_0765_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Have you ever seen a Pokémon movie?</language>
-	</row>
+	<language name="Norwegian">Har du noen gang sett en Pokémon-film?</language></row>
 	<row id="msg_0765_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Do you have any Pokémon plush dolls?</language>
-	</row>
+	<language name="Norwegian">Har du noen Pokémon plysjdukker?</language></row>
 	<row id="msg_0765_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What do you like most about your\nfavorite Pokémon?</language>
-	</row>
+	<language name="Norwegian">Hva liker du best med din\nfavoritt-Pokémon?</language></row>
 	<row id="msg_0765_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Have you ever received a Pokémon as\na gift in an event?</language>
-	</row>
+	<language name="Norwegian">Har du noen gang fått en Pokémon som\ngave i et arrangement?</language></row>
 	<row id="msg_0765_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">How many Pokémon games have you played\nbefore this?</language>
-	</row>
+	<language name="Norwegian">Hvor mange Pokémon-spill har du spilt\nfør dette?</language></row>
 	<row id="msg_0765_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">When did you start playing Pokémon?</language>
-	</row>
+	<language name="Norwegian">Når begynte du å spille Pokémon?</language></row>
 	<row id="msg_0765_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">If you were a Pokémon, which of these\ntypes would you like to be?</language>
-	</row>
+	<language name="Norwegian">Hvis du var en Pokémon, hvilken av disse\ntypene ville du likt å være?</language></row>
 	<row id="msg_0765_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">What’s your strategy in battle?</language>
-	</row>
+	<language name="Norwegian">Hva er strategien din i kamp?</language></row>
 	<row id="msg_0765_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Whom would you recruit into playing\nPokémon as a beginner?</language>
-	</row>
+	<language name="Norwegian">Hvem ville du rekruttere til å spille\nPokémon som nybegynner?</language></row>
 	<row id="msg_0765_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Have you ever been to a Pokémon event?</language>
-	</row>
+	<language name="Norwegian">Har du noen gang vært på et Pokémon-arrangement?</language></row>
 </body>
