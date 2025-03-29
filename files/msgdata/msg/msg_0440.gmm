@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0440_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -1014,242 +1014,242 @@
 	</row>
 	<row id="msg_0440_00253" index="253">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00254" index="254">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00255" index="255">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00256" index="256">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00257" index="257">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00258" index="258">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00259" index="259">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00260" index="260">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00261" index="261">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00262" index="262">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00263" index="263">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00264" index="264">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00265" index="265">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00266" index="266">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00267" index="267">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00268" index="268">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00269" index="269">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00270" index="270">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00271" index="271">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00272" index="272">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00273" index="273">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00274" index="274">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00275" index="275">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00276" index="276">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00277" index="277">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00278" index="278">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00279" index="279">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00280" index="280">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00281" index="281">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00282" index="282">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00283" index="283">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00284" index="284">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00285" index="285">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00286" index="286">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00287" index="287">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00288" index="288">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00289" index="289">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00290" index="290">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00291" index="291">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00292" index="292">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00293" index="293">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00294" index="294">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00295" index="295">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00296" index="296">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00297" index="297">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00298" index="298">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00299" index="299">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 	<row id="msg_0440_00300" index="300">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
-		<language name="日本語"></language>
+		<language name="English" />
+		<language name="日本語" />
 	</row>
 </body>

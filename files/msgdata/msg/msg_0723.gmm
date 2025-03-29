@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='utf-8'?>
 <body language="English">
 	<row id="msg_0723_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
@@ -3602,82 +3602,82 @@
 	</row>
 	<row id="msg_0723_00900" index="900">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="msg_0723_00901" index="901">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00902" index="902">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00903" index="903">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="msg_0723_00904" index="904">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00905" index="905">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00906" index="906">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="msg_0723_00907" index="907">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00908" index="908">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00909" index="909">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="msg_0723_00910" index="910">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00911" index="911">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00912" index="912">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="msg_0723_00913" index="913">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00914" index="914">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0723_00915" index="915">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="msg_0723_00916" index="916">
@@ -3690,7 +3690,7 @@
 	</row>
 	<row id="msg_0723_00918" index="918">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English" />
 		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
 	</row>
 	<row id="msg_0723_00919" index="919">
