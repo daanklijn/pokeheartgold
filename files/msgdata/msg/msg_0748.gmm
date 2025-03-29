@@ -107,7 +107,7 @@
 	<row id="msg_0748_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 0, 0, 0} learned how to use\n{STRVAR_1 6, 1, 0}. Great!\r</language>
-	<language name="Norwegian">{STRVAR_1 0, 0, 0} lært hvordan du bruker\n{STRVAR_1 6, 1, 0}. Flott! \r{STRVAR_1</language></row>
+	<language name="Norwegian">{STRVAR_1 0, 0, 0} lært hvordan du bruker\n{STRVAR_1 6, 1, 0}. Flott! \r</language></row>
 	<row id="msg_0748_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Well then! See you next time!</language>
